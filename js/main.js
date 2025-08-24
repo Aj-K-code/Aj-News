@@ -211,14 +211,58 @@ function renderNewsCards(stories) {
 
 
 
-// Fetch data from API
+// Fetch data from API or static JSON files
 async function fetchData(category) {
   try {
-    const response = await fetch(`${API_BASE_URL}/api/${category}`);
-    if (!response.ok) {
-      throw new Error(`API request failed with status ${response.status}`);
+    // Check if we're on GitHub Pages (production) or local server
+    const isGitHubPages = window.location.hostname.includes('github.io');
+    
+    if (isGitHubPages) {
+      // On GitHub Pages, load static JSON files directly
+      try {
+        // First, try to get the index file to see what data files are available
+        const indexResponse = await fetch('data/index.json');
+        if (indexResponse.ok) {
+          const index = await indexResponse.json();
+          
+          // Get the most recent file for this category
+          if (index[category] && index[category].length > 0) {
+            // Use the first (most recent) file in the list
+            const latestFile = index[category][0];
+            const response = await fetch(`data/${latestFile}`);
+            if (response.ok) {
+              return await response.json();
+            }
+          }
+        }
+      } catch (indexError) {
+        console.log('Could not load index file, trying direct file access');
+      }
+      
+      // Fallback: try to load today's file
+      const today = new Date();
+      const dateString = today.toISOString().split('T')[0];
+      const filePath = `data/${dateString}-${category}.json`;
+      
+      const response = await fetch(filePath);
+      if (!response.ok) {
+        // Try the test file as a last resort
+        const testResponse = await fetch(`data/test-${category}.json`);
+        if (testResponse.ok) {
+          return await testResponse.json();
+        }
+        throw new Error(`Failed to load data file for ${category}`);
+      }
+      
+      return await response.json();
+    } else {
+      // On local server, use the API
+      const response = await fetch(`${API_BASE_URL}/api/${category}`);
+      if (!response.ok) {
+        throw new Error(`API request failed with status ${response.status}`);
+      }
+      return await response.json();
     }
-    return await response.json();
   } catch (error) {
     console.error(`Error fetching ${category} news:`, error);
     // Fallback to sample data

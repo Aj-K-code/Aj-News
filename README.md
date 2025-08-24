@@ -125,6 +125,8 @@ To use the Google Gemini API for real data:
 
 ## Deployment to GitHub Pages
 
+This project is configured to automatically deploy to GitHub Pages using GitHub Actions. To set it up:
+
 1. Fork this repository or create a new repository with these files
 
 2. Go to your repository settings on GitHub
@@ -133,9 +135,11 @@ To use the Google Gemini API for real data:
 
 4. Under "Source", select "GitHub Actions"
 
-5. Push any changes to trigger the deployment workflow
+5. The deployment workflow will automatically run and deploy your site
 
 6. Your site will be available at `https://<your-username>.github.io/<repository-name>/`
+
+Note: The first deployment may take a few minutes. After that, the site will automatically update whenever you push changes to the main branch.
 
 ## Automatic Daily Updates
 
@@ -149,6 +153,7 @@ This repository includes GitHub Actions workflows that automatically fetch new n
 - Runs daily at 5:00 AM UTC (12:00 AM EST)
 - Uses the Google Gemini API to fetch healthcare and general news
 - Saves the data as JSON files in the `data/` directory
+- Automatically updates an index file to track available data files
 - Commits and pushes the updated files to your repository
 
 To enable automatic updates:
@@ -163,6 +168,7 @@ This approach ensures that:
 - All users see the same up-to-date content
 - API costs are minimized (Gemini Flash has generous free quotas)
 - The dashboard loads quickly for all users
+- The site works completely statically on GitHub Pages without any backend
 
 ## Google Gemini Prompts
 
