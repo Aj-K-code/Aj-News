@@ -22,6 +22,8 @@ genai.configure(api_key=GOOGLE_API_KEY)
 if not GOOGLE_API_KEY:
     print("WARNING: GOOGLE_API_KEY not set. Using sample data only.")
     print("To use the Google Gemini API, set the GOOGLE_API_KEY environment variable.")
+else:
+    print("GOOGLE_API_KEY is set. Will attempt to fetch real data from Google Gemini API.")
 
 # Healthcare prompt
 HEALTHCARE_PROMPT = """

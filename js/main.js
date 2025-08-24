@@ -219,54 +219,78 @@ async function fetchData(category) {
     
     if (isGitHubPages) {
       // On GitHub Pages, load static JSON files directly
+      console.log(`Fetching data for ${category} on GitHub Pages`);
+      
       try {
         // First, try to get the index file to see what data files are available
+        console.log('Loading index file to determine available data files');
         const indexResponse = await fetch('data/index.json');
         if (indexResponse.ok) {
           const index = await indexResponse.json();
+          console.log('Index file loaded:', index);
           
           // Get the most recent file for this category
           if (index[category] && index[category].length > 0) {
             // Use the first (most recent) file in the list
             const latestFile = index[category][0];
+            console.log(`Loading latest data file: ${latestFile}`);
             const response = await fetch(`data/${latestFile}`);
             if (response.ok) {
-              return await response.json();
+              const data = await response.json();
+              console.log(`Successfully loaded data from ${latestFile}:`, data);
+              return data;
+            } else {
+              console.log(`Failed to load ${latestFile}, status: ${response.status}`);
             }
+          } else {
+            console.log(`No data files found for category ${category} in index`);
           }
+        } else {
+          console.log(`Failed to load index file, status: ${indexResponse.status}`);
         }
       } catch (indexError) {
-        console.log('Could not load index file, trying direct file access');
+        console.log('Could not load index file, trying direct file access:', indexError);
       }
       
       // Fallback: try to load today's file
       const today = new Date();
       const dateString = today.toISOString().split('T')[0];
       const filePath = `data/${dateString}-${category}.json`;
+      console.log(`Trying to load today's file: ${filePath}`);
       
       const response = await fetch(filePath);
       if (!response.ok) {
+        console.log(`Failed to load today's file, trying test file`);
         // Try the test file as a last resort
         const testResponse = await fetch(`data/test-${category}.json`);
         if (testResponse.ok) {
-          return await testResponse.json();
+          const testData = await testResponse.json();
+          console.log('Loaded test data:', testData);
+          return testData;
         }
         throw new Error(`Failed to load data file for ${category}`);
       }
       
-      return await response.json();
+      const data = await response.json();
+      console.log(`Successfully loaded today's data:`, data);
+      return data;
     } else {
       // On local server, use the API
+      console.log(`Fetching data for ${category} from local API`);
       const response = await fetch(`${API_BASE_URL}/api/${category}`);
       if (!response.ok) {
         throw new Error(`API request failed with status ${response.status}`);
       }
-      return await response.json();
+      const data = await response.json();
+      console.log(`Successfully loaded data from API:`, data);
+      return data;
     }
   } catch (error) {
     console.error(`Error fetching ${category} news:`, error);
     // Fallback to sample data
-    return category === 'healthcare' ? sampleHealthcareData : sampleGeneralData;
+    const fallbackData = category === 'healthcare' ? sampleHealthcareData : sampleGeneralData;
+    console.log(`Using fallback sample data for ${category}:`, fallbackData);
+    return fallbackData;
   }
 }
 

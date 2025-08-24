@@ -24,26 +24,46 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          echo "Installed packages:"
+          pip list
+
+      - name: Check API key
+        run: |
+          if [ -z "$GOOGLE_API_KEY" ]; then
+            echo "WARNING: GOOGLE_API_KEY is not set"
+          else
+            echo "GOOGLE_API_KEY is set (length: ${#GOOGLE_API_KEY})"
+          fi
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Run backend script to fetch news data
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
+          echo "Running backend script..."
           python backend.py
+          echo "Backend script completed"
+          echo "Contents of data directory:"
+          ls -la data/
 
       - name: Update data index
         run: |
           # Create index.json with available files
-          echo "{\n  \"healthcare\": [" > data/index.json
+          echo "{
+  \"healthcare\": [" > data/index.json
           ls -1 data/*-healthcare.json | sort -r | head -n 5 | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
-          echo "  ],\n  \"general\": [" >> data/index.json
+          echo "  ],
+  \"general\": [" >> data/index.json
           ls -1 data/*-general.json | sort -r | head -n 5 | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
-          echo "  ]\n}" >> data/index.json
+          echo "  ]
+}" >> data/index.json
+          echo "Updated index.json:"
+          cat data/index.json
 
       - name: Commit and push updated files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --staged --quiet || git commit -m "Update news data ($(date +'%Y-%m-%d'))"
-          git push
+          git diff --staged --quiet || (git commit -m "Update news data ($(date +'%Y-%m-%d'))" && git push) || echo "No changes to commit"
