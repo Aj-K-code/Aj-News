@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJ's News in a Flash - Daily Briefing</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-bolt"></i> AJ's News in a Flash</h1>
+            <div class="controls">
+                <button id="health-tab" class="tab active">Healthcare</button>
+                <button id="general-tab" class="tab">General News</button>
+                <div class="date-display">
+                    <span id="current-date"></span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="weekly-highlight">
+            <h2><i class="fas fa-crown"></i> Weekly Top Story</h2>
+            <div class="weekly-card" id="weekly-card">
+                <div class="skeleton-weekly">
+                    <div class="skeleton-category"></div>
+                    <div class="skeleton-headline"></div>
+                    <div class="skeleton-summary"></div>
+                    <div class="skeleton-footer"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-header">
+            <h2>Today's Essential News <span class="subtitle">(Ranked by importance)</span></h2>
+        </section>
+
+        <section class="news-grid" id="news-grid">
+            <!-- News cards will be populated here by JavaScript -->
+            <div class="news-card skeleton">
+                <div class="skeleton-category"></div>
+                <div class="skeleton-headline"></div>
+                <div class="skeleton-summary"></div>
+                <div class="skeleton-footer"></div>
+            </div>
+            <div class="news-card skeleton">
+                <div class="skeleton-category"></div>
+                <div class="skeleton-headline"></div>
+                <div class="skeleton-summary"></div>
+                <div class="skeleton-footer"></div>
+            </div>
+            <div class="news-card skeleton">
+                <div class="skeleton-category"></div>
+                <div class="skeleton-headline"></div>
+                <div class="skeleton-summary"></div>
+                <div class="skeleton-footer"></div>
+            </div>
+        </section>
+
+        
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Updated daily at 5:00 AM</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
