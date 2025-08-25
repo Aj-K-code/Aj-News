@@ -174,6 +174,14 @@ def fetch_news_gemini(prompt, filename):
             content = content[7:]  # Remove ```json
         if content.endswith('```'):
             content = content[:-3]  # Remove ```
+            
+        # Find the first { and last } to extract only the JSON part
+        # This handles cases where Gemini adds extra text after the JSON
+        first_brace = content.find('{')
+        last_brace = content.rfind('}')
+        
+        if first_brace != -1 and last_brace != -1 and last_brace > first_brace:
+            content = content[first_brace:last_brace+1]
         
         # Parse and validate JSON
         news_data = json.loads(content)
