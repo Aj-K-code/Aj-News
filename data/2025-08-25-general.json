@@ -1,55 +1,40 @@
 {
-  "daily_take": "Test data: Major tech companies announce breakthroughs in quantum computing while global markets react to new AI regulations from leading economies.",
   "weekly_top_story": {
-    "headline": "Test Data: Breakthrough in Nuclear Fusion Energy Achieved",
-    "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
-    "source": "AP News",
+    "headline": "Scientists Achieve Room-Temperature Superconductivity",
+    "summary": "A team of scientists claims to have achieved room-temperature superconductivity, potentially revolutionizing energy transmission and various technologies.",
+    "source": "Nature",
     "importance": 5,
-    "impact_to_me": 5,
+    "impact_to_me": 4,
     "category": "Science",
-    "url": "https://www.apnews.com/fusion-energy"
+    "url": "https://www.nature.com/articles/d41586-023-03772-2"
   },
   "stories": [
     {
-      "headline": "Test Data: Quantum Supremacy Claimed by Three Major Tech Companies",
-      "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
-      "source": "The Economist",
-      "importance": 5,
-      "impact_to_me": 5,
-      "category": "Technology",
-      "url": "https://www.economist.com/quantum-supremacy"
-    },
-    {
-      "headline": "Test Data: Global AI Regulation Framework Agreed by G7 Nations",
-      "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
+      "headline": "Global Food Prices Continue to Rise, Fueling Inflation Concerns",
+      "summary": "Soaring food prices driven by climate change, conflict, and supply chain disruptions are exacerbating inflation globally and threatening food security in vulnerable regions.",
       "source": "Reuters",
-      "importance": 5,
-      "impact_to_me": 4,
-      "category": "Global",
-      "url": "https://www.reuters.com/ai-regulation"
-    },
-    {
-      "headline": "Test Data: Renewable Energy Investments Surpass Fossil Fuels for First Time",
-      "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
-      "source": "BBC",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Business",
-      "url": "https://www.bbc.com/renewable-energy"
-    }
-  ],
-  "other_news": [
-    {
-      "headline": "Test Data: Global Supply Chain Disruptions Ease as New Routes Established",
-      "summary": "International trade organizations report significant improvements in global supply chain resilience following the establishment of alternative shipping routes and digital logistics platforms.",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/supply-chain"
+      "url": "https://www.reuters.com/business/environment/global-food-prices-rise-july-un-agency-2024-07-05/"
     },
     {
-      "headline": "Test Data: Major Archaeological Discovery Rewrites Ancient Civilization Timeline",
-      "summary": "New findings in Turkey suggest a previously unknown civilization flourished 2,000 years earlier than previously thought, challenging current historical models.",
-      "source": "National Geographic",
-      "url": "https://www.nationalgeographic.com/archaeology"
+      "headline": "Major Tech Companies Announce New AI Safety Initiatives",
+      "summary": "Several leading technology firms have unveiled new safety measures for artificial intelligence, aiming to mitigate potential risks associated with rapidly advancing AI capabilities.",
+      "source": "The Verge",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Technology",
+      "url": "https://www.theverge.com/2024/7/10/24017674/ai-safety-initiatives-tech-companies-regulation"
+    },
+    {
+      "headline": "Heatwave Sweeps Across Southern Europe, Breaking Temperature Records",
+      "summary": "A prolonged heatwave is impacting Southern Europe, causing widespread health concerns, wildfires, and disrupting daily life, highlighting the effects of climate change.",
+      "source": "BBC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.bbc.com/news/world-europe-66387665"
     }
   ]
 }

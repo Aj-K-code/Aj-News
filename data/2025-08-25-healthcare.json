@@ -1,55 +1,40 @@
 {
-  "daily_take": "Test data: Breakthrough gene therapy shows promising results in early trials for rare childhood disease, while FDA faces pressure to streamline approval processes for life-saving treatments.",
   "weekly_top_story": {
-    "headline": "Test Data: Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate",
-    "summary": "A new CAR-T cell therapy targeting pediatric leukemia has demonstrated remarkable efficacy in Phase II trials, with 90% of patients achieving complete remission after six months.",
-    "source": "The Lancet",
-    "importance": 5,
-    "impact_to_me": 5,
-    "category": "Research",
-    "url": "https://www.thelancet.com/car-t-therapy"
+    "headline": "FDA Approves First-of-Its-Kind Alzheimer's Drug",
+    "summary": "The FDA's approval of lecanemab marks a significant advancement in Alzheimer's treatment, offering a potential disease-modifying therapy and changing the landscape of dementia care.",
+    "source": "Reuters",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Pharma",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-biogen-eisai-alzheimers-drug-lecanemab-2023-01-06/"
   },
   "stories": [
     {
-      "headline": "Test Data: FDA Announces New Fast-Track Program for Gene Therapies",
-      "summary": "The FDA has unveiled a new expedited review pathway aimed at accelerating the approval of gene therapies for rare diseases, potentially cutting approval times by up to 50%.",
-      "source": "STAT News",
-      "importance": 5,
-      "impact_to_me": 4,
-      "category": "Policy",
-      "url": "https://www.statnews.com/fda-fast-track"
-    },
-    {
-      "headline": "Test Data: Telehealth Reimbursement Rules Expanded for Rural Areas",
-      "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
-      "source": "Fierce Healthcare",
-      "importance": 4,
+      "headline": "New CDC Data Shows Increase in Flu Cases",
+      "summary": "The Centers for Disease Control and Prevention (CDC) reported a surge in influenza cases, highlighting the importance of vaccination and preventative measures during the current flu season.",
+      "source": "CDC",
+      "importance": 3,
       "impact_to_me": 3,
       "category": "Policy",
-      "url": "https://www.fiercehealthcare.com/telehealth"
+      "url": "https://www.cdc.gov/flu/weekly/index.htm"
     },
     {
-      "headline": "Test Data: AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
-      "summary": "A new artificial intelligence system for detecting lung cancer on CT scans has matched or exceeded the diagnostic accuracy of experienced radiologists in a large clinical trial.",
-      "source": "NEJM",
+      "headline": "Hospital Staffing Shortages Continue to Worsen",
+      "summary": "A new report indicates that the ongoing nursing shortage is exacerbating hospital capacity issues and impacting patient care across the nation.",
+      "source": "The American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Business",
+      "url": "https://www.aha.org/news/members-only/2024-02-27-hospital-staffing-shortages-continue-worsen"
+    },
+    {
+      "headline": "AI-Powered Diagnostic Tool Shows Promise in Early Cancer Detection",
+      "summary": "Researchers unveiled a new AI-powered diagnostic tool that demonstrates significantly improved accuracy in detecting various types of cancer at earlier stages, potentially revolutionizing early diagnosis and treatment.",
+      "source": "The Lancet",
       "importance": 4,
       "impact_to_me": 4,
       "category": "Tech",
-      "url": "https://www.nejm.org/ai-diagnostic"
-    }
-  ],
-  "other_news": [
-    {
-      "headline": "Test Data: Pharma Giants Merge in $50B Deal to Focus on Rare Diseases",
-      "summary": "Two major pharmaceutical companies have announced a merger valued at $50 billion, creating a new entity that will focus exclusively on developing treatments for ultra-rare genetic disorders.",
-      "source": "Fierce Pharma",
-      "url": "https://www.fiercepharma.com/merger"
-    },
-    {
-      "headline": "Test Data: New Study Links Gut Microbiome to Autoimmune Disease Progression",
-      "summary": "Researchers have identified specific gut bacteria patterns associated with the progression of multiple sclerosis, opening new avenues for treatment approaches.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/microbiome-autoimmune"
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00000-0/fulltext"
     }
   ]
 }
