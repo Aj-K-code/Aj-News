@@ -232,42 +232,57 @@ def main():
 def sample_healthcare_data():
     """Return sample healthcare data with the new structure"""
     return {
+        "daily_take": "Test data: Breakthrough gene therapy shows promising results in early trials for rare childhood disease, while FDA faces pressure to streamline approval processes for life-saving treatments.",
         "weekly_top_story": {
-            "headline": "Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate in Pediatric Leukemia",
+            "headline": "Test Data: Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate",
             "summary": "A new CAR-T cell therapy targeting pediatric leukemia has demonstrated remarkable efficacy in Phase II trials, with 90% of patients achieving complete remission after six months.",
             "source": "The Lancet",
             "importance": 5,
             "impact_to_me": 5,
             "category": "Research",
-            "url": "https://www.thelancet.com/article"
+            "url": "https://www.thelancet.com/car-t-therapy"
         },
         "stories": [
             {
-                "headline": "FDA Announces New Fast-Track Program for Gene Therapies",
+                "headline": "Test Data: FDA Announces New Fast-Track Program for Gene Therapies",
                 "summary": "The FDA has unveiled a new expedited review pathway aimed at accelerating the approval of gene therapies for rare diseases, potentially cutting approval times by up to 50%.",
                 "source": "STAT News",
-                "importance": 4,
+                "importance": 5,
                 "impact_to_me": 4,
                 "category": "Policy",
                 "url": "https://www.statnews.com/fda-fast-track"
             },
             {
-                "headline": "AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
+                "headline": "Test Data: Telehealth Reimbursement Rules Expanded for Rural Areas",
+                "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
+                "source": "Fierce Healthcare",
+                "importance": 4,
+                "impact_to_me": 3,
+                "category": "Policy",
+                "url": "https://www.fiercehealthcare.com/telehealth"
+            },
+            {
+                "headline": "Test Data: AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
                 "summary": "A new artificial intelligence system for detecting lung cancer on CT scans has matched or exceeded the diagnostic accuracy of experienced radiologists in a large clinical trial.",
                 "source": "NEJM",
                 "importance": 4,
                 "impact_to_me": 4,
                 "category": "Tech",
                 "url": "https://www.nejm.org/ai-diagnostic"
+            }
+        ],
+        "other_news": [
+            {
+                "headline": "Test Data: Pharma Giants Merge in $50B Deal to Focus on Rare Diseases",
+                "summary": "Two major pharmaceutical companies have announced a merger valued at $50 billion, creating a new entity that will focus exclusively on developing treatments for ultra-rare genetic disorders.",
+                "source": "Fierce Pharma",
+                "url": "https://www.fiercepharma.com/merger"
             },
             {
-                "headline": "Telehealth Reimbursement Rules Expanded for Rural Areas",
-                "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
-                "source": "Fierce Healthcare",
-                "importance": 3,
-                "impact_to_me": 3,
-                "category": "Policy",
-                "url": "https://www.fiercehealthcare.com/telehealth"
+                "headline": "Test Data: New Study Links Gut Microbiome to Autoimmune Disease Progression",
+                "summary": "Researchers have identified specific gut bacteria patterns associated with the progression of multiple sclerosis, opening new avenues for treatment approaches.",
+                "source": "Nature Medicine",
+                "url": "https://www.nature.com/microbiome-autoimmune"
             }
         ]
     }
@@ -275,8 +290,9 @@ def sample_healthcare_data():
 def sample_general_data():
     """Return sample general data with the new structure"""
     return {
+        "daily_take": "Test data: Major tech companies announce breakthroughs in quantum computing while global markets react to new AI regulations from leading economies.",
         "weekly_top_story": {
-            "headline": "Breakthrough in Nuclear Fusion Energy Achieved",
+            "headline": "Test Data: Breakthrough in Nuclear Fusion Energy Achieved",
             "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
             "source": "AP News",
             "importance": 5,
@@ -286,31 +302,45 @@ def sample_general_data():
         },
         "stories": [
             {
-                "headline": "Quantum Supremacy Claimed by Three Major Tech Companies",
+                "headline": "Test Data: Quantum Supremacy Claimed by Three Major Tech Companies",
                 "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
                 "source": "The Economist",
-                "importance": 4,
-                "impact_to_me": 4,
+                "importance": 5,
+                "impact_to_me": 5,
                 "category": "Technology",
                 "url": "https://www.economist.com/quantum-supremacy"
             },
             {
-                "headline": "Global AI Regulation Framework Agreed by G7 Nations",
+                "headline": "Test Data: Global AI Regulation Framework Agreed by G7 Nations",
                 "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
                 "source": "Reuters",
-                "importance": 4,
-                "impact_to_me": 3,
+                "importance": 5,
+                "impact_to_me": 4,
                 "category": "Global",
                 "url": "https://www.reuters.com/ai-regulation"
             },
             {
-                "headline": "Renewable Energy Investments Surpass Fossil Fuels for First Time",
+                "headline": "Test Data: Renewable Energy Investments Surpass Fossil Fuels for First Time",
                 "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
                 "source": "BBC",
                 "importance": 4,
-                "impact_to_me": 4,
+                "impact_to_me": 3,
                 "category": "Business",
                 "url": "https://www.bbc.com/renewable-energy"
+            }
+        ],
+        "other_news": [
+            {
+                "headline": "Test Data: Global Supply Chain Disruptions Ease as New Routes Established",
+                "summary": "International trade organizations report significant improvements in global supply chain resilience following the establishment of alternative shipping routes and digital logistics platforms.",
+                "source": "WSJ",
+                "url": "https://www.wsj.com/supply-chain"
+            },
+            {
+                "headline": "Test Data: Major Archaeological Discovery Rewrites Ancient Civilization Timeline",
+                "summary": "New findings in Turkey suggest a previously unknown civilization flourished 2,000 years earlier than previously thought, challenging current historical models.",
+                "source": "National Geographic",
+                "url": "https://www.nationalgeographic.com/archaeology"
             }
         ]
     }

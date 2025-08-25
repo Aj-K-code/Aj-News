@@ -15,6 +15,7 @@ try:
     import json
     from datetime import datetime, timedelta
     FLASK_AVAILABLE = True
+    app = Flask(__name__)
 except ImportError:
     print("Flask not available. Running in static mode only.")
     FLASK_AVAILABLE = False
@@ -78,7 +79,12 @@ def get_healthcare_news():
         if data_file and os.path.exists(data_file):
             # Load data from file
             with open(data_file, 'r') as f:
-                data = json.load(f)
+                raw_data = json.load(f)
+                # Extract the structure that the frontend expects
+                data = {
+                    "weekly_top_story": raw_data["weekly_top_story"],
+                    "stories": raw_data["stories"]
+                }
         else:
             # Fallback to sample data with new structure
             data = {
@@ -135,7 +141,12 @@ def get_general_news():
         if data_file and os.path.exists(data_file):
             # Load data from file
             with open(data_file, 'r') as f:
-                data = json.load(f)
+                raw_data = json.load(f)
+                # Extract the structure that the frontend expects
+                data = {
+                    "weekly_top_story": raw_data["weekly_top_story"],
+                    "stories": raw_data["stories"]
+                }
         else:
             # Fallback to sample data with new structure
             data = {
@@ -184,91 +195,113 @@ def get_general_news():
 
 @app.route('/api/latest')
 def get_latest_news():
-    """Get both healthcare and general news"""
+    """Get both healthcare and general news from the latest data files"""
     try:
-        # In a real implementation, you would fetch the latest data
-        # For now, we'll return sample data for both with new structure
-        healthcare_data = {
-            "weekly_top_story": {
-                "headline": "Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate in Pediatric Leukemia",
-                "summary": "A new CAR-T cell therapy targeting pediatric leukemia has demonstrated remarkable efficacy in Phase II trials, with 90% of patients achieving complete remission after six months.",
-                "source": "The Lancet",
-                "importance": 5,
-                "impact_to_me": 5,
-                "category": "Research",
-                "url": "https://www.thelancet.com/article"
-            },
-            "stories": [
-                {
-                    "headline": "FDA Announces New Fast-Track Program for Gene Therapies",
-                    "summary": "The FDA has unveiled a new expedited review pathway aimed at accelerating the approval of gene therapies for rare diseases, potentially cutting approval times by up to 50%.",
-                    "source": "STAT News",
-                    "importance": 5,
-                    "impact_to_me": 4,
-                    "category": "Policy",
-                    "url": "https://www.statnews.com/fda-fast-track"
-                },
-                {
-                    "headline": "AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
-                    "summary": "A new artificial intelligence system for detecting lung cancer on CT scans has matched or exceeded the diagnostic accuracy of experienced radiologists in a large clinical trial.",
-                    "source": "NEJM",
-                    "importance": 4,
-                    "impact_to_me": 4,
-                    "category": "Tech",
-                    "url": "https://www.nejm.org/ai-diagnostic"
-                },
-                {
-                    "headline": "Telehealth Reimbursement Rules Expanded for Rural Areas",
-                    "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
-                    "source": "Fierce Healthcare",
-                    "importance": 4,
-                    "impact_to_me": 3,
-                    "category": "Policy",
-                    "url": "https://www.fiercehealthcare.com/telehealth"
+        # Get healthcare data
+        healthcare_file = get_latest_data_file('healthcare')
+        if healthcare_file and os.path.exists(healthcare_file):
+            with open(healthcare_file, 'r') as f:
+                raw_data = json.load(f)
+                # Extract the structure that the frontend expects
+                healthcare_data = {
+                    "weekly_top_story": raw_data["weekly_top_story"],
+                    "stories": raw_data["stories"]
                 }
-            ]
-        }
-        
-        general_data = {
-            "weekly_top_story": {
-                "headline": "Breakthrough in Nuclear Fusion Energy Achieved",
-                "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
-                "source": "AP News",
-                "importance": 5,
-                "impact_to_me": 5,
-                "category": "Science",
-                "url": "https://www.apnews.com/fusion-energy"
-            },
-            "stories": [
-                {
-                    "headline": "Quantum Supremacy Claimed by Three Major Tech Companies",
-                    "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
-                    "source": "The Economist",
+        else:
+            # Fallback to sample data
+            healthcare_data = {
+                "weekly_top_story": {
+                    "headline": "Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate in Pediatric Leukemia",
+                    "summary": "A new CAR-T cell therapy targeting pediatric leukemia has demonstrated remarkable efficacy in Phase II trials, with 90% of patients achieving complete remission after six months.",
+                    "source": "The Lancet",
                     "importance": 5,
                     "impact_to_me": 5,
-                    "category": "Technology",
-                    "url": "https://www.economist.com/quantum-supremacy"
+                    "category": "Research",
+                    "url": "https://www.thelancet.com/article"
                 },
-                {
-                    "headline": "Global AI Regulation Framework Agreed by G7 Nations",
-                    "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
-                    "source": "Reuters",
-                    "importance": 5,
-                    "impact_to_me": 4,
-                    "category": "Global",
-                    "url": "https://www.reuters.com/ai-regulation"
-                },
-                {
-                    "headline": "Renewable Energy Investments Surpass Fossil Fuels for First Time",
-                    "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
-                    "source": "BBC",
-                    "importance": 4,
-                    "impact_to_me": 3,
-                    "category": "Business",
-                    "url": "https://www.bbc.com/renewable-energy"
+                "stories": [
+                    {
+                        "headline": "FDA Announces New Fast-Track Program for Gene Therapies",
+                        "summary": "The FDA has unveiled a new expedited review pathway aimed at accelerating the approval of gene therapies for rare diseases, potentially cutting approval times by up to 50%.",
+                        "source": "STAT News",
+                        "importance": 5,
+                        "impact_to_me": 4,
+                        "category": "Policy",
+                        "url": "https://www.statnews.com/fda-fast-track"
+                    },
+                    {
+                        "headline": "AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
+                        "summary": "A new artificial intelligence system for detecting lung cancer on CT scans has matched or exceeded the diagnostic accuracy of experienced radiologists in a large clinical trial.",
+                        "source": "NEJM",
+                        "importance": 4,
+                        "impact_to_me": 4,
+                        "category": "Tech",
+                        "url": "https://www.nejm.org/ai-diagnostic"
+                    },
+                    {
+                        "headline": "Telehealth Reimbursement Rules Expanded for Rural Areas",
+                        "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
+                        "source": "Fierce Healthcare",
+                        "importance": 4,
+                        "impact_to_me": 3,
+                        "category": "Policy",
+                        "url": "https://www.fiercehealthcare.com/telehealth"
+                    }
+                ]
+            }
+        
+        # Get general data
+        general_file = get_latest_data_file('general')
+        if general_file and os.path.exists(general_file):
+            with open(general_file, 'r') as f:
+                raw_data = json.load(f)
+                # Extract the structure that the frontend expects
+                general_data = {
+                    "weekly_top_story": raw_data["weekly_top_story"],
+                    "stories": raw_data["stories"]
                 }
-            ]
-        }
+        else:
+            # Fallback to sample data
+            general_data = {
+                "weekly_top_story": {
+                    "headline": "Breakthrough in Nuclear Fusion Energy Achieved",
+                    "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
+                    "source": "AP News",
+                    "importance": 5,
+                    "impact_to_me": 5,
+                    "category": "Science",
+                    "url": "https://www.apnews.com/fusion-energy"
+                },
+                "stories": [
+                    {
+                        "headline": "Quantum Supremacy Claimed by Three Major Tech Companies",
+                        "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
+                        "source": "The Economist",
+                        "importance": 5,
+                        "impact_to_me": 5,
+                        "category": "Technology",
+                        "url": "https://www.economist.com/quantum-supremacy"
+                    },
+                    {
+                        "headline": "Global AI Regulation Framework Agreed by G7 Nations",
+                        "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
+                        "source": "Reuters",
+                        "importance": 5,
+                        "impact_to_me": 4,
+                        "category": "Global",
+                        "url": "https://www.reuters.com/ai-regulation"
+                    },
+                    {
+                        "headline": "Renewable Energy Investments Surpass Fossil Fuels for First Time",
+                        "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
+                        "source": "BBC",
+                        "importance": 4,
+                        "impact_to_me": 3,
+                        "category": "Business",
+                        "url": "https://www.bbc.com/renewable-energy"
+                    }
+                ]
+            }
         
         return jsonify({
             "healthcare": healthcare_data,

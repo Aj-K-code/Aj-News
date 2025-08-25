@@ -260,13 +260,24 @@ async function fetchData(category) {
       
       const response = await fetch(filePath);
       if (!response.ok) {
-        console.log(`Failed to load today's file, trying test file`);
-        // Try the test file as a last resort
-        const testResponse = await fetch(`data/test-${category}.json`);
-        if (testResponse.ok) {
-          const testData = await testResponse.json();
-          console.log('Loaded test data:', testData);
-          return testData;
+        console.log(`Failed to load today's file, trying existing files in data directory`);
+        // Try to load the existing files we know are there
+        const fallbackFiles = [
+          `data/2025-08-23-${category}.json`,
+          `data/test-${category}.json`
+        ];
+        
+        for (const file of fallbackFiles) {
+          try {
+            const fallbackResponse = await fetch(file);
+            if (fallbackResponse.ok) {
+              const fallbackData = await fallbackResponse.json();
+              console.log(`Loaded fallback data from ${file}:`, fallbackData);
+              return fallbackData;
+            }
+          } catch (fallbackError) {
+            console.log(`Failed to load fallback file ${file}:`, fallbackError);
+          }
         }
         throw new Error(`Failed to load data file for ${category}`);
       }
