@@ -49,6 +49,7 @@ else:
 HEALTHCARE_PROMPT = """
 Act as an expert healthcare industry analyst. Generate a daily briefing for a busy healthcare professional.
 Aggregate the most significant healthcare stories from the last 24 hours and the top story from the last week.
+CRITICAL: Focus ONLY on news from the past 7 days. Do NOT include older news, even if it seems important.
 
 The output MUST be a valid JSON object with the following structure:
 {
@@ -75,7 +76,7 @@ The output MUST be a valid JSON object with the following structure:
 }
 
 Instructions:
-1. "weekly_top_story": The single most important healthcare story from the past week (can be from any time in the past 7 days)
+1. "weekly_top_story": The single most important healthcare story from the past week (must be from the last 7 days, NOT older)
 2. "stories": An array of 1-3 objects representing the most significant healthcare stories from the last 24 hours
 
 For each story in "stories":
@@ -95,15 +96,19 @@ For each story in "stories":
    * 2 - Minor relevance or indirect impact
    * 1 - Minimal professional relevance
 - "category": A single-word category from the following list: "Policy", "Pharma", "Research", "Tech", "Business"
-- "url": A URL to the original article
+- "url": A REAL, VERIFIABLE URL to the original article (NOT a placeholder)
 
-Make sure to provide valid URLs for all articles. Use your knowledge of recent healthcare news to provide accurate information.
+IMPORTANT: 
+1. All URLs must be real, working links to actual news articles published within the specified timeframes.
+2. Do NOT include news from before last week, even if it seems important (e.g., don't mention the 2023 Alzheimer's drug approval as if it's new).
+3. Focus on genuinely recent developments in healthcare.
 """
 
 # General news prompt
 GENERAL_NEWS_PROMPT = """
 Act as a world news synthesizer. Generate a daily briefing for a well-informed individual who wants to stay updated on major global developments but avoid day-to-day political drama.
 Aggregate the most significant global news stories from the last 24 hours and the top story from the last week.
+CRITICAL: Focus ONLY on news from the past 7 days. Do NOT include older news, even if it seems important.
 
 The output MUST be a valid JSON object with the following structure:
 {
@@ -130,7 +135,7 @@ The output MUST be a valid JSON object with the following structure:
 }
 
 Instructions:
-1. "weekly_top_story": The single most important global news story from the past week (can be from any time in the past 7 days)
+1. "weekly_top_story": The single most important global news story from the past week (must be from the last 7 days, NOT older)
 2. "stories": An array of 1-3 objects representing the most significant global news stories from the last 24 hours
 
 For each story in "stories":
@@ -150,9 +155,12 @@ For each story in "stories":
    * 2 - Minor relevance or indirect impact
    * 1 - Minimal personal relevance
 - "category": A single-word category from the following list: "Technology", "Business", "Science", "Global", "Culture"
-- "url": A URL to the original article
+- "url": A REAL, VERIFIABLE URL to the original article (NOT a placeholder)
 
-Make sure to provide valid URLs for all articles. Use your knowledge of recent global news to provide accurate information.
+IMPORTANT:
+1. All URLs must be real, working links to actual news articles published within the specified timeframes.
+2. Do NOT include news from before last week, even if it seems important.
+3. Focus on genuinely recent developments in global news.
 """
 
 def fetch_news_gemini(prompt, filename):
