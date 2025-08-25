@@ -1,40 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "FDA Approves First-of-Its-Kind Alzheimer's Drug",
-    "summary": "The FDA's approval of lecanemab marks a significant advancement in Alzheimer's treatment, offering a potential disease-modifying therapy and raising hopes for future treatments.",
-    "source": "The New York Times",
+    "headline": "FDA Approves New Drug for Rare Genetic Disorder",
+    "summary": "The FDA's accelerated approval of a novel gene therapy for a rare genetic disorder offers hope for affected patients and highlights advancements in targeted therapies.",
+    "source": "Reuters",
     "importance": 4,
-    "impact_to_me": 4,
+    "impact_to_me": 3,
     "category": "Pharma",
-    "url": "https://www.nytimes.com/2023/01/06/health/alzheimers-drug-fda.html"
+    "url": "https://www.reuters.com/article/us-health-fda-drug-approval-idUSKBN2X02L6"
   },
   "stories": [
     {
-      "headline": "New CDC Guidelines on Antibiotic Stewardship Released",
-      "summary": "The CDC issued updated guidelines emphasizing responsible antibiotic use to combat antimicrobial resistance, impacting prescribing practices and patient care.",
-      "source": "Centers for Disease Control and Prevention",
-      "importance": 3,
-      "impact_to_me": 3,
-      "category": "Policy",
-      "url": "https://www.cdc.gov/getsmart/healthcare-providers/antibiotic-stewardship.html"
-    },
-    {
-      "headline": "Major Hospital System Announces Merger",
-      "summary": "Two large hospital systems are merging, potentially leading to significant changes in regional healthcare access, cost, and service offerings.",
-      "source": "Modern Healthcare",
-      "importance": 3,
-      "impact_to_me": 2,
-      "category": "Business",
-      "url": "https://www.modernhealthcare.com/news/hospital-system-mergers-and-acquisitions"
-    },
-    {
-      "headline": "AI-Powered Diagnostic Tool Shows Promise in Early Cancer Detection",
-      "summary": "A new study demonstrates the potential of AI to significantly improve the accuracy and speed of cancer diagnosis, leading to earlier interventions and better patient outcomes.",
+      "headline": "New Study Links Air Pollution to Increased Risk of Heart Disease",
+      "summary": "A recent study published in the Lancet demonstrates a strong correlation between long-term exposure to air pollution and a heightened risk of cardiovascular events, underscoring the importance of environmental health.",
       "source": "The Lancet",
       "importance": 4,
       "impact_to_me": 3,
-      "category": "Tech",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02525-1/fulltext"
+      "category": "Research",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02547-X/fulltext"
+    },
+    {
+      "headline": "Hospitals Face Staffing Shortages Amidst Rising Patient Volumes",
+      "summary": "Many hospitals across the nation are struggling with severe staffing shortages, leading to increased workloads and potentially impacting patient care quality.",
+      "source": "The New York Times",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.nytimes.com/2024/07/26/us/hospital-staffing-shortages.html"
     }
   ]
 }

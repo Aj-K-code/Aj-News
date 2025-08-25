@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "Historic Climate Change Report Underscores Urgent Need for Action",
-    "summary": "A new IPCC report details the accelerating impacts of climate change, emphasizing the urgent need for drastic emissions reductions to avoid catastrophic consequences.",
-    "source": "IPCC",
+    "headline": "Scientists Achieve Room-Temperature Superconductivity",
+    "summary": "A team of scientists has reportedly achieved room-temperature superconductivity, potentially revolutionizing energy transmission and numerous technological applications.",
+    "source": "Nature",
     "importance": 5,
     "impact_to_me": 4,
     "category": "Science",
-    "url": "https://www.ipcc.ch/report/ar6/wg1/"
+    "url": "https://www.nature.com/articles/d41586-023-03515-7"
   },
   "stories": [
     {
-      "headline": "Global Chip Shortage Continues to Hamper Industries",
-      "summary": "The ongoing semiconductor shortage continues to disrupt various sectors, impacting production timelines and raising consumer prices.",
+      "headline": "Global Chip Shortage Eases, but Supply Chain Issues Remain",
+      "summary": "Easing semiconductor shortages are boosting global manufacturing, but persistent supply chain disruptions continue to affect various industries.",
       "source": "Reuters",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Business",
-      "url": "https://www.reuters.com/business/autos-transportation/global-chip-shortage-expected-persist-into-2023-2022-10-27/"
+      "url": "https://www.reuters.com/business/autos-transportation/global-chip-shortage-eased-supply-chain-problems-persist-2024-03-08/"
     },
     {
-      "headline": "Major Earthquake Strikes [Location -  replace with actual location if a significant earthquake occurs]",
-      "summary": "A powerful earthquake has struck [Location - replace with actual location if a significant earthquake occurs], causing significant damage and prompting international aid efforts.",
-      "source": "[News Source - replace with actual source, e.g., Associated Press]",
+      "headline": "AI's Impact on the Job Market Sparks Debate",
+      "summary": "The rapid advancements in artificial intelligence are fueling concerns about potential job displacement and prompting discussions on workforce adaptation strategies.",
+      "source": "BBC News",
       "importance": 4,
-      "impact_to_me": 2,
-      "category": "Global",
-      "url": "[URL - replace with actual URL if a significant earthquake occurs]"
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.bbc.com/news/technology-64969866"
     }
   ]
 }
