@@ -12,7 +12,27 @@ Requirements:
 import google.generativeai as genai
 import json
 import os
+import configparser
 from datetime import datetime
+
+def load_env_file(filepath):
+    \"\"\"Load environment variables from a .env file\"\"\"
+    if not os.path.exists(filepath):
+        return
+    
+    config = configparser.ConfigParser()
+    # Read the file as a single section
+    with open(filepath, 'r') as f:
+        config.read_string('[DEFAULT]\\n' + f.read())
+    
+    # Set environment variables if they're not already set
+    for key, value in config['DEFAULT'].items():
+        if not os.environ.get(key.upper()):
+            os.environ[key.upper()] = value
+
+# Load .env file if it exists
+env_file = os.path.join(os.path.dirname(__file__), '.env')
+load_env_file(env_file)
 
 # Configuration
 GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY', '')  # Set your API key as an environment variable
