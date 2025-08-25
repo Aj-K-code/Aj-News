@@ -1,40 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "Scientists Achieve Room-Temperature Superconductivity",
-    "summary": "A team of scientists claims to have achieved room-temperature superconductivity, potentially revolutionizing energy transmission and various technologies.",
+    "headline": "Scientists Achieve Significant Breakthrough in Fusion Energy",
+    "summary": "Researchers at the National Ignition Facility achieved sustained nuclear fusion, potentially paving the way for a clean and virtually limitless energy source.",
     "source": "Nature",
     "importance": 5,
     "impact_to_me": 4,
     "category": "Science",
-    "url": "https://www.nature.com/articles/d41586-023-03772-2"
+    "url": "https://www.nature.com/articles/d41586-023-03976-0"
   },
   "stories": [
     {
-      "headline": "Global Food Prices Continue to Rise, Fueling Inflation Concerns",
-      "summary": "Soaring food prices driven by climate change, conflict, and supply chain disruptions are exacerbating inflation globally and threatening food security in vulnerable regions.",
+      "headline": "Global Chip Shortage Eases, but Supply Chain Concerns Remain",
+      "summary": "Easing semiconductor shortages are boosting production across various industries, but vulnerabilities in global supply chains persist, highlighting the need for diversification.",
       "source": "Reuters",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Business",
-      "url": "https://www.reuters.com/business/environment/global-food-prices-rise-july-un-agency-2024-07-05/"
+      "url": "https://www.reuters.com/business/autos-transportation/global-chip-shortage-eases-supply-chain-concerns-remain-2024-01-27/"
     },
     {
-      "headline": "Major Tech Companies Announce New AI Safety Initiatives",
-      "summary": "Several leading technology firms have unveiled new safety measures for artificial intelligence, aiming to mitigate potential risks associated with rapidly advancing AI capabilities.",
-      "source": "The Verge",
+      "headline": "Rise in Global Temperatures Accelerates Sea Level Rise",
+      "summary": "New data shows a concerning acceleration in global sea level rise due to rising temperatures, threatening coastal communities worldwide.",
+      "source": "The Guardian",
       "importance": 4,
-      "impact_to_me": 2,
-      "category": "Technology",
-      "url": "https://www.theverge.com/2024/7/10/24017674/ai-safety-initiatives-tech-companies-regulation"
-    },
-    {
-      "headline": "Heatwave Sweeps Across Southern Europe, Breaking Temperature Records",
-      "summary": "A prolonged heatwave is impacting Southern Europe, causing widespread health concerns, wildfires, and disrupting daily life, highlighting the effects of climate change.",
-      "source": "BBC News",
-      "importance": 3,
-      "impact_to_me": 2,
-      "category": "Global",
-      "url": "https://www.bbc.com/news/world-europe-66387665"
+      "impact_to_me": 3,
+      "category": "Science",
+      "url": "https://www.theguardian.com/environment/2024/jan/26/global-sea-level-rise-accelerating-climate-crisis"
     }
   ]
 }
