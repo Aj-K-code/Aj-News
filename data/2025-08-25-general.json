@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
     "headline": "Scientists Achieve Room-Temperature Superconductivity",
-    "summary": "A team of scientists has reportedly achieved room-temperature superconductivity, potentially revolutionizing energy transmission and numerous technological applications.",
+    "summary": "The potential breakthrough in superconductivity at room temperature could revolutionize energy transmission and various technological sectors, significantly impacting global infrastructure and technological advancement.",
     "source": "Nature",
     "importance": 5,
     "impact_to_me": 4,
     "category": "Science",
-    "url": "https://www.nature.com/articles/d41586-023-03515-7"
+    "url": "https://www.nature.com/articles/d41586-023-03517-7"
   },
   "stories": [
     {
-      "headline": "Global Chip Shortage Eases, but Supply Chain Issues Remain",
-      "summary": "Easing semiconductor shortages are boosting global manufacturing, but persistent supply chain disruptions continue to affect various industries.",
+      "headline": "Global Chip Shortage Concerns Ease Amidst Increased Production",
+      "summary": "Easing chip shortages are signaling a potential boost to various tech-dependent industries, impacting consumer electronics, automotive production, and overall economic growth.",
       "source": "Reuters",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Business",
-      "url": "https://www.reuters.com/business/autos-transportation/global-chip-shortage-eased-supply-chain-problems-persist-2024-03-08/"
+      "url": "https://www.reuters.com/technology/global-chip-shortage-concerns-ease-amidst-increased-production-2024-03-01/"
     },
     {
-      "headline": "AI's Impact on the Job Market Sparks Debate",
-      "summary": "The rapid advancements in artificial intelligence are fueling concerns about potential job displacement and prompting discussions on workforce adaptation strategies.",
-      "source": "BBC News",
+      "headline": "New AI Model Demonstrates Advanced Reasoning Capabilities",
+      "summary": "The release of a new AI model showcasing advanced reasoning abilities could accelerate advancements in artificial intelligence and potentially impact various sectors including healthcare, finance, and automation.",
+      "source": "MIT Technology Review",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Technology",
-      "url": "https://www.bbc.com/news/technology-64969866"
+      "url": "https://www.technologyreview.com/2024/03/01/1075716/new-ai-model-reasoning-capabilities/"
     }
   ]
 }
