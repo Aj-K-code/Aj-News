@@ -1,40 +1,22 @@
 {
   "weekly_top_story": {
-    "headline": "Hospitals Brace for Rise in High-Risk Pregnancies Amid Closure of Labor Units",
-    "summary": "Hospitals and health systems are preparing for an increase in high-risk pregnancies while many labor and delivery units are shutting down, posing challenges for maternal care capacity.",
-    "source": "Becker's Hospital Review",
+    "headline": "Federal Judge Orders HHS to Stop Sharing Medicaid Enrollees\u2019 Data with Deportation Officials",
+    "summary": "A federal judge has ordered the health department to stop sharing the personal information of 79 million Medicaid enrollees with deportation officials, impacting privacy and immigration policies related to healthcare.",
+    "source": "Associated Press",
     "importance": 5,
-    "impact_to_me": 5,
+    "impact_to_me": 4,
     "category": "Policy",
-    "url": "https://www.beckershospitalreview.com"
+    "url": "https://www.apnews.com/article/judge-orders-hhs-stop-sharing-medicaid-data-79-million-enrollees-deportation-officials-714d38d12681619251646f42d6e1e5b8"
   },
   "stories": [
     {
-      "headline": "Bariatric Surgery Linked to Improved Outcomes in Obese IBD Patients",
-      "summary": "New research indicates bariatric surgery may improve disease outcomes in patients with obesity who suffer from inflammatory bowel disease, offering a potential therapeutic benefit.",
-      "source": "HealthDay",
-      "importance": 4,
-      "impact_to_me": 4,
-      "category": "Research",
-      "url": "https://consumer.healthday.com"
-    },
-    {
-      "headline": "New Coverage Guidelines Released for Home Noninvasive Ventilation in COPD Treatment",
-      "summary": "The American College of Chest Physicians issued updated coverage guidelines for the use of noninvasive ventilation at home in COPD patients, potentially impacting treatment accessibility.",
-      "source": "American College of Chest Physicians",
-      "importance": 4,
-      "impact_to_me": 4,
-      "category": "Policy",
-      "url": "https://www.chestnet.org"
-    },
-    {
-      "headline": "Paraguayan and U.S. Surgeons Collaborate to Restore Sight and Rebuild Face",
-      "summary": "Medical professionals from the U.S. and Paraguay jointly performed a complex reconstructive surgery restoring both vision and facial structure, showcasing international healthcare cooperation.",
-      "source": "U.S. Air Force Medical Service",
-      "importance": 3,
-      "impact_to_me": 3,
+      "headline": "No significant healthcare news available for the last 24 hours",
+      "summary": "There are no recent healthcare updates from the last day based on the provided search results.",
+      "source": "Perplexity Search Results",
+      "importance": 1,
+      "impact_to_me": 1,
       "category": "Business",
-      "url": "https://www.airforcemedicine.af.mil/News"
+      "url": ""
     }
   ]
 }

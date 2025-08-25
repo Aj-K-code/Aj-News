@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "U.S. President Trump Hosts Zelenskyy and European Leaders for Talks on Ending Russia's War on Ukraine",
-    "summary": "President Trump convened a high-profile meeting with Ukrainian President Volodymyr Zelenskyy and European leaders at the White House to discuss potential resolutions to Russia's ongoing invasion of Ukraine, reflecting intensified international efforts to negotiate peace amid continued conflict.",
-    "source": "CBS Evening News",
-    "importance": 5,
-    "impact_to_me": 4,
-    "category": "Global",
-    "url": "https://cbsnews.com/evening-news/full-episodes/"
+    "headline": "Air Canada Flight Attendants Defy Back-to-Work Order Amid Strike",
+    "summary": "Air Canada's flight attendants continue their strike despite a federal back-to-work order, exacerbating travel disruptions and highlighting tensions in labor relations.",
+    "source": "Global News",
+    "importance": 4,
+    "impact_to_me": 3,
+    "category": "Business",
+    "url": "https://globalnews.ca/news/11338990/air-canada-strike-continues/"
   },
   "stories": [
     {
-      "headline": "U.S. Military Deploys Over 4,000 Troops and Naval Assets to Southern Caribbean Targeting Drug Cartels",
-      "summary": "The U.S. has expanded its military presence in the southern Caribbean with thousands of troops, a nuclear-powered submarine, and multiple warships under a secret directive aimed at combating drug cartels in Latin America, signaling escalating regional security operations.",
-      "source": "Democracy Now",
+      "headline": "U.S. Military Deployments in the Southern Caribbean",
+      "summary": "The U.S. military is deploying over 4,000 troops to the southern Caribbean, along with naval and air assets, under a mandate to target drug cartels in the region.",
+      "source": "Democracy Now!",
       "importance": 4,
-      "impact_to_me": 3,
+      "impact_to_me": 2,
       "category": "Global",
       "url": "https://www.democracynow.org/2025/8/18/headlines"
     },
     {
-      "headline": "Climate Change-Induced Flash Floods Kill Over 300 in Northwestern Pakistan and Kashmir",
-      "summary": "Severe flash floods linked to climate change have caused at least 337 deaths and significant destruction in parts of Pakistan and Kashmir, highlighting the escalating human toll and urgent need for climate adaptation in vulnerable regions.",
-      "source": "Democracy Now",
-      "importance": 4,
+      "headline": "Zelenskyy Meets with Trump and European Leaders at the White House",
+      "summary": "Ukrainian President Volodymyr Zelenskyy met with U.S. President Trump and European leaders to discuss ending the conflict in Ukraine, following a failed peace summit with Putin.",
+      "source": "CBS Evening News",
+      "importance": 5,
       "impact_to_me": 4,
-      "category": "Science",
-      "url": "https://www.democracynow.org/2025/8/18/headlines"
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=YCdyPFkY470"
     }
   ]
 }
