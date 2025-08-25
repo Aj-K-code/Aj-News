@@ -1,55 +1,31 @@
 {
-  "daily_take": "Test data: Major tech companies announce breakthroughs in quantum computing while global markets react to new AI regulations from leading economies.",
   "weekly_top_story": {
-    "headline": "Test Data: Breakthrough in Nuclear Fusion Energy Achieved",
-    "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
-    "source": "AP News",
+    "headline": "U.S. President Trump Hosts Zelenskyy and European Leaders for Talks on Ending Russia's War on Ukraine",
+    "summary": "President Trump convened a high-profile meeting with Ukrainian President Volodymyr Zelenskyy and European leaders at the White House to discuss potential resolutions to Russia's ongoing invasion of Ukraine, reflecting intensified international efforts to negotiate peace amid continued conflict.",
+    "source": "CBS Evening News",
     "importance": 5,
-    "impact_to_me": 5,
-    "category": "Science",
-    "url": "https://www.apnews.com/fusion-energy"
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://cbsnews.com/evening-news/full-episodes/"
   },
   "stories": [
     {
-      "headline": "Test Data: Quantum Supremacy Claimed by Three Major Tech Companies",
-      "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
-      "source": "The Economist",
-      "importance": 5,
-      "impact_to_me": 5,
-      "category": "Technology",
-      "url": "https://www.economist.com/quantum-supremacy"
-    },
-    {
-      "headline": "Test Data: Global AI Regulation Framework Agreed by G7 Nations",
-      "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
-      "source": "Reuters",
-      "importance": 5,
-      "impact_to_me": 4,
-      "category": "Global",
-      "url": "https://www.reuters.com/ai-regulation"
-    },
-    {
-      "headline": "Test Data: Renewable Energy Investments Surpass Fossil Fuels for First Time",
-      "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
-      "source": "BBC",
+      "headline": "U.S. Military Deploys Over 4,000 Troops and Naval Assets to Southern Caribbean Targeting Drug Cartels",
+      "summary": "The U.S. has expanded its military presence in the southern Caribbean with thousands of troops, a nuclear-powered submarine, and multiple warships under a secret directive aimed at combating drug cartels in Latin America, signaling escalating regional security operations.",
+      "source": "Democracy Now",
       "importance": 4,
       "impact_to_me": 3,
-      "category": "Business",
-      "url": "https://www.bbc.com/renewable-energy"
-    }
-  ],
-  "other_news": [
-    {
-      "headline": "Test Data: Global Supply Chain Disruptions Ease as New Routes Established",
-      "summary": "International trade organizations report significant improvements in global supply chain resilience following the establishment of alternative shipping routes and digital logistics platforms.",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/supply-chain"
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/8/18/headlines"
     },
     {
-      "headline": "Test Data: Major Archaeological Discovery Rewrites Ancient Civilization Timeline",
-      "summary": "New findings in Turkey suggest a previously unknown civilization flourished 2,000 years earlier than previously thought, challenging current historical models.",
-      "source": "National Geographic",
-      "url": "https://www.nationalgeographic.com/archaeology"
+      "headline": "Climate Change-Induced Flash Floods Kill Over 300 in Northwestern Pakistan and Kashmir",
+      "summary": "Severe flash floods linked to climate change have caused at least 337 deaths and significant destruction in parts of Pakistan and Kashmir, highlighting the escalating human toll and urgent need for climate adaptation in vulnerable regions.",
+      "source": "Democracy Now",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Science",
+      "url": "https://www.democracynow.org/2025/8/18/headlines"
     }
   ]
 }

@@ -1,55 +1,40 @@
 {
-  "daily_take": "Test data: Breakthrough gene therapy shows promising results in early trials for rare childhood disease, while FDA faces pressure to streamline approval processes for life-saving treatments.",
   "weekly_top_story": {
-    "headline": "Test Data: Revolutionary CAR-T Cell Therapy Shows 90% Remission Rate",
-    "summary": "A new CAR-T cell therapy targeting pediatric leukemia has demonstrated remarkable efficacy in Phase II trials, with 90% of patients achieving complete remission after six months.",
-    "source": "The Lancet",
+    "headline": "Hospitals Brace for Rise in High-Risk Pregnancies Amid Closure of Labor Units",
+    "summary": "Hospitals and health systems are preparing for an increase in high-risk pregnancies while many labor and delivery units are shutting down, posing challenges for maternal care capacity.",
+    "source": "Becker's Hospital Review",
     "importance": 5,
     "impact_to_me": 5,
-    "category": "Research",
-    "url": "https://www.thelancet.com/car-t-therapy"
+    "category": "Policy",
+    "url": "https://www.beckershospitalreview.com"
   },
   "stories": [
     {
-      "headline": "Test Data: FDA Announces New Fast-Track Program for Gene Therapies",
-      "summary": "The FDA has unveiled a new expedited review pathway aimed at accelerating the approval of gene therapies for rare diseases, potentially cutting approval times by up to 50%.",
-      "source": "STAT News",
-      "importance": 5,
+      "headline": "Bariatric Surgery Linked to Improved Outcomes in Obese IBD Patients",
+      "summary": "New research indicates bariatric surgery may improve disease outcomes in patients with obesity who suffer from inflammatory bowel disease, offering a potential therapeutic benefit.",
+      "source": "HealthDay",
+      "importance": 4,
       "impact_to_me": 4,
-      "category": "Policy",
-      "url": "https://www.statnews.com/fda-fast-track"
+      "category": "Research",
+      "url": "https://consumer.healthday.com"
     },
     {
-      "headline": "Test Data: Telehealth Reimbursement Rules Expanded for Rural Areas",
-      "summary": "CMS has expanded Medicare reimbursement for telehealth services in rural communities, removing geographic restrictions that previously limited access to virtual care.",
-      "source": "Fierce Healthcare",
+      "headline": "New Coverage Guidelines Released for Home Noninvasive Ventilation in COPD Treatment",
+      "summary": "The American College of Chest Physicians issued updated coverage guidelines for the use of noninvasive ventilation at home in COPD patients, potentially impacting treatment accessibility.",
+      "source": "American College of Chest Physicians",
       "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.chestnet.org"
+    },
+    {
+      "headline": "Paraguayan and U.S. Surgeons Collaborate to Restore Sight and Rebuild Face",
+      "summary": "Medical professionals from the U.S. and Paraguay jointly performed a complex reconstructive surgery restoring both vision and facial structure, showcasing international healthcare cooperation.",
+      "source": "U.S. Air Force Medical Service",
+      "importance": 3,
       "impact_to_me": 3,
-      "category": "Policy",
-      "url": "https://www.fiercehealthcare.com/telehealth"
-    },
-    {
-      "headline": "Test Data: AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
-      "summary": "A new artificial intelligence system for detecting lung cancer on CT scans has matched or exceeded the diagnostic accuracy of experienced radiologists in a large clinical trial.",
-      "source": "NEJM",
-      "importance": 4,
-      "impact_to_me": 4,
-      "category": "Tech",
-      "url": "https://www.nejm.org/ai-diagnostic"
-    }
-  ],
-  "other_news": [
-    {
-      "headline": "Test Data: Pharma Giants Merge in $50B Deal to Focus on Rare Diseases",
-      "summary": "Two major pharmaceutical companies have announced a merger valued at $50 billion, creating a new entity that will focus exclusively on developing treatments for ultra-rare genetic disorders.",
-      "source": "Fierce Pharma",
-      "url": "https://www.fiercepharma.com/merger"
-    },
-    {
-      "headline": "Test Data: New Study Links Gut Microbiome to Autoimmune Disease Progression",
-      "summary": "Researchers have identified specific gut bacteria patterns associated with the progression of multiple sclerosis, opening new avenues for treatment approaches.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/microbiome-autoimmune"
+      "category": "Business",
+      "url": "https://www.airforcemedicine.af.mil/News"
     }
   ]
 }
