@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "FDA Approves New Drug for Rare Genetic Disorder",
-    "summary": "The FDA's accelerated approval of a novel gene therapy for a rare genetic disorder offers hope for affected patients and highlights advancements in targeted therapies.",
+    "headline": "FDA Approves New Biosimilar for Rheumatoid Arthritis",
+    "summary": "The FDA's approval of a new biosimilar for rheumatoid arthritis expands treatment options and could increase affordability, impacting patient access and treatment strategies.",
     "source": "Reuters",
     "importance": 4,
     "impact_to_me": 3,
     "category": "Pharma",
-    "url": "https://www.reuters.com/article/us-health-fda-drug-approval-idUSKBN2X02L6"
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-new-biosimilar-rheumatoid-arthritis-2024-10-27"
   },
   "stories": [
     {
-      "headline": "New Study Links Air Pollution to Increased Risk of Heart Disease",
-      "summary": "A recent study published in the Lancet demonstrates a strong correlation between long-term exposure to air pollution and a heightened risk of cardiovascular events, underscoring the importance of environmental health.",
+      "headline": "Study Links Air Pollution to Increased Risk of Dementia",
+      "summary": "A new study published in the Lancet reveals a significant correlation between long-term exposure to air pollution and the increased risk of developing dementia, highlighting environmental health concerns.",
       "source": "The Lancet",
       "importance": 4,
       "impact_to_me": 3,
       "category": "Research",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02547-X/fulltext"
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02472-2/fulltext"
     },
     {
-      "headline": "Hospitals Face Staffing Shortages Amidst Rising Patient Volumes",
-      "summary": "Many hospitals across the nation are struggling with severe staffing shortages, leading to increased workloads and potentially impacting patient care quality.",
-      "source": "The New York Times",
-      "importance": 3,
+      "headline": "New AI Tool Improves Diagnostic Accuracy in Breast Cancer Detection",
+      "summary": "Researchers have developed an AI-powered tool that shows improved accuracy in detecting breast cancer from mammograms, potentially leading to earlier diagnosis and improved patient outcomes.",
+      "source": "Medical News Today",
+      "importance": 4,
       "impact_to_me": 4,
-      "category": "Business",
-      "url": "https://www.nytimes.com/2024/07/26/us/hospital-staffing-shortages.html"
+      "category": "Tech",
+      "url": "https://www.medicalnewstoday.com/articles/ai-tool-improves-breast-cancer-diagnosis"
     }
   ]
 }
