@@ -1,19 +1,10 @@
-{\n  "healthcare": [
-    "test-healthcare.json",
+{
+  "healthcare": [
     "2025-08-25-healthcare.json",
     "2025-08-23-healthcare.json"
-  ],\n  "general": [
-    "test-general.json",
+  ],
+  "general": [
     "2025-08-25-general.json",
     "2025-08-23-general.json"
-  ]\n}
-    "2025-08-25-healthcare.json",
-    "2025-08-23-healthcare.json"
-    "2025-08-25-general.json",
-    "2025-08-23-general.json"
-}
-    "2025-08-25-healthcare.json",
-    "2025-08-23-healthcare.json"
-    "2025-08-25-general.json",
-    "2025-08-23-general.json"
+  ]
 }

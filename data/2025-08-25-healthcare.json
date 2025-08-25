@@ -1,22 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "Federal Judge Orders HHS to Stop Sharing Medicaid Enrollees\u2019 Data with Deportation Officials",
-    "summary": "A federal judge has ordered the health department to stop sharing the personal information of 79 million Medicaid enrollees with deportation officials, impacting privacy and immigration policies related to healthcare.",
-    "source": "Associated Press",
+    "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced a new oversight program to enhance verification of citizenship and immigration status for individuals enrolled in Medicaid and CHIP, aiming to reduce improper payments and increase program integrity.",
+    "source": "Alston & Bird LLP",
     "importance": 5,
-    "impact_to_me": 4,
+    "impact_to_me": 5,
     "category": "Policy",
-    "url": "https://www.apnews.com/article/judge-orders-hhs-stop-sharing-medicaid-data-79-million-enrollees-deportation-officials-714d38d12681619251646f42d6e1e5b8"
+    "url": "https://www.alston.com/en/insights/publications/2025/08/health-care-week-in-review-august-22-2025"
   },
   "stories": [
     {
-      "headline": "No significant healthcare news available for the last 24 hours",
-      "summary": "There are no recent healthcare updates from the last day based on the provided search results.",
-      "source": "Perplexity Search Results",
-      "importance": 1,
-      "impact_to_me": 1,
-      "category": "Business",
-      "url": ""
+      "headline": "Bariatric Surgery Linked to Improved IBD Outcomes in Patients With Obesity",
+      "summary": "A recent study found that bariatric surgery can improve inflammatory bowel disease (IBD) outcomes in patients with obesity, providing a potential new treatment avenue for this high-risk group.",
+      "source": "HealthDay",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.nhms.org/news/august-2025-health-news-roundup"
+    },
+    {
+      "headline": "Federal Judge Orders Halt to Health Department Sharing Medicaid Enrollee Data With Deportation Officials",
+      "summary": "A federal judge ruled that the health department must stop giving deportation officials access to personal information of all 79 million Medicaid enrollees, protecting patient privacy and trust.",
+      "source": "Associated Press",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://heal-ca.org/weekly-news-roundup-for-aug-18-2025/"
     }
   ]
 }
