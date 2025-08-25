@@ -63,14 +63,11 @@ jobs:
       - name: Update data index
         run: |
           # Create index.json with available files
-          echo "{
-  \"healthcare\": [" > data/index.json
+          echo "{\n  \"healthcare\": [" > data/index.json
           ls -1 data/*-healthcare.json | sort -r | head -n 5 | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
-          echo "  ],
-  \"general\": [" >> data/index.json
+          echo "  ],\n  \"general\": [" >> data/index.json
           ls -1 data/*-general.json | sort -r | head -n 5 | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
-          echo "  ]
-}" >> data/index.json
+          echo "  ]\n}" >> data/index.json
           echo "Updated index.json:"
           cat data/index.json
 
