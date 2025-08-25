@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
     "headline": "Scientists Achieve Room-Temperature Superconductivity",
-    "summary": "The potential breakthrough in superconductivity at room temperature could revolutionize energy transmission and various technological sectors, significantly impacting global infrastructure and technological advancement.",
+    "summary": "A team of scientists claim to have achieved room-temperature superconductivity, potentially revolutionizing energy transmission and other technologies.",
     "source": "Nature",
     "importance": 5,
     "impact_to_me": 4,
     "category": "Science",
-    "url": "https://www.nature.com/articles/d41586-023-03517-7"
+    "url": "https://www.nature.com/articles/d41586-023-03517-6"
   },
   "stories": [
     {
-      "headline": "Global Chip Shortage Concerns Ease Amidst Increased Production",
-      "summary": "Easing chip shortages are signaling a potential boost to various tech-dependent industries, impacting consumer electronics, automotive production, and overall economic growth.",
+      "headline": "Global Chip Shortage Concerns Ease Slightly",
+      "summary": "Reports suggest that the global semiconductor shortage is easing, potentially leading to lower prices for electronics and increased production.",
       "source": "Reuters",
-      "importance": 4,
-      "impact_to_me": 3,
-      "category": "Business",
-      "url": "https://www.reuters.com/technology/global-chip-shortage-concerns-ease-amidst-increased-production-2024-03-01/"
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Technology",
+      "url": "https://www.reuters.com/technology/global-chip-shortage-concerns-ease-slightly-2024-03-01/"
     },
     {
-      "headline": "New AI Model Demonstrates Advanced Reasoning Capabilities",
-      "summary": "The release of a new AI model showcasing advanced reasoning abilities could accelerate advancements in artificial intelligence and potentially impact various sectors including healthcare, finance, and automation.",
-      "source": "MIT Technology Review",
-      "importance": 4,
-      "impact_to_me": 3,
-      "category": "Technology",
-      "url": "https://www.technologyreview.com/2024/03/01/1075716/new-ai-model-reasoning-capabilities/"
+      "headline": "Record-breaking heatwave hits Europe",
+      "summary": "Unusually high temperatures are affecting parts of Southern Europe causing wildfires and health concerns.",
+      "source": "BBC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.bbc.com/news/world-europe-65377242"
     }
   ]
 }

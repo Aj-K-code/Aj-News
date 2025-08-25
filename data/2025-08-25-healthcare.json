@@ -1,31 +1,31 @@
 {
   "weekly_top_story": {
-    "headline": "FDA Approves New Biosimilar for Rheumatoid Arthritis",
-    "summary": "The FDA's approval of a new biosimilar for rheumatoid arthritis expands treatment options and could increase affordability, impacting patient access and treatment strategies.",
+    "headline": "FDA Approves First-of-Its-Kind Treatment for Rare Genetic Disease",
+    "summary": "The FDA's approval of a novel gene therapy marks a significant advancement in treating a previously incurable genetic disorder, offering hope to affected patients and families.",
     "source": "Reuters",
-    "importance": 4,
+    "importance": 5,
     "impact_to_me": 3,
     "category": "Pharma",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-new-biosimilar-rheumatoid-arthritis-2024-10-27"
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-first-of-its-kind-treatment-rare-genetic-disease-2024-10-27"
   },
   "stories": [
     {
-      "headline": "Study Links Air Pollution to Increased Risk of Dementia",
-      "summary": "A new study published in the Lancet reveals a significant correlation between long-term exposure to air pollution and the increased risk of developing dementia, highlighting environmental health concerns.",
+      "headline": "New Study Highlights Potential Link Between Air Pollution and Asthma Exacerbations",
+      "summary": "Research published in the Lancet reveals a strong correlation between increased air pollution levels and a rise in asthma-related hospital admissions, underscoring the need for stricter environmental regulations.",
       "source": "The Lancet",
       "importance": 4,
-      "impact_to_me": 3,
+      "impact_to_me": 4,
       "category": "Research",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02472-2/fulltext"
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02467-2/fulltext"
     },
     {
-      "headline": "New AI Tool Improves Diagnostic Accuracy in Breast Cancer Detection",
-      "summary": "Researchers have developed an AI-powered tool that shows improved accuracy in detecting breast cancer from mammograms, potentially leading to earlier diagnosis and improved patient outcomes.",
-      "source": "Medical News Today",
-      "importance": 4,
+      "headline": "CMS Proposes Changes to Medicare Advantage Plans for 2025",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) announced proposed changes to Medicare Advantage plans for 2025, impacting provider reimbursements and patient access to certain services.",
+      "source": "Healthcare Dive",
+      "importance": 3,
       "impact_to_me": 4,
-      "category": "Tech",
-      "url": "https://www.medicalnewstoday.com/articles/ai-tool-improves-breast-cancer-diagnosis"
+      "category": "Policy",
+      "url": "https://www.healthcaredive.com/news/cms-proposes-changes-to-medicare-advantage-plans-for-2025/690707/"
     }
   ]
 }
