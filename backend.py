@@ -1,15 +1,15 @@
 """
 News Dashboard Backend Script
 
-This script fetches news data from Google Gemini API and stores it for the dashboard.
+This script fetches news data from Perplexity API and stores it for the dashboard.
 Schedule this to run daily (e.g., using cron) to keep your dashboard updated.
 
 Requirements:
 - Python 3.6+
-- google-generativeai library (pip install google-generativeai)
+- requests library (pip install requests)
 """
 
-import google.generativeai as genai
+import requests
 import json
 import os
 import configparser
@@ -23,7 +23,7 @@ def load_env_file(filepath):
     config = configparser.ConfigParser()
     # Read the file as a single section
     with open(filepath, 'r') as f:
-        config.read_string('[DEFAULT]\\n' + f.read())
+        config.read_string('[DEFAULT]\n' + f.read())
     
     # Set environment variables if they're not already set
     for key, value in config['DEFAULT'].items():
@@ -35,21 +35,20 @@ env_file = os.path.join(os.path.dirname(__file__), '.env')
 load_env_file(env_file)
 
 # Configuration
-GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY', '')  # Set your API key as an environment variable
-genai.configure(api_key=GOOGLE_API_KEY)
+PERPLEXITY_API_KEY = os.environ.get('PERPLEXITY_API_KEY', '')  # Set your API key as an environment variable
 
 # Check if API key is set
-if not GOOGLE_API_KEY:
-    print("WARNING: GOOGLE_API_KEY not set. Using sample data only.")
-    print("To use the Google Gemini API, set the GOOGLE_API_KEY environment variable.")
+if not PERPLEXITY_API_KEY:
+    print("WARNING: PERPLEXITY_API_KEY not set. Using sample data only.")
+    print("To use the Perplexity API, set the PERPLEXITY_API_KEY environment variable.")
 else:
-    print("GOOGLE_API_KEY is set. Will attempt to fetch real data from Google Gemini API.")
+    print("PERPLEXITY_API_KEY is set. Will attempt to fetch real data from Perplexity API.")
 
 # Healthcare prompt
 HEALTHCARE_PROMPT = """
 Act as an expert healthcare industry analyst. Generate a daily briefing for a busy healthcare professional.
 Aggregate the most significant healthcare stories from the last 24 hours and the top story from the last week.
-CRITICAL: Focus ONLY on news from the past 7 days. Do NOT include older news, even if it seems important.
+CRITICAL: Focus ONLY on news from the last 7 days. Search for genuinely recent developments in healthcare.
 
 The output MUST be a valid JSON object with the following structure:
 {
@@ -100,15 +99,16 @@ For each story in "stories":
 
 IMPORTANT: 
 1. All URLs must be real, working links to actual news articles published within the specified timeframes.
-2. Do NOT include news from before last week, even if it seems important (e.g., don't mention the 2023 Alzheimer's drug approval as if it's new).
+2. Do NOT include news from before last week, even if it seems important.
 3. Focus on genuinely recent developments in healthcare.
+4. Use the Perplexity API to search for and verify current news stories.
 """
 
 # General news prompt
 GENERAL_NEWS_PROMPT = """
 Act as a world news synthesizer. Generate a daily briefing for a well-informed individual who wants to stay updated on major global developments but avoid day-to-day political drama.
 Aggregate the most significant global news stories from the last 24 hours and the top story from the last week.
-CRITICAL: Focus ONLY on news from the past 7 days. Do NOT include older news, even if it seems important.
+CRITICAL: Focus ONLY on news from the last 7 days. Search for genuinely recent developments in global news.
 
 The output MUST be a valid JSON object with the following structure:
 {
@@ -161,30 +161,51 @@ IMPORTANT:
 1. All URLs must be real, working links to actual news articles published within the specified timeframes.
 2. Do NOT include news from before last week, even if it seems important.
 3. Focus on genuinely recent developments in global news.
+4. Use the Perplexity API to search for and verify current news stories.
 """
 
-def fetch_news_gemini(prompt, filename):
-    """Fetch news from Google Gemini API and save to file"""
+def fetch_news_perplexity(prompt, filename):
+    """Fetch news from Perplexity API and save to file"""
     # If no API key, return None to use sample data
-    if not GOOGLE_API_KEY:
+    if not PERPLEXITY_API_KEY:
         return None
     
     try:
-        print(f"Fetching data from Google Gemini API...")
-        model = genai.GenerativeModel('gemini-1.5-flash-latest')
-        response = model.generate_content(prompt)
+        print(f"Fetching data from Perplexity API...")
+        
+        # Perplexity API endpoint
+        url = "https://api.perplexity.ai/chat/completions"
+        
+        # Headers
+        headers = {
+            "Authorization": f"Bearer {PERPLEXITY_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        # Data payload
+        data = {
+            "model": "sonar",  # Using the Sonar model
+            "messages": [
+                {"role": "system", "content": "You are a helpful assistant that finds and summarizes current news."},
+                {"role": "user", "content": prompt}
+            ]
+        }
+        
+        # Make the API request
+        response = requests.post(url, headers=headers, json=data)
+        response.raise_for_status()  # Raise an exception for bad status codes
         
         # Extract and parse JSON
-        content = response.text
+        content = response.json()["choices"][0]["message"]["content"]
         
-        # Parse JSON (Gemini sometimes includes markdown formatting)
+        # Parse JSON (Perplexity sometimes includes markdown formatting)
         if content.startswith('```json'):
             content = content[7:]  # Remove ```json
         if content.endswith('```'):
             content = content[:-3]  # Remove ```
             
         # Find the first { and last } to extract only the JSON part
-        # This handles cases where Gemini adds extra text after the JSON
+        # This handles cases where Perplexity adds extra text after the JSON
         first_brace = content.find('{')
         last_brace = content.rfind('}')
         
@@ -222,7 +243,7 @@ def main():
     # Fetch healthcare news
     print("Fetching healthcare news...")
     healthcare_file = f"data/{today}-healthcare.json"
-    healthcare_data = fetch_news_gemini(HEALTHCARE_PROMPT, healthcare_file)
+    healthcare_data = fetch_news_perplexity(HEALTHCARE_PROMPT, healthcare_file)
     
     # If API call failed, save sample data
     if healthcare_data is None:
@@ -234,7 +255,7 @@ def main():
     # Fetch general news
     print("Fetching general news...")
     general_file = f"data/{today}-general.json"
-    general_data = fetch_news_gemini(GENERAL_NEWS_PROMPT, general_file)
+    general_data = fetch_news_perplexity(GENERAL_NEWS_PROMPT, general_file)
     
     # If API call failed, save sample data
     if general_data is None:

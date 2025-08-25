@@ -29,21 +29,21 @@ jobs:
 
       - name: Check API key
         run: |
-          if [ -z "$GOOGLE_API_KEY" ]; then
-            echo "WARNING: GOOGLE_API_KEY is not set"
+          if [ -z "$PERPLEXITY_API_KEY" ]; then
+            echo "WARNING: PERPLEXITY_API_KEY is not set"
           else
-            echo "GOOGLE_API_KEY is set (length: ${#GOOGLE_API_KEY})"
+            echo "PERPLEXITY_API_KEY is set (length: ${#PERPLEXITY_API_KEY})"
             # Show first 5 and last 5 characters for verification (without revealing the full key)
-            echo "Key preview: ${GOOGLE_API_KEY:0:5}...${GOOGLE_API_KEY: -5}"
+            echo "Key preview: ${PERPLEXITY_API_KEY:0:5}...${PERPLEXITY_API_KEY: -5}"
           fi
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
 
       - name: Test API key connection
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
-          if [ -z "$GOOGLE_API_KEY" ]; then
+          if [ -z "$PERPLEXITY_API_KEY" ]; then
             echo "Skipping API test - no key available"
           else
             echo "Testing API key..."
@@ -52,7 +52,7 @@ jobs:
 
       - name: Run backend script to fetch news data
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
           echo "Running backend script..."
           python backend.py
@@ -81,14 +81,7 @@ jobs:
             basename "$file" | sed 's/.*/    "&",/' >> data/index.json
           done
           # Remove trailing comma from last entry
-          if [ -s data/index.json ] && tail -1 data/index.json | grep -q ',
-
-      - name: Commit and push updated files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          git diff --staged --quiet || (git commit -m "Update news data ($(date +'%Y-%m-%d'))" && git push) || echo "No changes to commit"; then
+          if [ -s data/index.json ] && tail -1 data/index.json | grep -q ',$'; then
             sed -i '$ s/,$//' data/index.json
           fi
           echo "  ],
@@ -98,14 +91,7 @@ jobs:
             basename "$file" | sed 's/.*/    "&",/' >> data/index.json
           done
           # Remove trailing comma from last entry
-          if [ -s data/index.json ] && tail -1 data/index.json | grep -q ',
-
-      - name: Commit and push updated files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add data/
-          git diff --staged --quiet || (git commit -m "Update news data ($(date +'%Y-%m-%d'))" && git push) || echo "No changes to commit"; then
+          if [ -s data/index.json ] && tail -1 data/index.json | grep -q ',$'; then
             sed -i '$ s/,$//' data/index.json
           fi
           echo "  ]
