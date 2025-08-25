@@ -1,55 +1,31 @@
 {
-  "daily_take": "Test data: Major tech companies announce breakthroughs in quantum computing while global markets react to new AI regulations from leading economies.",
   "weekly_top_story": {
-    "headline": "Test Data: Breakthrough in Nuclear Fusion Energy Achieved",
-    "summary": "Scientists at a major research facility have achieved a net energy gain in nuclear fusion, bringing humanity one step closer to unlimited clean energy.",
-    "source": "AP News",
-    "importance": 5,
-    "impact_to_me": 5,
-    "category": "Science",
-    "url": "https://www.apnews.com/fusion-energy"
+    "headline": "Air Canada Flight Attendants Defy Back-to-Work Order Amid Strike",
+    "summary": "Air Canada's flight attendants continue their strike despite a federal back-to-work order, exacerbating travel disruptions and highlighting tensions in labor relations.",
+    "source": "Global News",
+    "importance": 4,
+    "impact_to_me": 3,
+    "category": "Business",
+    "url": "https://globalnews.ca/news/11338990/air-canada-strike-continues/"
   },
   "stories": [
     {
-      "headline": "Test Data: Quantum Supremacy Claimed by Three Major Tech Companies",
-      "summary": "Google, IBM, and a leading Chinese tech firm have simultaneously announced they've achieved quantum supremacy, solving complex problems in minutes that would take traditional supercomputers millennia.",
-      "source": "The Economist",
-      "importance": 5,
-      "impact_to_me": 5,
-      "category": "Technology",
-      "url": "https://www.economist.com/quantum-supremacy"
+      "headline": "U.S. Military Deployments in the Southern Caribbean",
+      "summary": "The U.S. military is deploying over 4,000 troops to the southern Caribbean, along with naval and air assets, under a mandate to target drug cartels in the region.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/8/18/headlines"
     },
     {
-      "headline": "Test Data: Global AI Regulation Framework Agreed by G7 Nations",
-      "summary": "G7 countries have reached a preliminary agreement on a unified framework for AI governance, establishing new standards for transparency and safety in artificial intelligence development.",
-      "source": "Reuters",
+      "headline": "Zelenskyy Meets with Trump and European Leaders at the White House",
+      "summary": "Ukrainian President Volodymyr Zelenskyy met with U.S. President Trump and European leaders to discuss ending the conflict in Ukraine, following a failed peace summit with Putin.",
+      "source": "CBS Evening News",
       "importance": 5,
       "impact_to_me": 4,
       "category": "Global",
-      "url": "https://www.reuters.com/ai-regulation"
-    },
-    {
-      "headline": "Test Data: Renewable Energy Investments Surpass Fossil Fuels for First Time",
-      "summary": "Global investment in renewable energy projects has exceeded fossil fuel investments for the first time in history, signaling a major shift in the energy sector's trajectory.",
-      "source": "BBC",
-      "importance": 4,
-      "impact_to_me": 3,
-      "category": "Business",
-      "url": "https://www.bbc.com/renewable-energy"
-    }
-  ],
-  "other_news": [
-    {
-      "headline": "Test Data: Global Supply Chain Disruptions Ease as New Routes Established",
-      "summary": "International trade organizations report significant improvements in global supply chain resilience following the establishment of alternative shipping routes and digital logistics platforms.",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/supply-chain"
-    },
-    {
-      "headline": "Test Data: Major Archaeological Discovery Rewrites Ancient Civilization Timeline",
-      "summary": "New findings in Turkey suggest a previously unknown civilization flourished 2,000 years earlier than previously thought, challenging current historical models.",
-      "source": "National Geographic",
-      "url": "https://www.nationalgeographic.com/archaeology"
+      "url": "https://www.youtube.com/watch?v=YCdyPFkY470"
     }
   ]
 }
