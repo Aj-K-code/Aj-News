@@ -16,7 +16,7 @@ import configparser
 from datetime import datetime
 
 def load_env_file(filepath):
-    \"\"\"Load environment variables from a .env file\"\"\"
+    """Load environment variables from a .env file"""
     if not os.path.exists(filepath):
         return
     
