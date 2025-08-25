@@ -74,31 +74,21 @@ jobs:
       - name: Update data index
         run: |
           # Create index.json with available files (excluding test files and prioritizing newest)
-          echo "{"
-          echo "  \"healthcare\": ["
+          echo "{" > data/index.json
+          echo "  \"healthcare\": [" >> data/index.json
           # List all healthcare files, exclude test/sample files, sort by date (newest first), take top 5
-          for file in $(ls -1 data/*-healthcare.json 2>/dev/null | grep -v test | grep -v sample | sort -r | head -n 5); do
-            basename "$file" | sed 's/.*/    "&",/' >> temp_index.json
-          done
-          # Remove trailing comma from last entry
-          if [ -s temp_index.json ] && tail -1 temp_index.json | grep -q ',$'; then
-            sed -i '$ s/,$//' temp_index.json
+          FILES=$(ls -1 data/*-healthcare.json 2>/dev/null | grep -v test | grep -v sample | sort -r | head -n 5)
+          if [ -n "$FILES" ]; then
+            echo "$FILES" | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
           fi
-          cat temp_index.json >> data/index.json
-          rm -f temp_index.json
-          echo "  ],"
-          echo "  \"general\": ["
+          echo "  ]," >> data/index.json
+          echo "  \"general\": [" >> data/index.json
           # List all general files, exclude test/sample files, sort by date (newest first), take top 5
-          for file in $(ls -1 data/*-general.json 2>/dev/null | grep -v test | grep -v sample | sort -r | head -n 5); do
-            basename "$file" | sed 's/.*/    "&",/' >> temp_index.json
-          done
-          # Remove trailing comma from last entry
-          if [ -s temp_index.json ] && tail -1 temp_index.json | grep -q ',$'; then
-            sed -i '$ s/,$//' temp_index.json
+          FILES=$(ls -1 data/*-general.json 2>/dev/null | grep -v test | grep -v sample | sort -r | head -n 5)
+          if [ -n "$FILES" ]; then
+            echo "$FILES" | sed 's/data\///' | sed 's/.*/    "&",/' | sed '$ s/,$//' >> data/index.json
           fi
-          cat temp_index.json >> data/index.json
-          rm -f temp_index.json
-          echo "  ]"
+          echo "  ]" >> data/index.json
           echo "}" >> data/index.json
           echo "Updated index.json:"
           cat data/index.json
