@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Israeli Airstrike on Gaza Hospital Kills at Least 20, Including 5 Journalists",
+    "summary": "An Israeli strike on a hospital in Gaza city resulted in the deaths of at least 20 people, including five journalists, prompting strong international condemnation and calls for accountability amid ongoing conflict in the region.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/un-slams-shocking-global-inaction-after-israeli-strike-on-gaza-hospital-4359872"
+  },
+  "stories": [
+    {
+      "headline": "South Korean President Proposes Meeting Between Trump and Kim Jong Un This Year",
+      "summary": "South Korea's President Lee Jae Myung proposed a summit between US President Donald Trump and North Korean leader Kim Jong Un in 2025, aiming to revive diplomacy and reduce regional tensions.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/south-korean-president-proposes-trump-kim-summit-this-year-4359898"
+    },
+    {
+      "headline": "US Issues Notice to India Ahead of Trump's 50% Tariff Deadline",
+      "summary": "The United States warned India regarding impending trade tariffs set to take effect under President Trump's directive, signaling potential economic repercussions and pressure on bilateral trade relations.",
+      "source": "Hindustan Times",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.hindustantimes.com/business/us-issues-warning-to-india-ahead-of-trump-s-50-tariff-deadline-101756175312345.html"
+    }
+  ]
+}

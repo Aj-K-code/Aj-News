@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Citizenship and Immigration Status Verification Initiative for Medicaid and CHIP Enrollment",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) launched a new initiative to verify citizenship and immigration status of individuals enrolled in Medicaid and CHIP, aiming to improve program integrity and reduce improper payments.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/08/health-care-week-in-review-august-22-2025"
+  },
+  "stories": [
+    {
+      "headline": "FDA Approves First-Ever Glucose Monitoring System for Weight Loss",
+      "summary": "The FDA approved Signos' glucose monitoring system specifically designed to aid weight loss, marking a significant innovation in diabetes and metabolic health management.",
+      "source": "CNBC",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.cnbc.com/2025/08/21/fda-approves-signos-glucose-monitoring-system-for-weight-loss.html"
+    },
+    {
+      "headline": "New American Heart Association and ACC Guidelines Recommend Earlier Treatment of High Blood Pressure to Prevent Cognitive Decline",
+      "summary": "The American Heart Association and American College of Cardiology released updated guidelines advocating for earlier intervention in high blood pressure patients to reduce risks of dementia and cardiovascular disease.",
+      "source": "American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://www.aha.org/news/2025-08-14-new-aaha-acc-guidelines-high-blood-pressure-prevention"
+    },
+    {
+      "headline": "Riverside Medical Center Earns National Recognition for Lifesaving Heart Attack Care",
+      "summary": "Riverside Medical Center received the American College of Cardiology\u2019s Platinum Performance Achievement Award recognizing its excellence in acute cardiac care delivery.",
+      "source": "Riverside Healthcare",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.team-iha.org/news/2025/08/04/riverside-medical-center-national-recognition-heart-attack-care"
+    }
+  ]
+}
