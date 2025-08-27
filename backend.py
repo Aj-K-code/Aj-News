@@ -76,7 +76,7 @@ The output MUST be a valid JSON object with the following structure:
 
 Instructions:
 1. "weekly_top_story": The single most important healthcare story from the past week (must be from the last 7 days, NOT older)
-2. "stories": An array of 1-3 objects representing the most significant healthcare stories from the last 24 hours
+2. "stories": An array of 1-3 objects representing the most significant healthcare stories from the last 24 hours ONLY
 
 For each story in "stories":
 - "headline": The original story headline
@@ -102,6 +102,8 @@ IMPORTANT:
 2. Do NOT include news from before last week, even if it seems important.
 3. Focus on genuinely recent developments in healthcare.
 4. Use the Perplexity API to search for and verify current news stories.
+5. CRITICAL: The "stories" section MUST ONLY include news from the LAST 24 HOURS. This is for the DAILY section.
+6. The "weekly_top_story" can be from the last 7 days.
 """
 
 # General news prompt
@@ -136,7 +138,7 @@ The output MUST be a valid JSON object with the following structure:
 
 Instructions:
 1. "weekly_top_story": The single most important global news story from the past week (must be from the last 7 days, NOT older)
-2. "stories": An array of 1-3 objects representing the most significant global news stories from the last 24 hours
+2. "stories": An array of 1-3 objects representing the most significant global news stories from the last 24 hours ONLY
 
 For each story in "stories":
 - "headline": The original story headline
@@ -162,6 +164,8 @@ IMPORTANT:
 2. Do NOT include news from before last week, even if it seems important.
 3. Focus on genuinely recent developments in global news.
 4. Use the Perplexity API to search for and verify current news stories.
+5. CRITICAL: The "stories" section MUST ONLY include news from the LAST 24 HOURS. This is for the DAILY section.
+6. The "weekly_top_story" can be from the last 7 days.
 """
 
 def fetch_news_perplexity(prompt, filename):

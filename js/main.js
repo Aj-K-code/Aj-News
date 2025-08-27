@@ -211,6 +211,22 @@ function renderNewsCards(stories) {
 
 
 
+// Helper function to check if a date string is within the last 24 hours
+function isWithinLast24Hours(dateString) {
+  const fileDate = new Date(dateString);
+  const now = new Date();
+  const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+  return fileDate >= twentyFourHoursAgo;
+}
+
+// Helper function to check if a date string is within the last 7 days (for weekly)
+function isWithinLastWeek(dateString) {
+  const fileDate = new Date(dateString);
+  const now = new Date();
+  const oneWeekAgo = new Date(now.getTime() - (7 * 24 * 60 * 60 * 1000));
+  return fileDate >= oneWeekAgo;
+}
+
 // Fetch data from API or static JSON files
 async function fetchData(category) {
   try {
@@ -229,18 +245,29 @@ async function fetchData(category) {
           const index = await indexResponse.json();
           console.log('Index file loaded:', index);
           
-          // Get the most recent file for this category
+          // Get files within the last 24 hours for daily news
           if (index[category] && index[category].length > 0) {
-            // Use the first (most recent) file in the list
-            const latestFile = index[category][0];
-            console.log(`Loading latest data file: ${latestFile}`);
-            const response = await fetch(`data/${latestFile}`);
-            if (response.ok) {
-              const data = await response.json();
-              console.log(`Successfully loaded data from ${latestFile}:`, data);
-              return data;
+            // Filter files to only include those from the last 24 hours for daily news
+            const recentFiles = index[category].filter(filename => {
+              // Extract date from filename (format: YYYY-MM-DD-category.json)
+              const datePart = filename.split('-').slice(0, 3).join('-');
+              return isWithinLast24Hours(datePart);
+            });
+            
+            // Use the most recent file that's within 24 hours
+            if (recentFiles.length > 0) {
+              const latestFile = recentFiles[0];
+              console.log(`Loading latest data file within 24 hours: ${latestFile}`);
+              const response = await fetch(`data/${latestFile}`);
+              if (response.ok) {
+                const data = await response.json();
+                console.log(`Successfully loaded data from ${latestFile}:`, data);
+                return data;
+              } else {
+                console.log(`Failed to load ${latestFile}, status: ${response.status}`);
+              }
             } else {
-              console.log(`Failed to load ${latestFile}, status: ${response.status}`);
+              console.log(`No recent files (within 24 hours) found for category ${category}`);
             }
           } else {
             console.log(`No data files found for category ${category} in index`);
@@ -263,22 +290,46 @@ async function fetchData(category) {
         console.log(`Failed to load today's file, trying existing files in data directory`);
         // Try to load the existing files we know are there
         const fallbackFiles = [
-          `data/2025-08-23-${category}.json`,
-          `data/test-${category}.json`
+          `data/2025-08-27-${category}.json`, // Most recent valid file
+          `data/2025-08-26-${category}.json`,
+          `data/2025-08-25-${category}.json`
         ];
         
         for (const file of fallbackFiles) {
           try {
-            const fallbackResponse = await fetch(file);
-            if (fallbackResponse.ok) {
-              const fallbackData = await fallbackResponse.json();
-              console.log(`Loaded fallback data from ${file}:`, fallbackData);
-              return fallbackData;
+            // Check if the file date is within the last 24 hours
+            const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
+            if (isWithinLast24Hours(datePart)) {
+              const fallbackResponse = await fetch(file);
+              if (fallbackResponse.ok) {
+                const fallbackData = await fallbackResponse.json();
+                console.log(`Loaded fallback data from ${file}:`, fallbackData);
+                return fallbackData;
+              }
             }
           } catch (fallbackError) {
             console.log(`Failed to load fallback file ${file}:`, fallbackError);
           }
         }
+        
+        // If no files within 24 hours, try to load the most recent file (for weekly data)
+        // but make sure it's within the last week
+        for (const file of fallbackFiles) {
+          try {
+            const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
+            if (isWithinLastWeek(datePart)) {
+              const fallbackResponse = await fetch(file);
+              if (fallbackResponse.ok) {
+                const fallbackData = await fallbackResponse.json();
+                console.log(`Loaded weekly fallback data from ${file}:`, fallbackData);
+                return fallbackData;
+              }
+            }
+          } catch (fallbackError) {
+            console.log(`Failed to load weekly fallback file ${file}:`, fallbackError);
+          }
+        }
+        
         throw new Error(`Failed to load data file for ${category}`);
       }
       
