@@ -1,6 +1,32 @@
 # AJ's News in a Flash - Daily Briefing
 
+<p align="center">
+  <a href="https://aj-k-code.github.io/Aj-News/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Site-red?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aj-k-code.github.io/Aj-News/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20CLICK%20HERE%20TO%20VIEW%20LIVE%20SITE%20%E2%9A%A1-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Click here to view live site">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aj-k-code.github.io/Aj-News/">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20VIEW%20LIVE%20DEMO%20%E2%9A%A1-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Demo">
+  </a>
+</p>
+
+---
+
 A modern, minimalist dashboard that delivers the most important news in under 60 seconds - personalized for AJ. This project provides a clean interface for viewing curated healthcare and general news with visual indicators for importance and personal impact.
+
+## 🔗 Live Demo
+
+**View the live site:** [https://aj-k-code.github.io/Aj-News/](https://aj-k-code.github.io/Aj-News/)
+
+> ⚡ **Note:** The site updates daily with fresh news content at 5:00 AM UTC
 
 ## Features
 
