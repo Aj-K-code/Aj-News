@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Department of Health and Human Services to Reinstate Task Force on Safer Childhood Vaccines",
+    "summary": "The HHS announced it will reinstate a federal panel to provide oversight on pediatric vaccines, reinforcing the safety and monitoring of childhood immunizations.",
+    "source": "American Hospital Association",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.aha.org/news"
+  },
+  "stories": [
+    {
+      "headline": "Health Resources and Services Administration awards $15 million in grants to 58 rural health organizations",
+      "summary": "HRSA distributed over $15 million in grants supporting rural health projects, aiming to improve healthcare accessibility and infrastructure in underserved rural areas.",
+      "source": "American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news"
+    },
+    {
+      "headline": "New Coverage Guidelines Released for Noninvasive Ventilation at Home for COPD Patients",
+      "summary": "American College of Chest Physicians issued new guidelines to expand insurance coverage for home noninvasive ventilation in COPD treatment, potentially improving patient outcomes and care at home.",
+      "source": "New Hampshire Medical Society",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.nhms.org/news/august-2025-health-news-roundup"
+    }
+  ]
+}
