@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel Prepares Gaza City Invasion Amid Ongoing Conflict and Hostage Crisis",
+    "summary": "Israeli Prime Minister Netanyahu announced plans to take over Gaza City, calling up tens of thousands of reservists and rejoining talks with Hamas to release hostages, signaling a critical phase in the Israel-Gaza conflict with broad regional and humanitarian implications.",
+    "source": "PBS NewsHour",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.pbs.org/newshour/show/israel-rejoins-talks-with-hamas-plans-gaza-city-invasion"
+  },
+  "stories": [
+    {
+      "headline": "Microsoft Employees Protest Company\u2019s Work with Israeli Military at Washington HQ",
+      "summary": "Eighteen people were arrested during a protest at Microsoft\u2019s headquarters, organized by workers opposing the company\u2019s AI and cloud technology support for the Israeli military in Gaza, highlighting corporate activism intersecting with international conflict concerns.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.democracynow.org/2025/8/21/headlines"
+    }
+  ]
+}

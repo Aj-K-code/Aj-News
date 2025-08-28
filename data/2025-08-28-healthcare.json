@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Suspends Valneva\u2019s Chikungunya Vaccine License Over Serious Adverse Events",
+    "summary": "The FDA has suspended the license of Valneva\u2019s chikungunya vaccine after reports of serious side effects, highlighting ongoing challenges in vaccine safety monitoring.",
+    "source": "Becker's Hospital Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.beckershospitalreview.com/pharma-and-life-science/fda-suspends-chikungunya-vaccine-over-side-effects.html"
+  },
+  "stories": [
+    {
+      "headline": "Boston Scientific Recalls Carotid Wallstent Monorail Endoprosthesis Over Injury Risk",
+      "summary": "Boston Scientific issued a recall for its vascular stent due to a manufacturing defect that may cause resistance when withdrawing the device, posing patient injury risk.",
+      "source": "Becker's Hospital Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.beckershospitalreview.com/device-recalls/boston-scientific-recalls-vascular-stent-over-injury-risk.html"
+    },
+    {
+      "headline": "FDA Advisory Panel to Meet August 25 on Hospital Outpatient Payment Classification",
+      "summary": "CMS Advisory Panel on Hospital Outpatient Payment will convene to advise on the clinical integrity of Ambulatory Payment Classification groups, impacting reimbursement policies.",
+      "source": "Safety Net Alliance",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-august-21/"
+    }
+  ]
+}
