@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced a new initiative focused on verifying the citizenship and immigration status of individuals enrolled in Medicaid and the Children\u2019s Health Insurance Program to strengthen program integrity and eligibility enforcement, marking a significant shift in policy oversight.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/08/health-care-week-in-review-august-22-2025"
+  },
+  "stories": [
+    {
+      "headline": "Federal Judge Blocks Medicaid Funding Cuts Targeting Nonprofit Healthcare Providers",
+      "summary": "A federal court halted enforcement of a provision reducing Medicaid payments to nonprofit organizations that provide reproductive and other healthcare services, citing constitutional issues including protections against punitive legislation, affecting funding stability for these providers.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/07/holland-knight-health-dose-july-29-2025"
+    },
+    {
+      "headline": "Blue Cross Blue Shield\u2019s $2.8 Billion Antitrust Settlement Approved",
+      "summary": "A federal judge approved a $2.8 billion settlement between Blue Cross Blue Shield and healthcare providers to resolve antitrust allegations, expected to reshape competitive practices and impact provider reimbursements across the healthcare market.",
+      "source": "Modern Healthcare",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-friday-aug-22-2025/"
+    }
+  ]
+}
