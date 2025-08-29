@@ -146,13 +146,17 @@ function generateImpactBar(rating) {
 
 // Render weekly top story
 function renderWeeklyStory(story) {
+  console.log('Rendering weekly story:', story);
   // Ensure URL is properly formatted and encoded
   let url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+  console.log('Original URL:', url);
   // Handle Unicode characters in URLs
   url = url.replace(/\\u[\dA-F]{4}/gi, (match) => {
     return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
   });
+  console.log('URL after Unicode handling:', url);
   const encodedUrl = encodeURI(url);
+  console.log('Encoded URL:', encodedUrl);
   
   weeklyCard.innerHTML = `
     <span class="category-tag category-${story.category}">${story.category}</span>
@@ -180,6 +184,7 @@ function renderWeeklyStory(story) {
 
 // Render news cards (top 3 daily stories)
 function renderNewsCards(stories) {
+  console.log('Rendering news cards:', stories);
   // Clear existing content but keep skeleton loaders for a moment
   setTimeout(() => {
     newsGrid.innerHTML = '';
@@ -187,13 +192,17 @@ function renderNewsCards(stories) {
     stories.forEach((story, index) => {
       // Add delay to create staggered animation effect
       setTimeout(() => {
+        console.log('Rendering story:', story);
         // Ensure URL is properly formatted and encoded
         let url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+        console.log('Original URL:', url);
         // Handle Unicode characters in URLs
         url = url.replace(/\\u[\dA-F]{4}/gi, (match) => {
           return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
         });
+        console.log('URL after Unicode handling:', url);
         const encodedUrl = encodeURI(url);
+        console.log('Encoded URL:', encodedUrl);
         
         const card = document.createElement('article');
         card.className = 'news-card';
@@ -229,9 +238,13 @@ function renderNewsCards(stories) {
 
 // Helper function to check if a date string is within the last 24 hours
 function isWithinLast24Hours(dateString) {
+  console.log('Checking if date is within last 24 hours:', dateString);
   const fileDate = new Date(dateString);
   const now = new Date();
   const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+  console.log('File date:', fileDate);
+  console.log('24 hours ago:', twentyFourHoursAgo);
+  console.log('Is within 24 hours:', fileDate >= twentyFourHoursAgo);
   return fileDate >= twentyFourHoursAgo;
 }
 
@@ -248,6 +261,7 @@ async function fetchData(category) {
   try {
     // Check if we're on GitHub Pages (production) or local server
     const isGitHubPages = window.location.hostname.includes('github.io');
+    console.log('Running on GitHub Pages:', isGitHubPages);
     
     if (isGitHubPages) {
       // On GitHub Pages, load static JSON files directly
@@ -267,8 +281,10 @@ async function fetchData(category) {
             const recentFiles = index[category].filter(filename => {
               // Extract date from filename (format: YYYY-MM-DD-category.json)
               const datePart = filename.split('-').slice(0, 3).join('-');
+              console.log('Checking file date:', datePart);
               return isWithinLast24Hours(datePart);
             });
+            console.log('Recent files:', recentFiles);
             
             // Use the most recent file that's within 24 hours
             if (recentFiles.length > 0) {
@@ -315,6 +331,7 @@ async function fetchData(category) {
           try {
             // Check if the file date is within the last 24 hours
             const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
+            console.log('Checking fallback file date:', datePart);
             if (isWithinLast24Hours(datePart)) {
               const fallbackResponse = await fetch(file);
               if (fallbackResponse.ok) {
@@ -333,6 +350,7 @@ async function fetchData(category) {
         for (const file of fallbackFiles) {
           try {
             const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
+            console.log('Checking weekly fallback file date:', datePart);
             if (isWithinLastWeek(datePart)) {
               const fallbackResponse = await fetch(file);
               if (fallbackResponse.ok) {
