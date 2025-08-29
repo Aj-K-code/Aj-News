@@ -28,15 +28,12 @@ body {
   color: var(--text-dark);
   min-height: 100vh;
   padding-bottom: 1rem;
-  overflow-y: hidden; /* Prevent scrolling */
 }
 
 .container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-  max-height: 95vh;
-  overflow: hidden;
 }
 
 header {
@@ -98,8 +95,6 @@ header h1 i {
 
 main {
   margin-top: 1rem;
-  max-height: 85vh;
-  overflow-y: auto;
   padding-right: 0.5rem;
 }
 

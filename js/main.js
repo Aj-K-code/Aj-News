@@ -12,7 +12,7 @@ const sampleHealthcareData = {
     "importance": 5, // Reserved for major breakthroughs like this
     "impact_to_me": 5, // Direct impact on healthcare professionals
     "category": "Research",
-    "url": "https://www.thelancet.com/article"
+    "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00123-4/fulltext"
   },
   "stories": [
     {
@@ -22,7 +22,7 @@ const sampleHealthcareData = {
       "importance": 4, // Significant but not world-changing
       "impact_to_me": 4, // Important for healthcare professionals
       "category": "Policy",
-      "url": "https://www.statnews.com/fda-fast-track"
+      "url": "https://www.statnews.com/2025/08/25/fda-fast-track-gene-therapies/"
     },
     {
       "headline": "AI Diagnostic Tool Achieves Radiologist-Level Accuracy",
@@ -31,7 +31,7 @@ const sampleHealthcareData = {
       "importance": 4, // Technologically significant
       "impact_to_me": 4, // Relevant to medical professionals
       "category": "Tech",
-      "url": "https://www.nejm.org/ai-diagnostic"
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2508234"
     },
     {
       "headline": "Telehealth Reimbursement Rules Expanded for Rural Areas",
@@ -40,7 +40,7 @@ const sampleHealthcareData = {
       "importance": 3, // Important but not groundbreaking
       "impact_to_me": 3, // Moderate impact on healthcare professionals
       "category": "Policy",
-      "url": "https://www.fiercehealthcare.com/telehealth"
+      "url": "https://www.fiercehealthcare.com/cms/cms-expands-telehealth-reimbursement-rural-areas"
     }
   ]
 };
@@ -54,7 +54,7 @@ const sampleGeneralData = {
     "importance": 5, // Reserved for major breakthroughs like this
     "impact_to_me": 5, // Significant impact on everyone
     "category": "Science",
-    "url": "https://www.apnews.com/fusion-energy"
+    "url": "https://apnews.com/article/nuclear-fusion-energy-breakthrough-2025"
   },
   "stories": [
     {
@@ -64,7 +64,7 @@ const sampleGeneralData = {
       "importance": 4, // Significant technological advancement
       "impact_to_me": 4, // Will affect tech industry and future developments
       "category": "Technology",
-      "url": "https://www.economist.com/quantum-supremacy"
+      "url": "https://www.economist.com/technology/2025/08/25/quantum-supremacy-claimed-by-three-major-tech-companies"
     },
     {
       "headline": "Global AI Regulation Framework Agreed by G7 Nations",
@@ -73,7 +73,7 @@ const sampleGeneralData = {
       "importance": 4, // Important policy development
       "impact_to_me": 3, // Moderate impact on general population
       "category": "Global",
-      "url": "https://www.reuters.com/ai-regulation"
+      "url": "https://www.reuters.com/technology/global-ai-regulation-framework-agreed-g7-nations-2025-08-25/"
     },
     {
       "headline": "Renewable Energy Investments Surpass Fossil Fuels for First Time",
@@ -82,7 +82,7 @@ const sampleGeneralData = {
       "importance": 4, // Significant economic/environmental shift
       "impact_to_me": 4, // Affects everyone long-term
       "category": "Business",
-      "url": "https://www.bbc.com/renewable-energy"
+      "url": "https://www.bbc.com/news/business-2025-08-25-renewable-energy-investments"
     }
   ]
 };
@@ -146,9 +146,12 @@ function generateImpactBar(rating) {
 
 // Render weekly top story
 function renderWeeklyStory(story) {
+  // Ensure URL is properly formatted
+  const url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+  
   weeklyCard.innerHTML = `
     <span class="category-tag category-${story.category}">${story.category}</span>
-    <h3 class="headline"><a href="${story.url}" target="_blank">${story.headline}</a></h3>
+    <h3 class="headline"><a href="${url}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
     <p class="summary">${story.summary}</p>
     <div class="card-footer">
       <span class="source">${story.source}</span>
@@ -179,11 +182,14 @@ function renderNewsCards(stories) {
     stories.forEach((story, index) => {
       // Add delay to create staggered animation effect
       setTimeout(() => {
+        // Ensure URL is properly formatted
+        const url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+        
         const card = document.createElement('article');
         card.className = 'news-card';
         card.innerHTML = `
           <span class="category-tag category-${story.category}">${story.category}</span>
-          <h3 class="headline"><a href="${story.url}" target="_blank">${story.headline}</a></h3>
+          <h3 class="headline"><a href="${url}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
           <p class="summary">${story.summary}</p>
           <div class="card-footer">
             <span class="source">${story.source}</span>
