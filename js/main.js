@@ -239,10 +239,13 @@ function renderNewsCards(stories) {
 // Helper function to check if a date string is within the last 24 hours
 function isWithinLast24Hours(dateString) {
   console.log('Checking if date is within last 24 hours:', dateString);
-  const fileDate = new Date(dateString);
+  // Parse the date string as local time instead of UTC
+  const [year, month, day] = dateString.split('-').map(Number);
+  const fileDate = new Date(year, month - 1, day); // Month is 0-indexed
   const now = new Date();
   const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
   console.log('File date:', fileDate);
+  console.log('Current time:', now);
   console.log('24 hours ago:', twentyFourHoursAgo);
   console.log('Is within 24 hours:', fileDate >= twentyFourHoursAgo);
   return fileDate >= twentyFourHoursAgo;
@@ -250,9 +253,16 @@ function isWithinLast24Hours(dateString) {
 
 // Helper function to check if a date string is within the last 7 days (for weekly)
 function isWithinLastWeek(dateString) {
-  const fileDate = new Date(dateString);
+  console.log('Checking if date is within last week:', dateString);
+  // Parse the date string as local time instead of UTC
+  const [year, month, day] = dateString.split('-').map(Number);
+  const fileDate = new Date(year, month - 1, day); // Month is 0-indexed
   const now = new Date();
   const oneWeekAgo = new Date(now.getTime() - (7 * 24 * 60 * 60 * 1000));
+  console.log('File date:', fileDate);
+  console.log('Current time:', now);
+  console.log('One week ago:', oneWeekAgo);
+  console.log('Is within last week:', fileDate >= oneWeekAgo);
   return fileDate >= oneWeekAgo;
 }
 
@@ -281,13 +291,26 @@ async function fetchData(category) {
             const recentFiles = index[category].filter(filename => {
               // Extract date from filename (format: YYYY-MM-DD-category.json)
               const datePart = filename.split('-').slice(0, 3).join('-');
-              console.log('Checking file date:', datePart);
+              console.log('Filename:', filename);
+              console.log('Extracted date part:', datePart);
               return isWithinLast24Hours(datePart);
             });
             console.log('Recent files:', recentFiles);
             
-            // Use the most recent file that's within 24 hours
+            // Sort recent files by date (newest first) and use the most recent one
             if (recentFiles.length > 0) {
+              // Sort by date extracted from filename (newest first)
+              recentFiles.sort((a, b) => {
+                const dateStrA = a.split('-').slice(0, 3).join('-');
+                const dateStrB = b.split('-').slice(0, 3).join('-');
+                // Parse the date strings as local time instead of UTC
+                const [yearA, monthA, dayA] = dateStrA.split('-').map(Number);
+                const [yearB, monthB, dayB] = dateStrB.split('-').map(Number);
+                const dateA = new Date(yearA, monthA - 1, dayA); // Month is 0-indexed
+                const dateB = new Date(yearB, monthB - 1, dayB); // Month is 0-indexed
+                return dateB - dateA; // Newest first
+              });
+              
               const latestFile = recentFiles[0];
               console.log(`Loading latest data file within 24 hours: ${latestFile}`);
               const response = await fetch(`data/${latestFile}`);
@@ -321,10 +344,21 @@ async function fetchData(category) {
       if (!response.ok) {
         console.log(`Failed to load today's file, trying existing files in data directory`);
         // Try to load the existing files we know are there
+        // Use today's and recent dates instead of hardcoded old dates
+        const todayFile = `data/${dateString}-${category}.json`;
+        const yesterday = new Date(today);
+        yesterday.setDate(yesterday.getDate() - 1);
+        const yesterdayString = yesterday.toISOString().split('T')[0];
+        const yesterdayFile = `data/${yesterdayString}-${category}.json`;
+        const dayBeforeYesterday = new Date(today);
+        dayBeforeYesterday.setDate(dayBeforeYesterday.getDate() - 2);
+        const dayBeforeYesterdayString = dayBeforeYesterday.toISOString().split('T')[0];
+        const dayBeforeYesterdayFile = `data/${dayBeforeYesterdayString}-${category}.json`;
+        
         const fallbackFiles = [
-          `data/2025-08-27-${category}.json`, // Most recent valid file
-          `data/2025-08-26-${category}.json`,
-          `data/2025-08-25-${category}.json`
+          todayFile,
+          yesterdayFile,
+          dayBeforeYesterdayFile
         ];
         
         for (const file of fallbackFiles) {
