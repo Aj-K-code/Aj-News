@@ -146,12 +146,17 @@ function generateImpactBar(rating) {
 
 // Render weekly top story
 function renderWeeklyStory(story) {
-  // Ensure URL is properly formatted
-  const url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+  // Ensure URL is properly formatted and encoded
+  let url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+  // Handle Unicode characters in URLs
+  url = url.replace(/\\u[\dA-F]{4}/gi, (match) => {
+    return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
+  });
+  const encodedUrl = encodeURI(url);
   
   weeklyCard.innerHTML = `
     <span class="category-tag category-${story.category}">${story.category}</span>
-    <h3 class="headline"><a href="${url}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
+    <h3 class="headline"><a href="${encodedUrl}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
     <p class="summary">${story.summary}</p>
     <div class="card-footer">
       <span class="source">${story.source}</span>
@@ -182,14 +187,19 @@ function renderNewsCards(stories) {
     stories.forEach((story, index) => {
       // Add delay to create staggered animation effect
       setTimeout(() => {
-        // Ensure URL is properly formatted
-        const url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+        // Ensure URL is properly formatted and encoded
+        let url = story.url.startsWith('http') ? story.url : 'https://' + story.url;
+        // Handle Unicode characters in URLs
+        url = url.replace(/\\u[\dA-F]{4}/gi, (match) => {
+          return String.fromCharCode(parseInt(match.replace(/\\u/g, ''), 16));
+        });
+        const encodedUrl = encodeURI(url);
         
         const card = document.createElement('article');
         card.className = 'news-card';
         card.innerHTML = `
           <span class="category-tag category-${story.category}">${story.category}</span>
-          <h3 class="headline"><a href="${url}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
+          <h3 class="headline"><a href="${encodedUrl}" target="_blank" rel="noopener noreferrer">${story.headline}</a></h3>
           <p class="summary">${story.summary}</p>
           <div class="card-footer">
             <span class="source">${story.source}</span>
