@@ -239,12 +239,12 @@ function renderNewsCards(stories) {
 // Helper function to check if a date string is within the last 24 hours
 function isWithinLast24Hours(dateString) {
   console.log('Checking if date is within last 24 hours:', dateString);
-  // Parse the date string as local time instead of UTC
+  // Parse the date string in UTC to avoid timezone issues
   const [year, month, day] = dateString.split('-').map(Number);
-  const fileDate = new Date(year, month - 1, day); // Month is 0-indexed
+  const fileDate = new Date(Date.UTC(year, month - 1, day)); // Month is 0-indexed
   const now = new Date();
   const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
-  console.log('File date:', fileDate);
+  console.log('File date (UTC):', fileDate);
   console.log('Current time:', now);
   console.log('24 hours ago:', twentyFourHoursAgo);
   console.log('Is within 24 hours:', fileDate >= twentyFourHoursAgo);
@@ -254,12 +254,12 @@ function isWithinLast24Hours(dateString) {
 // Helper function to check if a date string is within the last 7 days (for weekly)
 function isWithinLastWeek(dateString) {
   console.log('Checking if date is within last week:', dateString);
-  // Parse the date string as local time instead of UTC
+  // Parse the date string in UTC to avoid timezone issues
   const [year, month, day] = dateString.split('-').map(Number);
-  const fileDate = new Date(year, month - 1, day); // Month is 0-indexed
+  const fileDate = new Date(Date.UTC(year, month - 1, day)); // Month is 0-indexed
   const now = new Date();
   const oneWeekAgo = new Date(now.getTime() - (7 * 24 * 60 * 60 * 1000));
-  console.log('File date:', fileDate);
+  console.log('File date (UTC):', fileDate);
   console.log('Current time:', now);
   console.log('One week ago:', oneWeekAgo);
   console.log('Is within last week:', fileDate >= oneWeekAgo);
@@ -303,11 +303,11 @@ async function fetchData(category) {
               recentFiles.sort((a, b) => {
                 const dateStrA = a.split('-').slice(0, 3).join('-');
                 const dateStrB = b.split('-').slice(0, 3).join('-');
-                // Parse the date strings as local time instead of UTC
+                // Parse the date strings in UTC to avoid timezone issues
                 const [yearA, monthA, dayA] = dateStrA.split('-').map(Number);
                 const [yearB, monthB, dayB] = dateStrB.split('-').map(Number);
-                const dateA = new Date(yearA, monthA - 1, dayA); // Month is 0-indexed
-                const dateB = new Date(yearB, monthB - 1, dayB); // Month is 0-indexed
+                const dateA = new Date(Date.UTC(yearA, monthA - 1, dayA)); // Month is 0-indexed
+                const dateB = new Date(Date.UTC(yearB, monthB - 1, dayB)); // Month is 0-indexed
                 return dateB - dateA; // Newest first
               });
               
@@ -361,41 +361,42 @@ async function fetchData(category) {
           dayBeforeYesterdayFile
         ];
         
+        // First, try to load any file that exists, regardless of date
         for (const file of fallbackFiles) {
           try {
-            // Check if the file date is within the last 24 hours
-            const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
-            console.log('Checking fallback file date:', datePart);
-            if (isWithinLast24Hours(datePart)) {
-              const fallbackResponse = await fetch(file);
-              if (fallbackResponse.ok) {
-                const fallbackData = await fallbackResponse.json();
-                console.log(`Loaded fallback data from ${file}:`, fallbackData);
-                return fallbackData;
-              }
+            const fallbackResponse = await fetch(file);
+            if (fallbackResponse.ok) {
+              const fallbackData = await fallbackResponse.json();
+              console.log(`Loaded fallback data from ${file}:`, fallbackData);
+              return fallbackData;
             }
           } catch (fallbackError) {
             console.log(`Failed to load fallback file ${file}:`, fallbackError);
           }
         }
         
-        // If no files within 24 hours, try to load the most recent file (for weekly data)
-        // but make sure it's within the last week
-        for (const file of fallbackFiles) {
-          try {
-            const datePart = file.split('-').slice(0, 3).join('-').replace('data/', '');
-            console.log('Checking weekly fallback file date:', datePart);
-            if (isWithinLastWeek(datePart)) {
-              const fallbackResponse = await fetch(file);
-              if (fallbackResponse.ok) {
-                const fallbackData = await fallbackResponse.json();
-                console.log(`Loaded weekly fallback data from ${file}:`, fallbackData);
-                return fallbackData;
+        // If specific date files don't exist, try to load the most recent file from the index
+        try {
+          console.log('Trying to load most recent file from index');
+          const indexResponse = await fetch('data/index.json');
+          if (indexResponse.ok) {
+            const index = await indexResponse.json();
+            console.log('Index file loaded:', index);
+            
+            if (index[category] && index[category].length > 0) {
+              // Load the first (most recent) file from the index
+              const latestFile = index[category][0];
+              console.log(`Loading latest data file from index: ${latestFile}`);
+              const latestResponse = await fetch(`data/${latestFile}`);
+              if (latestResponse.ok) {
+                const data = await latestResponse.json();
+                console.log(`Successfully loaded data from ${latestFile}:`, data);
+                return data;
               }
             }
-          } catch (fallbackError) {
-            console.log(`Failed to load weekly fallback file ${file}:`, fallbackError);
           }
+        } catch (indexError) {
+          console.log('Could not load data from index:', indexError);
         }
         
         throw new Error(`Failed to load data file for ${category}`);
