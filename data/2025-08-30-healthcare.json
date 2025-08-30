@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Approves Moderna's Updated COVID-19 Vaccines for 2025\u20132026 Season",
+    "summary": "The FDA authorized Moderna's updated Spikevax\u00ae and mNEXSPIKE\u00ae vaccines to address current COVID-19 variants, emphasizing continued protection for older adults who remain at highest risk of severe disease and long-term complications.",
+    "source": "ContagionLive",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.contagionlive.com/view/top-5-infectious-disease-news-stories-week-of-august-23-30"
+  },
+  "stories": [
+    {
+      "headline": "VSee Launches AI Doctor Notes Reducing Documentation Time by 93% in Virtual Emergency Care",
+      "summary": "VSee Health introduced AI-powered doctor notes integrated with Tele911\u2019s virtual emergency care, dramatically reducing clinical documentation time and improving workflow efficiency in telehealth emergency services.",
+      "source": "Healthcare Now Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-august-2025/"
+    },
+    {
+      "headline": "Teladoc Health Launches Wellbound Employee Assistance Program to Enhance Workforce Health",
+      "summary": "Teladoc Health unveiled Wellbound, a new employee assistance program aimed at promoting engagement and better health outcomes within organizational workforces through virtual care services.",
+      "source": "Healthcare Now Radio",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-august-2025/"
+    }
+  ]
+}
