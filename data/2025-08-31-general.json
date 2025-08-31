@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Israeli Airstrike Kills Yemen Houthi Rebel Prime Minister",
+    "summary": "An Israeli airstrike on August 29, 2025, killed the prime minister of Yemen\u2019s Iran-backed Houthi rebel government, intensifying regional tensions and complicating peace efforts in the Middle East.",
+    "source": "Geo News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.geo.tv/latest/418317-israeli-airstrike-kills-yemen-houthi-rebel-pm-amid-regional-tensions"
+  },
+  "stories": [
+    {
+      "headline": "Russian President Putin Arrives in China for 2025 SCO Summit",
+      "summary": "Russian President Vladimir Putin attended the Shanghai Cooperation Organisation Summit in Tianjin, China, marking a key moment in regional alliances and global diplomacy.",
+      "source": "Business Standard",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.business-standard.com/world-news/russian-president-putin-arrives-in-tianjin-to-attend-2025-sco-summit-125083100922_1.html"
+    },
+    {
+      "headline": "US Embassy in Jakarta Issues Demonstration Alert for August 31",
+      "summary": "The US Embassy in Jakarta warned of planned demonstrations on August 31, 2025, highlighting ongoing civil unrest concerns in Indonesia affecting diplomatic operations.",
+      "source": "US Embassy Jakarta",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://id.usembassy.gov/demonstration-alert-u-s-embassy-jakarta-indonesia-august-31-2025/"
+    }
+  ]
+}

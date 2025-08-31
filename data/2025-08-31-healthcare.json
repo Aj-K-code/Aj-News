@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services initiated a new oversight program to enforce citizenship verification for Medicaid and CHIP beneficiaries, potentially impacting eligibility and enrollment policies nationwide.",
+    "source": "Alston & Bird LLP Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/08/health-care-week-in-review-august-22-2025"
+  },
+  "stories": [
+    {
+      "headline": "VSee Launches AI Doctor Notes Reducing Documentation Time by 93% in Virtual Emergency Care",
+      "summary": "VSee Health introduced new AI-powered doctor notes integrated with Tele911 to drastically cut documentation time, enhancing efficiency in telehealth emergency services.",
+      "source": "Healthcare Now Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-august-2025/"
+    },
+    {
+      "headline": "Teladoc Health Unveils Wellbound Employee Assistance Program to Boost Workforce Health",
+      "summary": "Teladoc Health launched Wellbound, an employee assistance program designed to empower healthier and more engaged employees through virtual care solutions.",
+      "source": "Healthcare Now Radio",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-august-2025/"
+    }
+  ]
+}
