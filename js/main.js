@@ -243,12 +243,17 @@ function isWithinLast24Hours(dateString) {
   const [year, month, day] = dateString.split('-').map(Number);
   const fileDate = new Date(Date.UTC(year, month - 1, day)); // Month is 0-indexed
   const now = new Date();
-  const twentyFourHoursAgo = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+  // For daily news, we want to include today's file even if it's not within the last 24 hours
+  // Files are generated once per day, so we should include files from today and yesterday
+  const today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+  const yesterday = new Date(today);
+  yesterday.setUTCDate(yesterday.getUTCDate() - 1);
   console.log('File date (UTC):', fileDate);
-  console.log('Current time:', now);
-  console.log('24 hours ago:', twentyFourHoursAgo);
-  console.log('Is within 24 hours:', fileDate >= twentyFourHoursAgo);
-  return fileDate >= twentyFourHoursAgo;
+  console.log('Today (UTC):', today);
+  console.log('Yesterday (UTC):', yesterday);
+  console.log('Is today or yesterday:', fileDate >= yesterday);
+  // Include files from yesterday and today
+  return fileDate >= yesterday;
 }
 
 // Helper function to check if a date string is within the last 7 days (for weekly)
@@ -258,10 +263,13 @@ function isWithinLastWeek(dateString) {
   const [year, month, day] = dateString.split('-').map(Number);
   const fileDate = new Date(Date.UTC(year, month - 1, day)); // Month is 0-indexed
   const now = new Date();
-  const oneWeekAgo = new Date(now.getTime() - (7 * 24 * 60 * 60 * 1000));
+  // For weekly stories, we want to include recent files
+  const today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+  const oneWeekAgo = new Date(today);
+  oneWeekAgo.setUTCDate(oneWeekAgo.getUTCDate() - 7);
   console.log('File date (UTC):', fileDate);
   console.log('Current time:', now);
-  console.log('One week ago:', oneWeekAgo);
+  console.log('One week ago (UTC):', oneWeekAgo);
   console.log('Is within last week:', fileDate >= oneWeekAgo);
   return fileDate >= oneWeekAgo;
 }

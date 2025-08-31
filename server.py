@@ -56,12 +56,21 @@ def get_latest_data_file(category):
     """Get the most recent data file for a category"""
     try:
         # List all files in data directory
-        data_files = [f for f in os.listdir('data') if f.endswith(f'{category}.json')]
+        data_files = [f for f in os.listdir('data') if f.endswith(f'{category}.json') and not f.startswith('test')]
         if not data_files:
             return None
         
         # Sort by date (filename format: YYYY-MM-DD-category.json)
-        data_files.sort(reverse=True)
+        # Extract date from filename and sort properly
+        def extract_date(filename):
+            try:
+                # Extract date part (YYYY-MM-DD) from filename
+                date_part = filename.split('-')[0:3]
+                return '-'.join(date_part)
+            except:
+                return '0000-00-00'  # Default for sorting
+                
+        data_files.sort(key=extract_date, reverse=True)
         latest_file = data_files[0]
         return os.path.join('data', latest_file)
     except Exception as e:
