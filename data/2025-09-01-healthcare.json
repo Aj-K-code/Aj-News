@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Releases Sweeping AI Action Plan Prioritizing Healthcare",
+    "summary": "The White House unveiled a comprehensive AI action plan focusing on over 90 policy measures designed to foster responsible AI use in healthcare, aiming to improve outcomes, interoperability, and consumer protections.",
+    "source": "California Medical Association Newsroom",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.cmadocs.org/newsroom/news/view/ArticleId/50951/White-House-releases-AI-action-plan-with-focus-on-health-care"
+  },
+  "stories": [
+    {
+      "headline": "Health and Human Services Commission Proposes Nursing Facility Rate Increases Effective September 1, 2025",
+      "summary": "Effective September 1, 2025, HHSC will implement increased nursing facility rates while discontinuing direct care staff rate enhancements, impacting funding and operational structures in long-term care.",
+      "source": "Community First Health Plans",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://communityfirsthealthplans.com/provider-news/nursing-facility-rate-changes-and-program-discontinuation-effective-september-1-2025/"
+    }
+  ]
+}
