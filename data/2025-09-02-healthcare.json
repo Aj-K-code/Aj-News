@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Approves Updated COVID-19 Vaccines for Fall 2025, Restricts Eligibility to High-Risk Groups",
+    "summary": "The FDA approved Moderna's updated COVID-19 vaccines targeting the LP.8.1 variant for fall 2025, limiting use to adults aged 65 and older or those with at least one high-risk medical condition, marking a significant shift in vaccination policy.",
+    "source": "Contagion Live",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.contagionlive.com/view/fda-approves-updated-covid-19-vaccines-for-fall-2025-restricts-eligibility-to-high-risk-groups"
+  },
+  "stories": [
+    {
+      "headline": "FDA Approves Moderna's Updated COVID-19 Vaccines Targeting LP.8.1 Variant for Fall 2025",
+      "summary": "The FDA approved updated fall 2025 COVID-19 vaccines only for adults 65 years and older and individuals with at least one high-risk medical condition, which may influence vaccine accessibility and insurance coverage.",
+      "source": "Contagion Live",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.contagionlive.com/view/fda-approves-updated-covid-19-vaccines-for-fall-2025-restricts-eligibility-to-high-risk-groups"
+    },
+    {
+      "headline": "Cleveland Clinic Martin Health Emergency Departments Recognized for Excellence by Emergency Nurses Association",
+      "summary": "Cleveland Clinic Martin Health's Emergency Departments have been acknowledged for excellence by the Emergency Nurses Association, highlighting high standards in emergency care and nursing practice.",
+      "source": "South Florida Hospital News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://southfloridahospitalnews.com/cleveland-clinic-martin-health-emergency-departments-recognized-for-excellence-by-emergency-nurses-association/"
+    }
+  ]
+}
