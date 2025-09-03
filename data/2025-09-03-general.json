@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Death toll surpasses 1,400 after devastating earthquake in eastern Afghanistan",
+    "summary": "A 6.0 magnitude earthquake near the Pakistan border has killed over 1,400 people and injured thousands, triggering urgent international humanitarian aid and highlighting the region's vulnerability to natural disasters.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/death-toll-climbs-1400-after-afghanistan-earthquake-official/story?id=102384234"
+  },
+  "stories": [
+    {
+      "headline": "India unveils its first semiconductor chip amid strong Q1 economic growth",
+      "summary": "Prime Minister Modi unveiled India's first domestically produced semiconductor chip at Semicon India 2025, coinciding with the announcement of a robust 7.8% GDP growth for FY26 Q1, signaling a leap in technological self-reliance and economic momentum.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-3-september-2025/"
+    },
+    {
+      "headline": "Singapore Prime Minister Lawrence Wong begins visit to strengthen India ties",
+      "summary": "Singapore PM Lawrence Wong's September 2\u20134 visit to India aims to deepen bilateral cooperation, enhancing strategic partnerships in trade, technology, and geopolitical alignment in the Indo-Pacific region.",
+      "source": "Leverage Edu",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-3-september-2025/"
+    },
+    {
+      "headline": "UPI processes record 20 billion digital transactions in August 2025",
+      "summary": "India's Unified Payments Interface (UPI) hit a milestone with 20 billion transactions in August, reflecting a 34% year-over-year growth and marking a major advance in digital payment adoption and financial inclusion.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-3-september-2025/"
+    }
+  ]
+}

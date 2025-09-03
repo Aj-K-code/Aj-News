@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Moderna Announces Promising Data on mRNA Therapeutics for Rare Metabolic Diseases at 2025 International Congress",
+    "summary": "Moderna presented new Phase 1/2 and dose-escalation study data demonstrating progress in mRNA therapies targeting rare metabolic conditions like methylmalonic and propionic acidemia, highlighting potential for novel treatment options for inborn errors of metabolism.",
+    "source": "Moderna, Inc.",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://natlawreview.com/press-releases/moderna-announces-data-be-presented-2025-international-congress-inborn"
+  },
+  "stories": [
+    {
+      "headline": "Promise Healthcare Opens Fifth Clinic in Champaign Offering Integrated Medical and Behavioral Health Services",
+      "summary": "Promise Healthcare launched its new Kenyon clinic, expanding patient access to coordinated medical and behavioral health care in Champaign County, improving local community health service availability.",
+      "source": "Promise Healthcare",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.promisehealth.org/post/Promise-Healthcare-is-set-to-open-its-5th-Location-September-3rd"
+    },
+    {
+      "headline": "Congress Faces Critical Health Funding Decisions as September 30 Government Shutdown Deadline Looms",
+      "summary": "Congress returned to negotiate FY 2026 health funding bills including the FDA budget, amid partisan tensions risking a government shutdown that could impact healthcare sector operations and research funding.",
+      "source": "McDermottPlus",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "http://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-september-2-2025/"
+    }
+  ]
+}
