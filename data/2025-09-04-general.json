@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "China stages grand Beijing parade displaying new military hardware with attendance from Putin and Kim Jong Un",
+    "summary": "China held a large military parade showcasing new weapons in Beijing, symbolizing rising military strength and cementing political-military ties between China, Russia, and North Korea, indicating shifting global power dynamics.",
+    "source": "Leverage Edu",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-4-september-2025/"
+  },
+  "stories": [
+    {
+      "headline": "At least 15 killed and 18 injured after a historic streetcar derails in Lisbon",
+      "summary": "A major accident involving a landmark electric streetcar in Lisbon resulted in 15 deaths and 18 injuries, raising concerns about urban transport safety and emergency response in the city.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/15-killed-18-injured-after-streetcar-derails-in-lisbon-4651234"
+    },
+    {
+      "headline": "Hurricane Kiko intensifies to Category 4 in the Pacific Ocean",
+      "summary": "Hurricane Kiko has strengthened into a Category 4 storm posing significant threats to coastal populations in the Pacific region, prompting urgent weather warnings and emergency preparedness measures.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/hurricane-kiko-intensifies-category-4-pacific-ocean-4652345"
+    },
+    {
+      "headline": "Suicide bombing near political rally kills at least 13 in Pakistan",
+      "summary": "A suicide attack targeting nationalist party supporters in southwest Pakistan resulted in over a dozen deaths and multiple injuries, underscoring ongoing security challenges in the region.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/suicide-bombing-political-rally-kills-13-pakistan-4652350"
+    }
+  ]
+}

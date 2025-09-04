@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "HHS Looks to Crack Down on Healthcare Information Blocking",
+    "summary": "The U.S. Department of Health and Human Services announced plans to intensify enforcement against healthcare information blocking, a move aimed at enhancing interoperability and patient access to their health data, which could significantly affect healthcare delivery and compliance.",
+    "source": "Fierce Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.fiercehealthcare.com/policy/hhs-looks-crack-down-healthcare-information-blocking"
+  },
+  "stories": [
+    {
+      "headline": "SCAN Health Plan to Expand Medicare Advantage Footprint into Washington for 2026",
+      "summary": "SCAN Health Plan announced plans to expand its Medicare Advantage offerings into Washington state starting in 2026, reflecting ongoing growth in the Medicare Advantage market and impacting healthcare providers and beneficiaries.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.fiercehealthcare.com/providers/scan-health-plan-expand-ma-footprint-washington-2026"
+    },
+    {
+      "headline": "HHS Intensifies Crackdown on Healthcare Information Blocking",
+      "summary": "The Department of Health and Human Services is increasing regulatory actions against healthcare entities that impede the flow of electronic health information, reinforcing interoperability to empower patient access and continuity of care.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.fiercehealthcare.com/policy/hhs-looks-crack-down-healthcare-information-blocking"
+    }
+  ]
+}
