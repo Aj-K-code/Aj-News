@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Health and Human Services Secretary Robert F. Kennedy Jr. faces bipartisan calls to resign amid controversies over vaccine policies and agency staffing",
+    "summary": "More than 1,000 current and former HHS employees and 21 medical societies have called for Secretary Kennedy's resignation, citing harmful changes in vaccine policy, staffing turmoil at the CDC, and reduced government capacity to handle public health threats, reflecting deep bipartisan concerns raised during a recent Senate hearing.",
+    "source": "Chief Healthcare Executive",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.chiefhealthcareexecutive.com/view/kennedy-faces-calls-to-resign-hazard-to-the-health-"
+  },
+  "stories": [
+    {
+      "headline": "Trump administration removes CDC director; senior officials resign amid public health concerns",
+      "summary": "The Trump administration removed CDC Director Susan Monarez less than a month after her confirmation, triggering the resignation of several senior CDC officials, raising bipartisan alarm about the agency's capacity to respond to health threats.",
+      "source": "American Medical Association (AMA)",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/sept-5-2025-national-advocacy-update"
+    },
+    {
+      "headline": "CMS launches Rural Health Transformation Program website with upcoming application period",
+      "summary": "CMS announced the launch of a dedicated website for the Rural Health Transformation Program, aiming to improve rural healthcare quality, with applications opening mid-September and webinars planned for late September 2025.",
+      "source": "Holland & Knight",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    }
+  ]
+}
