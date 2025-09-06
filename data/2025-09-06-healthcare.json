@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration Removes CDC Director; Top CDC Officials Resign Amid Leadership Turmoil",
+    "summary": "The recent removal of CDC Director Susan Monarez and subsequent resignations of senior CDC staff have sparked bipartisan concern over public health leadership stability, critically impacting the agency's ability to respond to health threats.",
+    "source": "American Medical Association (AMA)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/sept-5-2025-national-advocacy-update"
+  },
+  "stories": [
+    {
+      "headline": "CMS Launches Rural Health Transformation Program Website Ahead of Application Release",
+      "summary": "CMS announced the launch of a detailed website for the Rural Health Transformation Program, aimed at improving rural healthcare quality, with applications opening in mid-September and webinars planned for late September.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    },
+    {
+      "headline": "Florida to End All COVID-19 Vaccine Mandates, Following a Surge in State-Level Policy Changes",
+      "summary": "Amidst CDC leadership upheaval, Florida announced it will become the first state to end all COVID-19 vaccine mandates, reflecting a growing trend of states independently adjusting vaccine policies.",
+      "source": "McDermott+ Check-Up",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/weekly-check-up/mcdermott-check-up-august-5-2025/"
+    }
+  ]
+}

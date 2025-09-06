@@ -1,16 +1,16 @@
 {
   "healthcare": [
+    "2025-09-06-healthcare.json",
     "2025-09-05-healthcare.json",
     "2025-09-04-healthcare.json",
     "2025-09-03-healthcare.json",
-    "2025-09-02-healthcare.json",
-    "2025-09-01-healthcare.json"
+    "2025-09-02-healthcare.json"
   ],
   "general": [
+    "2025-09-06-general.json",
     "2025-09-05-general.json",
     "2025-09-04-general.json",
     "2025-09-03-general.json",
-    "2025-09-02-general.json",
-    "2025-09-01-general.json"
+    "2025-09-02-general.json"
   ]
 }
