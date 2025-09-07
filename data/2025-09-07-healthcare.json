@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Tracks 15 Likely Rabies Outbreaks Across the U.S. as Cases Surge",
+    "summary": "The CDC is monitoring 15 separate rabies outbreak clusters amid a national rise in rabies cases and six deaths over the past year, signaling heightened public health risks linked to wildlife and environmental changes.",
+    "source": "NBC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.nbcnews.com/health/cdc-tracking-rabies-outbreaks-in-us-2025-rcna10218"
+  },
+  "stories": [
+    {
+      "headline": "New State Budget in Michigan Proposes Significant Hospital Funding Cuts",
+      "summary": "Michigan's House approved a budget with $2.5 billion cuts to hospital funding, raising concerns about impacts on healthcare delivery and hospital operations statewide.",
+      "source": "Michigan Health & Hospital Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mha.org/newsroom/mha-monday-report-sept-1-2025"
+    }
+  ]
+}

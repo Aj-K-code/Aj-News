@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "International Association of Genocide Scholars declares Israel guilty of genocide in Gaza",
+    "summary": "The International Association of Genocide Scholars (IAGS) has publicly accused Israel of committing genocide in Gaza, intensifying calls for international legal and humanitarian responses amid escalating conflict.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/2025/09/02/israel-genocide-accusation-international-association-genocide-scholars/"
+  },
+  "stories": [
+    {
+      "headline": "Desperate search for survivors continues after 6.0 magnitude earthquake kills over 800 in Afghanistan",
+      "summary": "A 6.0 magnitude earthquake in Afghanistan has resulted in over 800 deaths and 2,500 injuries, with urgent humanitarian aid efforts impeded by political and logistical challenges.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/2025/09/02/afghanistan-earthquake-response-humanitarian-crisis/"
+    },
+    {
+      "headline": "Putin, Xi Jinping, and Kim Jong Un hold symbolic summit amid shifting geopolitical alliances",
+      "summary": "Russian President Putin, Chinese President Xi Jinping, and North Korean leader Kim Jong Un met to project a united front, signaling evolving power dynamics ahead of upcoming global diplomatic negotiations.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/2025/09/05/putin-xi-kim-summit-geopolitical-implications/"
+    },
+    {
+      "headline": "Hawaii\u2019s Kilauea volcano erupts again, sending lava into the air",
+      "summary": "Kilauea volcano in Hawaii has renewed eruption activity, shooting lava into the air and raising concerns about air quality and local safety for nearby communities.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Science",
+      "url": "https://globalnews.ca/news/2025/09/05/hawaii-kilauea-volcano-eruption-lava-air-safety/"
+    }
+  ]
+}
