@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC tracks 15 likely rabies outbreaks in the U.S., with highest deaths in years",
+    "summary": "The CDC is monitoring 15 probable rabies outbreaks across the U.S. amid a rise in rabid wild animals and six human deaths in the past year, highlighting increased public health risks.",
+    "source": "AMA Morning Rounds / NBC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.ama-assn.org/about/publications-newsletters/top-news-stories-ama-morning-rounds-week-sept-1-2025"
+  },
+  "stories": [
+    {
+      "headline": "CVS faces lawsuit over removing Zepbound from its formulary",
+      "summary": "CVS has been sued for dropping Zepbound, a drug significant for patient treatment options, raising important questions about formulary management and access.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.fiercehealthcare.com/pharma/cvs-hit-lawsuit-over-dropping-zepbound-from-formulary"
+    },
+    {
+      "headline": "Mercer predicts significant 2026 health benefit cost hikes for employers",
+      "summary": "Mercer reports that employers should prepare for substantial increases in health benefit costs next year, impacting healthcare plans and budgets.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.fiercehealthcare.com/business/mercer-employers-face-significant-2026-health-benefit-cost-hike"
+    }
+  ]
+}

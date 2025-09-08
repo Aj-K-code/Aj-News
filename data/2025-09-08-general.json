@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Magnitude 6.0 Earthquake Devastates Afghanistan, Killing Over 800",
+    "summary": "A recent magnitude 6.0 earthquake in southeastern Afghanistan has killed at least 800 people and injured more than 2,500, with aid efforts complicated by political and cultural challenges, significantly worsening the humanitarian crisis in the region.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/afghanistan-earthquake-2025"
+  },
+  "stories": [
+    {
+      "headline": "India and EU Advance Free Trade Agreement Talks",
+      "summary": "India and the European Union are making headway in their free trade agreement negotiations, a move that could reshape trade flows and economic diplomacy between the two major global players.",
+      "source": "Hindustan Times",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.hindustantimes.com/education/news/school-assembly-news-headlines-today-top-international-national-and-other-news-of-september-8-101757296678281.html"
+    },
+    {
+      "headline": "Australia Sentences Notorious \u2018Mushroom Murderer\u2019 to Life Without Parole",
+      "summary": "Erin Patterson, known as the 'mushroom murderer,' received a life sentence with no parole for three decades in Australia, marking a significant case in the country\u2019s criminal justice system and raising discussions about violent crimes.",
+      "source": "Hindustan Times",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.hindustantimes.com/education/news/school-assembly-news-headlines-today-top-international-national-and-other-news-of-september-8-101757296678281.html"
+    }
+  ]
+}
