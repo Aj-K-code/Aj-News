@@ -285,61 +285,30 @@ async function fetchData(category) {
       // On GitHub Pages, load static JSON files directly
       console.log(`Fetching data for ${category} on GitHub Pages`);
       
-      try {
-        // First, try to get the index file to see what data files are available
-        console.log('Loading index file to determine available data files');
-        const indexResponse = await fetch('data/index.json');
-        if (indexResponse.ok) {
-          const index = await indexResponse.json();
-          console.log('Index file loaded:', index);
-          
-          // Get files within the last 24 hours for daily news
-          if (index[category] && index[category].length > 0) {
-            // Filter files to only include those from the last 24 hours for daily news
-            const recentFiles = index[category].filter(filename => {
-              // Extract date from filename (format: YYYY-MM-DD-category.json)
-              const datePart = filename.split('-').slice(0, 3).join('-');
-              console.log('Filename:', filename);
-              console.log('Extracted date part:', datePart);
-              return isWithinLast24Hours(datePart);
-            });
-            console.log('Recent files:', recentFiles);
-            
-            // Sort recent files by date (newest first) and use the most recent one
-            if (recentFiles.length > 0) {
-              // Sort by date extracted from filename (newest first)
-              recentFiles.sort((a, b) => {
-                const dateStrA = a.split('-').slice(0, 3).join('-');
-                const dateStrB = b.split('-').slice(0, 3).join('-');
-                // Parse the date strings in UTC to avoid timezone issues
-                const [yearA, monthA, dayA] = dateStrA.split('-').map(Number);
-                const [yearB, monthB, dayB] = dateStrB.split('-').map(Number);
-                const dateA = new Date(Date.UTC(yearA, monthA - 1, dayA)); // Month is 0-indexed
-                const dateB = new Date(Date.UTC(yearB, monthB - 1, dayB)); // Month is 0-indexed
-                return dateB - dateA; // Newest first
-              });
-              
-              const latestFile = recentFiles[0];
-              console.log(`Loading latest data file within 24 hours: ${latestFile}`);
-              const response = await fetch(`data/${latestFile}`);
-              if (response.ok) {
-                const data = await response.json();
-                console.log(`Successfully loaded data from ${latestFile}:`, data);
-                return data;
-              } else {
-                console.log(`Failed to load ${latestFile}, status: ${response.status}`);
-              }
-            } else {
-              console.log(`No recent files (within 24 hours) found for category ${category}`);
-            }
+      // Try to get the index file to see what data files are available
+      console.log('Loading index file to determine available data files');
+      const indexResponse = await fetch('data/index.json');
+      if (indexResponse.ok) {
+        const index = await indexResponse.json();
+        console.log('Index file loaded:', index);
+        
+        // Get the most recent file for this category (first in the array)
+        if (index[category] && index[category].length > 0) {
+          const latestFile = index[category][0]; // First file is the most recent
+          console.log(`Loading latest data file: ${latestFile}`);
+          const response = await fetch(`data/${latestFile}`);
+          if (response.ok) {
+            const data = await response.json();
+            console.log(`Successfully loaded data from ${latestFile}:`, data);
+            return data;
           } else {
-            console.log(`No data files found for category ${category} in index`);
+            console.log(`Failed to load ${latestFile}, status: ${response.status}`);
           }
         } else {
-          console.log(`Failed to load index file, status: ${indexResponse.status}`);
+          console.log(`No data files found for category ${category} in index`);
         }
-      } catch (indexError) {
-        console.log('Could not load index file, trying direct file access:', indexError);
+      } else {
+        console.log(`Failed to load index file, status: ${indexResponse.status}`);
       }
       
       // Fallback: try to load today's file
@@ -349,70 +318,43 @@ async function fetchData(category) {
       console.log(`Trying to load today's file: ${filePath}`);
       
       const response = await fetch(filePath);
-      if (!response.ok) {
-        console.log(`Failed to load today's file, trying existing files in data directory`);
-        // Try to load the existing files we know are there
-        // Use today's and recent dates instead of hardcoded old dates
-        const todayFile = `data/${dateString}-${category}.json`;
-        const yesterday = new Date(today);
-        yesterday.setDate(yesterday.getDate() - 1);
-        const yesterdayString = yesterday.toISOString().split('T')[0];
-        const yesterdayFile = `data/${yesterdayString}-${category}.json`;
-        const dayBeforeYesterday = new Date(today);
-        dayBeforeYesterday.setDate(dayBeforeYesterday.getDate() - 2);
-        const dayBeforeYesterdayString = dayBeforeYesterday.toISOString().split('T')[0];
-        const dayBeforeYesterdayFile = `data/${dayBeforeYesterdayString}-${category}.json`;
+      if (response.ok) {
+        const data = await response.json();
+        console.log(`Successfully loaded today's data:`, data);
+        return data;
+      } else {
+        console.log(`Failed to load today's file, status: ${response.status}`);
         
-        const fallbackFiles = [
-          todayFile,
-          yesterdayFile,
-          dayBeforeYesterdayFile
-        ];
-        
-        // First, try to load any file that exists, regardless of date
-        for (const file of fallbackFiles) {
-          try {
-            const fallbackResponse = await fetch(file);
-            if (fallbackResponse.ok) {
-              const fallbackData = await fallbackResponse.json();
-              console.log(`Loaded fallback data from ${file}:`, fallbackData);
-              return fallbackData;
-            }
-          } catch (fallbackError) {
-            console.log(`Failed to load fallback file ${file}:`, fallbackError);
-          }
-        }
-        
-        // If specific date files don't exist, try to load the most recent file from the index
+        // Try to load the most recent file by scanning the data directory
         try {
-          console.log('Trying to load most recent file from index');
-          const indexResponse = await fetch('data/index.json');
-          if (indexResponse.ok) {
-            const index = await indexResponse.json();
-            console.log('Index file loaded:', index);
-            
-            if (index[category] && index[category].length > 0) {
-              // Load the first (most recent) file from the index
-              const latestFile = index[category][0];
-              console.log(`Loading latest data file from index: ${latestFile}`);
-              const latestResponse = await fetch(`data/${latestFile}`);
-              if (latestResponse.ok) {
-                const data = await latestResponse.json();
-                console.log(`Successfully loaded data from ${latestFile}:`, data);
-                return data;
+          console.log('Scanning data directory for files');
+          // Try yesterday and day before yesterday
+          const datesToTry = [];
+          for (let i = 0; i < 3; i++) {
+            const date = new Date();
+            date.setDate(date.getDate() - i);
+            const dateString = date.toISOString().split('T')[0];
+            datesToTry.push(`${dateString}-${category}.json`);
+          }
+          
+          for (const filename of datesToTry) {
+            try {
+              const fallbackResponse = await fetch(`data/${filename}`);
+              if (fallbackResponse.ok) {
+                const fallbackData = await fallbackResponse.json();
+                console.log(`Loaded fallback data from ${filename}:`, fallbackData);
+                return fallbackData;
               }
+            } catch (fallbackError) {
+              console.log(`Failed to load fallback file ${filename}:`, fallbackError);
             }
           }
-        } catch (indexError) {
-          console.log('Could not load data from index:', indexError);
+        } catch (scanError) {
+          console.log('Could not scan data directory:', scanError);
         }
         
         throw new Error(`Failed to load data file for ${category}`);
       }
-      
-      const data = await response.json();
-      console.log(`Successfully loaded today's data:`, data);
-      return data;
     } else {
       // On local server, use the API
       console.log(`Fetching data for ${category} from local API`);
