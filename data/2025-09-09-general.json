@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "India and China Signal Thaw in Relations with Modi's Visit to China after Seven Years",
+    "summary": "Prime Minister Modi's visit to China marks a significant diplomatic thaw between the two countries, highlighted by a joint statement from the Shanghai Cooperation Organization condemning recent US and Israeli attacks on Iran, signaling realignments in Asian geopolitics with broader implications for global stability.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2025/9/2/headlines"
+  },
+  "stories": [
+    {
+      "headline": "European Union's Ursula von der Leyen Faces GPS Jamming Attack Over Bulgaria",
+      "summary": "A plane carrying EU Chief Ursula von der Leyen was forced to circle and land using paper maps due to an apparent GPS jamming attack blamed on Russia, prompting the EU to enhance defense support for Ukraine and raise concerns about electronic warfare in Europe.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/9/2/headlines"
+    },
+    {
+      "headline": "Indonesia\u2019s Anti-Government Protests Intensify with Deadly Crackdown",
+      "summary": "Hundreds were injured and at least seven died as protests over lawmakers' excessive salaries escalated into a nationwide movement with violent clashes, highlighting growing unrest and economic grievances in Indonesia.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/9/2/headlines"
+    }
+  ]
+}

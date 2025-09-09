@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "HHS Cancels mRNA Vaccine Development Under BARDA Amid Policy Shifts",
+    "summary": "The U.S. Department of Health and Human Services announced the termination of mRNA vaccine development activities under BARDA, signaling a significant pivot in federal pandemic preparedness strategy.",
+    "source": "JD Supra",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-hhs-cancels-4426785/"
+  },
+  "stories": [
+    {
+      "headline": "AHA Supports Legislation to Cover Naloxone Distribution Costs for Hospitals",
+      "summary": "The American Hospital Association announced support for the Hospitals As Naloxone Distribution Sites Act (H.R. 5120), which would mandate Medicare and Medicaid to cover costs for hospitals providing naloxone to patients at risk of overdose.",
+      "source": "American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news"
+    },
+    {
+      "headline": "HHS Increases Enforcement Against Health Data Blocking Violations",
+      "summary": "The Department of Health and Human Services revealed plans to increase resources and take action against entities violating health information blocking rules, aiming to improve data exchange in healthcare.",
+      "source": "American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news"
+    }
+  ]
+}
