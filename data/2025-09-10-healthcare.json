@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "HHS Cancels mRNA Vaccine Development Activities as Political Oversight Increases NIH Grant Control",
+    "summary": "The Department of Health and Human Services terminated its mRNA vaccine development under BARDA, accompanied by an executive order shifting NIH grant funding power from scientists to political appointees, signaling significant changes in federal biomedical research priorities and vaccine innovation.",
+    "source": "Alston & Bird Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-hhs-cancels-4426785/"
+  },
+  "stories": [
+    {
+      "headline": "CMS Launches Rural Health Transformation Program Website to Improve Rural Healthcare",
+      "summary": "CMS released a dedicated website detailing the Rural Health Transformation Program, outlining strategic goals, eligibility, and application timing to enhance rural healthcare, with applications opening mid-September 2025.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    },
+    {
+      "headline": "FDA Revokes Remaining COVID-19 Vaccine Emergency Use Authorizations",
+      "summary": "The FDA revoked the remaining EUAs for COVID-19 vaccines effective Aug. 27, 2025, limiting broad vaccine access to specific higher-risk groups while older authorized vaccines remain available under full approval for these populations.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    }
+  ]
+}
