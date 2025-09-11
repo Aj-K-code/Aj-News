@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Revokes Emergency Use Authorizations for COVID-19 Vaccines, Changing Access Guidelines",
+    "summary": "The FDA rescinded the EUAs for COVID-19 vaccines, limiting broad access and requiring medical consultation for off-label vaccination among younger, healthy individuals, marking a significant shift in pandemic-era vaccine policy.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "HHS Cancels mRNA Vaccine Development Activities Under BARDA",
+      "summary": "The U.S. Department of Health and Human Services terminated its mRNA vaccine development efforts under BARDA, signaling a strategic shift in federal vaccine innovation priorities.",
+      "source": "JD Supra",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-hhs-cancels-4426785/"
+    },
+    {
+      "headline": "Surge in Poison Control Calls Related to Self-Harm Among Preteens",
+      "summary": "Data reveals a 311% increase in poison center calls linked to suspected self-harm or suicidal intent in children aged 6 to 12 over two decades, highlighting urgent pediatric mental health concerns.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-september-9-2025/"
+    },
+    {
+      "headline": "CMS Launches Rural Health Transformation Program Website Ahead of September Applications",
+      "summary": "CMS unveiled its Rural Health Transformation Program website to improve rural healthcare quality, with program applications and introductory webinars scheduled for later this month.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    }
+  ]
+}
