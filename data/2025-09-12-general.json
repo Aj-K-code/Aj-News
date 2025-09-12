@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Third earthquake strikes southeastern Afghanistan as death toll surpasses 2,200",
+    "summary": "A third earthquake has hit southeastern Afghanistan within a week, raising the death toll to over 2,200 and leaving tens of thousands homeless, with rescue efforts complicated by cultural restrictions on interacting with women under Taliban rule.",
+    "source": "The New York Times via Havana Times",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-friday-september-5-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Canada 'evaluating' ties with Israel after Qatar attack: Anand",
+      "summary": "Canada is reassessing its diplomatic relations with Israel following a major attack in Qatar, signaling potential shifts in international alliances and foreign policy dynamics.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11394582/global-news-morning-headlines-friday-september-5-2025"
+    },
+    {
+      "headline": "NATO chief condemns Russia's 'absolutely reckless' drone incursion in Poland",
+      "summary": "The NATO Secretary-General criticized a recent Russian drone attack inside Poland as a dangerous escalation, prompting discussions around European security and NATO's collective defense measures.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11394582/global-news-morning-headlines-friday-september-5-2025"
+    },
+    {
+      "headline": "Charlie Kirk assassinated at Utah campus amid rising U.S. political violence",
+      "summary": "Political commentator Charlie Kirk was fatally shot on a university campus in Utah, highlighting growing concerns over political violence and security in the United States.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11394582/global-news-morning-headlines-friday-september-5-2025"
+    }
+  ]
+}

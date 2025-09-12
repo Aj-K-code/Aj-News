@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS launches Rural Health Transformation Program website with application details",
+    "summary": "On September 3, 2025, CMS released a dedicated website for the Rural Health Transformation Program (RHTP), setting out strategic goals and application timelines that aim to improve healthcare quality in rural areas, with applications opening mid-September.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "HHS announces increased enforcement action against healthcare information blocking",
+      "summary": "The Department of Health and Human Services declared a renewed enforcement focus on entities obstructing patient access to electronic health information, emphasizing adherence to existing information blocking rules to improve data flow and patient care.",
+      "source": "American Medical Association (AMA)",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/sept-12-2025-national-advocacy-update"
+    },
+    {
+      "headline": "European Health Data Space initiative to boost AI-driven healthcare innovation in the EU",
+      "summary": "The newly launched European Health Data Space will create the world's largest virtual healthcare database to facilitate cross-border health data sharing and foster AI-based healthcare tools development, aiming to enhance research and innovation by the end of 2028.",
+      "source": "Bio-IT World",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.bio-itworld.com/news/2025/09/12/how-the-new-european-health-data-space-will-drive-the-development-of-ai-based-tools"
+    }
+  ]
+}
