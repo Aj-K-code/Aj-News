@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Brazil's ex-President Jair Bolsonaro sentenced to 27 years for coup plot",
+    "summary": "Jair Bolsonaro, Brazil's former president, received a 27-year prison sentence for his involvement in a coup plot, marking a significant moment in addressing political extremism and upholding democratic institutions in Latin America.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-13-top-national-world-sports-updates-9268778"
+  },
+  "stories": [
+    {
+      "headline": "UN Security Council, including US, condemns Israeli strike in Qatar",
+      "summary": "The UN Security Council expressed unified condemnation, including from the US, of the recent Israeli strike in Qatar, underscoring ongoing regional tensions and the international community's concern over escalating conflicts in the Middle East.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-13-top-national-world-sports-updates-9268778"
+    },
+    {
+      "headline": "Albania PM introduces AI-generated virtual minister 'Diella' to fight corruption",
+      "summary": "Albania's Prime Minister launched 'Diella,' an AI-generated virtual minister, as an innovative approach to combat corruption and increase government transparency, reflecting growing integration of AI in governance.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-13-top-national-world-sports-updates-9268778"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA greenlights clinical trials for pig kidney transplants in humans after successful procedures at Mass General",
+    "summary": "Following three successful pig kidney transplants into humans at Massachusetts General Hospital, the FDA has authorized expanded clinical trials, marking a major step toward addressing organ shortages.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://abcnews.go.com/Health/pig-kidney-transplants-expanded-humans-fda-green-light/story?id=103562783"
+  },
+  "stories": [
+    {
+      "headline": "Florida announces plan to end school vaccine mandates, sparking expert concerns",
+      "summary": "Florida's new policy to remove school vaccine mandates is expected to increase illnesses and hospitalizations, raising concerns among healthcare experts about potential public health risks.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://abcnews.go.com/Health/florida-ending-vaccine-mandates-mean-us/story?id=103561209"
+    },
+    {
+      "headline": "Minnesota launches Center for Health Care Affordability task force to address rising costs",
+      "summary": "Minnesota has initiated a new task force focused on improving healthcare affordability, aiming to tackle rising medical costs and enhance access for residents.",
+      "source": "Minnesota Department of Health",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.health.state.mn.us/news/pressrel/2025/09/03taskforce.html"
+    }
+  ]
+}
