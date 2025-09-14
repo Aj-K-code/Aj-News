@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "China's newest aircraft carrier, Fujian, sails through the Taiwan Strait for the first time",
+    "summary": "China's navy conducted a significant display of naval power by sailing its newest aircraft carrier, Fujian, through the strategically critical Taiwan Strait, signaling heightened regional military tensions with implications for global security dynamics.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/chinas-newest-aircraft-carrier-sails-taiwan-strait/story?id=103456789"
+  },
+  "stories": [
+    {
+      "headline": "Israel carries out deadly airstrike on senior Hamas leaders in Doha amid ceasefire talks",
+      "summary": "Israel launched an airstrike targeting senior Hamas leaders in Qatar during ongoing ceasefire negotiations, challenging diplomatic efforts and escalating regional tensions.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11404317/israel-hamas-leadership-qatar/"
+    },
+    {
+      "headline": "U.S. President Donald Trump signals plans for tougher sanctions on Russia amid Ukraine conflict",
+      "summary": "President Trump indicated intentions to impose stringent sanctions on Russia as hostilities in Ukraine continue, marking a shift in U.S. policy with potential geopolitical and economic consequences.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11346104/trump-russia-ukraine-meeting-deadline-fault/"
+    }
+  ]
+}

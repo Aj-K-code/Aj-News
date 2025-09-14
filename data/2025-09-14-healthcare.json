@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Rural Health Transformation Program Website Ahead of Application Window",
+    "summary": "CMS released detailed information about its Rural Health Transformation Program through a new website, setting the stage for applications opening mid-September, which aims to improve rural healthcare quality and outcomes, a critical effort addressing health disparities in underserved areas.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "350 Healthcare Stakeholders Urge Congress to Extend Medicare Telehealth Access Before September Deadline",
+      "summary": "A coalition of 350 healthcare organizations called on Congress to extend Medicare telehealth access beyond its September 2025 expiration to maintain continuity of care for seniors, emphasizing telehealth as a vital lifeline especially for rural and underserved populations.",
+      "source": "Alliance for Connected Care",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://connectwithcare.org/alliance-for-connected-care-leads-350-health-care-stakeholders-urging-congress-to-extend-medicare-telehealth-access-before-september-2025-deadline/"
+    }
+  ]
+}
