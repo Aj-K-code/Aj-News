@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "NATO launches \u2018Eastern Flank\u2019 defense after Russian drones enter Poland",
+    "summary": "NATO has initiated new defense measures on its Eastern Flank in response to Russian drone incursions into Poland, signaling heightened security concerns in Eastern Europe and an escalation in NATO-Russia tensions.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11403676/global-news-at-6-toronto-september-8-2025"
+  },
+  "stories": [
+    {
+      "headline": "Canada announces $80 million tariff relief for Atlantic Canadian businesses",
+      "summary": "Prime Minister Mark Carney pledges significant federal funding to mitigate the impact of prolonged tariffs on Atlantic Canada\u2019s economy, aiming to stabilize local businesses and regional trade.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/11402738/carney-tariff-relief-fund-atlantic-canada/"
+    },
+    {
+      "headline": "Six killed in Jerusalem bus stop shooting amid Israel-Gaza conflict escalation",
+      "summary": "Two Palestinian gunmen attacked a Jerusalem bus stop killing six Israelis before being killed themselves, intensifying conflict tensions as Israel vows a strong response against Hamas.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11402738/carney-tariff-relief-fund-atlantic-canada/"
+    }
+  ]
+}

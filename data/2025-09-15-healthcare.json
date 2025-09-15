@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "URAC Launches First-of-its-Kind Health Care AI Accreditation Program",
+    "summary": "URAC announced the launch of its Health Care Artificial Intelligence (AI) Accreditation program on September 15, 2025, providing a framework for safe, ethical, and responsible AI use and development in healthcare.",
+    "source": "URAC",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Tech",
+    "url": "https://www.urac.org/blog/urac-health-care-ai-accreditation-launches-september-15/"
+  },
+  "stories": [
+    {
+      "headline": "Home Control Announces Strategic Expansion Into Healthcare Sector Leveraging AIoT and Web3 Technologies",
+      "summary": "Home Control declared a strategic expansion into the healthcare sector on September 12, 2025, aiming to utilize multi-disciplinary technologies including AIoT and Web3, potentially boosting company valuation.",
+      "source": "PR Newswire",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.prnewswire.com/apac/news-releases/home-control-1747hk-announces-strategic-expansion-into-healthcare-sector-leveraging-multi-disciplinary-technologies-which-might-include-aiot-web3-expecting-a-potential-increase-in-valuation-302555963.html"
+    },
+    {
+      "headline": "Global 2025 World Sepsis Day on September 15 Highlights Ongoing Fight Against Sepsis",
+      "summary": "The 2025 World Sepsis Day event on September 15 in Geneva focuses on raising sepsis awareness globally, emphasizing its devastating impact affecting nearly 49 million people annually and disproportionately vulnerable groups.",
+      "source": "Global Sepsis Alliance",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.worldsepsisday.org/news/2025/9/8/join-us-in-geneva-on-september-15-for-our-2025-world-sepsis-day-event"
+    }
+  ]
+}
