@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel Conducts Deadly Airstrike on Hamas Leaders in Doha Amid Ceasefire Talks",
+    "summary": "Israel launched a lethal airstrike targeting senior Hamas leaders in Doha, Qatar, where ceasefire negotiations were underway, significantly impacting Middle East diplomacy and US-Israel relations.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11404317/israel-hamas-leadership-qatar/"
+  },
+  "stories": [
+    {
+      "headline": "Russia Holds Major 'Zapad' War Games in Belarus Amid NATO Tensions",
+      "summary": "Russia commenced large-scale military exercises 'Zapad' in Belarus, raising geopolitical tensions with NATO and signaling continued military posturing in Eastern Europe.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "UK Drops Charges Against Two Men Accused of Spying for China",
+      "summary": "British authorities have dropped spying charges against two men accused of acting on behalf of China, highlighting ongoing espionage concerns and diplomatic sensitivities.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "North Korean Defector Kim Seong-Min Dies, Known for Broadcasting Truth to North Korea",
+      "summary": "Renowned North Korean defector Kim Seong-Min, who played a key role in informing North Koreans via radio broadcasts, USB sticks, and networks, has passed away, marking the loss of a key voice against the regime.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}

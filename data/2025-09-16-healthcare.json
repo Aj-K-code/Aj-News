@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS launches initiative to verify citizenship and immigration status of Medicaid and CHIP enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) announced a new oversight initiative to verify the citizenship and immigration status of individuals enrolled in Medicaid and CHIP, aiming to ensure program integrity and compliance.",
+    "source": "Alston & Bird Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-cms-6270603/"
+  },
+  "stories": [
+    {
+      "headline": "House Committee advances 7% cut to Labor, Health and Human Services funding bill",
+      "summary": "The House Committee on Appropriations moved forward a funding bill reducing Labor, Health and Human Services appropriations by 7%, totaling $184.5 billion, impacting health programs and services amid looming government funding deadlines.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-9-2025"
+    },
+    {
+      "headline": "Rise in poison center calls tied to self-harm among preteens alarms healthcare providers",
+      "summary": "Data indicates a 311% increase in poison center calls related to suspected self-harm or suicidal intent among children aged 6 to 12 from 2000 to 2023, highlighting growing mental health challenges in younger populations.",
+      "source": "MedPage Today",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-september-9-2025/"
+    }
+  ]
+}
