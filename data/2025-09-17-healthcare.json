@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "55% of Health Care Workers Seeking New Roles Amid Retention Crisis",
+    "summary": "A recent survey highlights significant workforce instability in healthcare, with over half of employees considering a new role due to burnout, pay concerns, and limited career growth opportunities, underscoring a major challenge for healthcare organizations.",
+    "source": "Medical Economics",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Business",
+    "url": "https://www.medicaleconomics.com/view/55-of-health-care-workers-eyeing-new-roles-amid-retention-crisis-survey-finds"
+  },
+  "stories": [
+    {
+      "headline": "World Patient Safety Day 2025: 'Patient Safety from the Start!'",
+      "summary": "World Patient Safety Day 2025 focuses on 'Safe care for every newborn and every child,' emphasizing the need for urgent action to eliminate harm in pediatric care and promote global awareness and collaboration.",
+      "source": "World Health Organization",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.who.int/news-room/events/detail/2025/09/17/default-calendar/world-patient-safety-day--17-september-2025--patient-safety-from-the-start"
+    }
+  ]
+}

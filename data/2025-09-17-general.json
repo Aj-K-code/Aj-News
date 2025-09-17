@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel strikes Gaza and Yemen\u2019s Hodeidah port targeting Houthi bases amid escalating Middle East tensions",
+    "summary": "Israel has conducted significant military strikes in Gaza and Yemen\u2019s crucial Hodeidah port aimed at Houthi militia bases, signaling a broader regional escalation with implications for Middle East stability and global security.",
+    "source": "The Daily Guardian",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://thedailyguardian.com/?p=658604"
+  },
+  "stories": [
+    {
+      "headline": "North Korea bans words like 'Hamburgers' and 'Ice Cream' to curb foreign cultural influence",
+      "summary": "In a move to reinforce ideological control, North Korea has banned several foreign food-related words including 'Hamburgers' and 'Ice Cream,' reflecting ongoing efforts to limit Western cultural impact on its population.",
+      "source": "The Daily Guardian",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://thedailyguardian.com/?p=658604"
+    },
+    {
+      "headline": "US confirms TikTok deal, marking the Chinese app safe from a US ban",
+      "summary": "The US government has confirmed a deal that will allow TikTok, a Chinese-owned social media app, to remain operational in the US, signaling a significant development in US-China tech relations.",
+      "source": "The Daily Guardian",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://thedailyguardian.com/?p=658604"
+    },
+    {
+      "headline": "China fires water cannons at Philippine ships, escalating South China Sea tensions near Scarborough Shoal",
+      "summary": "China's use of water cannons on Philippine vessels near Scarborough Shoal marks a sharp rise in maritime confrontations, exacerbating regional security tensions in the geopolitically sensitive South China Sea.",
+      "source": "The Daily Guardian",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://thedailyguardian.com/?p=658604"
+    }
+  ]
+}
