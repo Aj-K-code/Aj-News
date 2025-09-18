@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Israeli military launches major ground offensive in Gaza City amid UN genocide claims",
+    "summary": "The Israeli Defense Forces began a ground invasion in Gaza City as a U.N. report accused Israeli forces of committing genocide, escalating the conflict with significant humanitarian implications.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/story?id=99900018"
+  },
+  "stories": [
+    {
+      "headline": "FBI charges suspect with aggravated murder in Charlie Kirk assassination",
+      "summary": "Authorities have charged a suspect with aggravated murder for the politically motivated assassination of conservative activist Charlie Kirk, amid growing concerns about political violence in the U.S.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11500000/charlie-kirk-assassination-suspect-charged/"
+    },
+    {
+      "headline": "Pope Leo XIV expresses prayers for Charlie Kirk and his family",
+      "summary": "The Pope conveyed his prayers for Charlie Kirk and his family during a new U.S. ambassador meeting, highlighting global recognition of the assassination's impact.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://abcnews.go.com/International/story?id=99900123"
+    }
+  ]
+}

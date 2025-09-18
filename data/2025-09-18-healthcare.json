@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Committee Advances HHS Funding Bill with Key mRNA Project Funding Retained",
+    "summary": "The House Appropriations Committee passed the Labor, HHS, Education funding bill, maintaining funding for mRNA projects and prohibiting funding for the WISeR Model, signaling ongoing federal priorities and legislative complexities in healthcare funding.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-16-2025"
+  },
+  "stories": [
+    {
+      "headline": "340B ACCESS Act Introduced to Restore Integrity in Drug Pricing Program",
+      "summary": "Legislation introduced in the House aims to enhance transparency and patient affordability in the 340B drug pricing program, responding to concerns about taxpayer costs and patient benefit.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-16-2025"
+    },
+    {
+      "headline": "CDC to Host Webinar on Rising Drug-Resistant Candida Infections",
+      "summary": "The CDC will discuss increasing antifungal resistance in Candida auris and Candida parapsilosis, providing updated testing and treatment recommendations important for infection control.",
+      "source": "SafeNet Alliance",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-september-11/"
+    }
+  ]
+}
