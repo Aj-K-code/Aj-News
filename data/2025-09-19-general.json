@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Brazil\u2019s Supreme Court sentences former President Jair Bolsonaro to 27 years in prison",
+    "summary": "Brazil's highest court has sentenced former President Jair Bolsonaro to over 27 years in prison, marking a significant legal and political development with broad implications for regional stability and democratic accountability.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org"
+  },
+  "stories": [
+    {
+      "headline": "Canada and Mexico agree to deepen strategic partnership",
+      "summary": "Canada and Mexico have announced plans to enhance their strategic partnership, focusing on economic cooperation and regional stability, which could reshape North American trade dynamics.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/video/11417632/global-national-sept-12-3"
+    },
+    {
+      "headline": "National Guard to deploy in Memphis amid ongoing crime concerns",
+      "summary": "President Trump has ordered the deployment of National Guard troops to Memphis to address crime issues, despite the city's crime rate reportedly declining, highlighting tensions in urban security policies.",
+      "source": "CBS Evening News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=qPTHTvoPth4"
+    }
+  ]
+}

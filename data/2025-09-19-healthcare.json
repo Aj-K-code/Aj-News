@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Over 700 Healthcare Facilities at Risk Amid Rising Costs and Workforce Shortages",
+    "summary": "Financial pressures from rising operational costs, insufficient Medicare and Medicaid reimbursements, and workforce shortages put over 700 healthcare facilities, especially in rural areas, at risk of closure, threatening access to care nationwide.",
+    "source": "101 West via This Week in Public Health",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://thisweekinpublichealth.com/blog/2025/09/12/next-week-in-public-health-september-12-2025/"
+  },
+  "stories": [
+    {
+      "headline": "350 Health Care Stakeholders Urge Congress to Extend Medicare Telehealth Access Before September 2025 Deadline",
+      "summary": "A coalition of 350 healthcare organizations is calling on Congress to extend Medicare telehealth flexibilities beyond their expiration in September 2025 to ensure continuity of care for seniors, particularly in rural and underserved areas.",
+      "source": "Alliance for Connected Care",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://connectwithcare.org/alliance-for-connected-care-leads-350-health-care-stakeholders-urging-congress-to-extend-medicare-telehealth-access-before-september-2025-deadline/"
+    }
+  ]
+}
