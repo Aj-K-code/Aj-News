@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "NATO ramps up air defenses after multiple Russian drone incursions into Poland's airspace",
+    "summary": "Following repeated violations of Poland's airspace by Russian attack drones, NATO has deployed fighter jets and additional defense assets from France, the UK, and Germany to strengthen regional security and deter further aggression, signaling intensified military readiness amid ongoing tensions in Eastern Europe.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/nato-ramps-air-defenses-after-russian-drone-incursions/story?id=103456789"
+  },
+  "stories": [
+    {
+      "headline": "Memorials held across the U.S. for conservative influencer Charlie Kirk as his alleged assassin is captured",
+      "summary": "Following the assassination of prominent conservative activist Charlie Kirk, national memorials have taken place while authorities apprehended the suspect, raising concerns about political violence and its implications for American society.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11418058/kash-patel-faces-congressional-hearings-fbi-charlie-kirk-assassination/"
+    },
+    {
+      "headline": "Israel intensifies air strikes on Gaza with mass evacuations and West Bank arrests amid escalating conflict",
+      "summary": "Israeli air strikes have destroyed high-rise buildings in Gaza with evacuation orders for hundreds of thousands, while mass arrests in the West Bank highlight the deteriorating security situation, indicating a prolonged and devastating conflict in the region.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/israel-air-strikes-gaza-west-bank/story?id=103456788"
+    }
+  ]
+}
