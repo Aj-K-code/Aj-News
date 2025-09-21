@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Independent UN inquiry finds Israel committing genocide in Gaza",
+    "summary": "A recent independent United Nations inquiry concluded that Israel's military actions in Gaza constitute genocide, raising urgent calls for international intervention and accountability amid escalating humanitarian crises.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11424666/global-national-sept-14-3/"
+  },
+  "stories": [
+    {
+      "headline": "Bank of Canada cuts key interest rate by a quarter-point to 2.5%",
+      "summary": "The Bank of Canada lowered its key interest rate to 2.5%, signaling efforts to balance economic growth amidst inflation concerns, potentially affecting borrowing costs and consumer spending.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/11432290/bank-of-canada-rate-decision-september-2025/"
+    },
+    {
+      "headline": "Poland demands UN Security Council action following Russian drone incursions",
+      "summary": "Poland called for urgent preventative measures at the UN Security Council after multiple reported Russian drone violations of its airspace, raising tensions around Ukraine and broader European security.",
+      "source": "YouTube - Weekend News Headlines",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=Vb23lYjGc90"
+    }
+  ]
+}
