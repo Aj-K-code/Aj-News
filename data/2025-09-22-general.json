@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Canada, UK, Australia officially recognize Palestinian state amid ongoing Israel-Gaza conflict",
+    "summary": "In a significant diplomatic shift, Canada, the United Kingdom, and Australia have formally recognized Palestine as a state, challenging Israel and the U.S. and intensifying debates on Middle East peace efforts while heavy conflict continues in Gaza.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11425201/global-news-morning-headlines-monday-september-15-2025"
+  },
+  "stories": [
+    {
+      "headline": "Elon Musk\u2019s Starlink satellite internet suffers global outage affecting tens of thousands including Ukrainian military",
+      "summary": "Starlink, critical for communications including Ukraine\u2019s military operations, experienced a widespread outage, highlighting vulnerabilities in satellite internet infrastructure amid ongoing geopolitical tensions.",
+      "source": "Havana Times",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-15-2025/"
+    },
+    {
+      "headline": "Ukrainian drones attack major Russian oil refinery; Russia\u2019s aggression extends into NATO airspace",
+      "summary": "Ukrainian forces struck the Kirishi oil refinery in Russia\u2019s Leningrad region causing a significant fire, while Russian drones crossed into Romanian and Polish airspace, escalating military tensions in Eastern Europe.",
+      "source": "Havana Times",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-september-15-2025/"
+    }
+  ]
+}
