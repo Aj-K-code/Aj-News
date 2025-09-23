@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "United Nations Commission Accuses Israel of Committing Genocide Against Palestinians",
+    "summary": "The UN Independent International Commission of Inquiry on the Occupied Palestinian Territory reported that Israel has committed genocide against Palestinians, prompting global calls for accountability amid ongoing conflict.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11430683/israel-committing-genocide-in-gaza-un-commission/"
+  },
+  "stories": [
+    {
+      "headline": "U.S. Treasury Secretary Announces Framework Deal on TikTok with China",
+      "summary": "The U.S. and China have reached a framework agreement on the future of TikTok, expected to be finalized after President Trump\u2019s upcoming discussion with the Chinese leader, addressing key issues around tech security and international relations.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://abcnews.visitlink.me/59aJ1G"
+    },
+    {
+      "headline": "U.S. Military Destroys Venezuelan Drug-Smuggling Boat in Caribbean",
+      "summary": "The U.S. military intercepted and destroyed a suspected Venezuelan drug-smuggling vessel in the Caribbean, continuing efforts to combat transnational narcotics trafficking affecting regional and global security.",
+      "source": "NBC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.nbcnews.com"
+    },
+    {
+      "headline": "Robert Redford Dies at Age 89, Leaving a Lasting Legacy Beyond Entertainment",
+      "summary": "Robert Redford, iconic actor and environmentalist known for his pioneering contributions to film and activism, passed away at 89, marking an end to a significant chapter in cultural history.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://globalnews.ca/news/11430683/israel-committing-genocide-in-gaza-un-commission/"
+    }
+  ]
+}

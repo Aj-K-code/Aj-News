@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Issues Draft Guidance to Accelerate Development of Non-Opioid Analgesics for Chronic Pain",
+    "summary": "The FDA released draft guidance outlining strategies to expedite safe and effective non-opioid pain treatments, aiming to reduce opioid misuse through more efficient drug development trials and meaningful outcome measures.",
+    "source": "FHP Strategies",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://fhpstrategies.com/health-care-watch/9-8-2025-1"
+  },
+  "stories": [
+    {
+      "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) announced a new initiative to verify citizenship and immigration status of individuals enrolled in Medicaid and CHIP to ensure eligibility compliance and integrity of these programs.",
+      "source": "JD Supra",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-cms-6270603/"
+    },
+    {
+      "headline": "House Appropriations Committee Advances HHS Funding Bill with mRNA Project Support",
+      "summary": "The House Appropriations Committee approved the HHS funding bill which maintains support for mRNA research projects and includes bipartisan provisions affecting healthcare funding, signaling ongoing federal investment in advanced therapeutic areas.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-16-2025"
+    },
+    {
+      "headline": "States Expand Antitrust Oversight on Healthcare Mergers Targeting Private Equity",
+      "summary": "Several US states have enacted or proposed new laws to increase antitrust scrutiny of healthcare mergers and acquisitions involving private equity firms, aiming to protect competition and limit profiteering in healthcare markets.",
+      "source": "Texas Health Law Highlights",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://texashealthlaw.com/wades-health-law-highlights-for-september-16-2025/"
+    }
+  ]
+}
