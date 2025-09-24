@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "HHS Announces New Actions to Improve Long COVID Care",
+    "summary": "The Department of Health and Human Services revealed multiple initiatives including educational campaigns and a new online platform to enhance clinical care and research sharing for long COVID patients, addressing an ongoing public health challenge.",
+    "source": "American Hospital Association News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.aha.org/news/headline/2025-09-19-hhs-announces-efforts-improve-long-covid-care"
+  },
+  "stories": [
+    {
+      "headline": "FDA Issues Global Recall of Olympus ViziShot 2 FLEX Needles",
+      "summary": "The FDA announced a global recall of Olympus ViziShot 2 FLEX needles manufactured before May 12 due to safety concerns, critical for providers using these devices in diagnostic procedures.",
+      "source": "American Hospital Association News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-19-fda-global-recall-olympus-vizishot-2-flex-needles"
+    },
+    {
+      "headline": "ACIP Recommends Patients Consult Providers on COVID-19 Booster",
+      "summary": "The Advisory Committee on Immunization Practices advised individuals to consult healthcare providers regarding their COVID-19 booster eligibility amid ongoing changes in vaccine recommendations.",
+      "source": "American Hospital Association News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-19-acip-covid-booster-guidance"
+    },
+    {
+      "headline": "FDA Identifies Class I Recall for Mo-Vis BVBA R-net Joysticks",
+      "summary": "Due to a firmware error causing wheelchair joystick malfunctions, the FDA classified a recall for Mo-Vis BVBA R-net products as Class I, representing the highest risk level for patient safety.",
+      "source": "American Hospital Association News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-19-fda-class-i-recall-mo-vis-bvba-r-net-joysticks"
+    }
+  ]
+}

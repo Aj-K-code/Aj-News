@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel Intensifies Bombing of Gaza City Amid Large-Scale Evacuation",
+    "summary": "Israel has escalated its military offensive in Gaza City, ordering nearly 1 million residents to evacuate, resulting in dozens of civilian casualties and widespread destruction, with significant regional humanitarian and geopolitical implications.",
+    "source": "Havana Times",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-september-17-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Federal Reserve Cuts Interest Rates for the First Time This Year",
+      "summary": "The U.S. Federal Reserve has lowered interest rates, signaling a shift in monetary policy that may affect global financial markets and economies.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=_cGZ9M-HPs4"
+    },
+    {
+      "headline": "Multiple Officers Shot, At Least Three Fatally, During Warrant Service in Pennsylvania",
+      "summary": "A tragic shooting incident in York County, Pennsylvania, resulted in multiple police officers being shot and killed, raising concerns about law enforcement safety and community impacts.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=_cGZ9M-HPs4"
+    },
+    {
+      "headline": "Tropical Storm Gabrielle Forms in Atlantic with Potential to Strengthen",
+      "summary": "Tropical Storm Gabrielle has formed in the Atlantic Ocean, posing possible risks to coastal regions and prompting early preparedness efforts.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Science",
+      "url": "https://www.youtube.com/watch?v=_cGZ9M-HPs4"
+    }
+  ]
+}
