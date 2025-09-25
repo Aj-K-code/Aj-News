@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Indonesia and the European Union Sign Landmark Free Trade Agreement in Bali",
+    "summary": "After over nine years of negotiations, Indonesia and the EU finalized a free trade agreement removing tariffs and opening investments, significantly impacting global trade dynamics and economic relations.",
+    "source": "DW",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.dw.com/en/indonesia-eu-sign-free-trade-agreement/a-65672191"
+  },
+  "stories": [
+    {
+      "headline": "Typhoon Ragasa Causes Deadly Flooding in Taiwan and Disrupts Hong Kong Airport Operations",
+      "summary": "Typhoon Ragasa led to at least 14 deaths and 124 missing in Taiwan due to a barrier lake burst, while Hong Kong International Airport suspended all passenger flights for 36 hours, highlighting severe regional weather impacts.",
+      "source": "AFP via The Guardian",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.theguardian.com/world/2025/sep/24/typhoon-ragasa-flooding-taiwan-hong-kong-airport"
+    },
+    {
+      "headline": "Lithuania Authorizes Military to Shoot Down Unauthorized Drones Amid Russian Incursion Concerns",
+      "summary": "In response to recent unauthorized drone incursions linked to the Russia-Ukraine conflict, Lithuania's parliament now permits the military to shoot down any unauthorized drones entering its airspace to protect national security.",
+      "source": "Reuters",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.reuters.com/world/europe/lithuania-authorizes-shooting-down-unauthorized-drones-2025-09-23/"
+    }
+  ]
+}

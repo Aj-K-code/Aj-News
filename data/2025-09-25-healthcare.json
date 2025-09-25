@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Shionogi CEO and Bill Gates discuss Japan's role in global health innovation and infectious disease fight",
+    "summary": "At a major international event, Shionogi\u2019s CEO and Bill Gates highlighted Japan\u2019s scientific and technological contributions to tackling global infectious diseases and building sustainable healthcare models, emphasizing public-private partnerships and AI use for low- and middle-income countries.",
+    "source": "Shionogi Press Release",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Research",
+    "url": "https://www.shionogi.com/global/en/news/2025/09/20250925_2.html"
+  },
+  "stories": [
+    {
+      "headline": "UPMC in talks to acquire three Ohio hospitals amid healthcare consolidation",
+      "summary": "UPMC is reportedly negotiating the acquisition of three Ohio hospitals, reflecting ongoing industry consolidation efforts that may affect regional healthcare delivery and resource allocation.",
+      "source": "Becker's Hospital Review",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.beckershospitalreview.com/podcasts/podcasts-beckers-hospital-review/scott-becker-5-healthcare-news-stories-we-are-following-today-9-23-25/"
+    },
+    {
+      "headline": "Senate blocks House-passed continuing resolution, CMS launches Rural Health Transformation Program",
+      "summary": "The U.S. Senate blocked a continuing resolution passed by the House, while the Centers for Medicare & Medicaid Services (CMS) launched a new program aimed at transforming rural health delivery to improve access and outcomes.",
+      "source": "Alston & Bird Health Care Week in Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/09/health-care-week-in-review-september-19-2025"
+    }
+  ]
+}
