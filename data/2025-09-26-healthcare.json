@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "HHS announces efforts to improve long COVID care",
+    "summary": "The Department of Health and Human Services launched new initiatives including a public awareness campaign, an online platform for clinical collaboration, and released a report on health coverage to enhance care for individuals with long COVID, addressing a critical ongoing health challenge.",
+    "source": "American Hospital Association (AHA) News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.aha.org/news/headline/2025-09-19-hhs-announces-efforts-improve-long-covid-care"
+  },
+  "stories": [
+    {
+      "headline": "FDA issues global recall of Olympus ViziShot 2 FLEX needles manufactured before May 12",
+      "summary": "The FDA announced a global recall of Olympus ViziShot 2 FLEX needles due to safety concerns, directly impacting clinical practice and patient safety in procedures requiring these needles.",
+      "source": "American Hospital Association (AHA) News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-25-fda-recalls-olympus-vizishot-2-flex-needles"
+    },
+    {
+      "headline": "ACIP recommends consulting healthcare providers for COVID-19 vaccine updates",
+      "summary": "The Advisory Committee on Immunization Practices urged patients to consult healthcare providers regarding COVID-19 vaccination, reflecting ongoing updates in vaccine guidance essential for patient care.",
+      "source": "American Hospital Association (AHA) News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-19-acip-covid19-vaccine-recommendations"
+    },
+    {
+      "headline": "FDA recalls Mo-Vis BVBA R-net Joysticks due to critical firmware error",
+      "summary": "The FDA identified a Class I recall for Mo-Vis BVBA R-net joysticks used in wheelchairs because of a firmware error that compromises device functionality and patient safety.",
+      "source": "American Hospital Association (AHA) News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2025-09-25-fda-recalls-mo-vis-r-net-joysticks"
+    }
+  ]
+}
