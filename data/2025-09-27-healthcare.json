@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) has initiated a new program to verify the citizenship and immigration status of individuals enrolled in Medicaid and CHIP, aiming to reduce improper payments and ensure program integrity.",
+    "source": "Alston & Bird Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-cms-6270603/"
+  },
+  "stories": [
+    {
+      "headline": "Artera Receives FDA De Novo Authorization for AI-Powered Prostate Cancer Prognosis Tool",
+      "summary": "Artera obtained FDA De Novo clearance for ArteraAI Prostate, an AI-based software that predicts long-term outcomes and mortality risk for patients with non-metastatic prostate cancer using digital pathology images, potentially improving personalized patient care.",
+      "source": "MobiHealthNews via Open Loop Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://openloophealth.com/blog/recent-digital-health-trends-insight-and-news-september-2025"
+    },
+    {
+      "headline": "Study Finds Remote Patient Monitoring Detects Undiagnosed Atrial Fibrillation After Cardiac Surgery",
+      "summary": "A Brigham and Women's Hospital study revealed that wearable ECG patches using remote patient monitoring can identify atrial fibrillation events in nearly 40% of post-cardiac surgery patients, which were previously undetected after discharge, improving postoperative care and outcomes.",
+      "source": "HIT Consultant via Open Loop Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://openloophealth.com/blog/recent-digital-health-trends-insight-and-news-september-2025"
+    }
+  ]
+}

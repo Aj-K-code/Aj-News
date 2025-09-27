@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US President Donald Trump imposes 100% tariffs on branded and patented pharmaceutical imports starting October 1, 2025",
+    "summary": "The US has announced a steep tariff increase on pharmaceutical imports, significantly impacting India's pharma industry and potentially disrupting global drug supply chains and pricing.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Business",
+    "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-27-top-national-world-sports-updates-9352020"
+  },
+  "stories": [
+    {
+      "headline": "Israeli forces seize Gaza telecom systems to stream Prime Minister Netanyahu's UN speech",
+      "summary": "In a notable escalation, Israeli military forces seized Gaza's telecommunications infrastructure to broadcast Prime Minister Netanyahu's address at the United Nations, underscoring the intensifying conflict dynamics in the region.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-27-top-national-world-sports-updates-9352020"
+    },
+    {
+      "headline": "Protests and clashes erupt in Uttar Pradesh over 'I Love Muhammad' poster row",
+      "summary": "Tensions in India escalated with police using force against protestors after stone-pelting incidents linked to controversial posters, highlighting continuing regional religious and social conflicts with potential repercussions for domestic stability.",
+      "source": "NDTV",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-september-27-top-national-world-sports-updates-9352020"
+    }
+  ]
+}
