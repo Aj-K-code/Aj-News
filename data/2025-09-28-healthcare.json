@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches Initiative to Verify Citizenship and Immigration Status for Medicaid and CHIP Enrollees",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) launched a new initiative to verify the citizenship and immigration status of individuals enrolled in Medicaid and CHIP, signaling significant changes in eligibility verification that could impact enrollment and access to healthcare.",
+    "source": "Alston & Bird Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-cms-6270603/"
+  },
+  "stories": [
+    {
+      "headline": "FDA Rescinds Emergency Use Authorizations for COVID-19 Vaccines",
+      "summary": "The FDA officially revoked the remaining EUAs for COVID-19 vaccines, restricting broad access and recommending immunization only for individuals at higher risk of severe disease, while granting full marketing authorization for specific vaccines for certain age groups.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    },
+    {
+      "headline": "Congressional Debate Intensifies on 340B Drug Pricing Reforms and Medicare Advantage Payment Standards",
+      "summary": "Ongoing legislative discussions in Congress focus on reforming the 340B drug pricing program with a push towards a rebate system and advancing the Medicare Advantage Prompt Pay Act to ensure timely payments to healthcare providers, reflecting major policy changes with significant operational impacts.",
+      "source": "Paul Keckley Report / American Hospital Association News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://paulkeckley.com/the-keckley-report/2025/9/1/september-2025-for-healthcare-the-four-areas-of-focus-for-operators/"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Cyberattack Disrupts Major European Airports Over Several Days",
+    "summary": "A sustained cyberattack targeting electronic check-in and baggage systems significantly disrupted operations at major European airports in Brussels, Berlin, and London, exposing vulnerabilities in critical infrastructure and prompting urgent measures to restore normal airport functions.",
+    "source": "Global News / AnewZ",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/airport-cyberattack-2025"
+  },
+  "stories": [
+    {
+      "headline": "Canada Post Workers Return to Strike Amid Financial Restructuring",
+      "summary": "Canada Post workers resumed strike action as the corporation implements sweeping changes to ensure financial sustainability, raising concerns about potential disruptions to mail services for millions of Canadians.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/canada-post-strike-2025"
+    },
+    {
+      "headline": "Drones Disrupt Airports and Military Bases in Denmark and Norway",
+      "summary": "Governments in Europe investigate unauthorized drone incursions over airports and military facilities in Denmark and Norway, prompting security concerns and debates about NATO\u2019s role in addressing aerial threats.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/drone-incursions-denmark-norway-2025"
+    }
+  ]
+}
