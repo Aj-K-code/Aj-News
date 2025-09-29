@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "California passes AB 260 to enhance privacy protections for mailed abortion medications",
+    "summary": "The California Legislature passed AB 260 allowing prescribers to anonymously mail abortion drugs by omitting their names, patients, and pharmacy information from labels, strengthening protections against legal actions related to abortion pill delivery.",
+    "source": "NPR",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://home.nuhw.org/2025/09/22/news-of-the-month-september-2025/"
+  },
+  "stories": [
+    {
+      "headline": "CMS launches Rural Health Transformation Program website detailing funding and application process",
+      "summary": "On September 3, CMS launched the Rural Health Transformation Program website, detailing strategic goals and eligibility, with applications and webinars opening in late September, aiming to improve healthcare quality in rural areas.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    },
+    {
+      "headline": "FDA rescinds remaining COVID-19 vaccine EUAs, shifting focus to authorized vaccinations for high-risk individuals",
+      "summary": "The FDA revoked remaining emergency use authorizations for COVID-19 vaccines, limiting broad access and focusing on authorized vaccines for high-risk groups, impacting vaccination protocols and patient consultations.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-3-2025"
+    }
+  ]
+}
