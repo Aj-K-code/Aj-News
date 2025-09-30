@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Critical Medicare Telehealth Flexibilities Set to Expire on September 30, 2025, Threatening Access and Innovation",
+    "summary": "The expiration of COVID-era Medicare telehealth waivers on September 30, 2025, risks reducing virtual care access for millions, potentially rolling back critical innovations in healthcare delivery unless Congress acts swiftly.",
+    "source": "Center for Telehealth and eHealth Law (CTeL)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.ctel.org/breakingnews/the-digital-health-cliff-why-a-september-2025-deadline-threatens-the-future-of-healthcare"
+  },
+  "stories": [
+    {
+      "headline": "AMA Advocacy Secures Extended Enrollment Flexibility for Medicare Patients and Highlights Upcoming Telehealth Deadline",
+      "summary": "The AMA announced successful advocacy efforts leading to extended enrollment flexibility for Medicare patients and urged immediate Congressional action to prevent telehealth flexibilities from expiring September 30, which would severely restrict Medicare telehealth options.",
+      "source": "American Medical Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/sept-26-2025-national-advocacy-update"
+    },
+    {
+      "headline": "House Introduces 340B ACCESS Act Targeting Transparency and Patient Affordability in Drug Pricing Program",
+      "summary": "New legislation introduced by Reps. Carter and Harshbarger aims to reform the 340B drug pricing program by increasing transparency, enforcing patient affordability requirements, and restricting pharmacy benefit managers\u2019 profiteering, addressing taxpayer concerns and program integrity.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/09/holland-knight-health-dose-september-16-2025"
+    }
+  ]
+}
