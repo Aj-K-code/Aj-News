@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": " \u0420\u0424 Launches Drone and Missile Attack on Kyiv",
+    "summary": "Russia launched a drone and missile attack on Kyiv, resulting in several casualties and injuries, highlighting escalating tensions in the region.",
+    "source": "ABC News via School Assembly News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Typhoon Bualoi Kills 26 in Vietnam, Leaves 22 Missing",
+      "summary": "Typhoon Bualoi caused significant destruction in Vietnam, resulting in 26 deaths and 22 missing persons, with severe impacts on travel and infrastructure.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-1-october-2025/"
+    },
+    {
+      "headline": "Multiple People Shot at Mormon Church in Michigan, USA",
+      "summary": "A shooting incident occurred at a Mormon church in Michigan, with multiple people injured, prompting a response from emergency services.",
+      "source": "Free Job Alert",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.freejobalert.com/article/school-assembly-news-headlines-today-1st-october-2025-top-national-world-sports-and-business-news-19544"
+    },
+    {
+      "headline": "UAE Launches New Visit Visas for AI Experts and Entertainment Professionals",
+      "summary": "The UAE introduced new visa categories targeting AI specialists and entertainment professionals, aiming to attract global talent and enhance its economy.",
+      "source": "Leverage Edu",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Business",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-1-october-2025/"
+    }
+  ]
+}

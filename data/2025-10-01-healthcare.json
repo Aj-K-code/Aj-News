@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Medicare Telehealth Policy to Tighten Significantly on October 1, 2025",
+    "summary": "Starting October 1, Medicare will reinstate pre-pandemic restrictions on telehealth services, limiting coverage for audio-only visits and telehealth home-originated services, which could reduce access to virtual care and impact mental health and rural providers significantly.",
+    "source": "Cure / Telehealth Resource Center",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://wewillcure.com/insights/healthcare-news/telehealth-major-changes-october-1-2025"
+  },
+  "stories": [
+    {
+      "headline": "Cigna Implements New Evaluation & Management Downcoding Policy Beginning October 1, 2025",
+      "summary": "Cigna's new medical reimbursement policy will automatically downcode certain Evaluation & Management claims to enforce coding accuracy in alignment with AMA guidelines, affecting providers with higher-than-average coding patterns starting October 1.",
+      "source": "Cigna Healthcare / Provider Newsroom",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://providernewsroom.com/cigna-healthcare/new-reimbursement-policy-for-professional-evaluation-and-management-services-claims-effective-october-1-2025/"
+    },
+    {
+      "headline": "North Carolina Medicaid Providers Face Rate Reductions Effective October 1, 2025",
+      "summary": "Rate reductions mandated by the North Carolina Department of Health and Human Services will impact all LME/MCOs and providers across North Carolina starting October 1, potentially stressing provider operations and access to care.",
+      "source": "Alliance Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alliancehealthplan.org/provider-updates/upcoming-medicaid-rate-reductions-effective-october-1-2025/"
+    }
+  ]
+}
