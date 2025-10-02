@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US Government Shutdown Threatens Medicare, Telehealth Waivers, and Major Healthcare Programs",
+    "summary": "A federal shutdown beginning October 1, 2025, due to failed appropriations bills, has created immediate uncertainty for Medicare payments, lapsed COVID-era telehealth waivers, and raised concerns about disruptions to essential healthcare services and regulatory processes[1][5].",
+    "source": "McDermottPlus",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.mcdermottplus.com/blog/regs-eggs/a-government-shutdown-is-upon-us-what-this-means-for-healthcare-programs/"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Enters Day Two, CMS Issues Guidance and Contingency Plans for Providers",
+      "summary": "As the shutdown continues, CMS has activated contingency plans to address Medicare and other healthcare program operations, but providers face uncertainty around payments and the status of expired waivers critical to patient access[1].",
+      "source": "McDermottPlus",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/regs-eggs/a-government-shutdown-is-upon-us-what-this-means-for-healthcare-programs/"
+    },
+    {
+      "headline": "Senator Merkley Blames Republican Shutdown for Rising Healthcare Costs",
+      "summary": "Senator Jeff Merkley has publicly criticized the Republican-led shutdown, warning of possible sharp increases in health insurance premiums and reduced access to care for American families, while Democrats call for urgent solutions to mitigate the crisis[4].",
+      "source": "Quiver Quantitative",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.quiverquant.com/news/Press+Release:+Merkley+Criticizes+Republican+Shutdown+and+Impact+on+Healthcare+Costs"
+    },
+    {
+      "headline": "Cancer Programs News Highlights Upcoming ACS Clinical Congress and Educational Webinars",
+      "summary": "The American College of Surgeons Cancer Programs announced key dates for the Clinical Congress 2025 and a series of educational webinars on quality improvement, cancer staging, and lymphedema management, supporting ongoing professional development in oncology care[2].",
+      "source": "American College of Surgeons",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Research",
+      "url": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/cancer-programs-news/100225/"
+    }
+  ]
+}

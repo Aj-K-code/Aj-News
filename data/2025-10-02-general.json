@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US Government Shutdown Affects Indian Professionals",
+    "summary": "The US government shutdown significantly impacts Indian professionals, particularly those on H-1B visas or in the green card pipeline, due to suspended Department of Labor operations.",
+    "source": "Dynamite News",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.dynamitenews.com/national/read-the-top-news-headlines-for-thursday-2-october-in-one-click"
+  },
+  "stories": [
+    {
+      "headline": "Flotilla defies Italy, nears Gaza maritime blockade as Israel prepares interception operation during Yom Kippur",
+      "summary": "A flotilla of vessels carrying activists is approaching Gaza despite warnings, prompting Israel to prepare for interception operations.",
+      "source": "Leverage Edu",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-2-october-2025/"
+    },
+    {
+      "headline": "Elon Musk announces Grokipedia, a Wikipedia competitor powered by Grok AI",
+      "summary": "Elon Musk revealed plans for Grokipedia, a Wikipedia competitor using Grok AI, aiming to address bias and funding issues.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-2-october-2025/"
+    },
+    {
+      "headline": "Philippines responds to 6.9 magnitude Cebu earthquake with swift rescue operations and community support initiatives",
+      "summary": "Authorities and communities in Cebu are actively engaged in search, rescue, and relief efforts following a 6.9 magnitude earthquake.",
+      "source": "Leverage Edu",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-2-october-2025/"
+    }
+  ]
+}
