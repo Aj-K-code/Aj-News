@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "The Telehealth Policy Cliff: Preparing for October 1, 2025",
+    "summary": "The approaching telehealth policy cliff will significantly impact healthcare services as Medicare will no longer reimburse telehealth visits outside approved originating sites starting October 1, 2025, potentially worsening provider shortages and affecting patient access.",
+    "source": "Telehealth Resource Center",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://telehealthresourcecenter.org/resources/the-telehealth-policy-cliff-preparing-for-october-1-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Healthcare Not Authoritarianism Mass Call: Shutdown Showdown",
+      "summary": "The ongoing government shutdown has heightened tensions over healthcare costs and access, with advocacy groups calling for reforms to protect healthcare for working families amid political gridlock.",
+      "source": "Indivisible",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.youtube.com/watch?v=L-X6sedNLZ8"
+    },
+    {
+      "headline": "Shutdown Flashpoint is Healthcare",
+      "summary": "Healthcare has become a key flashpoint in the ongoing government shutdown, with Democrats and Republicans at odds over Medicaid funding and broader healthcare policies.",
+      "source": "Fox News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.foxnews.com/video/6380614566112"
+    }
+  ]
+}

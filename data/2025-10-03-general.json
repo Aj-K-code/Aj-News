@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "At least 69 killed by strong earthquake in the Philippines",
+    "summary": "A powerful earthquake struck the Philippines causing widespread casualties and damage, underscoring the region's vulnerability to seismic risks and the need for enhanced disaster preparedness.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11450000/philippines-earthquake-death-toll"
+  },
+  "stories": [
+    {
+      "headline": "5.0-magnitude earthquake shakes Istanbul, Turkey; residents evacuate buildings amid tremors centered in Marmara Sea",
+      "summary": "A moderate earthquake struck near Istanbul causing buildings to shake and residents to evacuate, prompting authorities to monitor for aftershocks along the Marmara faultline.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-3-october-2025/"
+    },
+    {
+      "headline": "Israel prevents aid flotilla from reaching Gaza amid intensified military operations",
+      "summary": "Israeli forces blocked an aid flotilla heading to Gaza amid escalating conflict, contributing to humanitarian concerns as intensified military actions continue in the region.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11460000/israel-blocks-gaza-aid-flotilla"
+    },
+    {
+      "headline": "South Korea pushes for Asian cooperation on trade amid global economic uncertainties",
+      "summary": "Prime Minister Kim Min-seok emphasized the importance of Asian joint responses to shifting trade dynamics, advancing free trade negotiations with regional partners to stabilize economic growth.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-3-october-2025/"
+    }
+  ]
+}
