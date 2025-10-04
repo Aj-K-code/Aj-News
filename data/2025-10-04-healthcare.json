@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Medicare to Restrict Telehealth Services Starting October 1, 2025",
+    "summary": "Medicare will require patients to be in a rural office or medical facility for most telehealth services from October 1, 2025, significantly restricting virtual care access and potentially impacting millions of patients and providers nationwide.",
+    "source": "Mayo Clinic Connect",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://connect.mayoclinic.org/discussion/medicare-to-stop-telehealth-services-october-1-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Federal Shutdown Threatens Funding for 1,500 Community Health Centers",
+      "summary": "The government shutdown starting October 1, 2025, risks severe financial challenges for federally funded health centers serving low-income populations, potentially forcing staff cuts, service reductions, or closures with increased strain on hospital emergency rooms.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-october-3-2025/"
+    },
+    {
+      "headline": "Phelps Health Plans $60M Expansion to Double Emergency Room Size in Rural Missouri",
+      "summary": "Amid closures of rural hospitals, Phelps Health in Rolla, Missouri, is investing $60 million to double its emergency room size with enhanced facilities, aiming to improve rural healthcare access and capacity by 2027.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-october-1-2025/"
+    }
+  ]
+}
