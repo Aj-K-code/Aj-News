@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Government shutdown impacts healthcare services and drug pricing efforts",
+    "summary": "The U.S. government shutdown beginning October 1, 2025, has led to significant disruptions in healthcare provisions, including expiration of Acute Hospital Care at Home waivers and CMS pausing new requests, while the White House continues pushing drug price reduction strategies amid tariff threats.",
+    "source": "National Law Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "CMS issues new Medicare Drug Price Negotiation Program guidance for third cycle",
+      "summary": "CMS released final guidance for the upcoming Medicare Drug Price Negotiation Program's third cycle, detailing changes and preparations critical for healthcare providers and pharma stakeholders.",
+      "source": "National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+    },
+    {
+      "headline": "New $100K H-1B visa fee sparks concern in healthcare systems nationwide",
+      "summary": "The introduction of a $100,000 fee for H-1B visa petitions poses significant challenges to U.S. healthcare providers reliant on skilled foreign workers, potentially affecting staffing and patient care.",
+      "source": "News 5 Cleveland",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.youtube.com/watch?v=IwKTJesmQHw"
+    },
+    {
+      "headline": "Medicaid managed care coverage updates roll out in Florida Healthy Kids program",
+      "summary": "Effective October 5, 2025, updates to Medicaid managed care coverage for the Florida Healthy Kids program aim to improve access and benefits, impacting providers and patients in the region.",
+      "source": "Simply Healthcare",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://providernews.simplyhealthcareplans.com/publications/october-2025-provider-newsletter-4785?filter=CD"
+    }
+  ]
+}

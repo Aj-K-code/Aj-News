@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Sanae Takaichi elected first female leader of Japan\u2019s ruling party, poised to become Japan\u2019s first female prime minister",
+    "summary": "Sanae Takaichi\u2019s election as leader of Japan\u2019s Liberal Democratic Party marks a historic milestone for gender representation in Japanese politics and signals potential shifts in Japan\u2019s domestic and foreign policies.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/story?id=1122333"
+  },
+  "stories": [
+    {
+      "headline": "Tens of thousands protest across Europe against Israel\u2019s war in Gaza following humanitarian aid blockade",
+      "summary": "Mass demonstrations in major European cities like Barcelona, Rome, and Lisbon highlight growing public opposition to the Gaza blockade and escalating tensions in the Israel-Gaza conflict.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-5-october-2025/"
+    },
+    {
+      "headline": "Matmo strengthens into a typhoon again, approaching southern China\u2019s Hainan province",
+      "summary": "Matmo has regained typhoon status after crossing the Philippines and is expected to bring heavy rain and strong winds to parts of southern China, potentially impacting millions and regional economies.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/matmo-strengthens-typhoon-china/story?id=1122471"
+    },
+    {
+      "headline": "Nepal imposes vehicle movement restrictions in Kathmandu amid heavy rainfall and landslide risks",
+      "summary": "Authorities restricted entry and exit in Kathmandu valley due to severe weather conditions, highlighting escalating concerns over climate-related hazards and infrastructure resilience in the region.",
+      "source": "Leverage Edu",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-5-october-2025/"
+    }
+  ]
+}
