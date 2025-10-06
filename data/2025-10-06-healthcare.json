@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Medicare Telehealth Changes Coming October 1, 2025, Threaten Access to Virtual Care",
+    "summary": "New Medicare policies starting October 1 will cut coverage for phone-only and many virtual visits, requiring in-person visits first and potentially reducing telehealth access for millions, especially impacting mental health and rural care where telehealth was a breakthrough.",
+    "source": "Cure",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://wewillcure.com/insights/healthcare-news/telehealth-major-changes-october-1-2025"
+  },
+  "stories": [
+    {
+      "headline": "Federal Government Shutdown Halts Some Health Services Amid Funding Deadlock",
+      "summary": "With federal funding expired as of October 1 and no stopgap budget passed, key health services including community health centers and graduate medical education programs face interruptions, exacerbating challenges for providers and patients.",
+      "source": "American Medical Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/oct-3-2025-advocacy-update-spotlight-government-shutdown"
+    },
+    {
+      "headline": "At Least 170 US Hospitals Face Major Flood Risk with Severe Storms",
+      "summary": "A new analysis highlights that over 170 U.S. hospitals, including psychiatric facilities, are at significant risk of flooding, threatening patient safety and continuity of care during extreme weather events worsened by climate change.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-oct-1-2025/"
+    }
+  ]
+}
