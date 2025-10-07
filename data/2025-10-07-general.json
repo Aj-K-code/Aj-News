@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "France Faces Political Turmoil as Prime Minister Resigns, Prompting Calls for Election",
+    "summary": "France's Prime Minister resigned, leading to the shortest government tenure in French history and sparking a leadership crisis amid economic and social concerns, with calls from politicians for President Macron to call an election or step down.",
+    "source": "SBS News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.sbs.com.au/news/podcast-episode/sbs-news-in-easy-english-7-october-2025/pj6h2owkh"
+  },
+  "stories": [
+    {
+      "headline": "Australian Leaders Commemorate Hamas\u2019s October 7 Attacks With Renewed Calls Against Terrorism",
+      "summary": "Australian Prime Minister Anthony Albanese honored the victims of Hamas's October 7 attacks that killed 1,200 Israelis and took 250 hostages, emphasizing the global importance of opposing terrorism unequivocally to uphold human rights and decency.",
+      "source": "SBS News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.sbs.com.au/news/podcast-episode/sbs-news-in-easy-english-7-october-2025/pj6h2owkh"
+    },
+    {
+      "headline": "Explosion Rocks Bronx Apartment Building in New York City, No Injuries Reported",
+      "summary": "A gas leak-related explosion caused significant structural damage at a Bronx apartment building but remarkably resulted in no injuries, highlighting concerns over urban infrastructure safety and emergency response.",
+      "source": "CBS Evening News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=sBeYw-WhWIM"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Federal Government Shuts Down, Disrupting Key Healthcare Programs",
+    "summary": "The federal government shutdown that began October 1, 2025, has halted non-essential services, caused the expiration of key healthcare provisions\u2014including the Acute Hospital Care at Home waiver\u2014and disrupted Medicare and Medicaid operations, creating widespread uncertainty for providers and patients nationwide[1].",
+    "source": "National Law Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "Telehealth Access Shrinks as Medicare Restrictions Return",
+      "summary": "Effective October 1, 2025, Medicare no longer covers most phone-only telehealth visits, reinstates pre-pandemic geographic and originating site restrictions, and requires in-person visits for some services\u2014changes likely to reduce access, particularly for rural and homebound patients, unless Congress intervenes[4][5].",
+      "source": "Cure",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://wewillcure.com/insights/healthcare-news/telehealth-major-changes-october-1-2025"
+    },
+    {
+      "headline": "CMS Releases Final Guidance for Medicare Drug Price Negotiation Program",
+      "summary": "CMS has issued final guidance for the third cycle of its Medicare Drug Price Negotiation Program, outlining procedural updates and preparing for the next round of drug price announcements amid ongoing White House pressure to lower pharmaceutical costs[1].",
+      "source": "National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+    },
+    {
+      "headline": "California Health Care System Reels From Federal Budget Cuts",
+      "summary": "California\u2019s health care system is facing major disruptions due to recent federal budget cuts to health care and social services, with clinics and providers\u2014especially those serving low-income populations\u2014warning of reduced access and increased strain on the state\u2019s safety net[2].",
+      "source": "Capitol Weekly",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://capitolweekly.net/events/healthcare25/"
+    }
+  ]
+}
