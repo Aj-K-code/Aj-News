@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Philippines Hit by Devastating 6.9 Magnitude Earthquake Killing at Least 69",
+    "summary": "A powerful 6.9 magnitude earthquake struck Cebu province in the Philippines, causing at least 69 deaths and over 150 injuries, exacerbating the region's vulnerability just days after typhoon evacuations, highlighting the country's ongoing challenges with natural disasters and the need for resilience and reconstruction efforts.",
+    "source": "Havana Times",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-october-1-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Optimism Grows Over Imminent Canada-US Trade Deal Following Oval Office Meeting",
+      "summary": "U.S. President Donald Trump and Canadian Prime Minister Mark Carney expressed optimism about concluding a trade agreement that could strengthen economic ties and market stability between the two nations.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/11467668/donald-trump-mark-carney-oval-office-meeting/"
+    },
+    {
+      "headline": "Marineland Beluga Whales Face Euthanasia Without Emergency Government Funding",
+      "summary": "Marineland, an Ontario amusement park, threatens to euthanize all 30 beluga whales due to financial distress, prompting urgent debates over animal welfare and government responsibility in conservation.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://globalnews.ca/news/11467668/donald-trump-mark-carney-oval-office-meeting/"
+    }
+  ]
+}

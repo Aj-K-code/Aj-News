@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Phelps Health in Rolla, Missouri to Double Emergency Room Size to Support Rural Care",
+    "summary": "Amid ongoing rural hospital closures, Phelps Health is investing $60 million to more than double its emergency department size by 2027, addressing critical gaps in rural emergency care in Missouri.",
+    "source": "St. Louis Public Radio",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://news.stlpublicradio.org/health-science-environment/2025-09-30/phelps-health-expands-emergency-room-in-rolla-to-aid-rural-care"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Impacts Medicare and Community Health Funding; Temporary Claims Hold Implemented",
+      "summary": "The 2025 partial federal government shutdown has caused lapses in funding for key health programs and enacted a 10-business-day temporary Medicare claims payment hold, potentially delaying reimbursements for physicians.",
+      "source": "American Medical Association",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/oct-3-2025-advocacy-update-spotlight-government-shutdown"
+    },
+    {
+      "headline": "Medicare Telehealth Waivers Expire Leading to Return of Pre-Pandemic Restrictions",
+      "summary": "As of October 1, 2025, Medicare reinstates pre-pandemic restrictions on telehealth services, limiting broad coverage for audio-only visits and requiring patients to be in approved geographic locations, impacting access for rural and federally qualified health centers.",
+      "source": "Telehealth Resource Center",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://telehealthresourcecenter.org/resources/the-telehealth-policy-cliff-preparing-for-october-1-2025/"
+    }
+  ]
+}
