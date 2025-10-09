@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "White House pushes drug pricing reforms amid government shutdown",
+    "summary": "The government shutdown starting October 1, 2025, has led to lapses in certain healthcare provisions, while the White House continues to advance drug pricing policies and negotiations aimed at reducing costs for patients nationwide.",
+    "source": "National Law Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "athenahealth launches AI-native EHR platform to streamline ambulatory care",
+      "summary": "athenahealth unveiled a next-generation AI-enabled electronic health record system designed to automate routine clinical tasks and enhance patient-centered care for ambulatory practices.",
+      "source": "Healthcare NOW Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2025/"
+    },
+    {
+      "headline": "Medbridge introduces AI-assisted One Care platform to enhance connected patient care",
+      "summary": "Medbridge launched an AI-powered hybrid care platform supporting movement-based medicine across various conditions, improving digital care delivery and patient outcomes.",
+      "source": "Healthcare NOW Radio",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2025/"
+    },
+    {
+      "headline": "Valant debuts AI-powered clinical notes feature for behavioral health providers",
+      "summary": "Valant introduced AI Notes Assist, a secure clinical notes tool that generates structured, clinically intelligent documentation from session transcripts to improve care quality and provider efficiency.",
+      "source": "Healthcare NOW Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-october-2025/"
+    }
+  ]
+}
