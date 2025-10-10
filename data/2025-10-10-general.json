@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Pentagon releases video of deadly U.S. strike on alleged Venezuelan drug smuggling boat",
+    "summary": "The Pentagon released a significant video showing a lethal strike on an alleged drug trafficking boat near Venezuela, marking the fourth confirmed U.S. attack on suspected drug vessels since early September, highlighting escalating U.S. military actions against drug cartels in the Caribbean region.",
+    "source": "ABC World News Tonight with David Muir",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/US/pentagon-releases-video-us-strike-alleged-drug-boat-venezuela/story?id=103123456"
+  },
+  "stories": [
+    {
+      "headline": "Hamas agrees to release remaining hostages if Israel stops bombing Gaza",
+      "summary": "Hamas has stated willingness to free all hostages provided Israel ceases its bombing campaign in Gaza, potentially paving the way for a ceasefire and impacting ongoing Middle East conflict dynamics.",
+      "source": "ABC World News Tonight with David Muir",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/hamas-agrees-release-hostages-israel-stop-bombing-gaza/story?id=103125334"
+    },
+    {
+      "headline": "Massive explosion and fire at largest refinery on U.S. West Coast",
+      "summary": "A significant explosion and fire broke out at the largest refinery on the U.S. West Coast, causing widespread disruption in fuel supplies and raising concerns over energy market stability on the West Coast.",
+      "source": "ABC World News Tonight with David Muir",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://abcnews.go.com/Business/massive-explosion-fire-largest-refinery-west-coast/story?id=103124987"
+    },
+    {
+      "headline": "Sean Combs sentenced to four years in prison for prostitution-related charges",
+      "summary": "Music mogul Sean Combs was sentenced to over four years in prison and fined $500,000 after conviction on two prostitution-related charges, drawing attention to legal accountability for high-profile figures in the U.S.",
+      "source": "ABC World News Tonight with David Muir",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://abcnews.go.com/Entertainment/sean-combs-sentenced-four-years-prison-prostitution-charges/story?id=103123890"
+    }
+  ]
+}

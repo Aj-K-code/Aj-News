@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Second Generic Mifepristone Approved Despite Conservative Backlash, Hours Before Federal Shutdown",
+    "summary": "The FDA approved a second generic version of the abortion pill mifepristone, a move with significant implications for reproductive healthcare access, coming just before a federal government shutdown that threatens key health programs.",
+    "source": "KFF Health News / Politico",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/friday-october-3-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Funding for Women, Infants, and Children (WIC) Nutrition Program Faces Imminent Risk During Shutdown",
+      "summary": "The federal government shutdown has put the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) at risk of running out of money within days, threatening essential nutrition assistance for millions of vulnerable families and forcing states to consider emergency measures to continue services.",
+      "source": "KFF Health News / The Washington Post",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-october-3-2025/"
+    },
+    {
+      "headline": "Medicaid DSH Cuts Take Effect as Congressional Delay Expires Amid Shutdown",
+      "summary": "Annual cuts of $8 billion to Medicaid Disproportionate Share Hospital payments, repeatedly delayed by Congress, have now begun due to the federal shutdown, forcing states to decide how to implement reductions while waiting for possible retroactive restoration.",
+      "source": "PYA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.pyapc.com/insights/washington-updates-october-3-2025-key-healthcare-impacts-of-the-federal-shutdown/"
+    },
+    {
+      "headline": "CMS Begins 10-Day Temporary Hold on Medicare Claims During Government Shutdown",
+      "summary": "CMS has instructed Medicare Administrative Contractors (MACs) to place a 10-day hold on all Medicare claims payments during the federal shutdown, which may cause short-term disruptions in provider payments and operational planning for physician practices.",
+      "source": "AMA",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/oct-3-2025-advocacy-update-spotlight-government-shutdown"
+    }
+  ]
+}
