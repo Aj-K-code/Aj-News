@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "NYU Langone-supported foundation donates $250,000 to rare liver disease research following child loss",
+    "summary": "The Jason Michael Brescia Foundation, supported by NYU Langone Hospital\u2015Long Island, donated $250,000 to Cold Spring Harbor Laboratory for infantile liver failure syndrome (ILFS-1) research, aiming to prevent similar tragedies and promote broader genetic testing.",
+    "source": "Long Island (NY) Herald via NYU Langone Health News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Research",
+    "url": "https://nyulangone.org/news/nyu-langone-health-news-monday-october-6-2025"
+  },
+  "stories": [
+    {
+      "headline": "US Government shutdown intensifies healthcare policy showdown",
+      "summary": "With the US government shutdown ongoing, healthcare emerges as a central issue obstructing legislative progress, impacting policy stability and causing uncertainty for healthcare providers and patients.",
+      "source": "ABC News In-depth",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.youtube.com/watch?v=ZYXylNO-jdg"
+    },
+    {
+      "headline": "CMS Administrator Oz addresses mixed reactions to Pfizer drug pricing deal in Medicaid",
+      "summary": "CMS Administrator Oz acknowledged concerns from Medicaid advocacy groups over the recent drug pricing deal with Pfizer, highlighting tensions between cost-saving initiatives and stakeholder trust.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/thursday-october-9-2025/"
+    }
+  ]
+}

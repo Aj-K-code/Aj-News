@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Venezuelan Opposition Leader Maria Corina Machado Wins Nobel Peace Prize",
+    "summary": "Maria Corina Machado has been awarded the Nobel Peace Prize for her efforts in promoting democracy and peaceful political transition in Venezuela, marking a significant moment in international recognition of her work.",
+    "source": "TIME",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://time.com/"
+  },
+  "stories": [
+    {
+      "headline": "Israel Pulls Back Troops as Gaza Ceasefire Takes Effect",
+      "summary": "A ceasefire between Israel and Hamas has been instituted, potentially reshaping regional dynamics and restoring hostages, with Ehud Barak attributing the success of the deal to Trump's diplomacy efforts.",
+      "source": "TIME",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://time.com/"
+    },
+    {
+      "headline": "China Intensifies Semiconductor Inspections, Restricting Nvidia Imports",
+      "summary": "China has increased inspections on semiconductor shipments, particularly restricting Nvidia chip imports, in an effort to reduce dependence on US technology and promote domestic tech development.",
+      "source": "Leverage Edu and Unspecified News Source",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-11-october-2025/"
+    },
+    {
+      "headline": "North Korea Displays New Long-Range Missile at Military Parade",
+      "summary": "North Korea showcased a new long-range missile during a military parade, escalating regional tensions and raising concerns among international observers.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
