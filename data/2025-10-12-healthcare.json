@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Government Shutdown Impacts Healthcare",
+    "summary": "The federal government shutdown has affected various healthcare provisions, including the expiration of certain waivers and potential delays in Medicare payment rules, which could have significant impacts on healthcare providers and patients.",
+    "source": "PYA",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.pyapc.com/insights/washington-updates-october-3-2025-key-healthcare-impacts-of-the-federal-shutdown/"
+  },
+  "stories": [
+    {
+      "headline": "Reductions in Force Begin at HHS Amid Shutdown",
+      "summary": "The Department of Health and Human Services has started implementing reductions in force due to the ongoing government shutdown, which could impact healthcare operations and staffing.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.fiercehealthcare.com/latest-news/government-shutdown-updates-reductions-in-force-begin-at-hhs-2025-10-10"
+    },
+    {
+      "headline": "Kaiser Permanente Lays Off 216 Employees",
+      "summary": "Kaiser Permanente has laid off 216 employees, reflecting broader challenges in the healthcare sector, including financial pressures and organizational restructuring.",
+      "source": "Fierce Healthcare",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.fiercehealthcare.com/latest-news/fierce-healthcare-layoff-tracker-kaiser-permanente-lays-off-216-2025-10-10"
+    }
+  ]
+}

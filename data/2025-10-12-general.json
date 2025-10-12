@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Ceasefire holds in Gaza after two years of conflict as hostages expected to be freed",
+    "summary": "Following a prolonged conflict, a ceasefire between Israel and Hamas is currently holding, with expectations of hostage releases ahead of a planned peace summit, raising hopes for a durable peace despite lingering uncertainties.",
+    "source": "Associated Press via NDTV",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/gaza-ceasefire-continues-but-many-unresolved-questions-remain-4482980"
+  },
+  "stories": [
+    {
+      "headline": "China accuses United States of double standards amid new 100% tariff announcement",
+      "summary": "China condemned the U.S. for imposing an additional 100% tariff on Chinese goods, escalating tensions in the ongoing trade dispute with significant implications for global economic stability.",
+      "source": "Agence France-Presse via NDTV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.ndtv.com/world-news/typical-example-of-double-standards-china-slams-us-over-extra-100-tariff-4483025"
+    },
+    {
+      "headline": "Deadly explosion at Tennessee explosives manufacturing plant kills 19 and injures several",
+      "summary": "A massive blast at an explosives factory near Nashville resulted in 19 missing persons and multiple injuries, triggering a large-scale investigation and causing widespread concern over industrial safety.",
+      "source": "Global News via YouTube",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=XaeJTKju8qw"
+    },
+    {
+      "headline": "Pakistan summons Afghan ambassador over joint India-Afghanistan statement",
+      "summary": "Pakistan formally expressed strong reservations by summoning the Afghan envoy following a joint statement during the Afghan president's visit to India, reflecting regional diplomatic tensions.",
+      "source": "Press Trust of India via NDTV",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/pakistan-summons-afghan-envoy-over-joint-statement-during-india-visit-4482967"
+    }
+  ]
+}
