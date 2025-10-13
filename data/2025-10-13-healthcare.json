@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Federal Government Shutdown Disrupts Key Healthcare Services and Policies",
+    "summary": "The government shutdown that began October 1, 2025, has caused significant disruptions to healthcare programs including the expiration of pandemic-era Medicare telehealth flexibilities and the halting of hospital-at-home services, creating challenges for providers and patients.",
+    "source": "Healthcare Roundtable, McDermott+",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-october-6-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Central Government Health Scheme Revises Package Rates for Empanelled Healthcare Organisations",
+      "summary": "Effective October 13, 2025, the Central Government Health Scheme has introduced revised treatment package rates for healthcare organisations aiming for uniformity and rationalisation in costs, impacting reimbursements and service provisions.",
+      "source": "Economic Times",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://economictimes.com/wealth/save/latest-chgs-package-rates-what-is-changing-for-central-government-employees-and-pensioners-from-october-13-2025/articleshow/124339439.cms"
+    },
+    {
+      "headline": "White House Continues Push to Lower Drug Prices Amidst Legislative Gridlock",
+      "summary": "With drug pricing high on the agenda during ongoing federal funding disputes, the White House announced plans and policies aiming to reduce drug costs despite government shutdown challenges.",
+      "source": "National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+    }
+  ]
+}

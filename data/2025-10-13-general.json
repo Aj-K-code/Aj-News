@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Climate Change Threatens 43% of Natural World Heritage Sites Globally",
+    "summary": "A recent IUCN Outlook report reveals that nearly half of World Heritage sites face severe risks from climate change, invasive species, and wildlife diseases, posing a major threat to global biodiversity and cultural heritage.",
+    "source": "Leverage Edu",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-13-october-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Aid Operations in Gaza Expand Under New Ceasefire Deal, Boosting Daily Supply Limit to 600 Trucks",
+      "summary": "Humanitarian aid to Gaza is increasing dramatically following a fresh ceasefire agreement, with daily truck shipments set to more than double to help civilians after years of conflict.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-13-october-2025/"
+    },
+    {
+      "headline": "Dozens Killed in Pakistan-Afghanistan Border Clashes Amid Disputed Cross-Border Attacks",
+      "summary": "Recent violent clashes between Taliban forces and Pakistani troops along their border have resulted in dozens of deaths and the closure of the border, escalating regional tensions.",
+      "source": "The West Block / Global National",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11475403/the-west-block-oct-13-2025/"
+    },
+    {
+      "headline": "Helicopter Crash at Huntington Beach, California Injures 5",
+      "summary": "A helicopter crash in Huntington Beach has resulted in five injuries, underscoring ongoing concerns about aviation safety in populated areas.",
+      "source": "The West Block / Global National",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11475403/the-west-block-oct-13-2025/"
+    }
+  ]
+}
