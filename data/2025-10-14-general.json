@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Clashes Intensify Across Afghanistan\u2013Pakistan Border After Pakistani Airstrikes",
+    "summary": "Following Pakistani airstrikes in Afghanistan on October 9th, Afghan forces have retaliated by capturing several Pakistani border posts along the Durand Line, escalating a long-running cross-border conflict with significant humanitarian and geopolitical risks.",
+    "source": "The Guardian",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+  },
+  "stories": [
+    {
+      "headline": "US Government Shutdown Disrupts Air Travel Nationwide as FAA Warns of Staff Shortages",
+      "summary": "On the seventh day of the US federal government shutdown, the FAA warns of acute air traffic controller shortages causing flight delays and potential safety concerns at major hubs, impacting millions of travelers.",
+      "source": "ABC World News Tonight",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=RKnaGNEnl-I"
+    },
+    {
+      "headline": "Israel and Hamas Truce Talks Intensify on Anniversary of October 7 Attacks",
+      "summary": "As Israel marks the second anniversary of the October 7 attacks, renewed talks toward a temporary truce with Hamas raise cautious hope for a pause in hostilities, but the humanitarian crisis in Gaza remains dire.",
+      "source": "ABC World News Tonight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=RKnaGNEnl-I"
+    },
+    {
+      "headline": "Canadian Prime Minister and US President Signal Progress Toward New Trade Deal",
+      "summary": "Canadian Prime Minister Mark Carney and US President Donald Trump express optimism after their Oval Office meeting about soon reaching a bilateral trade agreement, which could reshape North American economic relations.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=D768C7r2NeU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Clears Cryoablation System for Early-Stage Breast Cancer in Older Adults",
+    "summary": "The FDA granted marketing authorization for the ProSense Cryoablation System, a minimally invasive device that freezes small, early-stage breast cancers in women 70+ not suitable for surgery, offering a new treatment option for this patient group.",
+    "source": "MedPage Today",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Tech",
+    "url": "https://kffhealthnews.org/morning-briefing/tuesday-october-7-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Senate Special Committee on Aging to Hold Hearing on 'Bad Medicine: Closing Loopholes that Kill American Patients'",
+      "summary": "The Senate Special Committee on Aging will hold a hearing on October 8, 2025, to discuss regulatory loopholes contributing to preventable patient deaths, a critical issue for drug safety and patient care.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/10/holland-knight-health-dose-october-7-2025"
+    },
+    {
+      "headline": "India Probes Contaminated Cough Syrup Linked to At Least 14 Child Deaths",
+      "summary": "Indian authorities launched a criminal investigation after at least 14 children died from consuming contaminated cough syrup in Madhya Pradesh, highlighting ongoing concerns about global pharmaceutical quality control.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-october-7-2025/"
+    },
+    {
+      "headline": "AstraZeneca\u2019s Datroway Shows Improved Survival in Triple-Negative Breast Cancer",
+      "summary": "AstraZeneca announced that Datroway, a drug co-developed with Daiichi Sankyo, significantly improved survival and delayed disease progression in patients with advanced, inoperable triple-negative breast cancer who are ineligible for immunotherapy.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-october-7-2025/"
+    }
+  ]
+}
