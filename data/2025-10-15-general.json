@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump Issues Warning to Hamas Amid Fragile Gaza Ceasefire",
+    "summary": "President Trump has issued a stern warning to Hamas, demanding disarmament amidst a fragile ceasefire in Gaza, which underscores the ongoing tensions in the region and global efforts to stabilize it.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "All Israeli Hostages Freed, Palestinian Prisoners Released Under Ceasefire Deal",
+      "summary": "A new ceasefire deal has led to the release of all Israeli hostages and Palestinian prisoners, marking a significant development in the conflict between Israel and Palestine.",
+      "source": "CNN10",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=pmFXpq7F0G0"
+    },
+    {
+      "headline": "Madagascar's President Rajoelina Flees Amid Protests, Dissolves Parliament",
+      "summary": "Madagascan President Andry Rajoelina has fled the country and dissolved parliament following intense protests, deepening the political crisis.",
+      "source": "The Indian Express via Reuters",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://indianexpress.com/archive/2025/10/15/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Approves Nerandomilast as First New Treatment for Idiopathic Pulmonary Fibrosis in Over a Decade",
+    "summary": "The FDA has authorized nerandomilast (Jascayd) tablets for idiopathic pulmonary fibrosis (IPF), marking the first new treatment option for this deadly progressive lung disease in more than ten years, potentially improving patient outcomes.",
+    "source": "MedPage Today",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.medpagetoday.com/pulmonology/interstitiallungdisease/100062"
+  },
+  "stories": [
+    {
+      "headline": "White House Allocates Tariff Revenue to Sustain WIC Program Amid Government Shutdown",
+      "summary": "To prevent funding shortfalls during the ongoing federal government shutdown, the White House announced it will use tariff revenues to support the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), ensuring continued nutrition assistance.",
+      "source": "The Hill",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://thehill.com/policy/healthcare/563295-white-house-to-use-tariff-revenue-for-wic-program"
+    },
+    {
+      "headline": "Federal Government Shutdown Causes Suspension of Key Organ Transplant Network Oversight",
+      "summary": "Due to the federal shutdown, the Department of Health and Human Services ordered a halt on many compliance and policy activities within the organ procurement and transplant network, potentially affecting future regulatory and operational protocols.",
+      "source": "Axios",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.axios.com/2025/10/08/organ-transplant-network-shutdown-impact"
+    },
+    {
+      "headline": "New York Medicaid Panel Votes to Pause Coverage of Sarepta\u2019s Duchenne Muscular Dystrophy Drug Amid Safety Concerns",
+      "summary": "In response to recent safety issues, a New York Medicaid advisory panel unanimously recommended suspending coverage for a leading treatment for Duchenne muscular dystrophy, raising concerns about patient access to the therapy.",
+      "source": "Stat News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.statnews.com/2025/10/08/sarepta-duchenne-drug-medicaid-coverage-paused/"
+    }
+  ]
+}
