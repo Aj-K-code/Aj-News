@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC adopts ACIP vaccine recommendations amid ongoing shifts in COVID-19 vaccine guidance",
+    "summary": "The CDC has updated its adult immunization schedule to include 'shared clinical decision-making' for COVID-19 vaccines in pregnant people while continuing to limit vaccine approval to high-risk groups, reflecting ongoing adjustments in vaccination policy that affect healthcare providers and patients.",
+    "source": "Health Affairs Forefront",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthaffairs.org/forefront"
+  },
+  "stories": [
+    {
+      "headline": "AHIMA urges reinstatement of telehealth flexibilities for Medicare beneficiaries",
+      "summary": "AHIMA and 58 organizations called on Congress to retroactively reinstate telehealth benefits for Medicare patients, highlighting the negative impacts on access to care caused by recent policy lapses.",
+      "source": "AHIMA News & Events",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ahima.org/advocacy/news-events/"
+    },
+    {
+      "headline": "AHA highlights hospitals' use of AI to improve care delivery in Senate hearing",
+      "summary": "The American Hospital Association submitted a statement on how hospitals and health systems are integrating artificial intelligence to enhance patient care and workforce support amid rapid industry change.",
+      "source": "American Hospital Association",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.aha.org/news"
+    }
+  ]
+}

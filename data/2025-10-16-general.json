@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel\u2019s Cabinet approves U.S. President Donald Trump\u2019s plan for Gaza ceasefire",
+    "summary": "Israel formally approved a ceasefire plan proposed by former U.S. President Donald Trump to end the two-year Gaza conflict, including the release of all hostages held by Hamas, signaling a potential shift toward regional stabilization.",
+    "source": "CTV News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=nC62_KcIT3I"
+  },
+  "stories": [
+    {
+      "headline": "U.S. government shutdown enters ninth day amid funding standoff",
+      "summary": "The prolonged shutdown caused by Senate failures to pass funding bills is impacting federal services, with the IRS furloughing nearly half its workforce and increased political confrontations in Washington, affecting national governance and public services.",
+      "source": "YouTube - Top U.S. & World Headlines",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=LRr680G5QUE"
+    },
+    {
+      "headline": "Canada urges Israel to release activists after flotilla interception",
+      "summary": "The Canadian government presses Israel for the release of six Canadian activists detained during an intercepted humanitarian aid flotilla to Gaza, exemplifying ongoing international efforts amid the Israel-Hamas conflict.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=g3ZoALAOz2k"
+    }
+  ]
+}
