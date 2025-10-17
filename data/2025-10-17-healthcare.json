@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Federal Government Shutdown Halts Key Medicare Telehealth and Hospital-at-Home Programs",
+    "summary": "The ongoing federal government shutdown has caused the expiration of temporary but increasingly popular Medicare telehealth and hospital-at-home programs, significantly impacting access to care for millions of Medicare beneficiaries, especially in rural areas.",
+    "source": "Health Policy Ohio",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthpolicyohio.org/health-policy-news/2025/10/10/medicare-remote-care-programs-on-hold-until-federal-shutdown-is-resolved"
+  },
+  "stories": [
+    {
+      "headline": "FDA Expands Early Alert Recall Program to Cover All Medical Devices",
+      "summary": "The FDA has broadened its early alert recall program from a pilot covering five device types to all medical devices to reduce the time between identifying high-risk device issues and warning the public.",
+      "source": "Modern Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.modernhealthcare.com/regulatory/fda-expands-early-alert-recall-program-all-medical-devices"
+    },
+    {
+      "headline": "Startup Kneu Health Raises $5.6M to Monitor Parkinson\u2019s Disease Symptoms via Smartphone",
+      "summary": "Kneu Health, a new startup from Oxford University, secured $5.6 million in funding for its smartphone app that tracks movement, speech, and cognitive changes in Parkinson\u2019s patients, supporting improved symptom management.",
+      "source": "Stat",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.statnews.com/2025/10/09/kneu-health-raises-funding-parkinsons-tech"
+    }
+  ]
+}

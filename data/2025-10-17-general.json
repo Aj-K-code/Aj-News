@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "King Charles and Prince William unite in support of COP30 climate summit amid global divisions",
+    "summary": "King Charles and Prince William made a rare joint appearance to underscore the urgency of the upcoming COP30 climate summit in Brazil, highlighting global challenges in setting new emission targets.",
+    "source": "AnewZ (via YouTube)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://www.youtube.com/watch?v=MI6M14CkqL8"
+  },
+  "stories": [
+    {
+      "headline": "One dead and two missing as typhoon remnants devastate Alaska coast",
+      "summary": "Remnants of a typhoon caused severe devastation along the Alaska coast, resulting in one confirmed death and two persons missing, underscoring the increasing impact of extreme weather events.",
+      "source": "Euronews",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.euronews.com/video/2025/10/17/latest-news-bulletin-october-17th-2025-morning"
+    },
+    {
+      "headline": "Violence erupts at pro-Palestinian protest in Barcelona",
+      "summary": "Pro-Palestinian demonstrations in Barcelona escalated into violence, reflecting ongoing global tensions connected to the conflict in the Middle East with potential wider social implications in Europe.",
+      "source": "Euronews",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.euronews.com/video/2025/10/17/latest-news-bulletin-october-17th-2025-morning"
+    },
+    {
+      "headline": "Former Kenyan Prime Minister Raila Odinga's body returns home following treatment in India",
+      "summary": "The body of former Kenyan Prime Minister Raila Odinga arrived in Nairobi after medical treatment in India, marking a significant moment in Kenyan politics and public life.",
+      "source": "Deccan Herald",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.deccanherald.com/india/news-in-pics-october-17-2025-best-photos-from-around-the-world-3767205"
+    }
+  ]
+}
