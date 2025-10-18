@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Kenya to Host First One Health Conference in November",
+    "summary": "Kenya is set to host its inaugural One Health Conference in November, aiming to strengthen collaboration among human, animal, and environmental health sectors in preventing and managing public health threats.",
+    "source": "One Health Initiative",
+    "importance": 4,
+    "impact_to_me": 3,
+    "category": "Research",
+    "url": "https://onehealthinitiative.com/one-health-initiative-news/"
+  },
+  "stories": [
+    {
+      "headline": "No significant healthcare news available within the last 24 hours",
+      "summary": "No recent healthcare news was found within the last day.",
+      "source": "Perplexity Analysis",
+      "importance": 1,
+      "impact_to_me": 1,
+      "category": "Policy",
+      "url": ""
+    }
+  ]
+}

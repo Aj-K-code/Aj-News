@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel and Hamas Sign Ceasefire Deal Brokered by U.S.",
+    "summary": "Israel and Hamas have signed a ceasefire agreement brokered by U.S. President Donald Trump, marking a significant step in the peace process despite ongoing challenges and skepticism about its durability.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11474745/cda-israel-gaza-flotilla/"
+  },
+  "stories": [
+    {
+      "headline": "Thousands Attend Tel Aviv Rally for Hostage Release",
+      "summary": "Thousands of people gathered in Tel Aviv's Hostage Square, celebrating the recent peace deal between Israel and Hamas and awaiting the release of hostages from Gaza.",
+      "source": "Israel Daily News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=6AJeHny_Ces"
+    },
+    {
+      "headline": "European Commission Calls for Israel to Lift Gaza Aid Restrictions",
+      "summary": "The European Commission has urged Israel to lift restrictions on aid deliveries to Gaza, emphasizing the need for humanitarian assistance amid ongoing reconstruction efforts.",
+      "source": "Euronews",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.euronews.com/video/2025/10/11/latest-news-bulletin-october-11th-2025-evening"
+    }
+  ]
+}
