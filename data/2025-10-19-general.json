@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Israel-Hamas Ceasefire Leads to Hostage Release After More Than Two Years",
+    "summary": "A landmark Middle East peace agreement has led to the expected release of all remaining Israeli hostages held by Hamas, marking a pivotal diplomatic breakthrough after more than two years of captivity and widespread conflict in Gaza, with significant humanitarian and geopolitical implications[1][4].",
+    "source": "ABC World News Tonight with David Muir, CBS Weekend News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=iqFBtdKxywo"
+  },
+  "stories": [
+    {
+      "headline": "Humanitarian Aid Flows Freely Into Gaza as Ceasefire Holds",
+      "summary": "With the Israel-Hamas ceasefire continuing to hold, humanitarian aid is now entering Gaza without major restrictions, providing critical relief to a population devastated by years of conflict and blockade[6].",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11475717/humanitarian-aid-flows-freely-into-gaza-as-ceasefire-holds"
+    },
+    {
+      "headline": "Escalating Violence on Afghanistan-Pakistan Border",
+      "summary": "Fresh clashes have erupted along the Afghanistan-Pakistan border, with both sides claiming significant casualties amid a deteriorating security situation that threatens regional stability[2].",
+      "source": "YouTube",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=bidI-0UrZH8"
+    },
+    {
+      "headline": "US Federal Government Shutdown Leads to Mass Layoffs",
+      "summary": "As the US government shutdown enters its third week, thousands of federal workers have been laid off in an unprecedented move, with the biggest cuts at Treasury and Health and Human Services, affecting essential services and the broader economy[1][7].",
+      "source": "ABC World News Tonight with David Muir, Good Morning America",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=iqFBtdKxywo"
+    }
+  ]
+}
