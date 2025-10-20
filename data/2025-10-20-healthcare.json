@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Acute Hospital Care at Home Waiver Expires as Government Shutdown Continues",
+    "summary": "The expiration of the CMS Acute Hospital Care at Home (AHCAH) waiver on October 1, 2025, amidst a prolonged federal government shutdown, forces health systems to either revert to traditional hospital care or pursue alternative funding to sustain home-based acute care delivery.",
+    "source": "Real Economy RSM US",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://realeconomy.rsmus.com/health-care-industry-trend-watch-week-of-oct-13-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Federal Government Shutdown Extends, Impacting Healthcare Operations and Workforce",
+      "summary": "The ongoing federal government shutdown, now in its second week as of October 13, 2025, has led to thousands of federal healthcare employee furloughs and operational disruptions, with no near-term resolution in sight, intensifying uncertainty across healthcare sectors reliant on federal support.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-october-13-2025/"
+    },
+    {
+      "headline": "White House Renewed Push on Drug Pricing Amid Shutdown",
+      "summary": "Despite the ongoing federal shutdown, the White House continues to push for drug pricing reforms, including potential tariffs and new policies aimed at lowering pharmaceutical costs, signaling sustained federal prioritization of drug affordability.",
+      "source": "National Law Review",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+    }
+  ]
+}

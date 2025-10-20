@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Global Tipping Points Report Warns of Accelerating Climate Crisis with Irreversible Coral Reef Loss and Amazon Rainforest Risks",
+    "summary": "A major assessment by 160 researchers reveals that critical climate thresholds are being crossed faster than expected, highlighting near irreversible coral reef die-off and increased risk of Amazon rainforest tipping at just 1.5\u00b0C warming, demanding accelerated global emission cuts ahead of COP30.",
+    "source": "10 Things Global News (reporting NY Times, Reuters)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://www.10things.news/p/10-things-global-news-13th-october"
+  },
+  "stories": [
+    {
+      "headline": "Hamas Releases Final Group of Israeli Hostages as Part of Historic Gaza Ceasefire",
+      "summary": "Following a ceasefire agreement, Hamas released all remaining living Israeli hostages, prompting emotional reunions and celebrations in Israel while the future peace and stability of Gaza remains uncertain.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11476054/trump-urges-israel-seize-chance-for-peace/"
+    },
+    {
+      "headline": "Clashes on Pakistan-Afghanistan Border Kill Dozens Amid Heightened Regional Tensions",
+      "summary": "One of the deadliest recent border clashes occurred between Pakistani and Afghan forces, resulting in dozens of casualties and temporary closure of major trade crossings, highlighting ongoing instability and complex geopolitical dynamics.",
+      "source": "10 Things Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.10things.news/p/10-things-global-news-13th-october"
+    }
+  ]
+}
