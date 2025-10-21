@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "North Carolina Residents See $6.5 Billion in Medical Debt Erased by State Initiative",
+    "summary": "North Carolina has successfully erased over $6.5 billion in medical debt for more than 2.5 million residents through a first-of-its-kind government program offering hospitals additional Medicaid funds in exchange for financial relief to low- and middle-income patients, marking a significant step toward addressing healthcare affordability.",
+    "source": "Associated Press",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/tuesday-october-14-2025/"
+  },
+  "stories": [
+    {
+      "headline": "CMS Urged to Extend Medicare Claims Hold Amid Lengthy Government Shutdown",
+      "summary": "With the U.S. government shutdown reaching its 14th day, leading Democrats have urged the Centers for Medicare and Medicaid Services to maintain flexibility by extending the hold on Medicare telehealth and hospital-at-home claims, which could impact provider reimbursements and patient care continuity if unresolved.",
+      "source": "HealthCare Roundtable",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-october-14-2025/"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S.-brokered Gaza ceasefire on shaky ground",
+    "summary": "The recently brokered Gaza ceasefire is experiencing challenges as both sides face difficulties in maintaining peace, highlighting the ongoing tensions in the region.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11477609/a-lot-of-uncertainty-remains-on-2nd-phase-of-israel-hamas-peace-deal-analyst/"
+  },
+  "stories": [
+    {
+      "headline": "AWS recovering after outage knocks out services, apps worldwide",
+      "summary": "Amazon Web Services (AWS) is recovering from a significant outage that affected numerous services and applications globally, highlighting the critical role of cloud infrastructure in modern technology.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Technology",
+      "url": "https://globalnews.ca/video/11473741/aws-outage-takes-down-apps-and-services-worldwide"
+    },
+    {
+      "headline": "Madagascar coup: President Rajoelina impeached, military takes power following protests",
+      "summary": "In a dramatic turn of events, Madagascar's President Rajoelina has been impeached, and the military has taken control following widespread protests across the nation.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11477057/global-news-morning-headlines-for-tuesday-october-14-2025"
+    }
+  ]
+}
