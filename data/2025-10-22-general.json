@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Japan appoints Sanae Takaichi as first female Prime Minister, signaling possible hard-right turn",
+    "summary": "Japan has appointed Sanae Takaichi as its first female Prime Minister, with expectations that her government will steer the country towards a more hard-right nationalist stance, reshaping Japan\u2019s domestic and foreign policy direction.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11478847/global-news-morning-headlines-wednesday-october-15-2025"
+  },
+  "stories": [
+    {
+      "headline": "Israel and Hamas agree to exchange dead hostages and prisoners as part of Gaza ceasefire deal, but process faces challenges",
+      "summary": "Israel and Hamas have agreed to exchange remains of hostages and prisoners under the ongoing ceasefire, but mounting accusations and logistical issues threaten to derail the fragile progress toward peace.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=i0EHImA2gl4"
+    },
+    {
+      "headline": "Pressure grows on Israel to allow more aid into Gaza as ceasefire holds",
+      "summary": "International pressure is increasing on Israel to permit greater humanitarian aid into Gaza, where the ceasefire remains in place but access to essential supplies for civilians remains severely restricted.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/10/15/headlines"
+    },
+    {
+      "headline": "Stellantis abandons plans to reopen Ontario plant, shifts Jeep Compass production to U.S., raising concerns for Canadian auto sector",
+      "summary": "Stellantis has canceled plans to reopen its Brampton, Ontario plant and will move Jeep Compass manufacturing to the U.S., a decision that could have significant implications for Canada\u2019s automotive industry and employment.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=i0EHImA2gl4"
+    }
+  ]
+}

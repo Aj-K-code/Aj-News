@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Thousands of Kaiser Permanente Health Workers Launch 5-Day Strike",
+    "summary": "Thousands of nurses, pharmacists, therapists, and other healthcare workers at Kaiser Permanente went on strike across several states, demanding better pay and staffing in one of the largest labor actions in the sector this year.",
+    "source": "Los Angeles Times (via KFF Health News)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/wednesday-october-15-2025/"
+  },
+  "stories": [
+    {
+      "headline": "CEPI and Serum Institute of India Partner to Develop H5N1 Vaccine Prototype for Future Pandemics",
+      "summary": "The Coalition for Epidemic Preparedness Innovations (CEPI) announced a partnership with the Serum Institute of India (SII) to develop a new vaccine against H5N1 avian flu as a prototype for Disease X, marking significant progress in global pandemic preparedness with up to $16.4 million in funding.",
+      "source": "CIDRAP (via KFF Health News)",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-oct-15-2025/"
+    },
+    {
+      "headline": "FDA Warns Online Companies Selling Unapproved Weight-Loss Drug Retatrutide",
+      "summary": "The FDA has warned six online companies, including five U.S. firms, for marketing unapproved compounded retatrutide, a weight-loss drug still in clinical testing, amid a surge in demand fueled by social media influencers.",
+      "source": "MedPage Today (via KFF Health News)",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-oct-15-2025/"
+    },
+    {
+      "headline": "North Carolina Medicaid Ombudsman Program Faces Layoffs After $33 Million Shortfall",
+      "summary": "Almost 40 employees in North Carolina\u2019s Medicaid Ombudsman program are being laid off due to a $33 million shortfall in the Medicaid Managed Care Oversight Fund, threatening support for thousands of beneficiaries seeking help with Medicaid issues.",
+      "source": "Asheville Watchdog (via North Carolina Health News)",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.northcarolinahealthnews.org"
+    }
+  ]
+}
