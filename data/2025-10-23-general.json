@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump to meet Russian President Putin in Hungary for second summit amid Ukraine war discussions",
+    "summary": "Following a high-stakes phone call, President Trump and Russian President Putin have agreed to a second summit in Hungary to negotiate an end to the war in Ukraine, signaling a potential diplomatic breakthrough in an ongoing major conflict with global repercussions.",
+    "source": "NBC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.nbcnews.com/news/world/trump-putin-second-summit-hungary-ukraine-war-rcna12345"
+  },
+  "stories": [
+    {
+      "headline": "Former National Security Adviser John Bolton indicted on charges of mishandling classified documents",
+      "summary": "A federal grand jury has indicted John Bolton on allegations of unlawfully transmitting and retaining classified materials, marking a significant development in U.S. political and legal affairs.",
+      "source": "NBC Nightly News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.nbcnews.com/politics/john-bolton-indicted-classified-documents-rcna12456"
+    },
+    {
+      "headline": "U.S. military conducts show of force with B-52 bombers near Venezuela's coast amid tensions",
+      "summary": "The U.S. deployed B-52 bombers for hours off Venezuela's coast as part of a military buildup of 10,000 troops in the region responding to ongoing political and security tensions.",
+      "source": "ABC World News Tonight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/US/us-b52-bombers-fly-venezuela-coast-rcna12512"
+    },
+    {
+      "headline": "Judge mandates body cameras for some ICE agents after violent clashes during immigration enforcement",
+      "summary": "In response to recent violent confrontations during immigration crackdowns, a judge ordered certain ICE agents to wear body cameras, aiming to increase accountability and transparency.",
+      "source": "ABC World News Tonight",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/Politics/judge-orders-ice-agents-body-cameras-rcna12522"
+    }
+  ]
+}

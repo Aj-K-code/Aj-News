@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Federal Health Policy Update Highlights Continuing Government Shutdown Impact on Healthcare Funding",
+    "summary": "Ongoing government shutdown impedes new healthcare policies and budget approvals, delaying progress on crucial healthcare subsidies and federal health funding, with significant implications for providers and patients nationally.",
+    "source": "Safety Net Alliance",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://safetynetalliance.org/federal-health-policy-update-for-october-16/"
+  },
+  "stories": [
+    {
+      "headline": "Supreme Court Slams States for Ignoring ICU-CCU Guidelines, Issues Contempt Notices",
+      "summary": "The Supreme Court issued contempt notices to multiple states for failing to comply with ICU-CCU safety and operational guidelines, spotlighting enforcement challenges that could affect critical care standards and patient outcomes.",
+      "source": "Medical Dialogues",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://medicaldialogues.in/top-health-news-supreme-court-slams-states-ignoring-icu-ccu-guidelines-issues-contempt-notices-103942"
+    },
+    {
+      "headline": "Kerala's Ambitious Plan to Achieve Universal Healthcare Coverage by 2031",
+      "summary": "Kerala announced a strategic initiative to achieve universal healthcare coverage by 2031, which, if successful, could serve as a model for regional health policy and systemic equity in care access.",
+      "source": "Medical Dialogues",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://medicaldialogues.in/kerala-healthcare-coverage-by-2031-103952"
+    },
+    {
+      "headline": "WHO Warns of Rising Antibiotic Resistance, Highlighting India's Growing Vulnerability",
+      "summary": "The World Health Organization issued an alert on escalating antibiotic resistance with critical implications for infection treatment efficacy, emphasizing increased vigilance needed in India\u2019s healthcare settings.",
+      "source": "Medical Dialogues",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://medicaldialogues.in/who-warns-antibiotic-resistance-india-vulnerability-103955"
+    }
+  ]
+}
