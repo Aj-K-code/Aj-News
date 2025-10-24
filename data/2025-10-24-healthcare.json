@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA announces first recipients of national priority voucher pilot for expedited drug review",
+    "summary": "The FDA revealed nine experimental drugs prioritized for accelerated review under a new national priority voucher program, aiming to fast-track treatments addressing national health priorities including vaping addiction and pancreatic cancer, which could significantly speed access to critical therapies.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://kffhealthnews.org/morning-briefing/friday-october-17-2025/"
+  },
+  "stories": [
+    {
+      "headline": "MIT scientists discover amino acid cysteine aids gut healing",
+      "summary": "Researchers at MIT found that the amino acid cysteine plays a key role in promoting gut tissue repair, potentially opening new therapeutic avenues for gastrointestinal diseases.",
+      "source": "ScienceDaily",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.sciencedaily.com/news/health_medicine/today's_healthcare/"
+    }
+  ]
+}

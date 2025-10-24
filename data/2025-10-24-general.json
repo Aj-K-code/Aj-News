@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. President Trump and Russian President Putin agree to hold a new summit to discuss the Ukraine war",
+    "summary": "After a productive phone call, Trump and Putin committed to meeting in Budapest to address the ongoing conflict in Ukraine, signaling potential diplomatic progress in a major geopolitical crisis.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=S3rR4TzPItY"
+  },
+  "stories": [
+    {
+      "headline": "Ukrainian President Zelenskyy visits White House, urges President Trump for long-range Tomahawk missiles",
+      "summary": "Zelenskyy met with Trump to request advanced weapons to strike deep into Russian territory, but Trump appeared hesitant, emphasizing hopes to end the war without escalating arms shipments.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11482441/zelenskyy-urges-trump-for-tomahawk-missiles/"
+    },
+    {
+      "headline": "U.S. Navy rescues and detains survivors after deadly strike on suspected drug boat in Caribbean",
+      "summary": "Following a U.S. strike on an alleged drug trafficking vessel, the Navy recovered survivors who are now in custody, highlighting ongoing military efforts to combat narcotics smuggling in international waters.",
+      "source": "ABC World News Tonight",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/US/live-updates/abc-world-news-tonight/october-18-2025.htm"
+    },
+    {
+      "headline": "Federal government unveils major border security plan allocating resources to combat illegal trade",
+      "summary": "Canada\u2019s Prime Minister announced plans to hire 1,000 new border officers to address smuggling of stolen goods, guns, and drugs, indicating intensified efforts to secure national borders.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/11482440/canada-border-security-boost/"
+    }
+  ]
+}
