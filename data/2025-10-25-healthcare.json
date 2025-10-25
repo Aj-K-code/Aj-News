@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "California to Begin Selling Affordable, State-Branded Insulin",
+    "summary": "California will start selling affordable, state-branded insulin on January 1, marking a significant effort to reduce insulin costs, which affects millions and reflects a broader trend towards cost control in pharmaceuticals.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://abcnews.go.com/Health"
+  },
+  "stories": [
+    {
+      "headline": "CMS Announces Claims Hold for Certain Services After Oct. 1, 2025",
+      "summary": "The Centers for Medicare & Medicaid Services has instructed Medicare Administrative Contractors to temporarily hold claims for services impacted by the expiration of certain healthcare extenders, affecting telehealth and FQHC claims.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/10/holland-knight-health-dose-october-21-2025"
+    }
+  ]
+}

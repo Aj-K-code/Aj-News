@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. Military Strikes Kill Dozens in Caribbean Amid Rising Tensions with Colombia",
+    "summary": "In the past week, the U.S. conducted multiple military strikes on suspected narcotics-trafficking boats in international waters near the Caribbean, killing at least 27 people and triggering a diplomatic fallout with Colombia, which has recalled its ambassador over the attacks, signalling heightened regional instability.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2025/10/21/top_us_world_headlines_october_21_2025"
+  },
+  "stories": [
+    {
+      "headline": "Millions Join 'No Kings' Protests Worldwide Against Fascist Tendencies",
+      "summary": "Over the last 24 hours, peaceful protests labeled 'No Kings' have surged across numerous U.S. cities and international locations, rallying millions to stand against perceived authoritarian and corrupt governance, emphasizing global civic engagement and democratic activism.",
+      "source": "TIME via TheySeeBlue",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Culture",
+      "url": "https://www.theyseeblue.org/news-digest/oct-12-18-25"
+    }
+  ]
+}
