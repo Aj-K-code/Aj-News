@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Polls Open in Ivory Coast as Incumbent Ouattara Seeks Fourth Term",
+    "summary": "Longtime President Alassane Ouattara seeks a fourth term in Ivory Coast, highlighting challenges in democratic transitions in Africa.",
+    "source": "ABC News",
+    "importance": 4,
+    "impact_to_me": 2,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/polls-open-ivory-coast-incumbent-ouattara-seeks-fourth-term/story?id=93724672"
+  },
+  "stories": [
+    {
+      "headline": "Russian Attacks Kill 4 in Ukraine as Zelenskyy Pleads for Air Defense",
+      "summary": "Russian missile and drone attacks on Ukraine killed at least four people, with Zelenskyy calling for air defense support amid ongoing conflict.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/russian-attacks-kill-4-ukraine-zeleskyy-pleads-air-defense/story?id=93742451"
+    },
+    {
+      "headline": "Trump Travels to Asia Amid US Government Shutdown",
+      "summary": "US President Trump visits Asia while the US government shutdown continues, with meetings planned in several countries including China.",
+      "source": "The Intelligencer",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.theintelligencer.net/news/top-headlines/2025/10/trump-travels-to-asia-and-a-meeting-with-chinas-xi-as-the-us-government-shutdown-drags-on"
+    },
+    {
+      "headline": "Tropical Storm Melissa Poised to Become a Hurricane, Threatening Caribbean",
+      "summary": "Tropical Storm Melissa is expected to strengthen into a hurricane, posing risks of massive rainfall and flooding in the northern Caribbean.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/tropical-storm-melissa-poised-hurricane-threatening-caribbean/story?id=93732109"
+    }
+  ]
+}

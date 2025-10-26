@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Subcutaneous Amivantamab Shows 45% Overall Response Rate in Recurrent or Metastatic Head and Neck Cancer",
+    "summary": "Johnson & Johnson announced that amivantamab administered subcutaneously achieved a promising 45% overall response rate with a median duration of 7.2 months in a Phase 1b/2 study for recurrent or metastatic head and neck cancer, potentially offering a more convenient and effective treatment option for this difficult-to-treat population.",
+    "source": "Johnson & Johnson (Press Release via PR Newswire)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://www.prnewswire.com/news-releases/subcutaneous-amivantamab-delivers-promising-45-percent-overall-response-rate-with-median-duration-of-7-2-months-in-recurrent-or-metastatic-head-and-neck-cancer-302588232.html"
+  },
+  "stories": [
+    {
+      "headline": "Federal Government Shutdown Continues as Senate Fails to Advance Short-Term Funding Bill",
+      "summary": "The ongoing federal government shutdown, now more than a week old, risks disrupting healthcare operations, research funding, and access to services, with uncertainty about when a resolution will be reached[4].",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/10/health-care-week-in-review-october-10-2025"
+    },
+    {
+      "headline": "Clinicians Waste 88 Minutes Per Day on Administrative Tasks, Hampers Patient Care",
+      "summary": "A report reveals clinicians currently spend an average of 88 minutes daily on administrative tasks, highlighting ongoing inefficiencies in electronic health records and workflow that undermine productivity and patient care[8].",
+      "source": "Healthcare IT Today",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcareittoday.com/2025/10/25/weekly-roundup-october-25-2025/"
+    }
+  ]
+}
