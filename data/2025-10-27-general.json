@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Tropical Storm Melissa poised to become a hurricane, threatening northern Caribbean with torrential rain and flooding",
+    "summary": "Tropical Storm Melissa is forecasted to strengthen into a hurricane, posing a serious risk of massive rainfall and life-threatening flooding across the northern Caribbean region, highlighting increasing climate vulnerability.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "U.S. and China say trade deal drawing closer ahead of Trump-Xi high-stakes meeting",
+      "summary": "As President Donald Trump prepares for a critical meeting with Chinese President Xi Jinping, both countries indicate progress toward a trade agreement, potentially easing long-standing global economic tensions.",
+      "source": "The Intelligencer",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.theintelligencer.net/news/top-headlines/2025/10/u-s-china-say-trade-deal-drawing-closer-as-trump-xi-prepare-for-high-stakes-meeting/"
+    },
+    {
+      "headline": "Russia launches new powerful weapons, sending a clear global warning",
+      "summary": "Russia unveiled and deployed advanced new weapons systems, signaling a strategic escalation that may impact global military balance and diplomatic relations.",
+      "source": "365 News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=Z9kcEvFA6B4"
+    },
+    {
+      "headline": "Russian missile and drone attacks in Ukraine kill four and wound 20 amid ongoing conflict",
+      "summary": "Intensified Russian attacks in Ukraine have resulted in civilian casualties and continue to exacerbate the already severe humanitarian and geopolitical crisis in the region.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}

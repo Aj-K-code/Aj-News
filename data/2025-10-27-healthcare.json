@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "New Drug Combination Reduces Death Risk by Over 40% in Advanced Prostate Cancer",
+    "summary": "A recent clinical trial demonstrated a drug combination that cuts the risk of death by more than 40% for men with advanced prostate cancer unresponsive to surgery or radiation, marking a significant treatment breakthrough.",
+    "source": "Medical Xpress",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://medicalxpress.com/news/2025-10-drug-combo-risk-death-advanced-prostate.html"
+  },
+  "stories": [
+    {
+      "headline": "U.S. Hospitals Brace for Deeper Medicaid Cuts Amid Government Shutdown",
+      "summary": "Following the expiration of a temporary funding patch, Medicaid Disproportionate Share Hospital payments face an $8 billion annual cut starting October 1, worsening financial strains on hospitals serving low-income and uninsured populations.",
+      "source": "Real Economy",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://realeconomy.rsmus.com/health-care-industry-trend-watch-week-of-oct-20-2025/"
+    },
+    {
+      "headline": "Government Shutdown Threatens Increased Health Insurance Premiums During Open Enrollment",
+      "summary": "With the U.S. government shutdown ongoing, millions using the Affordable Care Act Marketplace face higher premiums this open enrollment, while political gridlock stalls extensions of critical premium tax credits.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-october-20-2025/"
+    },
+    {
+      "headline": "Verily Launches 'Verily Me' Consumer Health App to Improve Provider Recommendations",
+      "summary": "Verily, an Alphabet company, introduced Verily Me, a free healthcare app providing personalized provider recommendations aimed at enhancing patient access to healthcare resources.",
+      "source": "HIStalk",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://histalk2.com/2025/10/18/monday-morning-update-10-20-25/"
+    }
+  ]
+}
