@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US and Australia Sign $8.5 Billion Critical Minerals Deal",
+    "summary": "The U.S. and Australia have agreed on a $8.5 billion deal to boost cooperation in critical minerals, a move aimed at enhancing clean energy supplies.",
+    "source": "DXB News Network",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.youtube.com/watch?v=7PZOKFBn-dU"
+  },
+  "stories": [
+    {
+      "headline": "Global Government Shutdown and Economic Impact",
+      "summary": "The U.S. government shutdown has reached its 21st day, impacting millions and causing economic hardship across the country.",
+      "source": "EWTN News Nightly",
+      "importance": 5,
+      "impact_to_me": 5,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=8Fn8f844BBA"
+    },
+    {
+      "headline": "Trump Predicts Strong Trade Deal with China",
+      "summary": "President Trump anticipates a significant trade agreement with China during his upcoming meeting with President Xi Jinping.",
+      "source": "Ada Derana News Channel",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=3dzWXG4WXGM"
+    },
+    {
+      "headline": "GITEX Global 2025 Attracts Record Crowds in Dubai",
+      "summary": "GITEX Global 2025, a major tech event, has drawn record crowds to Dubai, highlighting the city's status as a tech hub.",
+      "source": "Euronews",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Technology",
+      "url": "https://www.euronews.com/video/2025/10/21/latest-news-bulletin-october-21st-2025-morning"
+    }
+  ]
+}
