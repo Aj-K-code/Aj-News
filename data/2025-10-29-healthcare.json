@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Announces Discounted IVF Drug Partnership Ahead of TrumpRx Launch",
+    "summary": "The White House secured an agreement with EMD Serono to sell three common IVF drugs at over 70% reduced prices starting January 2026, aiming to lower fertility treatment costs and encourage expanded employer IVF coverage.",
+    "source": "CNN via HealthManagement.com",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthmanagement.com/insights/weekly-roundup/october-22-2025/"
+  },
+  "stories": [
+    {
+      "headline": "State Medicaid Programs Implement Major Changes Amid Rising Costs",
+      "summary": "Several states, including California launching a low-cost insulin program and Michigan tightening Medicaid weight-loss drug coverage, are adjusting Medicaid policies to manage escalating healthcare costs.",
+      "source": "HealthManagement.com",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthmanagement.com/insights/weekly-roundup/october-22-2025/"
+    },
+    {
+      "headline": "Federal Government Shutdown Hits Healthcare Programs and Marketplace Enrollment",
+      "summary": "With the ongoing federal shutdown nearing one month, critical programs like SNAP face funding cuts, and marketplace health insurance premium increases loom as open enrollment begins November 1.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-october-27-2025/"
+    }
+  ]
+}
