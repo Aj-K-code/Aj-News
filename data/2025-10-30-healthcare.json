@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Measles Cases Top 1,600 As South Carolina Outbreak Grows",
+    "summary": "The CDC reported 1,618 confirmed measles cases in 2025, the highest since 1992, with a significant outbreak linked to low vaccination rates in South Carolina schools, emphasizing the ongoing risks of vaccine-preventable diseases.",
+    "source": "CIDRAP",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://www.cidrap.umn.edu/news-perspective/2025/10/us-measles-cases-top-1600-south-carolina-outbreak-grows"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Continues to Stall Healthcare Funding Negotiations",
+      "summary": "The U.S. Senate failed again to pass continuing resolution bills to reopen the federal government, prolonging disruptions to healthcare programs including Medicare telehealth flexibilities and enhanced premium tax credits under the ACA.",
+      "source": "American Medical Association (AMA)",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/oct-10-2025-advocacy-update-spotlight-government-shutdown"
+    },
+    {
+      "headline": "FDA Approves Second Generic Mifepristone Amidst Political Backlash",
+      "summary": "The FDA authorized a second generic version of the abortion pill mifepristone, signaling continued access expansion despite conservative opposition, impacting reproductive healthcare availability.",
+      "source": "Politico",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.politico.com/news/2025/10/02/fda-approves-second-generic-mifepristone-000000"
+    }
+  ]
+}

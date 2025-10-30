@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "China signals cutback on electric vehicle subsidies amid global market push",
+    "summary": "China announced it will phase out subsidies for its electric vehicle industry, signaling a major policy shift as it seeks to address oversupply and increase competitiveness in global markets, which could reshape the global EV industry and climate goals.",
+    "source": "Economic Times",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://economictimes.com/news/new-updates/school-assembly-news-headlines-for-30th-october-top-national-international-sports-and-business-update/articleshow/124901055.cms"
+  },
+  "stories": [
+    {
+      "headline": "Israel resumes Gaza ceasefire after strikes kill over 100 people",
+      "summary": "Following intense conflict resulting in over 100 casualties in Gaza, Israel has resumed the ceasefire, a development critical to de-escalating violence and addressing the humanitarian crisis in the region.",
+      "source": "Oz Arab Media",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=_5k44JdthYY"
+    },
+    {
+      "headline": "Tanzania deploys military and imposes curfew amid election-day protests",
+      "summary": "Tanzania\u2019s presidential election day was marked by violent protests leading to military deployment and curfew imposition, raising concerns about stability in one of East Africa\u2019s key countries.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
