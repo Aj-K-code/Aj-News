@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump Cuts Tariffs on China Following Meeting with Xi Jinping in South Korea",
+    "summary": "President Trump announced significant tariff reductions on China after a high-level meeting with Xi Jinping, signaling a potential thaw in US-China trade tensions while both nations seek to stabilize their economies amid ongoing strategic competition.",
+    "source": "The Intelligencer",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.theintelligencer.net/news/top-headlines/2025/10/trump-cuts-tariffs-on-china-after-meeting-xi-in-south-korea/"
+  },
+  "stories": [
+    {
+      "headline": "Russia Launches Deadly Long-Range Strikes Across Ukraine Amid Ongoing Conflict",
+      "summary": "Russia conducted its second-largest barrage of the war to date with sustained long-range strikes across Ukraine, intensifying the conflict and prompting global calls for diplomatic responses.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/russia-launches-deadly-long-range-strikes-ukraine-zelenskyy-demands-response/story?id=104561823"
+    },
+    {
+      "headline": "Nearly 6,000 Flights Delayed or Canceled After Severe Storm Slams Northeast US",
+      "summary": "A powerful storm caused widespread disruption across the Northeastern United States, leading to massive flight delays and cancellations and highlighting infrastructure vulnerabilities to extreme weather events.",
+      "source": "ABC News via YouTube - World News Tonight with David Muir",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=LkV16GTozxI"
+    },
+    {
+      "headline": "Aid Workers Fear for Civilians Missing After Paramilitary Seizure of Sudan\u2019s El Fasher",
+      "summary": "Paramilitary forces have taken control of El Fasher in Sudan\u2019s Darfur region, with aid groups expressing urgent concern for the safety of civilians who are missing amidst escalating violence.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/aid-workers-fear-missing-civilians-after-paramilitary-seizure-sudans-el-fasher/story?id=104561750"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Government shuts down, impacting healthcare provisions and telehealth flexibilities",
+    "summary": "The federal government shutdown that began October 1, 2025, has led to the expiration of key healthcare provisions, including Medicare telehealth flexibilities, affecting access to care and provider operations.",
+    "source": "McDermott+",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-october-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "Furloughed CMS employees are called back to manage Medicare and ACA enrollment",
+      "summary": "As the government shutdown continues, furloughed CMS staff are being recalled to ensure Medicare and ACA enrollment processes remain operational, highlighting the ongoing strain on federal healthcare administration.",
+      "source": "The Gist Healthcare Podcast",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://shows.acast.com/gisthealthcaredaily/episodes/friday-october-24-2025"
+    },
+    {
+      "headline": "AHA pushes CMS to delay Medicare prior authorization pilot",
+      "summary": "The American Hospital Association is urging CMS to delay its Medicare prior authorization pilot program, citing concerns about provider burden and the need for more preparation time.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-october-24-2025/"
+    },
+    {
+      "headline": "Family job-based health insurance premiums hit an average of $27,000 in 2025",
+      "summary": "The average cost of family health insurance through employers has reached $27,000 in 2025, reflecting ongoing financial pressures on both employers and employees.",
+      "source": "The Gist Healthcare Podcast",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://shows.acast.com/gisthealthcaredaily/episodes/friday-october-24-2025"
+    }
+  ]
+}
