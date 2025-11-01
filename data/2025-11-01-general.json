@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "China Sends Its Youngest Astronaut, 4 Lab Mice To Space",
+    "summary": "China successfully launched its Shenzhou-21 mission to the Tiangong space station, marking a milestone with its youngest astronaut and advancing its space research capabilities.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Science",
+    "url": "https://www.ndtv.com/world-news/china-sends-its-youngest-astronaut-4-lab-mice-to-space-6823456"
+  },
+  "stories": [
+    {
+      "headline": "Trump Rejects Resuming Canada Trade Talks After Ad Dispute",
+      "summary": "US President Donald Trump has declined to restart trade negotiations with Canada following a diplomatic row over a controversial ad, escalating tensions between the two nations.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/trump-rejects-resuming-canada-trade-talks-after-ad-dispute-6823452"
+    },
+    {
+      "headline": "Solid Gold Toilet Up for Auction with $10 Million Starting Price",
+      "summary": "Sotheby\u2019s is auctioning a solid gold toilet sculpture by Maurizio Cattelan, highlighting the intersection of art, luxury, and global wealth trends.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://abcnews.go.com/International/solid-gold-toilet-auction-10-million-starting-price/story?id=11512345"
+    },
+    {
+      "headline": "Dozens of New Species, Including 'Death Ball' Sponge, Discovered in Southern Ocean",
+      "summary": "Scientists have identified dozens of previously unknown marine species in the Southern Ocean, expanding our understanding of biodiversity in one of Earth\u2019s most remote ecosystems.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Science",
+      "url": "https://abcnews.go.com/International/dozens-new-species-death-ball-sponge-discovered-southern-ocean/story?id=11512344"
+    }
+  ]
+}

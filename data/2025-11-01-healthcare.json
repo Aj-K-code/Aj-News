@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "California's DHCS Implements New Medi-Cal Rx Policy Changes Starting November 1, 2025",
+    "summary": "California's Department of Health Care Services (DHCS) has rolled out significant policy changes to Medi-Cal Rx to enhance drug coverage and access for Medicaid beneficiaries, potentially impacting prescribing practices and pharmacy operations statewide.",
+    "source": "California Medical Association (CMA)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.cmadocs.org/newsroom/news/view/ArticleId/50954/DHCS-announces-new-Medi-Cal-Rx-policy-changes-beginning-November-2025"
+  },
+  "stories": [
+    {
+      "headline": "Open Enrollment for ACA Health Plans Begins November 1, 2025, Amid Concerns Over Premium Increases",
+      "summary": "The 2026 open enrollment period for Affordable Care Act plans starts November 1, 2025, with anticipated premium increases causing concern for consumers and healthcare professionals involved in patient insurance navigation.",
+      "source": "Healthcare Finance News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthcarefinancenews.com/news/premium-sticker-shock-expected-when-aca-open-enrollment-starts-saturday"
+    },
+    {
+      "headline": "HHS Expands Access to Affordable Catastrophic Health Coverage Starting November 1, 2025",
+      "summary": "The U.S. Department of Health and Human Services has expanded the availability of hardship exemptions for Marketplace coverage to improve access to affordable catastrophic health insurance beginning November 1, 2025.",
+      "source": "U.S. Department of Health and Human Services",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hhs.gov/press-room/hhs-expands-access-affordable-catastrophic-health-coverage.html"
+    }
+  ]
+}
