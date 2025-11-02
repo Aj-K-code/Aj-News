@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Government shutdown freezes healthcare projects serving seniors, impacting 12,800 beds nationwide",
+    "summary": "The ongoing U.S. government shutdown has halted financing for critical healthcare projects, affecting senior care facilities across 32 states and putting approximately 12,800 beds out of commission, highlighting vulnerabilities in senior care during political standoffs.",
+    "source": "Fox News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.foxnews.com/politics/shutdown-freezes-health-projects-seniors-hud-chief-blasts-lefts-healthcare-hypocrisy"
+  },
+  "stories": [
+    {
+      "headline": "Open Enrollment begins today on Healthcare.gov amid government shutdown concerns",
+      "summary": "The 2025 open enrollment period for Affordable Care Act coverage started despite the government shutdown, presenting challenges and uncertainties for individuals seeking health insurance coverage this year.",
+      "source": "Northern Public Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.northernpublicradio.org/2025-11-01/open-enrollment-begins-today-on-healthcare-gov-heres-what-you-should-know"
+    },
+    {
+      "headline": "Obamacare open enrollment begins amid significant cost increases",
+      "summary": "The Affordable Care Act marketplaces have opened for enrollment with policyholders facing substantial premium hikes, complicating access and affordability of health insurance during an already politically volatile period.",
+      "source": "UPI",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.upi.com/Health_News/2025/11/01/Affordable-Care-Act-Obamacare-open-enrollment-begins/1571762010479/"
+    }
+  ]
+}

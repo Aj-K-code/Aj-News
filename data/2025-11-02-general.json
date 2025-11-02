@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US and China Reach Landmark One-Year Trade Pact",
+    "summary": "The US and China have agreed on a significant one-year trade deal that stops a threatened 100% tariff on Chinese goods, resumes agricultural purchases, and aims to stabilize fraught economic relations with broad global trade implications.",
+    "source": "Business Standard",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.business-standard.com/world-news"
+  },
+  "stories": [
+    {
+      "headline": "Explosion Inside Harvard Medical School Building Deemed Intentional",
+      "summary": "An intentional explosion occurred inside a building at Harvard Medical School, prompting an active investigation and search for suspects, raising concerns for safety in academic institutions.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.cbsnews.com/news/harvard-medical-school-explosion-investigation-2025-11-01/"
+    },
+    {
+      "headline": "British Police Arrest Two After Stabbing Attack on Train Near Cambridge",
+      "summary": "At least ten people were wounded in a stabbing attack on a train near Cambridge, UK; authorities have arrested two suspects, underscoring ongoing security challenges in public transportation.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.cbsnews.com/news/cambridge-train-stabbing-attack-2025-11-02/"
+    },
+    {
+      "headline": "President Trump Threatens Military Action Against Nigeria Over Christian Persecution",
+      "summary": "President Trump has escalated tensions by threatening to cut US aid and prepare possible military action against Nigeria, citing ongoing persecution of Christians, which could affect US-African diplomatic relations.",
+      "source": "The Intelligencer",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.theintelligencer.net/news/top-headlines/2025/11/trump-threatens-nigeria-with-potential-military-action-escalates-claim-of-christian-persecution/"
+    }
+  ]
+}
