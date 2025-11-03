@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Connecticut Faces Healthcare and Food Assistance Crisis Amid Federal Cuts",
+    "summary": "Tens of thousands of Connecticut residents are at risk of losing healthcare and food assistance due to federal policy changes and a government shutdown, prompting urgent calls for state intervention.",
+    "source": "CT Mirror",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://ctmirror.org/2025/11/03/in-connecticut-no-one-should-lose-healthcare-and-no-one-should-starve/"
+  },
+  "stories": [
+    {
+      "headline": "Governor Murphy Proclaims November 3, 2025 as One Health Day in New Jersey",
+      "summary": "New Jersey officially recognizes One Health Day, highlighting the state's leadership in integrating human, animal, and environmental health through new legislation and strategic planning.",
+      "source": "New Jersey Department of Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.nj.gov/health/news/2025/approved/20251029a.shtml"
+    },
+    {
+      "headline": "Johnson & Johnson Showcases Latest Advancements in Pulsed Field Ablation for Atrial Fibrillation",
+      "summary": "Johnson & Johnson MedTech presents new clinical and real-world evidence for its pulsed field ablation technology, advancing treatment options for complex cardiac arrhythmias.",
+      "source": "Johnson & Johnson Media Center",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-latest-advancements-in-pulsed-field-ablation-with-multiple-clinical-and-real-world-studies-at-aphrs-and-jphrs"
+    },
+    {
+      "headline": "Omani Patients Gain Direct Access to Malaysian Medical Specialists Through Healthcare Activation",
+      "summary": "A new healthcare initiative in Oman connects patients with Malaysian medical specialists, expanding international collaboration and access to specialized care.",
+      "source": "PR Newswire",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.prnewswire.com/apac/news-releases/omani-patients-gain-direct-access-to-malaysian-medical-specialists-through-week-long-healthcare-activation-302601983.html"
+    }
+  ]
+}

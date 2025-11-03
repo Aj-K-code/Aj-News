@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "ISRO launches India\u2019s heaviest communications satellite on LVM3-M5 mission",
+    "summary": "India\u2019s space agency ISRO successfully launched its heaviest satellite yet, marking a significant step in the country\u2019s space capabilities and global satellite communications market.",
+    "source": "The Economic Times",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Science",
+    "url": "https://economictimes.com/news/new-updates/school-assembly-news-headlines-for-3rd-november-top-national-international-business-and-sports-update/articleshow/125034097.cms"
+  },
+  "stories": [
+    {
+      "headline": "Over one million children in Gaza need water and food, UNICEF says",
+      "summary": "UNICEF reports a dire humanitarian crisis in Gaza, with over a million children urgently needing basic necessities as conditions worsen.",
+      "source": "News.az",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://news.az/time/2025/11/3"
+    },
+    {
+      "headline": "Canada, Philippines sign defence pact to deter aggression from China",
+      "summary": "Canada and the Philippines have signed a defence cooperation agreement aimed at countering China\u2019s regional assertiveness, reflecting shifting alliances in the Indo-Pacific.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "headline": "Iran to rebuild nuclear facilities 'with greater strength', says president",
+      "summary": "Iran\u2019s president announced plans to rebuild nuclear sites with increased capabilities, raising international concerns about the trajectory of the country\u2019s nuclear program.",
+      "source": "The Economic Times",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://economictimes.com/news/new-updates/school-assembly-news-headlines-for-3rd-november-top-national-international-business-and-sports-update/articleshow/125034097.cms"
+    }
+  ]
+}
