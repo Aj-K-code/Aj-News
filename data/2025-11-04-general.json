@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Maldives Implements Smoking Ban for All Born After 2007, Becoming First Nation with Generational Tobacco Prohibition",
+    "summary": "The Maldives has introduced a groundbreaking policy banning smoking for anyone born after January 1, 2007, marking a significant public health milestone with potential to inspire global tobacco control efforts.",
+    "source": "Agence France-Presse via NDTV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Science",
+    "url": "https://www.ndtv.com/world-news/in-a-first-maldives-bans-smoking-for-those-born-after-2007-4567890"
+  },
+  "stories": [
+    {
+      "headline": "Sudan Cities Al-Fashir and Kadugli Face Acute Famine Amid Ongoing Conflict",
+      "summary": "Famine conditions have been declared in two Sudanese cities following sieges and conflict, highlighting a worsening humanitarian crisis with urgent needs for international aid.",
+      "source": "Reuters via NDTV",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/after-months-of-killings-2-sudan-cities-now-facing-acute-famine-4567569"
+    },
+    {
+      "headline": "Saudi Crown Prince Mohammed bin Salman to Visit White House November 18",
+      "summary": "Saudi Arabia\u2019s Crown Prince schedules a key official visit to the U.S. amid ongoing international relations recalibration, signaling strategic diplomacy between the two nations.",
+      "source": "Reuters via NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/saudi-crown-prince-mohammed-bin-salman-to-meet-trump-on-november-18-4567700"
+    },
+    {
+      "headline": "Ukraine Receives Additional US Patriot Air Defense Systems to Counter Russian Attacks",
+      "summary": "The United States has delivered more Patriot missile defense systems to Ukraine, bolstering its capabilities amid ongoing conflict and raising the stakes in Eastern Europe.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://abcnews.go.com/International/ukraine-receives-patriot-air-defense-systems-counter-russian/story?id=106352839"
+    }
+  ]
+}

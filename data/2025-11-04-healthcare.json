@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "UPS Acquires Andlauer Healthcare Group for $1.6 Billion, Expanding Its Health Care Logistics Footprint",
+    "summary": "UPS finalized the $1.6 billion acquisition of Andlauer Healthcare Group to strengthen its capabilities in temperature-controlled health care logistics, enhancing global shipment visibility and transit times for pharmaceutical and medical device supply chains.",
+    "source": "Transport Topics",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.ttnews.com/articles/ups-acquires-andlauer"
+  },
+  "stories": [
+    {
+      "headline": "Hippocratic AI Secures $126M Series C Funding to Expand Patient-Facing AI Agents",
+      "summary": "Hippocratic AI completed over 115 million clinical patient interactions without safety issues and raised $126 million at a $3.5 billion valuation to scale AI-driven patient engagement solutions.",
+      "source": "Fierce Healthcare",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.fiercehealthcare.com/tech/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents"
+    },
+    {
+      "headline": "Millions of Americans Brace for Higher Health Insurance Costs as Open Enrollment Begins",
+      "summary": "The start of open enrollment comes amid rising health insurance premiums and the upcoming expiration of Affordable Care Act subsidies, potentially impacting access and affordability for many patients.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.cbsnews.com/video/millions-of-americans-brace-for-higher-health-insurance-costs-as-open-enrollment-begins/"
+    },
+    {
+      "headline": "Government Shutdown Raises Concerns Over SNAP Benefits and Healthcare Premiums",
+      "summary": "With the U.S. government shutdown nearing the longest in history, there is growing uncertainty around SNAP benefits and rising healthcare premiums that could affect vulnerable populations and healthcare coverage.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://abcnews.go.com/GMA/News/video/government-shutdown-new-battle-snap-benefits-healthcare-premiums-127126273"
+    }
+  ]
+}
