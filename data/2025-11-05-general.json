@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "South Korea to Triple Government Spending on Artificial Intelligence Infrastructure",
+    "summary": "South Korean President Lee Jae Myung announced a plan to triple government investment in AI infrastructure and technology, signaling a strategic national push to become a global leader in artificial intelligence with broad implications for economic growth and technological innovation.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Technology",
+    "url": "https://abcnews.go.com/International/south-korean-president-calls-aggressive-ai-spending-budget-speech/story?id=103112233"
+  },
+  "stories": [
+    {
+      "headline": "Typhoon Kalmaegi Leaves at Least 26 Dead and Causes Severe Flooding in the Philippines",
+      "summary": "Typhoon Kalmaegi has caused widespread devastation in the eastern Philippines, killing at least 26 people, displacing thousands, and flooding communities, highlighting the ongoing risks of climate-related disasters in Southeast Asia.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/typhoon-kalmaegi-leaves-dead-traps-people-philippines/story?id=103118945"
+    },
+    {
+      "headline": "North Korea\u2019s Longtime Ceremonial Head of State Kim Yong Nam Dies at Age 97",
+      "summary": "Kim Yong Nam, North Korea\u2019s longtime ceremonial head of state, has died at 97, marking the end of an era in North Korea\u2019s political symbolism amid ongoing global scrutiny of the regime.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/north-koreas-ceremonial-head-state-dies/story?id=103117890"
+    },
+    {
+      "headline": "At Least Two Killed and Five Foreign Climbers Missing After Avalanche in Nepal",
+      "summary": "An avalanche in Nepal has resulted in at least two deaths and left five foreign climbers missing in the Himalayan region, underscoring the persistent dangers of high-altitude mountaineering.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/avalanche-nepal-climbers-missing-2025/"
+    }
+  ]
+}

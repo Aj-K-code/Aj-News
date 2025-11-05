@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Large-scale post-marketing study shows oral antivirals reduce risk of long COVID by 14%",
+    "summary": "New clinical data from the ANCHOR study demonstrated that oral antiviral treatment for COVID-19 significantly lowers the incidence of post-COVID conditions (long COVID) by 14%, suggesting a preventative benefit against long-term complications.",
+    "source": "Shionogi & Co., Ltd.",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://www.shionogi.com/global/en/news/2025/11/20251105.html"
+  },
+  "stories": [
+    {
+      "headline": "CMS launches landmark $50 billion Rural Health Transformation Program",
+      "summary": "The Centers for Medicare & Medicaid Services opened the application window for a $50 billion program aimed at transforming rural health care delivery, with the goal of improving access and quality in underserved rural communities.",
+      "source": "U.S. Department of Health & Human Services",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hhs.gov/press-room/cms-rural-health-transformation-program-50-billion.html"
+    },
+    {
+      "headline": "Omada Health presents real-world evidence showing enhanced outcomes for GLP-1 users at ObesityWeek 2025",
+      "summary": "Omada Health revealed data demonstrating that engagement with their behavior change programs enhances the effectiveness of GLP-1 therapies for weight management, optimizing clinical outcomes and reducing wasted costs for patients and payers.",
+      "source": "BioSpace",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.biospace.com/press-releases/omada-health-to-present-real-world-evidence-at-obesityweek-2025-demonstrating-enhanced-outcomes-for-current-and-former-glp-1-users"
+    },
+    {
+      "headline": "Philips 2025 U.S. Future Health Index highlights AI\u2019s transformative potential in healthcare",
+      "summary": "The 2025 U.S. Future Health Index report finds that healthcare leaders view artificial intelligence as a key solution to systemwide challenges including staff shortages and patient access delays, emphasizing trust as essential for AI adoption to enhance care and reduce clinician burnout.",
+      "source": "Philips",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.usa.philips.com/a-w/about/news/archive/standard/news/articles/2025/trust-unlocks-ai-s-promise-in-healthcare.html"
+    }
+  ]
+}
