@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Congressional Stalemate Creates Chaos For Obamacare Shoppers",
+    "summary": "The fate of enhanced premium tax credits for Affordable Care Act enrollees remains uncertain, threatening significantly higher premiums and coverage disruptions for millions as open enrollment begins.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-nov-4-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Open Enrollment begins today on Healthcare.gov. Here's what you should know",
+      "summary": "Millions of Americans face potentially much higher premiums this year as enhanced ACA subsidies expire, creating uncertainty for patients and providers alike.",
+      "source": "NPR",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.tpr.org/2025-11-01/open-enrollment-begins-today-on-healthcare-gov-heres-what-you-should-know"
+    },
+    {
+      "headline": "Louisiana Took Months To Sound Alarm After Two Babies Died In Whooping Cough Outbreak",
+      "summary": "Louisiana public health officials delayed alerting the public during a severe whooping cough outbreak, raising concerns about transparency and disease control practices.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-nov-4-2025/"
+    },
+    {
+      "headline": "SNAP Payments Cut in Half Amid Federal Funding Expiration",
+      "summary": "Federal funding for SNAP expired, resulting in reduced payments for half of households, which may impact health outcomes and increase demand for safety-net services.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-3-2025/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Zohran Mamdani's Victory Fires Up Europe's Left Against Right-Wing Surge At Home",
+    "summary": "Zohran Mamdani's rise as mayor of New York City has energized left-wing parties across Europe, offering a new model for countering the growing influence of right-wing movements.",
+    "source": "Reuters",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/zohran-mamdani-s-victory-fires-up-europe-s-left-against-right-wing-surge-at-home-6778221"
+  },
+  "stories": [
+    {
+      "headline": "US Supreme Court Weighs Legality Of Trump Tariffs In High Stakes Hearing",
+      "summary": "The US Supreme Court is reviewing the legality of Donald Trump's tariffs, a decision that could reshape global trade policy and impact international economic relations.",
+      "source": "Agence France-Presse",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.ndtv.com/world-news/us-supreme-court-weighs-legality-of-trump-tariffs-in-high-stakes-hearing-6778217"
+    },
+    {
+      "headline": "Norway transport firm steps up controls after tests show Chinese-made buses can be halted remotely",
+      "summary": "A Norwegian public transport operator is tightening security after discovering that Chinese-made electric buses can be remotely disabled, raising concerns about cybersecurity in critical infrastructure.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://abcnews.go.com/International/norway-transport-firm-steps-controls-tests-chinese-made-buses/story?id=125112345"
+    },
+    {
+      "headline": "Putin tells officials to submit plans for possibly resuming nuclear tests after Trump's remarks",
+      "summary": "Russian President Vladimir Putin has ordered officials to prepare for a possible resumption of nuclear tests, escalating global nuclear tensions following statements by President Donald Trump.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/putin-tells-officials-submit-plans-possibly-resuming-nuclear-tests/story?id=125112344"
+    }
+  ]
+}
