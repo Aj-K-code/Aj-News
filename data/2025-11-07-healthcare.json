@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Affordable Care Act Marketplace Open Enrollment Begins Amidst Premium Hikes and Government Shutdown Concerns",
+    "summary": "The 2025 ACA Marketplace open enrollment started on November 1 with notable premium increases driven by the expiration of enhanced advanced premium tax credits, coinciding with federal funding uncertainties that could affect healthcare access nationwide.",
+    "source": "McDermott+",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-3-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Court Orders Partial SNAP Payments Amid Government Funding Lapses Impacting Healthcare Access",
+      "summary": "Federal judges mandated partial Supplemental Nutrition Assistance Program payments to states during funding expiration, highlighting ongoing government shutdown effects that may disrupt healthcare and social support services.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-3-2025/"
+    },
+    {
+      "headline": "Rising ACA Health Insurance Premiums Lead to Patient Coverage Challenges During Open Enrollment",
+      "summary": "As open enrollment starts, many Americans face significantly higher insurance premiums due to subsidy expirations and political deadlock, threatening coverage stability for millions amid ongoing healthcare system strains.",
+      "source": "Washington Post (cited in Better Health Care Newsletter - November 2025)",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.jdsupra.com/legalnews/better-health-care-newsletter-november-6309989/"
+    }
+  ]
+}

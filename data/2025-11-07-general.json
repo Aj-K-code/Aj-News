@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "European Union announces 90% carbon emissions reduction target by 2040 ahead of COP30 climate summit",
+    "summary": "The EU set an ambitious target to slash carbon emissions by 90% by 2040, signaling a strong commitment to climate action with global implications for emissions standards and environmental policy.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://abcnews.go.com/International/eu-agrees-emissions-targets-global-climate-summit-brazil-103982205"
+  },
+  "stories": [
+    {
+      "headline": "Elon Musk set to become world\u2019s first trillionaire as Tesla stock hits performance milestones",
+      "summary": "Elon Musk could soon become the world's first trillionaire after Tesla shareholders approved a stock package contingent on reaching ambitious company targets, reflecting significant innovation and market influence.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/elon-musk-tesla-trillionaire-stock-vote-2025/"
+    },
+    {
+      "headline": "FAA announces mass flight cancellations across 40 U.S. airports amid government shutdown air traffic control cuts",
+      "summary": "The Federal Aviation Administration will cancel hundreds of flights to alleviate the strain caused by air traffic control staff cuts during the government shutdown, affecting travel plans nationwide.",
+      "source": "ABC News (YouTube coverage summary)",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/US/airlines-start-mass-cancellations-faa-announces-flight-cuts-government/story?id=103995420"
+    },
+    {
+      "headline": "French authorities respond to violent vehicle attack on \u00cele d\u2019Ol\u00e9ron, injuring nine",
+      "summary": "On the French Atlantic island of \u00cele d\u2019Ol\u00e9ron, a motorist deliberately rammed pedestrians and cyclists, injuring nine people and prompting increased security responses.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/motorist-rams-vehicle-people-french-atlantic-island-injuring/story?id=103970128"
+    }
+  ]
+}
