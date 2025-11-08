@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "House Lawmakers Unveil Bipartisan Framework to Extend ACA Subsidies",
+    "summary": "A bipartisan group of House lawmakers released a framework proposing a two-year extension of Affordable Care Act premium subsidies with an income eligibility cap, aiming to prevent millions from losing enhanced tax credits amid a federal shutdown and escalating healthcare costs.",
+    "source": "Politico via KFF Health News",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.healthmanagement.com/insights/weekly-roundup/november-5-2025/"
+  },
+  "stories": [
+    {
+      "headline": "FDA Approves First Drug For Kids' Irritable Bowel Syndrome With Constipation",
+      "summary": "The FDA approved the first-ever drug specifically for children with irritable bowel syndrome (IBS) and constipation, marking a significant advancement in pediatric gastrointestinal care.",
+      "source": "MedPage Today via KFF Health News",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-nov-6-2025/"
+    }
+  ]
+}
