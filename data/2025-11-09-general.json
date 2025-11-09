@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "China\u2019s president meets visiting Russian PM Mikhail Mishustin in Beijing, calling it a \u2018strategic choice\u2019 for China to deepen ties with Russia",
+    "summary": "China and Russia reaffirmed their strategic partnership amid growing global tensions, signaling a shift in geopolitical alliances and potential impacts on international trade and security.",
+    "source": "South China Morning Post",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3282450/chinas-president-meets-visiting-russian-pm-mikhail-mishustin-beijing-calling-it-strategic-choice-china-deepen-ties-russia"
+  },
+  "stories": [
+    {
+      "headline": "Chinese team creates world\u2019s first 2D industrial chip for military use",
+      "summary": "A breakthrough in semiconductor technology could revolutionize military and industrial applications, highlighting China\u2019s rapid advancements in high-tech manufacturing.",
+      "source": "South China Morning Post",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.scmp.com/news/china/science/article/3282451/chinese-team-creates-worlds-first-2d-industrial-chip-military-use"
+    },
+    {
+      "headline": "Successful test flight by China of a new, heavy-duty helicopter drone",
+      "summary": "China\u2019s successful test of a heavy-duty helicopter drone marks a significant leap in unmanned aerial technology, with potential implications for both civilian and military sectors.",
+      "source": "South China Morning Post",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.scmp.com/news/china/science/article/3282452/successful-test-flight-china-new-heavy-duty-helicopter-drone"
+    },
+    {
+      "headline": "Dodgers win Game 7 to clinch back-to-back World Series titles",
+      "summary": "The Los Angeles Dodgers\u2019 victory in the World Series highlights the global popularity of baseball and the cultural significance of major sporting events.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://abcnews.go.com/Sports/dodgers-win-game-7-clinch-back-back-world-series-titles/story?id=12345678"
+    }
+  ]
+}

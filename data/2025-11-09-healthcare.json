@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Finalizes Medicare Physician Fee Schedule and Announces Expanded Coverage and Pricing Deal for Weight Loss Drugs",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) finalized the 2026 Physician Fee Schedule and reached a significant deal to negotiate prices and expand Medicare and Medicaid coverage for weight loss medications, potentially reshaping patient access and payment models in obesity care.",
+    "source": "McDermott+; Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-november-7-2025"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Hits 35-Day Record, SNAP Program Partially Funded Amid Ongoing Negotiations",
+      "summary": "The unprecedented federal government shutdown reached 35 days, forcing partial funding of the Supplemental Nutrition Assistance Program (SNAP), creating uncertainty in public health support systems during critical times.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-3-2025/"
+    },
+    {
+      "headline": "Catawba County Urges Vaccination to Protect Against Flu, COVID-19, and RSV Amid Respiratory Illness Season",
+      "summary": "Local health officials stressed the importance of vaccines for influenza, COVID-19, and RSV to protect vulnerable populations during the upcoming respiratory virus season, emphasizing vaccines as critical preventive tools for healthcare professionals to promote.",
+      "source": "Catawba County NC",
+      "importance": 3,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://catawbacountync.gov/news/vaccines-offer-protection-against-respiratory-disease/"
+    }
+  ]
+}
