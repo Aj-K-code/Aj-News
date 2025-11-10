@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Government Shutdown Breaks Record, Impacts Healthcare Funding and Access",
+    "summary": "The federal government shutdown has surpassed the previous record length, disrupting healthcare funding, Medicaid and Medicare operations, and access to critical programs like SNAP and HIV/AIDS services.",
+    "source": "McDermott +",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-3-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Trump Administration Orders States to Review Medicaid Rolls for Undocumented Immigrants",
+      "summary": "The Trump administration has directed state Medicaid agencies to review enrollee lists for undocumented immigrants, potentially affecting coverage for millions and raising concerns about administrative errors and eligibility disputes.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-november-3-2025/"
+    },
+    {
+      "headline": "CMS Announces Deal on Expanded Medicare, Medicaid Coverage of Weight Loss Drugs",
+      "summary": "CMS has finalized a deal to expand Medicare and Medicaid coverage of weight loss drugs with negotiated prices, signaling a major shift in obesity treatment access and reimbursement.",
+      "source": "McDermott +",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://natlawreview.com/article/mcdermott-check-november-7-2025"
+    },
+    {
+      "headline": "AMA Joins Stakeholders to Urge Congress to Permanently Authorize Medicare Telehealth Services",
+      "summary": "The AMA and other stakeholders are calling for Congress to permanently authorize Medicare telehealth services, highlighting the urgent need for stable access after repeated temporary extensions.",
+      "source": "AMA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/nov-7-2025-national-advocacy-update"
+    }
+  ]
+}
