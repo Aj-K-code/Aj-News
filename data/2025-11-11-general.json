@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Zelenskyy requests 25 U.S. Patriot air defense systems amid escalating Russian attacks",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has sought to acquire 25 Patriot air defense systems from the United States to strengthen Ukraine\u2019s defense against ongoing Russian aerial attacks causing widespread blackouts, reflecting escalating conflict tensions with broad geopolitical implications.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Deadly car explosion near Red Fort in New Delhi kills at least eight people",
+      "summary": "A car bomb exploded near the historic Red Fort in New Delhi, India, killing eight and injuring several others, prompting heightened security and international expressions of grief, highlighting ongoing regional security challenges.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/delhi-10-11-blast-grief-pours-in-from-across-world-uk-and-us-issue-advisories-4531102"
+    },
+    {
+      "headline": "Gaza ceasefire talks held by Jared Kushner amid fragile peace and economic struggles",
+      "summary": "Former U.S. envoy Jared Kushner engaged in ceasefire negotiations in Gaza as Palestinians face soaring living costs during a fragile ceasefire, underscoring ongoing complexities in Middle East peace efforts.",
+      "source": "Calvary Studio Ministry (YouTube)",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=xy1N3eCoeJw"
+    }
+  ]
+}
