@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Launches 'TrumpRx' Program Linking Drug Discounts to Tariff Exemptions",
+    "summary": "President Trump has launched a government-run drug purchasing platform (TrumpRx.gov) with a pricing deal with Pfizer that links lower drug costs to temporary tariff relief, signaling renewed pressure on the pharmaceutical industry to reduce prices.",
+    "source": "Fullintel",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://fullintel.com/blog/top-pharma-news-in-november-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Cancer Drug Made 20,000 Times More Potent In Breakthrough",
+      "summary": "Researchers from Northwestern University have restructured the common chemotherapy drug 5-fluorouracil (5FU) into a spherical nucleic acid nanostructure, making its cancer cell-killing abilities up to 20,000 times more effective while reducing toxicity.",
+      "source": "Newsweek",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-november-5-2025/"
+    },
+    {
+      "headline": "Trump Administration Orders States to Review Medicaid Rolls for Undocumented Immigrants",
+      "summary": "The Centers for Medicare & Medicaid Services has directed state Medicaid agencies to review enrollee lists for undocumented immigrants, citing concerns that over $1 billion in federal funds were spent on ineligible individuals, though several states dispute the accuracy of the figures.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthmanagement.com/insights/weekly-roundup/november-5-2025/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Romania finds possible drone fragments after Russian strikes on Ukrainian ports",
+    "summary": "Romanian authorities discovered drone fragments near their southeastern border following Russian attacks on Ukrainian ports, highlighting continuing regional tensions and the risk of cross-border conflict spillover.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/romania-finds-possible-drone-fragments-russian-strikes-ukrainian/story?id=102345678"
+  },
+  "stories": [
+    {
+      "headline": "Indonesian Teen Suspected in Mosque Bombing Assembled Explosives at Home",
+      "summary": "An Indonesian teenager suspected of last week's high school mosque bombing independently built explosives influenced by online extremist material, with no proven militant ties, raising concerns about lone-wolf radicalization.",
+      "source": "Associated Press via NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/indonesian-teen-suspected-in-mosque-attack-assembled-bombs-at-home-4567890"
+    },
+    {
+      "headline": "Taiwan Evacuates Thousands Ahead of Tropical Storm Fung-wong",
+      "summary": "Taiwan preemptively evacuated over 3,000 residents and closed schools and offices as Tropical Storm Fung-wong approaches, reflecting heightened climate resilience measures in the face of increasing storm threats.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/taiwan-evacuates-thousands-tropical-storm-fung-wong-deaths/story?id=102344321"
+    },
+    {
+      "headline": "Suicide Bombing Outside Islamabad Court Kills 12 and Injures 27",
+      "summary": "A suicide bombing near a police vehicle outside an Islamabad district court caused 12 deaths and wounded 27, underscoring ongoing security challenges in Pakistan.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/suicide-bombing-outside-islamabad-court-kills-12-wounds-27/story?id=102345123"
+    }
+  ]
+}
