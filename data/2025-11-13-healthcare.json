@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration Announces Major GLP-1 Drug Price Reductions with Eli Lilly and Novo Nordisk",
+    "summary": "The Trump administration negotiated agreements with pharmaceutical manufacturers to reduce prices for GLP-1 medications and other drugs to most-favored nation levels, including four GLP-1 drugs, migraine treatments, diabetes medications, and insulin products, representing a significant shift in drug pricing policy.",
+    "source": "The White House / Healthcare Labyrinth",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Pharma",
+    "url": "https://www.healthcarelabyrinth.com/november-6-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Breaks Record as Fifth Week Disrupts Healthcare System",
+      "summary": "The ongoing federal government shutdown, now the longest in U.S. history at five weeks, continues to disrupt safety-net hospitals, SNAP benefits, and healthcare services despite Medicare and Medicaid remaining partially operational through mandatory funding.",
+      "source": "National Law Review / KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-november-7-2025"
+    },
+    {
+      "headline": "CMS Launches New Ambulatory Specialty Model for Medicare Beneficiaries with Heart Failure and Low Back Pain",
+      "summary": "The Centers for Medicare & Medicaid Services officially adopted a mandatory payment model focusing on specialty care for Medicare patients with heart failure and low back pain, with mandatory clinician participation notifications beginning in early 2026 and program launch in January 2027.",
+      "source": "Safety Net Alliance",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-november-6/"
+    }
+  ]
+}

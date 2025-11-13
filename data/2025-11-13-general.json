@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Requests Pardon for Netanyahu, Calling Him a Victim of Political Prosecution",
+    "summary": "Former U.S. President Donald Trump urged Israeli President Isaac Herzog to pardon Prime Minister Benjamin Netanyahu amid ongoing bribery and fraud charges, characterizing the legal proceedings as politically motivated and potentially reshaping international diplomatic dynamics.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Corruption Investigation Shakes Ukraine",
+      "summary": "Ukraine's anti-corruption agencies uncovered a high-level corruption scheme involving the state nuclear energy company Energoatom, revealing systemic vulnerabilities in Ukrainian governance during ongoing conflict.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Myanmar Military Takes Delivery of Helicopters and Aircraft from Russia and China",
+      "summary": "Myanmar has commissioned new Russian helicopters and Chinese aircraft into its air force, deepening military partnerships with Moscow and Beijing despite international pressure to halt support for the military-run government's ongoing civil conflict.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Australia's Top Court Rejects Russia's Challenge to Embassy Eviction",
+      "summary": "Australia's highest court upheld a law that evicted Russia from a site where it was constructing a new embassy on security grounds, signaling strengthened Western security postures against Russian operations.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
