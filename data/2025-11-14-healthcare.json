@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration Announces Deal to Lower GLP-1 Weight-Loss Drug Prices",
+    "summary": "The Trump administration struck a deal with Eli Lilly and Novo Nordisk to offer significant discounts on GLP-1 weight-loss medications for Medicare and Medicaid patients, with additional price reductions available through a new government website launching next year for cash-paying consumers.",
+    "source": "Politico",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.politico.com/healthcare-news-updates-analysis"
+  },
+  "stories": [
+    {
+      "headline": "Government Reopens Following Shutdown Vote",
+      "summary": "After six weeks of government shutdown disruptions, Congress voted to fund the government, allowing federal offices to reopen and addressing critical healthcare access issues including SNAP benefits and ACA exchange functionality.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-house-vote-senate-deal-trump/"
+    }
+  ]
+}

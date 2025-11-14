@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Global Leaders Convene at COP30 Climate Summit to Accelerate Ambitious Environmental Commitments",
+    "summary": "At the COP30 summit held this week, nations made significant advances in global climate agreements aimed at strengthening emissions targets and financial support for developing countries, signaling a critical step toward coordinated international action on climate change.",
+    "source": "Global News Discover",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://www.globalnewsdiscover.com/2025/11/07-Nov-2025-world-news-digest-major-global-events.html"
+  },
+  "stories": [
+    {
+      "headline": "U.S. House Passes Bill to End Historic Government Shutdown, Sending Measure to President Trump",
+      "summary": "The U.S. House of Representatives passed legislation to end the longest government shutdown in history, potentially restoring full government functions and easing disruptions affecting public services and military personnel.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11516210/global-news-morning-november-7-2025"
+    },
+    {
+      "headline": "China Agrees to Strengthen Controls on Fentanyl Precursors Amid Global Drug Crisis",
+      "summary": "China announced new measures to tighten controls on precursor chemicals used to manufacture fentanyl, addressing a key factor in the ongoing global opioid epidemic and international regulatory efforts.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11516231/global-news-morning-headlines-friday-november-7-2025"
+    },
+    {
+      "headline": "Israel Launches Air Strikes on Hezbollah Targets in Southern Lebanon",
+      "summary": "Amid escalating tensions, Israel conducted a series of air strikes targeting Hezbollah positions in southern Lebanon, heightening security concerns in the volatile Middle East region.",
+      "source": "ABC World News Tonight",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=vuO77ksq4DI"
+    }
+  ]
+}
