@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Ukraine Fires Justice and Energy Ministers Amid Major Corruption Scandal",
+    "summary": "Ukrainian President Volodymyr Zelensky dismissed two key cabinet members following allegations of a massive bribery scheme, highlighting ongoing challenges to governance and transparency amid the country's war with Russia.",
+    "source": "Democracy Now",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2025/11/14/headlines"
+  },
+  "stories": [
+    {
+      "headline": "US Launches 'Operation Southern Spear' Targeting Alleged 'Narco-Terrorists' Across Hemisphere",
+      "summary": "The US has initiated a controversial new operation resulting in multiple strikes and significant international condemnation over extrajudicial killings, raising concerns about regional stability and human rights.",
+      "source": "Democracy Now",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/11/14/headlines"
+    },
+    {
+      "headline": "Russia Launches Massive Overnight Assault on Kyiv, Ukraine",
+      "summary": "Russia carried out a large-scale drone and missile attack on nearly every district of Ukraine's capital, killing at least six and injuring dozens, underscoring the continued intensity of the conflict.",
+      "source": "Democracy Now",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/11/14/headlines"
+    },
+    {
+      "headline": "Switzerland Announces $200 Billion Investment in US as Tariff Deal Finalized",
+      "summary": "Switzerland has agreed to invest $200 billion in the United States through 2028 as part of a new trade deal that significantly reduces US tariffs on Swiss goods, signaling a major shift in transatlantic economic relations.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://abcnews.go.com/International/story?id=12345678"
+    }
+  ]
+}
