@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Switzerland to boost US investment by $200 billion with a deal to lower US tariffs on Swiss goods",
+    "summary": "Switzerland has announced plans to invest $200 billion in the United States through 2028 following an agreement that reduces US tariffs on Swiss products, potentially strengthening economic ties and trade between the two countries.",
+    "source": "ABC News",
+    "importance": 4,
+    "impact_to_me": 3,
+    "category": "Business",
+    "url": "https://abcnews.go.com/International/switzerland-boost-us-investment-deal-lower-us-tariffs-swiss-101392345"
+  },
+  "stories": [
+    {
+      "headline": "At least 9 killed and 32 injured in explosion at Kashmir police station",
+      "summary": "A cache of confiscated explosives detonated inside a police station in Indian-administered Kashmir, resulting in multiple casualties and raising security concerns in the volatile region.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/at-least-9-killed-32-injured-explosion-kashmir-police-101391456"
+    },
+    {
+      "headline": "Israeli Prime Minister Netanyahu and Russian President Putin discuss Middle East situation",
+      "summary": "Netanyahu and Putin held a phone conversation exchanging views on the complex Middle East conflict, reflecting ongoing international diplomatic efforts in the region.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/netanyahu-putin-discuss-middle-east-after-russias-un-resolution-on-gaza-101390987"
+    }
+  ]
+}

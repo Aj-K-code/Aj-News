@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Launches 'TrumpRx' Program Linking Drug Discounts to Tariff Exemptions",
+    "summary": "President Donald Trump launched TrumpRx.gov, a government-run drug purchasing platform tying discounted drug prices to tariff relief, aiming to reduce pharmaceutical costs and expand access to IVF treatments, also doubling federal AI funding for pediatric cancer research, signaling a major policy shift affecting drug pricing and fertility care.",
+    "source": "Fullintel Insights",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://fullintel.com/blog/top-pharma-news-in-november-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Ends but Future of Affordable Care Act Subsidies Remains Uncertain",
+      "summary": "Though the recent government shutdown ended, the fate of ACA subsidies remains unclear with promised Senate votes delayed, risking premium increases that could negatively impact patient coverage and strain healthcare providers financially.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://abcnews.go.com/Health/government-shutdown-ended-future-aca/story?id=127503888"
+    },
+    {
+      "headline": "HHS Cancels USPSTF November Meeting, Delaying Preventive Care Recommendations",
+      "summary": "Health and Human Services cancelled the U.S. Preventive Services Task Force November meeting citing government shutdown impacts, hindering crucial evidence-based preventive care guidance for providers and insurers.",
+      "source": "COSSA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://cossa.org/hhs-cancels-uspstfs-november-meeting/"
+    }
+  ]
+}
