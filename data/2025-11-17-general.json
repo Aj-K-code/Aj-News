@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Stanford scientists create first quantum crystal STO with potential for ultra-efficient electronics",
+    "summary": "Researchers at Stanford University have developed a new quantum crystal material (STO) that could revolutionize energy-efficient computing and quantum technologies, marking a major leap in materials science.",
+    "source": "Global News Discover",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://www.globalnewsdiscover.com/2025/11/10-November-2025-world-news-digest-major-global-events.html?m=1"
+  },
+  "stories": [
+    {
+      "headline": "US government shutdown ends after bipartisan Senate deal",
+      "summary": "The longest US government shutdown in history concluded as eight Senate Democrats joined Republicans to pass a deal, averting further economic disruption and restoring federal operations.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=SR6qYk0KiZk"
+    },
+    {
+      "headline": "Deadly explosion near Delhi's Red Fort kills at least eight",
+      "summary": "A car explosion near India's historic Red Fort in Delhi killed at least eight people, prompting a major security investigation amid fears of terrorism.",
+      "source": "Global News Discover",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalnewsdiscover.com/2025/11/10-November-2025-world-news-digest-major-global-events.html?m=1"
+    },
+    {
+      "headline": "Russia intensifies missile and drone attacks on Ukraine's energy grid",
+      "summary": "Russia launched 45 missiles and 450 drones targeting Ukraine's energy infrastructure, causing widespread blackouts and prompting urgent appeals for NATO air defense support.",
+      "source": "Global News Discover",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.globalnewsdiscover.com/2025/11/10-November-2025-world-news-digest-major-global-events.html?m=1"
+    }
+  ]
+}

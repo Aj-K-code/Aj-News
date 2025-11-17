@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump Brokers Deal with Eli Lilly and Novo Nordisk on GLP-1 and Other Prescription Drug Prices",
+    "summary": "The White House announced a major agreement with Eli Lilly and Novo Nordisk to align U.S. prescription drug prices with international standards, targeting significant cost reductions for GLP-1 medications and others, marking a pivotal step in drug affordability efforts.",
+    "source": "HealthCare Roundtable",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-november-10-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Congress Reaches Funding Agreement to End Federal Shutdown and Resume Critical Health Operations",
+      "summary": "Congress passed a funding deal extending government operations through January 30, 2026, restoring Medicare telehealth flexibilities and health program funding critical to healthcare delivery.",
+      "source": "Social Current",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.social-current.org/2025/11/nov-17-federal-update-congress-reaches-funding-agreement-resuming-critical-federal-operations/"
+    },
+    {
+      "headline": "Los Angeles County Public Health Investigates Possible Local Spread of Clade I Mpox After Third Case",
+      "summary": "Following the confirmation of a third locally acquired Clade I mpox case in Los Angeles County, public health officials urge vaccination with the JYNNEOS vaccine to prevent further spread among high-risk populations.",
+      "source": "Los Angeles County Public Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://lacounty.gov/2025/10/17/county-public-health-investigating-possible-local-spread-of-clade-i-mpox-after-third-case-confirmed-in-los-angeles-county/"
+    }
+  ]
+}
