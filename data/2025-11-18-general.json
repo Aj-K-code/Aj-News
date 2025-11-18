@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US Senate passes bill to end longest government shutdown in history",
+    "summary": "The US Senate has passed legislation to reopen the federal government after the longest shutdown in American history, resolving a prolonged political deadlock that disrupted public services and economic activity.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11521086/global-news-morning-headlines-tuesday-november-11-2025"
+  },
+  "stories": [
+    {
+      "headline": "France to deliver up to 100 Rafale warplanes to Ukraine",
+      "summary": "France has announced plans to supply Ukraine with up to 100 fully-equipped Rafale fighter jets, marking a significant escalation in Western military support amid the ongoing conflict with Russia.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11521086/global-news-morning-headlines-tuesday-november-11-2025"
+    },
+    {
+      "headline": "US confirms deadly 'kinetic strike' against alleged drug smugglers in Caribbean",
+      "summary": "The US has confirmed carrying out a lethal strike against suspected drug smuggling vessels in the Caribbean, resulting in multiple fatalities and raising concerns about regional security and diplomatic tensions.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=UKXzbmK7ZBU"
+    },
+    {
+      "headline": "Car bomb explosion kills 12 at judicial complex in Islamabad, Pakistan",
+      "summary": "A car bomb exploded in the parking lot of a busy judicial complex in Islamabad, killing at least 12 people and injuring several others, highlighting ongoing security challenges in the region.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=UKXzbmK7ZBU"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump administration announces deal on GLP-1 pricing and coverage",
+    "summary": "The Trump administration reached an agreement with Novo Nordisk and Eli Lilly to significantly reduce the price of GLP-1 drugs for obesity and expanded CMS coverage for Medicare and Medicaid patients, addressing surging demand and high costs.",
+    "source": "American Medical Association",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/nov-14-2025-national-advocacy-update"
+  },
+  "stories": [
+    {
+      "headline": "Medical societies urge repeal of new Anthem out-of-network policy",
+      "summary": "Over 90 medical societies are urging Anthem (Elevance Health) to repeal a new policy that penalizes hospitals with a 10% reimbursement cut when out-of-network physicians are used, starting January 2026.",
+      "source": "American Medical Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/nov-14-2025-national-advocacy-update"
+    },
+    {
+      "headline": "CHN to House: Address Rising Health Costs, Oppose the November Spending Package",
+      "summary": "The Coalition on Human Needs is urging Congress to oppose the November spending package due to its failure to extend enhanced ACA premium tax credits, warning of a potential surge in uninsured Americans.",
+      "source": "Coalition on Human Needs",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.chn.org/voices/chn-to-house-address-rising-health-costs-oppose-the-november-spending-package/"
+    },
+    {
+      "headline": "Consortium for State and Regional Interoperability Launches Health Data Utility Capability Model",
+      "summary": "The Consortium for State and Regional Interoperability released a new Health Data Utility Capability Model to standardize and scale health data sharing across providers, payers, and public health agencies.",
+      "source": "Health IT Answers",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://www.healthitanswers.net/sharing-health-data-update-november-2025/"
+    }
+  ]
+}
