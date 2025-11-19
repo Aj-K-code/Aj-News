@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Judge Denies Texas Bid For Bar On Tylenol Marketing In State",
+    "summary": "A federal judge rejected Texas's attempt to ban the marketing of Tylenol in the state, a decision that could have broad implications for pharmaceutical regulation and consumer access to over-the-counter medications.",
+    "source": "Bloomberg",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-17/judge-denies-texas-bid-for-bar-on-tylenol-marketing-in-state"
+  },
+  "stories": [
+    {
+      "headline": "Senate Finance Committee to Focus on Rising Healthcare Costs in Key Hearing",
+      "summary": "The Senate Finance Committee is holding a major hearing this week on the rising cost of healthcare, with the potential extension of enhanced Affordable Care Act premium tax credits likely to be a central topic.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-17-2025/"
+    },
+    {
+      "headline": "GLP-1s Tied To Big Survival Advantage In Colon Cancer Patients",
+      "summary": "A large retrospective analysis finds that colon cancer patients treated with GLP-1 receptor agonists for obesity have a significantly lower 5-year mortality rate, suggesting a potential new role for these drugs in cancer care.",
+      "source": "MedPage Today",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/113245"
+    },
+    {
+      "headline": "Consortium Releases Health Data Utility Capability Model to Standardize Interoperability",
+      "summary": "The Consortium for State and Regional Interoperability has launched a new Health Data Utility Capability Model to standardize and scale health data sharing across providers, public health agencies, and payers.",
+      "source": "Health IT Answers",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthitanswers.net/sharing-health-data-update-november-2025/"
+    }
+  ]
+}

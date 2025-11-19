@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "France pledges up to 100 fighter jets and advanced defense systems to Ukraine amid ongoing conflict",
+    "summary": "France has committed to supplying Ukraine with up to 100 fighter jets along with advanced air defense systems, drones, and munitions, signaling strengthened international military support amid Russia's sustained aerial assaults on Kyiv, which have intensified the ongoing conflict and global security concerns.",
+    "source": "Democracy Now! via YouTube (Nov 18, 2025)",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=0Suza51XSOM"
+  },
+  "stories": [
+    {
+      "headline": "UN Security Council approves US-led plan for international stabilization force in Gaza",
+      "summary": "The UN Security Council approved a US-proposed ceasefire and the establishment of an international stabilization force tasked with delivering aid, protecting civilians, and disarming Hamas in Gaza, marking a significant step in addressing the humanitarian crisis and regional stability.",
+      "source": "Global News Morning via GlobalNews.ca (Nov 18, 2025)",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11522404/global-news-morning-headlines-wednesday-november-12-2025"
+    },
+    {
+      "headline": "US President Donald Trump removes tariffs on hundreds of food products ahead of Thanksgiving",
+      "summary": "President Trump announced the removal of tariffs on hundreds of food products to mitigate inflationary pressures at grocery stores in the US, responding to consumer affordability concerns following recent Democratic electoral gains.",
+      "source": "Global News via YouTube (Nov 17, 2025)",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=IYw_55oF7-w"
+    },
+    {
+      "headline": "Canada, US, and Finland form partnership to strengthen Arctic icebreaker fleet",
+      "summary": "Canada, the United States, and Finland announced a trilateral pact to bolster their Arctic icebreaker capabilities, enhancing navigation, security, and environmental monitoring amid increasing geopolitical and climate challenges in the Arctic region.",
+      "source": "Global News Morning via GlobalNews.ca (Nov 18, 2025)",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11522404/global-news-morning-headlines-wednesday-november-12-2025"
+    }
+  ]
+}
