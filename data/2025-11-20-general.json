@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump Signs Bill Ending Longest US Government Shutdown in History",
+    "summary": "After 43 days of shutdown, President Trump signed a bipartisan funding bill to resume federal government operations through January 2026, averting further disruption but excluding some health subsidies, which may raise insurance costs for millions.",
+    "source": "Global News Discover",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.globalnewsdiscover.com/2025/11/13-november-2025-world-news-digest-major-global-events.html"
+  },
+  "stories": [
+    {
+      "headline": "China-Japan Tensions Escalate Over Controversial Remarks on Taiwan",
+      "summary": "Diplomatic tensions between China and Japan intensified following provocative statements by Japan's Takaichi about Taiwan, raising concerns over regional stability in East Asia.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11524263/global-news-morning-headlines-thursday-november-13-2025"
+    },
+    {
+      "headline": "Canada, US, Finland Form Pact to Enhance Arctic Icebreaker Capabilities",
+      "summary": "In a strategic move to strengthen Arctic navigation and security, Canada, the US, and Finland announced a partnership to upgrade their icebreaker fleets, reflecting growing geopolitical interest in the Arctic region.",
+      "source": "Global News at 6 Toronto",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11525477/global-news-at-600-toronto-nov-13-2025"
+    }
+  ]
+}

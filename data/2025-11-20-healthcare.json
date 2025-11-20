@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "FDA Announces Removal of 'Black Box' Warning on Hormone Therapy for Menopause",
+    "summary": "The FDA has removed the controversial 'black box' warning on hormone therapy for menopause, signaling a major shift in clinical guidance and potentially increasing access to treatment for millions of women.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-nov-13-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Government Shutdown Ends, SNAP Funding Restored, but ACA Premium Subsidies Not Extended",
+      "summary": "After a 43-day government shutdown, SNAP funding has been restored and federal employees reinstated, but the failure to extend Affordable Care Act premium subsidies leaves over 20 million Americans at risk of sharply rising health insurance costs.",
+      "source": "This Week in Public Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://thisweekinpublichealth.com/blog/2025/11/13/next-week-in-public-health-november-13-2025/"
+    },
+    {
+      "headline": "FDA Issues New Recommendations on Fluoride Supplements, Raising Concerns Among Pediatricians",
+      "summary": "The FDA has updated its recommendations on fluoride supplements, a move that could affect children's dental health and prompts concern among pediatricians about access and efficacy.",
+      "source": "KFF Health News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-nov-13-2025/"
+    },
+    {
+      "headline": "Texas Reports Highest Whooping Cough Cases in 11 Years Amid Declining Vaccination Rates",
+      "summary": "Texas has seen over 3,500 cases of whooping cough this year, the highest in over a decade, prompting health officials to urge vaccinations and increased public health measures.",
+      "source": "This Week in Public Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://thisweekinpublichealth.com/blog/2025/11/13/next-week-in-public-health-november-13-2025/"
+    }
+  ]
+}
