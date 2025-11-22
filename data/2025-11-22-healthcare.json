@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration Announces Deal to Lower GLP-1 Drug Prices and Expand Coverage",
+    "summary": "The Trump administration reached an agreement with Novo Nordisk and Eli Lilly to significantly reduce the price of GLP-1 drugs for obesity and expand Medicare and Medicaid coverage, marking a major shift in access to these high-cost medications.",
+    "source": "AMA Association",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/nov-14-2025-national-advocacy-update"
+  },
+  "stories": [
+    {
+      "headline": "Medicare Telehealth Flexibilities Restored After Government Shutdown",
+      "summary": "Following the end of the government shutdown, Medicare telehealth flexibilities have been retroactively restored through January 30, 2026, allowing providers to resume expanded telehealth services and easing access for patients nationwide.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-17-2025/"
+    },
+    {
+      "headline": "ACA Enhanced Premium Subsidies Set to Expire, Raising Concerns Over Uninsured Rates",
+      "summary": "Enhanced premium subsidies for Affordable Care Act marketplace plans are scheduled to expire at the end of 2025, potentially leading to higher costs for millions and increased numbers of uninsured patients unless Congress acts.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-november-21-2025/"
+    }
+  ]
+}

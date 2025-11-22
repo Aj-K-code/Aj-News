@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "UN Security Council adopts US resolution advancing Gaza peace plan",
+    "summary": "A landmark UN Security Council resolution backed by the US and several global powers marks a historic step toward Palestinian self-determination and a potential end to the Gaza crisis, signaling a shift in international diplomacy.",
+    "source": "City 1016",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.city1016.ae/trending/news/international-news/archive/2025-11/"
+  },
+  "stories": [
+    {
+      "headline": "Trump eliminates tariffs on key food imports amid inflation concerns",
+      "summary": "President Trump rolled back tariffs on major food imports like beef, coffee, and tropical fruits, aiming to lower consumer prices and address rising inflation following a recent government shutdown.",
+      "source": "Global News Discover",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Business",
+      "url": "https://www.globalnewsdiscover.com/2025/11/15-november-2025-global-news-report-major-world-events.html"
+    },
+    {
+      "headline": "Vatican returns 62 Indigenous artifacts to Canada after 100 years",
+      "summary": "The Vatican has formally agreed to return 62 Indigenous artifacts to Canada, marking a significant step in reconciliation and cultural restitution efforts.",
+      "source": "Global National",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Culture",
+      "url": "https://globalnews.ca/video/11530167/global-national-nov-15-14"
+    },
+    {
+      "headline": "Russia-Ukraine conflict escalates with major drone and missile strikes",
+      "summary": "Russia launched massive drone and missile attacks on Kyiv, killing at least six, while Ukraine retaliated with strikes on Russian oil facilities, intensifying the ongoing energy war.",
+      "source": "Global News Discover",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.globalnewsdiscover.com/2025/11/15-november-2025-global-news-report-major-world-events.html"
+    }
+  ]
+}
