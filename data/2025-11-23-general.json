@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "COP30 Advances Climate Justice with Loss and Damage Fund Proposals",
+    "summary": "At the UN climate summit in Bel\u00e9m, Brazil, delegates launched new proposals for a Loss and Damage Fund to support vulnerable countries, marking a major step toward climate justice and global cooperation.",
+    "source": "Global News Discover",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalnewsdiscover.com/2025/11/16-november-2025-comprehensive-world-news-summary.html?m=1"
+  },
+  "stories": [
+    {
+      "headline": "U.S. Military Buildup Near Venezuela Raises Tensions",
+      "summary": "The United States has amassed naval forces in the Caribbean, sparking fears of a potential larger conflict with Venezuela amid ongoing diplomatic and drug-related tensions.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=EBNcnLaZ_p0"
+    },
+    {
+      "headline": "Ukraine Seeks New Gas Supply Amid Ongoing Russian Attacks",
+      "summary": "Ukrainian President Zelenskyy is negotiating a new gas supply deal with Greece as Russia continues its attacks on energy infrastructure, highlighting the ongoing energy crisis and security challenges.",
+      "source": "CBS News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=EBNcnLaZ_p0"
+    },
+    {
+      "headline": "Gen Z Protests Spread to Mexico Against Violence and Corruption",
+      "summary": "Protests led by young people in Mexico City against violence and corruption have escalated, reflecting a growing youth movement demanding accountability and change.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=wAdvm3FjiWQ"
+    }
+  ]
+}

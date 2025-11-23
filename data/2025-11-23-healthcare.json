@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "NIH funding cuts during Trump administration disrupted over 380 clinical trials affecting 74,000 participants",
+    "summary": "New research published in JAMA Internal Medicine reveals that funding cuts from late February through August 2025 disrupted 383 NIH-funded clinical trials, threatening research pipelines and raising ethical concerns for patient trust.",
+    "source": "BPD Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://bpdhealthcare.com/icu_blog/weekly-wrap-up-for-the-week-of-november-15-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Medicare telehealth flexibilities restored after government shutdown, enabling wider access to remote care",
+      "summary": "Following the end of the government shutdown, Medicare and Medicaid telehealth flexibilities including audio-only visits and hospital-at-home programs were reinstated, improving access and reducing wait times for hospice, mental health, and chronic care patients.",
+      "source": "RSM US Real Economy",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://realeconomy.rsmus.com/health-care-industry-trend-watch-week-of-nov-17-2025/"
+    },
+    {
+      "headline": "Senate Finance Committee holds hearing on rising healthcare costs amid debates on premium subsidy extension",
+      "summary": "Congressional leaders are preparing for a floor vote on extending enhanced ACA premium subsidies as Senate hearings spotlight rising healthcare costs, with partisan divides making the future of subsidies uncertain for millions of Americans.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-november-17-2025/"
+    }
+  ]
+}
