@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "COP30 in Bel\u00e9m delivers a politically charged climate finance boost and pledges for fossil fuel transition",
+    "summary": "At the COP30 climate summit in Bel\u00e9m, Brazil, nations agreed on a comprehensive package to increase climate financing and accelerate the Paris Agreement's goals, though stopping short of a clear fossil fuel phase-out commitment, marking a critical milestone in global climate negotiations.",
+    "source": "Inter Press Service / UN News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Science",
+    "url": "https://www.globalissues.org/news/2025/11"
+  },
+  "stories": [
+    {
+      "headline": "China extends visa-free stay for Australian citizens until end of 2025",
+      "summary": "China announced the extension of its visa-free arrangement for Australian visitors to 30 days through the end of 2025, a move likely to enhance travel and bilateral ties between the two countries amid evolving geopolitical dynamics.",
+      "source": "Nhan Dan Online",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://en.nhandan.vn/world-news-in-brief-november-2425-post141579.html"
+    },
+    {
+      "headline": "UN highlights ongoing threat from landmines despite international treaties",
+      "summary": "UN Secretary-General Antonio Guterres underscored the persistent hazard posed by landmines worldwide even as some signatories to the Ottawa Treaty renew their use, emphasizing a continued challenge for global humanitarian and security efforts.",
+      "source": "Nhan Dan Online",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://en.nhandan.vn/world-news-in-brief-november-2425-post141579.html"
+    }
+  ]
+}

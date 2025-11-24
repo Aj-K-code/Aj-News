@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Breakthrough Breast Cancer Vaccine Trial by Duke Health Shows 24-Year Survival",
+    "summary": "Duke Health researchers announced that a small group of women with advanced breast cancer involved in a vaccine trial over two decades ago are all alive today, demonstrating durable immune response and a potential new avenue for treatment.",
+    "source": "ABC11 Raleigh-Durham",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://abc11.com/duke-health-breast-cancer-vaccine-trial-24-years/13579246/"
+  },
+  "stories": [
+    {
+      "headline": "White House Expands Most-Favored-Nation Drug Pricing Program to GLP-1 Therapies",
+      "summary": "The Trump Administration extended its drug pricing initiative to include major anti-obesity GLP-1 drugs such as Ozempic and Wegovy, integrating Medicare Part D coverage and promising broader access for obesity treatment.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/11/holland-knight-health-dose-november-18-2025"
+    },
+    {
+      "headline": "Medicare Telehealth and Hospital-at-Home Services Resume Nationwide",
+      "summary": "Following the end of the government shutdown, Medicare reinstated telehealth flexibilities including audio-only visits and hospital-at-home programs, improving remote care access for rural, senior, and disabled populations nationwide.",
+      "source": "RSM Real Economy",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://realeconomy.rsmus.com/health-care-industry-trend-watch-week-of-nov-17-2025/"
+    }
+  ]
+}
