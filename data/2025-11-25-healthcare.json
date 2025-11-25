@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Expands Most-Favored-Nation Program to GLP-1 Therapies",
+    "summary": "The White House announced new most-favored-nation (MFN) agreements with major manufacturers of GLP-1 drugs, extending lower prices and expanded Medicare coverage for obesity treatments for the first time.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Pharma",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/11/holland-knight-health-dose-november-18-2025"
+  },
+  "stories": [
+    {
+      "headline": "Medical Orgs Press Anthem To Pull Back Out-Of-Network Policy",
+      "summary": "Three major medical organizations urged Anthem to rescind a new policy penalizing hospitals for using out-of-network providers, citing operational challenges and potential harm to patient care.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-november-18-2025/"
+    },
+    {
+      "headline": "Hospital-At-Home Waiver Uncertainty Remains After Shutdown",
+      "summary": "Health systems are reevaluating hospital-at-home programs after the government shutdown, with the CMS Acute Hospital Care at Home waiver extended only until January due to ongoing legislative uncertainty.",
+      "source": "Modern Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-november-18-2025/"
+    },
+    {
+      "headline": "Telehealth Flexibilities Expire Amid Government Shutdown",
+      "summary": "Lawmakers failed to extend telehealth flexibilities, resulting in millions of Americans losing access to virtual care coverage and reverting to previous restrictions.",
+      "source": "OpenLoop Health",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://openloophealth.com/blog/recent-digital-health-trends-insight-and-news-november-2025"
+    }
+  ]
+}

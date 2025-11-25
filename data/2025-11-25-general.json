@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "UN Security Council endorses US-backed international stabilization force for Gaza",
+    "summary": "The United Nations Security Council approved a controversial US-backed plan for an international stabilization force in Gaza, representing a potential shift toward post-conflict peacebuilding despite Palestinian exclusion from talks, which raises concerns over the plan's long-term viability and regional stability.",
+    "source": "Global News Discover",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalnewsdiscover.com/2025/11/major-world-news-roundup-18-nov-2025.html?m=1"
+  },
+  "stories": [
+    {
+      "headline": "U.S. designates Venezuelan group \u2018Cartel de los Soles\u2019 as terror organization",
+      "summary": "The U.S. government officially designated the Venezuelan group 'Cartel de los Soles' as a terrorist organization, signaling intensified political and security measures that may affect geopolitical relations and regional stability in Latin America.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11530863/global-news-morning-headlines-tuesday-november-18-2025"
+    },
+    {
+      "headline": "Suicide bombing at Pakistan paramilitary headquarters kills at least 31",
+      "summary": "A suicide attack targeted a paramilitary headquarters in Pakistan, killing at least 31 people and highlighting persistent security challenges and terrorism threats in the region.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11530863/global-news-morning-headlines-tuesday-november-18-2025"
+    }
+  ]
+}
