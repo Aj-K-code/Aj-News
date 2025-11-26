@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US Envoy to Meet Putin in Moscow to Finalize Ukraine Peace Plan as Zelensky Welcomes Principles",
+    "summary": "US President Donald Trump's envoy Steve Witkoff is set to meet Russian President Vladimir Putin in Moscow to resolve outstanding issues in a US-proposed peace plan for Ukraine, which Ukrainian President Zelensky has cautiously welcomed as a basis for deeper agreements, amid continuing conflict and European skepticism.",
+    "source": "Agence France-Presse via NDTV",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/trump-says-envoy-witkoff-will-meet-putin-in-moscow-to-discuss-peace-plan-4556238"
+  },
+  "stories": [
+    {
+      "headline": "Trump Says \u2018Very Close\u2019 to Ukraine Peace Deal, But Europe Remains Cautious",
+      "summary": "President Trump announced the Ukraine peace deal is nearing completion, while European leaders maintain skepticism as Russian missile attacks on Kyiv continue.",
+      "source": "Agence France-Presse via NDTV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/trump-says-very-close-to-ukraine-peace-deal-but-europe-remains-cautious-4556189"
+    },
+    {
+      "headline": "All 24 Abducted Nigerian Schoolgirls Rescued, President Confirms",
+      "summary": "Nigeria's president confirmed the successful rescue of 24 schoolgirls abducted last week in Kebbi, marking a significant achievement in national security efforts against armed assailants.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/nigerian-schoolgirls-abducted-kebbi-rescued-president/story?id=103876542"
+    },
+    {
+      "headline": "Two Climbers Dead and Two Rescued on New Zealand\u2019s Highest Peak",
+      "summary": "Tragedy struck New Zealand\u2019s Aoraki peak as two climbers died and two others were rescued from dangerous conditions, highlighting ongoing risks in high-altitude mountaineering.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/two-climbers-dead-rescued-new-zealands-highest-peak/story?id=103876321"
+    }
+  ]
+}

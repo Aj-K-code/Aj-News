@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Vaccine Safety Webpage Update Sparks Widespread Criticism from Medical Community",
+    "summary": "The CDC's recent change to its vaccine safety webpage, suggesting infant vaccines may cause autism, has triggered strong backlash from doctors and scientists who warn it could undermine public trust and lower vaccination rates.",
+    "source": "Illinois Times",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://www.illinoistimes.com/news/doctors-scientists-at-odds-with-cdc/"
+  },
+  "stories": [
+    {
+      "headline": "White House Delays Announcement of New Healthcare Cost Plan Amid Expiring ACA Subsidies",
+      "summary": "The White House has postponed unveiling a new healthcare cost plan as enhanced Affordable Care Act subsidies are set to expire, raising concerns about increased costs for millions of Americans.",
+      "source": "UPI",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.upi.com/Top_News/US/2025/11/24/white-house-delay-health-care-plan/9191764027969/"
+    },
+    {
+      "headline": "Measles Resurgence Threatens U.S. Elimination Status",
+      "summary": "The CDC warns the U.S. is close to losing its measles elimination status due to rising outbreaks, highlighting gaps in vaccine coverage and public health infrastructure.",
+      "source": "USANews",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://usanews.com/newsroom/cost-pressures-and-health-alarms-define-america-s-late-november-crossroads"
+    }
+  ]
+}
