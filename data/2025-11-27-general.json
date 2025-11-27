@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Ukraine peace deal closer than ever, Trump says",
+    "summary": "President Donald Trump announced significant progress on a Russia-Ukraine peace plan, with negotiations gathering momentum as key issues like territory, security guarantees, and military limits remain under discussion.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Suspect From Hellhole Afghanistan: Trump On Act Of Terror In US Capital",
+      "summary": "President Trump characterized the shooting of two National Guard members in Washington DC as an act of terror, deploying an additional 500 National Guard troops to the capital in response to the incident.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news"
+    },
+    {
+      "headline": "Brazil Gave World A Lesson In Democracy By Jailing Bolsonaro, Says Lula",
+      "summary": "Brazilian President Lula defended his predecessor Jair Bolsonaro's imprisonment for a failed coup attempt as a demonstration of democratic accountability and rule of law.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news"
+    },
+    {
+      "headline": "Death toll rises as massive fire engulfs Hong Kong high-rise apartment buildings",
+      "summary": "A devastating fire in Hong Kong's high-rise residential buildings has claimed at least 40 lives with hundreds still missing, marking one of the region's most significant fire disasters.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
