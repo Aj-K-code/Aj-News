@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Congressional Disagreements Persist Over Healthcare Cost Solutions as 2026 ACA Subsidies Near Expiry",
+    "summary": "Ongoing Congressional gridlock continues over extending the enhanced Affordable Care Act subsidies set to expire end of 2025, jeopardizing coverage affordability for millions and raising concerns across federal and state healthcare programs.",
+    "source": "National Law Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://natlawreview.com/article/mcdermott-check-november-21-2025"
+  },
+  "stories": [
+    {
+      "headline": "White House Delays Announcement of New Healthcare Cost Plan Amid ACA Subsidy Expiry",
+      "summary": "The White House postponed unveiling its strategy to address rising healthcare costs as the Affordable Care Act subsidies are due to expire, increasing uncertainty for millions of insured Americans.",
+      "source": "UPI",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.upi.com/Top_News/US/2025/11/24/white-house-delay-health-care-plan/9191764027969/"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Brazilian police dismantle $4.8 billion tax evasion and money laundering scheme in fuel sector",
+    "summary": "Brazilian authorities launched a major crackdown on a massive tax evasion and money laundering operation within the fuel industry, signaling intensified efforts against financial crimes with broad economic implications for the region.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://abcnews.go.com/International/brazilian-police-crack-4-8b-tax-evasion-money-laundering/story?id=104000123"
+  },
+  "stories": [
+    {
+      "headline": "56 dead in Sri Lanka floods and landslides as government shuts offices and schools",
+      "summary": "Severe flooding and landslides in Sri Lanka have caused at least 56 fatalities, forcing the closure of government offices and schools, highlighting the ongoing impacts of climate extremes in South Asia.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/56-dead-in-lanka-floods-landslides-government-offices-schools-shut-4558998"
+    },
+    {
+      "headline": "US National Guard member dies after shooting near White House",
+      "summary": "One of two National Guard troops shot near the White House has died while the other remains critically injured, prompting a review of security protocols and impacting US national security concerns.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/guard-member-dies-day-after-shooting-another-fighting-for-life-trump-4558987"
+    }
+  ]
+}
