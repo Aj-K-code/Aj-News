@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Delays Rollout of New Healthcare Cost Plan Amid Expiring ACA Subsidies",
+    "summary": "The White House has delayed the announcement of a new healthcare cost plan as Affordable Care Act subsidies expire, raising concerns about affordability and access for millions of Americans.",
+    "source": "UPI",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.upi.com/Top_News/US/2025/11/24/white-house-delay-health-care-plan/9191764027969/"
+  },
+  "stories": [
+    {
+      "headline": "CMS Releases CY 2027 Medicare Advantage and Part D Proposed Rule",
+      "summary": "CMS has released the proposed rule for Medicare Advantage and Part D for 2027, which could significantly impact reimbursement, plan design, and patient access to medications.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/11/health-care-week-in-review-november-26-2025"
+    },
+    {
+      "headline": "Trump Administration Announces Negotiated Drug Prices for 2027",
+      "summary": "The Trump Administration has announced new negotiated drug prices for 2027, which may affect medication affordability and pharmacy reimbursement rates.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://www.alston.com/en/insights/publications/2025/11/health-care-week-in-review-november-26-2025"
+    },
+    {
+      "headline": "Senate Finance Committee Holds Hearing on Rising Cost of Health Care",
+      "summary": "The Senate Finance Committee held a hearing to address the rising cost of health care, focusing on systemic drivers and potential legislative solutions.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/11/health-care-week-in-review-november-21-2025"
+    }
+  ]
+}
