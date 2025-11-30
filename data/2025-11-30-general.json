@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Congo and Rwanda Presidents to Meet in US to Sign Peace Deal",
+    "summary": "The presidents of the Democratic Republic of Congo and Rwanda are set to meet in the United States to sign a peace agreement, marking a major diplomatic breakthrough after years of regional conflict and instability.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/congo-rwanda-presidents-meet-us-sign-peace-deal/story?id=12234567"
+  },
+  "stories": [
+    {
+      "headline": "Sri Lanka Declares State of Emergency After Cyclone Ditwah",
+      "summary": "Sri Lanka has declared a state of emergency and is seeking international aid after Cyclone Ditwah displaced tens of thousands and caused widespread damage, highlighting the growing threat of extreme weather events in South Asia.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-30-november-2025/"
+    },
+    {
+      "headline": "Airlines Worldwide Cancel Flights Due to Airbus A320 Software Glitch",
+      "summary": "Hundreds of flights were canceled globally as airlines urgently updated software on over 6,500 Airbus A320 jets, underscoring the vulnerability of critical aviation infrastructure to technical failures.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-30-november-2025/"
+    },
+    {
+      "headline": "African Union Suspends Guinea-Bissau After Military Coup",
+      "summary": "The African Union has suspended Guinea-Bissau following a military coup, signaling strong regional opposition to unconstitutional power grabs and raising concerns about democratic backsliding in West Africa.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/african-union-suspends-guinea-bissau-military-coup/story?id=12234568"
+    }
+  ]
+}

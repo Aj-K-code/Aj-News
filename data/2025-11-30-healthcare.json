@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Releases CY 2027 Medicare Advantage and Part D Proposed Rule",
+    "summary": "CMS has released its proposed rule for Medicare Advantage and Part D for 2027, which could significantly impact payment structures, plan offerings, and beneficiary access to care in the coming year.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/11/health-care-week-in-review-november-26-2025"
+  },
+  "stories": [
+    {
+      "headline": "Congressional Disagreements Continue Over Healthcare Costs and Enhanced APTCs",
+      "summary": "Lawmakers remain divided on how to address healthcare costs, with the expiration of enhanced advanced premium tax credits (APTCs) looming and no bipartisan agreement in sight, potentially affecting millions of Americans' access to affordable coverage.",
+      "source": "The National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-november-21-2025"
+    },
+    {
+      "headline": "HHS Implements Measures to Expand Access to Catastrophic Health Plans",
+      "summary": "The Department of Health and Human Services has expanded access to catastrophic health plans for individuals ineligible for premium tax credits, increasing options for those seeking lower-cost coverage with essential benefits.",
+      "source": "Brach Eichler LLC",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.bracheichler.com/healthcare-law-update-november-2025/"
+    }
+  ]
+}
