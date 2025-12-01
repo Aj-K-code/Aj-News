@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Finalizes 2026 Medicare Physician Fee Schedule with Key Adjustments Impacting Physician Payments",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) released the final rule for the 2026 Medicare Physician Fee Schedule, including a -2.5% productivity adjustment and exemptions for certain healthcare services, affecting reimbursement rates for physicians.",
+    "source": "Alston & Bird Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/health-care-week-in-review-government-8241858/"
+  },
+  "stories": [
+    {
+      "headline": "New York State Health Department Highlights Affordable Health Insurance Enrollment Deadline for 2025 Coverage",
+      "summary": "New York State urges residents to enroll by December 15 for health coverage starting January 2025, featuring expanded eligibility and reduced out-of-pocket costs through upgraded Essential and Qualified Health Plans.",
+      "source": "NY State of Health",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://info.nystateofhealth.ny.gov/news/press-release-state-health-departments-ny-state-health-reminds-new-yorkers-enroll-health"
+    },
+    {
+      "headline": "BTIG Hosts 5th Annual Ophthalmology Day Showcasing Innovations in Eye Care Technologies and Therapeutics",
+      "summary": "BTIG\u2019s virtual event gathers over 25 biomedical and biotechnology companies to discuss recent advances and future trends in ophthalmic medical devices and treatments, reflecting growing industry focus on eye health.",
+      "source": "Business Wire",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Research",
+      "url": "https://www.businesswire.com/news/home/20251124635602/en/BTIG-to-Host-5th-Annual-Ophthalmology-Day-on-December-1-2025"
+    }
+  ]
+}
