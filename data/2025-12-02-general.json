@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Massive Flooding Across Southeast Asia and South Asia Kills Over 1,000 People",
+    "summary": "Devastating floods and landslides in Indonesia, Sri Lanka, Thailand, and Malaysia have claimed over 1,000 lives, with Indonesia alone experiencing 469 deaths, prompting emergency response efforts and international humanitarian attention.",
+    "source": "BBC News / Euronews",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=HUSE22fXMR0"
+  },
+  "stories": [
+    {
+      "headline": "Trump Administration Announces End to World AIDS Day Commemoration",
+      "summary": "The Trump administration declared it will no longer officially commemorate World AIDS Day, marking a significant shift in U.S. public health policy and international health advocacy.",
+      "source": "Havana Times",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-december-1-2025/"
+    },
+    {
+      "headline": "Israeli Forces Conduct Raid in Syria, Killing 13 People",
+      "summary": "Israeli military forces raided a village outside Damascus, killing 13 people including two children, claiming to target Lebanese Muslim Brotherhood members in the ongoing pattern of incursions since Assad's regime fell.",
+      "source": "Havana Times",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-december-1-2025/"
+    },
+    {
+      "headline": "Philippines: Tens of Thousands Protest Against President Marcos Jr. Over Corruption Scandal",
+      "summary": "Mass protests erupted in Manila as citizens demand President Ferdinand Marcos Jr.'s resignation following revelations that his government received billions in kickbacks from faulty flood control projects.",
+      "source": "Havana Times",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-december-1-2025/"
+    }
+  ]
+}
