@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "OSF HealthCare to Transition Obstetrics and ICU Services to Saint Elizabeth Medical Center in Peru, Illinois",
+    "summary": "OSF HealthCare will consolidate inpatient OB and ICU services from Ottawa to Peru starting December 3, 2025, enhancing regional care delivery and supporting a sustainable healthcare model in the I-80 region.",
+    "source": "OSF HealthCare Newsroom",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://newsroom.osfhealthcare.org/osf-ready-to-open-ob-and-icu-services-in-peru/"
+  },
+  "stories": [
+    {
+      "headline": "Healthcare Payers Transformation Assembly Begins in Nashville to Address Industry Challenges",
+      "summary": "The December 2-3, 2025 Healthcare Payers Transformation Assembly kicked off in Nashville, focusing on digital transformation, financial risk mitigation, and the evolving healthcare insurance landscape.",
+      "source": "MillAll",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://mill-all.com/assemblies/healthcare-payers-transformation-assembly-december-2025/"
+    },
+    {
+      "headline": "Integra LifeSciences CEO and CFO to Present at Citi 2025 Global Healthcare Conference",
+      "summary": "Integra LifeSciences announced its top executives will present on December 3, 2025, highlighting developments at this leading medical technology company's investor event.",
+      "source": "GlobeNewswire",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Business",
+      "url": "https://www.biospace.com/press-releases/integra-lifesciences-leadership-to-present-at-the-citi-2025-global-healthcare-conference"
+    }
+  ]
+}

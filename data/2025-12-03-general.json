@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia, US threatened to resume nuclear testing after decades. Here's why it matters",
+    "summary": "Both the United States and Russia have recently threatened to resume nuclear testing, raising global alarm and undermining decades of international norms against such actions.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/story?id=127678900"
+  },
+  "stories": [
+    {
+      "headline": "Canada joins EU defense fund as the country pivots away from the US",
+      "summary": "Canada has officially joined a major European Union defense initiative, marking a strategic shift in its international defense partnerships and expanding access for Canadian defense companies to European markets.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/canada-joins-eu-defense-fund-country-pivots-away/story?id=127678888"
+    },
+    {
+      "headline": "Death toll soars past 1K after flooding in parts of Asia",
+      "summary": "Severe flooding and landslides across Indonesia, Sri Lanka, and Thailand have killed over 1,000 people in the past week, highlighting the increasing risks of climate-related disasters in the region.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/world/death-toll-soars-past-1k-after-flooding-in-parts-of-asia/"
+    },
+    {
+      "headline": "Russia Okays Key Defence Pact With India Ahead Of Putin's Visit",
+      "summary": "Russia's parliament ratified a major military agreement with India, strengthening bilateral defense ties ahead of President Putin's state visit to New Delhi.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/russia-okays-key-defence-pact-with-india-ahead-of-putins-visit-6741245"
+    }
+  ]
+}
