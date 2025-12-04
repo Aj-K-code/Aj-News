@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches ACCESS Model for Chronic Care Management in Original Medicare",
+    "summary": "The Centers for Medicare & Medicaid Services launched the Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) Model on December 1, 2025, a voluntary 10-year initiative to test outcome-based payment approaches for technology-supported chronic disease management beginning July 1, 2026, potentially reshaping how clinicians deliver care for conditions like diabetes, hypertension, and depression.",
+    "source": "Holland & Knight",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Give Kids a Chance Act Renamed in Honor of Mikaela Naylon",
+      "summary": "The U.S. House of Representatives passed H.R. 1262, the Give Kids a Chance Act, on December 1, 2025, expanding healthcare opportunities for pediatric patients and marking a significant legislative advancement in children's health policy.",
+      "source": "Holland & Knight",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-3-2025"
+    },
+    {
+      "headline": "Cognito Therapeutics Presents Positive Biomarker Data for Spectris\u2122 Alzheimer's Therapy at CTAD 2025",
+      "summary": "Cognito Therapeutics announced that its investigational non-invasive therapy Spectris\u2122 demonstrated increased Neuritin-1 abundance and coordinated improvements in neuroprotective protein pathways in cerebrospinal fluid analysis, supporting its potential as a disease-modifying Alzheimer's treatment.",
+      "source": "BioSpace",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.biospace.com/press-releases/cognito-therapeutics-announces-presentation-of-new-csf-proteomic-and-eeg-biomarker-data-for-spectris-in-alzheimers-disease-at-ctad-2025"
+    },
+    {
+      "headline": "Merck Receives Fast Track Designation for MK-2214 Alzheimer's Candidate at CTAD 2025",
+      "summary": "Merck announced that the FDA granted Fast Track Designation for MK-2214, a novel antibody targeting phosphorylated tau, while presenting first-in-human Phase 1 data at the Clinical Trials on Alzheimer's Disease conference, accelerating the development timeline for this potential disease-modifying therapy.",
+      "source": "Merck",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://www.merck.com/news/merck-showcases-data-for-alzheimers-disease-candidates-mk-2214-and-mk-1167-at-ctad-2025/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "UN General Assembly demands immediate return of forcibly transferred Ukrainian children by Russia",
+    "summary": "The UN General Assembly has overwhelmingly demanded that Russia unconditionally return all Ukrainian children who have been forcibly taken or deported amid the ongoing war, highlighting significant humanitarian concerns and global diplomatic tensions.",
+    "source": "UN News via Global Issues",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news"
+  },
+  "stories": [
+    {
+      "headline": "US President Trump says Putin wants to end the Ukraine war after Moscow talks",
+      "summary": "Following recent negotiations in Moscow, US President Donald Trump expressed optimism that Russian President Vladimir Putin seeks to end the Ukraine conflict, despite the talks concluding without an agreement.",
+      "source": "Agence France-Presse via NDTV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/trump-calls-moscow-talks-very-good-meeting-says-putin-wants-to-end-war-3567894"
+    },
+    {
+      "headline": "Roadside bomb kills 3 police officers in northwestern Pakistan amid security alerts",
+      "summary": "A powerful roadside bomb targeting a police vehicle killed three officers in Pakistan\u2019s northwest, marking the third such attack in recent days and underscoring ongoing regional security challenges.",
+      "source": "ABC News International",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/story?id=123456789"
+    },
+    {
+      "headline": "Russia\u2019s parliament approves key military pact strengthening defense ties with India",
+      "summary": "Ahead of President Vladimir Putin\u2019s visit to India, Russia\u2019s lower house approved the Reciprocal Exchange of Logistic Support agreement to bolster military cooperation between the two countries.",
+      "source": "Leverage Edu International News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-4-december-2025/"
+    }
+  ]
+}
