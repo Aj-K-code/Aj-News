@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Putin Vows to Take Ukraine's Eastern Donbas Region by Force if Ukrainian Troops Do Not Withdraw",
+    "summary": "Russian President Vladimir Putin declared his intention to seize full control of Ukraine's Donbas region by force unless Ukrainian forces withdraw, escalating tensions in the ongoing conflict with broad implications for regional stability and international relations.",
+    "source": "Reuters",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/putin-says-russia-will-take-donbas-by-force-or-ukraines-troops-will-withdraw-3678995"
+  },
+  "stories": [
+    {
+      "headline": "UK Inquiry Concludes Putin Ordered 2018 Novichok Poisoning of Ex-Russian Spy",
+      "summary": "A UK public inquiry found that Russian President Vladimir Putin ordered the Novichok nerve agent attack on former Russian double agent Sergei Skripal in 2018, highlighting reckless use of chemical weapons with significant diplomatic repercussions.",
+      "source": "Reuters via NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/putin-ordered-2018-novichok-poisoning-of-ex-russian-spy-uk-inquiry-3678996"
+    },
+    {
+      "headline": "US Military Strike Kills Four on Alleged Drug-Trafficking Boat in Pacific",
+      "summary": "A US military strike on a suspected drug-trafficking vessel in the eastern Pacific resulted in four deaths, intensifying debate over the ongoing campaign against illicit maritime trafficking and its humanitarian impacts.",
+      "source": "Agence France-Presse via NDTV",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/4-killed-in-latest-us-strike-on-alleged-drug-trafficking-boat-in-pacific-3678700"
+    }
+  ]
+}

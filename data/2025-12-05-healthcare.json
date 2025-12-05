@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "MedPAC December 2025 Meeting Focuses on Medicare Payment Adequacy and Updates",
+    "summary": "The Medicare Payment Advisory Commission (MedPAC) held public sessions addressing the adequacy of payments for home health, hospice, dialysis, outpatient services, and assessments of Medicare payment models, with implications for policy and provider payment strategies.",
+    "source": "MedPAC",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.medpac.gov/meeting/december-4-5-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Legislation Advances to Implement Medicaid Work Requirements in January 2027",
+      "summary": "The 'One Big Beautiful Bill' Medicaid work requirements are moving forward, set to take effect in 2027, raising concerns about loss of coverage for many disabled individuals and potential increases in healthcare disparities and emergency care reliance.",
+      "source": "The Connecticut Mirror",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://ctmirror.org/2025/12/05/work-requirements-the-deliberate-tear-in-medicaids-safety-net/"
+    }
+  ]
+}
