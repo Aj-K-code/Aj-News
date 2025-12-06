@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "India and Russia deepen ties with 23rd Annual Summit focusing on trade, defense, and technology",
+    "summary": "During the 23rd Annual India-Russia Summit, leaders Modi and Putin agreed on ambitious trade targets for 2030 and enhanced cooperation in defense co-production and technology, signaling a strategic partnership amid global geopolitical shifts.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/pm-modi-putin-summit-sets-2030-trade-target-seals-defence-co-production-2536659"
+  },
+  "stories": [
+    {
+      "headline": "Pentagon reports bombing of another boat in Eastern Pacific amid drug trafficking claims",
+      "summary": "The US Pentagon announced destroying a boat allegedly carrying drugs in the Eastern Pacific, resulting in four deaths, though no evidence supporting the claims was provided, raising concerns about transparency in military actions.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=8rt9YYsEjKk"
+    },
+    {
+      "headline": "Russian President Putin pledges uninterrupted fuel supply to India despite US pressures",
+      "summary": "In response to US sanctions and pressures, Putin vowed to maintain continuous fuel shipments to India, underscoring the resilience of the Russia-India energy partnership amid international tension.",
+      "source": "NDTV / Agence France-Presse",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.ndtv.com/world-news/ready-to-offer-uninterrupted-fuel-to-india-putin-amid-trump-tariffs-2536779"
+    }
+  ]
+}

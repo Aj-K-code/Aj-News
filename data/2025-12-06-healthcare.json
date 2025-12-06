@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Second Year of Medicare Drug Price Negotiations Delivers up to $12 Billion in Savings",
+    "summary": "The Trump Administration announced expected federal savings of $8.5 to $12 billion from the second year of Medicare drug price negotiations, halving prices on 15 high-cost drugs including key therapies for breast cancer, lung fibrosis, and diabetes, to take effect in 2027, significantly impacting drug affordability.",
+    "source": "HealthCare Roundtable",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-december-1-2025/"
+  },
+  "stories": [
+    {
+      "headline": "CMS Launches ACCESS Model to Improve Chronic Care with Technology-Enabled Solutions",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) launched the ACCESS Model, a 10-year voluntary initiative starting July 2026 that tests outcome-aligned payments to expand technology-supported care for chronic disease management in Original Medicare, aiming to modernize care delivery for conditions like hypertension and diabetes.",
+      "source": "Holland & Knight Health Dose",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-3-2025"
+    },
+    {
+      "headline": "House Passes Hospital Inpatient Services Modernization Act Extending 'Hospital at Home' Program",
+      "summary": "The U.S. House passed HR 4313, which extends the Acute Hospital Care at Home program for five years, potentially shifting more inpatient care to home settings with Senate consideration pending, affecting inpatient care delivery models and hospital resource utilization.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-december-1-2025/"
+    },
+    {
+      "headline": "Debate Intensifies Over ACA Premium Subsidies Extension as December 31 Expiration Approaches",
+      "summary": "With enhanced Affordable Care Act premium subsidies set to expire on December 31, 2025, political negotiations remain uncertain amid GOP resistance and Democratic calls for a clean extension, creating potential insurance premium hikes and coverage losses impacting millions.",
+      "source": "HealthCare Roundtable",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-december-1-2025/"
+    }
+  ]
+}
