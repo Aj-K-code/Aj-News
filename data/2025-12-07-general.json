@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Putin and Indian Prime Minister Modi Announce $100 Billion Expansion in Russia-India Trade by 2030",
+    "summary": "Russian President Vladimir Putin and Indian Prime Minister Narendra Modi agreed to expand and diversify bilateral trade to $100 billion by 2030, underscoring their strategic partnership amid global geopolitical tensions and economic realignments.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://globalnews.ca/news/11551569/putin-russia-india-trade-expansion-2030/"
+  },
+  "stories": [
+    {
+      "headline": "Israeli Forces Conduct Deadly Raid in Syria, Killing 13 People Including Children",
+      "summary": "Israeli military forces raided a village near Damascus, Syria, killing 13 individuals including two children, escalating regional tensions in the aftermath of Assad regime's fall while targeting members of Lebanon\u2019s Muslim Brotherhood.",
+      "source": "Democracy Now",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/israeli-raid-syria-2025/"
+    },
+    {
+      "headline": "Tens of Thousands Protest in Manila Demanding Philippine President Marcos Jr.'s Resignation Over Corruption Scandal",
+      "summary": "In response to a major corruption scandal involving billions in kickbacks for faulty flood control projects amid devastating typhoons, mass protests erupted in Manila calling for President Marcos Jr.'s resignation, highlighting growing public outrage over governance and disaster mismanagement.",
+      "source": "Democracy Now",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/philippines-mass-protests-marcos-corruption/"
+    },
+    {
+      "headline": "India Delivers 73 Tonnes of Medicines and Vaccines to Kabul Amidst Afghan Health Crisis",
+      "summary": "India reaffirmed its humanitarian commitment to Afghanistan by sending 73 tonnes of vital medicines and vaccines to Kabul, aiming to alleviate the country\u2019s strained health system and reinforce regional stability through health diplomacy.",
+      "source": "Global News Discover",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalnewsdiscover.com/2025/12/1-December-2025-global-news-headlines-key-world-events.html"
+    }
+  ]
+}
