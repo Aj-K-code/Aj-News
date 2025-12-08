@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches ACCESS Model to Expand Technology-Supported Chronic Care for Medicare Beneficiaries",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) launched the Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) Model, a 10-year voluntary initiative starting July 2026 to test outcome-aligned payment approaches enabling clinicians to better manage common chronic conditions using technology, signaling a major shift toward modernizing Medicare chronic care.",
+    "source": "Holland & Knight Health Dose",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Hospital Inpatient Services Modernization Act to Extend Acute Hospital Care at Home Program",
+      "summary": "The House of Representatives passed HR 4313, extending the Acute Hospital Care at Home program for five years, which promises to support hospital-at-home services and could transform care delivery models pending Senate approval.",
+      "source": "National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/healthcare-preview-week-december-1-2025-podcast"
+    },
+    {
+      "headline": "Trump Administration Announces Major Savings from Second Year of Medicare Drug Price Negotiations",
+      "summary": "Federal savings from Medicare drug price negotiations are expected to reach $8.5 to $12 billion in 2027 due to steep price cuts on 15 high-cost drugs including Pfizer\u2019s Ibrance and Novo Nordisk\u2019s diabetes and weight loss medications.",
+      "source": "HealthCare Roundtable e-News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Pharma",
+      "url": "https://www.healthcareroundtable.us/healthcare-roundtable-e-news-december-1-2025/"
+    }
+  ]
+}

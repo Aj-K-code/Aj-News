@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Democratic Republic of the Congo and Rwanda sign peace agreement in Washington, D.C.",
+    "summary": "Presidents F\u00e9lix Tshisekedi and Paul Kagame formally signed a peace deal in Washington, D.C., brokered by the United States, aiming to end years of regional conflict and instability in the eastern DRC, with significant implications for regional security and humanitarian conditions in Central Africa.",
+    "source": "Newsweek",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.newsweek.com/drc-rwanda-peace-agreement-trump-administration-2025-1961234"
+  },
+  "stories": [
+    {
+      "headline": "India sends 73 tonnes of medical aid to Kabul, reaffirming humanitarian support for Afghanistan",
+      "summary": "India delivered a major shipment of medicines and vaccines to Afghanistan, reinforcing its humanitarian role amid ongoing health system challenges in the country and signaling continued regional engagement despite political changes.",
+      "source": "Global News Discover",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalnewsdiscover.com/2025/12/1-December-2025-global-news-headlines-key-world-events.html"
+    },
+    {
+      "headline": "Supreme Court of India empowers CBI to crack down on 'digital arrest' scams",
+      "summary": "India\u2019s Supreme Court has given the CBI broad authority to investigate banks and entities linked to 'digital arrest' cybercrime scams, marking a significant judicial step to combat a growing form of online fraud targeting individuals.",
+      "source": "Global News Discover",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://www.globalnewsdiscover.com/2025/12/1-December-2025-global-news-headlines-key-world-events.html"
+    },
+    {
+      "headline": "Trump administration halts visas and asylum decisions for Afghan nationals after White House shooting",
+      "summary": "Following a deadly shooting near the White House by an Afghan national, the Trump administration has suspended all visa issuances and asylum decisions for Afghans, with major implications for refugee flows and U.S. immigration policy.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/12/1/headlines"
+    }
+  ]
+}
