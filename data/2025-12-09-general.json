@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Democratic Republic of the Congo and Rwanda Sign Historic Peace Agreement in Washington, D.C.",
+    "summary": "The presidents of the Democratic Republic of the Congo and Rwanda formally signed a peace deal hosted by U.S. President Trump, potentially ending years of conflict and stabilizing the Great Lakes region of Africa.",
+    "source": "Newsweek",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.newsweek.com/drc-rwanda-peace-agreement-2025"
+  },
+  "stories": [
+    {
+      "headline": "Russia and U.S.-backed Negotiators Hold Talks in Moscow Amid Ongoing Ukraine Conflict",
+      "summary": "U.S. envoys Jared Kushner and Steve Witkoff met with Russian President Vladimir Putin to propose a peace plan, reflecting ongoing high-level diplomatic efforts against the backdrop of continued violence including a missile attack on Dnipro.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/12/2/headlines"
+    },
+    {
+      "headline": "Major Snowstorm Hits U.S. East Coast After Walloping Midwest",
+      "summary": "A significant snowstorm that impacted the U.S. Midwest has now reached the East Coast, causing travel disruptions and highlighting increased extreme weather events.",
+      "source": "CBS Evening News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.cbsnews.com/news/major-snowstorm-us-east-coast-december-2025"
+    },
+    {
+      "headline": "Haiti Faces Escalating Violence as Armed Gangs Kill Dozens and Displace Hundreds",
+      "summary": "Heavily armed gangs in Haiti\u2019s central region carried out deadly attacks, leading to significant displacement and highlighting ongoing major security crises amid political instability.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/12/2/headlines"
+    }
+  ]
+}
