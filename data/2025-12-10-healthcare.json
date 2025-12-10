@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Launches ACCESS Model to Expand Technology-Supported Chronic Care for Medicare Beneficiaries",
+    "summary": "The Centers for Medicare & Medicaid Services (CMS) initiated the ACCESS Model, a voluntary 10-year program starting July 2026, to test outcome-based payments and enhance care flexibility for chronic conditions in Medicare patients, marking a significant shift toward technology-driven care.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-5-2025"
+  },
+  "stories": [
+    {
+      "headline": "House Passes 5-Year Extension for Medicare\u2019s Acute Hospital-at-Home Funding",
+      "summary": "The U.S. House of Representatives approved the Hospital Inpatient Services Modernization Act of 2025, extending Medicare\u2019s ability to fund acute hospital-at-home services for five more years, supporting more flexible care delivery post-pandemic.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-3-2025/"
+    },
+    {
+      "headline": "Shingles Vaccine May Slow Progression of Dementia, New Study Suggests",
+      "summary": "Recent research indicates the two-dose shingles vaccine not only prevents the viral infection but also could slow dementia progression, potentially impacting aging population care strategies.",
+      "source": "CNN",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-3-2025/"
+    },
+    {
+      "headline": "Experimental Liver Cancer Vaccine Shows Life-Saving Results in Early Trials",
+      "summary": "Johns Hopkins researchers report an experimental vaccine that saved lives in early trials targeting a rare liver cancer primarily affecting younger, healthy patients, offering new hope for difficult-to-treat cancers.",
+      "source": "The Baltimore Sun",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-3-2025/"
+    }
+  ]
+}
