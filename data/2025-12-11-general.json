@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US President Donald Trump orders massive military buildup near Venezuela following oil tanker seizure",
+    "summary": "Following the seizure of a Venezuelan oil tanker, the US has deployed an aircraft carrier, fighter jets, and tens of thousands of troops to the region, escalating tensions in Latin America with potential broad geopolitical ramifications.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/world/us-seizes-oil-tanker-off-venezuela-coast-trump-says"
+  },
+  "stories": [
+    {
+      "headline": "Deadly fire at a seven-storey building in Jakarta kills at least 20",
+      "summary": "A major fire in Jakarta, Indonesia, has resulted in at least 20 confirmed deaths, with search and rescue operations ongoing, highlighting the challenges of urban safety in densely populated metropolises.",
+      "source": "YouTube - Top Global News Headlines Today",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=xrntzpiHt6o"
+    },
+    {
+      "headline": "Thailand\u2013Cambodia border clashes intensify, displacing tens of thousands",
+      "summary": "Fighting along the Thailand-Cambodia border has escalated over several days despite US-brokered ceasefire efforts, causing massive displacement and exacerbating regional instability.",
+      "source": "YouTube - Top Global News Headlines Today",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=xrntzpiHt6o"
+    },
+    {
+      "headline": "US relaxes AI chip restrictions, approving Nvidia\u2019s H200 chip sales to China",
+      "summary": "In a significant shift for technology and trade, the US administration has eased restrictions on AI chips, approving the sale of Nvidia\u2019s advanced H200 chips to China, which may accelerate AI development and impact global tech competition.",
+      "source": "YouTube - Top Global News Headlines Today",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.youtube.com/watch?v=xrntzpiHt6o"
+    }
+  ]
+}
