@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House passes five-year extension of Hospital-at-Home program as Congress continues fight over ACA subsidies",
+    "summary": "The U.S. House passed H.R. 4313 to extend the Acute Hospital Care at Home waiver for five years, preserving payment flexibilities for hospital-at-home services amid a broader congressional standoff over extending enhanced ACA premium tax credits that could affect coverage and costs for millions; this matters because it secures an increasingly used care-delivery model while uncertainty about subsidies threatens patient affordability and payer dynamics across 2026-2027",
+    "source": "Holland & Knight / AMA (coverage of House passage reported Dec. 1\u20139, 2025)",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-9-2025"
+  },
+  "stories": [
+    {
+      "headline": "CMS finalizes 2026 Medicare hospital outpatient, ASC payment policies reducing certain off-campus drug administration payments",
+      "summary": "CMS finalized 2026 outpatient payment changes that cut payments for drug administration in off-campus hospital outpatient departments and expands procedures payable in ambulatory surgery centers, affecting site-of-care economics and revenue for hospitals and ambulatory providers",
+      "source": "American Medical Association (AMA) National Advocacy Update, Dec. 5, 2025",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/dec-5-2025-national-advocacy-update"
+    },
+    {
+      "headline": "HHS releases department-wide Artificial Intelligence (AI) strategy to guide integration across operations and research",
+      "summary": "HHS unveiled an AI strategy to guide adoption of AI across department workflows, operations, and research\u2014signaling regulatory and operational priorities clinicians, health systems, and health tech firms should track as AI use expands",
+      "source": "McDermott / Alston & Bird reporting of HHS announcement, Dec. 5, 2025",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://natlawreview.com/article/mcdermott-check-december-5-2025"
+    }
+  ]
+}

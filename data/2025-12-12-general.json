@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Hosts Leaders of DRC and Rwanda in D.C. as U.S. Signs Bilateral Deals on Minerals",
+    "summary": "President Trump brokered an agreement between the Democratic Republic of Congo and Rwanda to end decades of conflict in eastern DRC while securing U.S. access to critical rare earth minerals, potentially stabilizing the region and bolstering global supply chains for technology and defense.",
+    "source": "Havana Times / Democracy Now",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-friday-december-5-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Rwanda-backed M23 rebels take control of strategic Congo town in blow to peace talks",
+      "summary": "Rwanda-supported M23 rebels seized a key town in eastern Congo, undermining recent U.S.-brokered peace efforts and escalating conflict that could disrupt global mineral supplies.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11562561/global-news-morning-headlines-friday-december-5-2025"
+    },
+    {
+      "headline": "Microsoft unveils $7.5B AI investment in Canada but some experts skeptical",
+      "summary": "Microsoft announced a massive $7.5 billion investment in AI infrastructure in Canada, poised to accelerate technological innovation but raising questions about economic benefits and job impacts.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Technology",
+      "url": "https://globalnews.ca/video/11564387/u-s-unveils-new-security-strategy-focused-on-own-interests"
+    }
+  ]
+}
