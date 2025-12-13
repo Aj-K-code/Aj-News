@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Hospital at Home Extension, Give Kids a Chance Legislation",
+    "summary": "The U.S. House passed legislation extending the Medicare Acute Hospital Care at Home waiver for five years beyond its January 30, 2025 expiration, enabling continued expansion of home-based acute care and potentially transforming healthcare delivery models for Medicare beneficiaries.",
+    "source": "Holland & Knight",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-9-2025"
+  },
+  "stories": [
+    {
+      "headline": "US Reps Berate FDA Head, Demand Data For Proposed Vaccine Regulation Changes, Purported Link To Child Deaths",
+      "summary": "U.S. congressional representatives sent a scathing letter to FDA Commissioner Martin Makary condemning an agency email with alleged inaccuracies and unsupported claims linking COVID-19 vaccines to pediatric deaths, highlighting ongoing tensions in vaccine oversight and public trust.",
+      "source": "KFF Health News / CIDRAP",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-dec-9-2025/"
+    },
+    {
+      "headline": "South Carolina Measles Outbreak Grows; New Case Identified In Colorado",
+      "summary": "South Carolina reported eight new measles cases and exposures at four schools while a new case emerged in Colorado, underscoring rising vaccination gaps and public health risks amid declining immunization rates.",
+      "source": "KFF Health News / CIDRAP",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-dec-9-2025/"
+    }
+  ]
+}

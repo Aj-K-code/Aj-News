@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Thailand, Cambodia Agree To Renew Ceasefire After Border Clashes",
+    "summary": "Thailand and Cambodia have agreed to renew their ceasefire following a week of deadly border clashes that killed at least 20 people and displaced half a million, easing immediate regional tensions under US mediation but highlighting ongoing Southeast Asian border vulnerabilities.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.ndtv.com/world-news/thailand-cambodia-agree-to-renew-ceasefire-after-border-clashes-trump-7123456"
+  },
+  "stories": [
+    {
+      "headline": "Iran Detains Nobel-Prize Winner In 'Brutal' Arrest",
+      "summary": "Iranian security forces detained 2023 Nobel Peace Prize winner Narges Mohammadi and at least eight other activists in a 'brutal' arrest, intensifying crackdowns on dissent and drawing international condemnation amid ongoing human rights concerns.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/iran-detains-nobel-prize-winner-in-brutal-arrest-7123467"
+    },
+    {
+      "headline": "Germany Accuses Russia Of Cyberattack On Air Safety, Election Interference",
+      "summary": "Germany accused Russia of a cyberattack on its air traffic control and disinformation campaigns ahead of February's election, escalating NATO-Russia tensions over hybrid warfare tactics despite Moscow's denials.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/germany-accuses-russia-of-cyberattack-on-air-safety-election-interference-7123401"
+    },
+    {
+      "headline": "US Forces Raided Ship Headed To Iran From China In Indian Ocean: Report",
+      "summary": "US special operations raided a ship from China to Iran in the Indian Ocean last month, seizing military-related items, signaling heightened US efforts to curb proliferation amid rising Indo-Pacific tensions.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/us-forces-raided-ship-headed-to-iran-from-china-in-indian-ocean-report-7123478"
+    }
+  ]
+}
