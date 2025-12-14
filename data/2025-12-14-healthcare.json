@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Hospital at Home Extension, Give Kids a Chance Legislation",
+    "summary": "The U.S. House passed H.R.4313 to extend the Medicare Acute Hospital Care at Home waiver for five years beyond its January 30, 2025 expiration, enabling continued expansion of home-based acute care and potentially reducing hospital admissions while improving patient outcomes.",
+    "source": "Holland & Knight",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-9-2025"
+  },
+  "stories": [
+    {
+      "headline": "Health Care Week in Review | December 12, 2025 - Senate Votes Against Extension of ACA Premium Tax Credits; CMS Announces MAHA ELEVATE Model",
+      "summary": "The Senate rejected competing plans to extend ACA enhanced premium tax credits set to expire soon, while CMS launched the MAHA ELEVATE model, heightening uncertainty in insurance affordability and prompting urgent negotiations amid rising premiums.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-12-2025"
+    },
+    {
+      "headline": "Senate to vote on 2 health care proposals",
+      "summary": "The Senate voted on dueling Democratic and Republican health care proposals to address soaring Healthcare.gov premiums as ACA subsidies near expiration, but neither passed due to the 60-vote threshold, leaving millions facing higher costs.",
+      "source": "New Hampshire Public Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.nhpr.org/2025-12-11/senate-to-vote-on-2-health-care-proposals-and-the-latest-u-s-move-against-venezuela"
+    }
+  ]
+}
