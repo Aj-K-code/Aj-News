@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC\u2019s ACIP ends universal Hepatitis B birth-dose recommendation, prompting White House review of vaccine schedule",
+    "summary": "The CDC\u2019s Advisory Committee on Immunization Practices voted to remove the universal hepatitis B birth-dose recommendation and update the childhood immunization schedule, triggering a presidential directive to review U.S. vaccine guidance to align with peer countries \u2014 a change that could alter newborn vaccination workflows and public messaging nationwide.",
+    "source": "Holland & Knight (reporting on ACIP decision and subsequent presidential action)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-9-2025"
+  },
+  "stories": [
+    {
+      "headline": "Senate fails to pass competing bills to extend enhanced ACA premium tax credits as January deadline approaches",
+      "summary": "The Senate voted down two competing proposals to extend enhanced Affordable Care Act premium tax credits, leaving uncertainty for millions of insured Americans and raising the prospect of sharp premium increases if Congress does not act before the current benefits expire.",
+      "source": "McDermott Plus (Federal healthcare update reporting Senate votes)",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-december-12-2025"
+    },
+    {
+      "headline": "HHS/CMS launches MAHA ELEVATE lifestyle medicine model to test whole-person approaches for chronic disease",
+      "summary": "The CMS Innovation Center unveiled the voluntary MAHA ELEVATE model to evaluate lifestyle and whole-person functional medicine approaches for chronic disease management through cooperative agreements, signaling new federal interest and funding pathways for nontraditional care models.",
+      "source": "McDermott Plus (Federal healthcare update reporting CMS announcement)",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-december-12-2025"
+    }
+  ]
+}

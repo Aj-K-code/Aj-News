@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Magnitude 7.5 Earthquake Triggers Tsunami Warnings and Mass Evacuations in Japan",
+    "summary": "A powerful 7.5 magnitude earthquake struck Japan, prompting tsunami warnings and widespread evacuations, highlighting Japan's ongoing vulnerability to seismic activity and the need for robust disaster preparedness amid frequent natural hazards.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=Ws26qRmPU-8"
+  },
+  "stories": [
+    {
+      "headline": "Bondi Beach Shooting: 12 Dead, Dozens Injured After Terrorist Attack at Sydney Hanukkah Event",
+      "summary": "A terrorist attack at a Hanukkah event on Bondi Beach in Sydney killed 12 and injured dozens, raising global concerns over rising antisemitic violence and security challenges at public gatherings.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11568125/global-news-morning-headlines-monday-december-8-2025"
+    },
+    {
+      "headline": "Russia Launches Massive Wave of Drone and Missile Strikes on Ukraine, One of the Most Devastating Attacks Since Invasion",
+      "summary": "Russia conducted one of its largest drone and missile barrages on Ukraine over the weekend, intensifying the conflict and underscoring the challenges in achieving lasting peace amid ongoing escalations.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=JwF588UOhbc"
+    }
+  ]
+}
