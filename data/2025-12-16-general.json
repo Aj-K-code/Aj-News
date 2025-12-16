@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Thailand Launches Airstrikes on Cambodia, Reigniting Border Conflict and Killing Several",
+    "summary": "Thailand's airstrikes on Cambodia have killed a Thai soldier and four civilians, breaching a U.S.-brokered ceasefire and risking a deeper regional crisis with thousands fleeing the border area.",
+    "source": "TFI Daily News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://news.tfionline.com/post/802446618586677248/tuesday-december-9-2025"
+  },
+  "stories": [
+    {
+      "headline": "Bondi Beach Shooting Leaves at Least 11 Dead in Apparent Terror Attack Targeting Jewish Community",
+      "summary": "A mass shooting at Sydney's Bondi Beach has killed at least 11 people, with witnesses describing chaos and a bystander hailed as a hero for tackling the gunman, heightening concerns over terrorism in Australia.",
+      "source": "Euronews",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.euronews.com/video/2025/12/09/latest-news-bulletin-december-9th-2025-midday"
+    },
+    {
+      "headline": "Australia Enacts Nationwide Ban on Social Media for Children Under 16",
+      "summary": "Australia's new law banning social media for under-16s will affect millions of teens, potentially reshaping youth digital habits and online safety amid global debates on tech regulation.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Technology",
+      "url": "https://www.youtube.com/watch?v=iptat8p_N-8"
+    }
+  ]
+}

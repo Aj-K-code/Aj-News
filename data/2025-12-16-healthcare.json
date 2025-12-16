@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate Votes Against Extension of ACA Premium Tax Credits",
+    "summary": "The Senate rejected two competing plans to extend expiring Affordable Care Act enhanced premium tax credits, risking a doubling of premiums for millions and exacerbating affordability challenges in U.S. healthcare.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-12-2025"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Hospital at Home Extension, Give Kids a Chance Legislation",
+      "summary": "The House approved a bill extending the Medicare Acute Hospital Care at Home waiver for five years beyond its January 30, 2025 expiration, enabling continued expansion of home-based acute care and potentially transforming inpatient service delivery.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2025/12/holland-knight-health-dose-december-9-2025"
+    },
+    {
+      "headline": "CDC Changes Hepatitis B Vaccine Guidelines",
+      "summary": "The CDC's ACIP voted 8-3 to end the universal Hepatitis B vaccine recommendation for newborns of HBsAg-negative mothers, shifting to shared clinical decision-making and impacting pediatric vaccination protocols nationwide.",
+      "source": "College of American Pathologists",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.cap.org/advocacy/latest-news-and-practice-data/december-9-2025"
+    },
+    {
+      "headline": "Administration Creates New Initiative to Manage Chronic Diseases",
+      "summary": "The FDA and CMS launched the ACCESS Model pilot to expand innovative care for chronic conditions like hypertension and diabetes affecting most Medicare beneficiaries, aiming to improve access and outcomes through scalable solutions.",
+      "source": "College of American Pathologists",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.cap.org/advocacy/latest-news-and-practice-data/december-9-2025"
+    }
+  ]
+}
