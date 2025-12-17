@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Coast Guard Seizes Largest Oil Tanker Ever Off Venezuelan Coast Amid Escalating Military Pressure",
+    "summary": "The US has seized a massive oil tanker off Venezuela's coast and deployed significant military assets including an aircraft carrier and fighter jets, intensifying pressure on President Maduro and potentially disrupting global oil markets while raising risks of broader regional conflict.",
+    "source": "ABC World News Tonight",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=b-ZiJsSqR6w"
+  },
+  "stories": [
+    {
+      "headline": "Thailand-Cambodia Border Clashes Cause First Civilian Death and Displace Over Half a Million",
+      "summary": "Renewed fighting along the Thailand-Cambodia border has led to the first civilian fatality from Cambodian rocket fire and forced over 500,000 people to flee amid shelling and drone strikes, exacerbating a long-simmering territorial dispute with potential for wider regional instability.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11571523/global-news-morning-headlines-wednesday-december-10-2025"
+    },
+    {
+      "headline": "UAE-Backed Forces Claim Control of Oil-Rich Southern Yemen Including Aden",
+      "summary": "UAE-supported forces have seized control of southern Yemen's oil-rich regions including Aden, risking renewed civil war between rival factions and possibly leading to southern Yemen's independence with major implications for global energy supplies.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/12/10/headlines"
+    }
+  ]
+}

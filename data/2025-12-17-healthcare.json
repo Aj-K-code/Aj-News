@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate rejects dueling bills to address expiring Obamacare tax credits",
+    "summary": "The Senate voted against two competing plans to extend enhanced Affordable Care Act premium tax credits set to expire, potentially leaving over 20 million Americans facing higher health insurance costs and disrupting coverage stability.",
+    "source": "The Guardian",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.theguardian.com/us-news/2025/dec/11/senate-vote-obamacare-tax-credit-bills"
+  },
+  "stories": [
+    {
+      "headline": "CMS Innovation Center releases new lifestyle medicine model",
+      "summary": "CMS launched the voluntary MAHA ELEVATE Model to test whole-person lifestyle medicine approaches for chronic disease management through cooperative agreements, aiming to build evidence for value-based care innovations.",
+      "source": "The National Law Review",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://natlawreview.com/article/mcdermott-check-december-12-2025"
+    },
+    {
+      "headline": "FDA releases request for information on testosterone replacement therapy for men",
+      "summary": "The FDA issued an RFI seeking stakeholder input on indications, dosing, administration, and treatment goals for testosterone replacement therapy, with comments due February 9, 2026, to potentially refine regulatory guidance.",
+      "source": "The National Law Review",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://natlawreview.com/article/mcdermott-check-december-12-2025"
+    }
+  ]
+}
