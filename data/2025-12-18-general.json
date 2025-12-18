@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. Seizes Venezuelan Oil Tanker and Sanctions Additional Vessels Amid Escalating Tensions",
+    "summary": "The U.S. military seized a large Venezuelan oil tanker off its coast and imposed sanctions on more tankers and Maduro relatives, heightening geopolitical risks of conflict with Venezuela and potential involvement from allies like Russia.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2025/12/11/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Multiple highways closed and hundreds displaced in southwestern B.C. due to severe flooding from atmospheric river",
+      "summary": "Catastrophic flooding in British Columbia has led to evacuations, closed border crossings, and states of emergency, underscoring the growing threat of extreme weather events linked to climate change.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=NjOR4I05Eks"
+    },
+    {
+      "headline": "Russia captures more Ukrainian territory, prompting renewed calls for peace negotiations",
+      "summary": "Russian advances in eastern Ukraine have intensified NATO warnings and Zelenskyy's efforts for talks, potentially reshaping European security and prolonging the humanitarian crisis.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=NjOR4I05Eks"
+    }
+  ]
+}

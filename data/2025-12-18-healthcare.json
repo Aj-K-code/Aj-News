@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate fails to pass competing plans to extend ACA premium tax credits as December 31 deadline nears",
+    "summary": "The Senate rejected both Democratic and Republican proposals to extend enhanced Affordable Care Act premium tax credits, leaving the subsidies slated to expire at year-end and creating near-term coverage and affordability uncertainty for millions of Americans.",
+    "source": "Alston & Bird (Health Care Week in Review)",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-12-2025"
+  },
+  "stories": [
+    {
+      "headline": "FDA advisory panel votes to loosen restrictions on testosterone replacement therapy",
+      "summary": "An FDA advisory panel recommended removing testosterone products' controlled-substance status and broadening eligibility, a decision that could increase clinician prescribing options and change monitoring and access practices.",
+      "source": "NBC News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.nbcnews.com/health/health-news/fda-panel-calls-loosen-restrictions-testosterone-replacement-therapy-rcna21112"
+    },
+    {
+      "headline": "CDC expands investigation of infant botulism cases linked to ByHeart formula as outbreak grows",
+      "summary": "The CDC updated its probe of infant botulism tied to ByHeart infant formula, expanding the timeframe and reporting dozens of hospitalized infants across multiple states, which has urgent implications for pediatric care and public health response.",
+      "source": "SafeNet Alliance (Federal Health Policy Update referencing CDC)",
+      "importance": 5,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-december-11/"
+    }
+  ]
+}
