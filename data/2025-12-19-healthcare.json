@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate Rejects Dueling Bills to Extend ACA Enhanced Premium Tax Credits, Leaving 24 Million Vulnerable to Higher Premiums",
+    "summary": "The U.S. Senate rejected competing Republican and Democratic proposals to extend Affordable Care Act subsidies set to expire January 1, potentially causing premium spikes for 24 million Americans and increasing uncompensated care burdens on healthcare providers.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/friday-december-12-2025/"
+  },
+  "stories": [
+    {
+      "headline": "UnitedHealthcare will delay implementation of a controversial policy that would have restricted its payment for remote patient monitoring",
+      "summary": "UnitedHealthcare delayed until 2026 a policy restricting payments for remote patient monitoring effective January 1, providing temporary relief to providers relying on RPM reimbursements amid widespread backlash.",
+      "source": "HIStalk",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://histalk2.com/2025/12/18/news-12-19-25/"
+    }
+  ]
+}

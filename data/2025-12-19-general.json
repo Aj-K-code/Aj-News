@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Belarus releases 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski and protest leader Maria Kalesnikava, following U.S. sanctions lift",
+    "summary": "Belarus freed over 120 prominent political prisoners in a significant human rights development tied to eased U.S. sanctions, potentially signaling a thaw in international relations and reduced tensions for dissidents.",
+    "source": "BBC",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"
+  },
+  "stories": [
+    {
+      "headline": "Former Honduran president Juan Orlando Hern\u00e1ndez released from U.S. prison after Trump pardon",
+      "summary": "U.S. President Trump pardoned ex-Honduran leader convicted of cocaine trafficking, releasing him from prison and straining bilateral relations amid concerns over accountability for drug crimes.",
+      "source": "AFP via France 24",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"
+    },
+    {
+      "headline": "Philippine president announces cancellation of passport for ex-lawmaker in flood control corruption probe",
+      "summary": "President Bongbong Marcos canceled Zaldy Co's passport to force his return for investigation into a massive flood control scandal, highlighting ongoing anti-corruption efforts amid disaster vulnerability.",
+      "source": "Gulf News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"
+    }
+  ]
+}
