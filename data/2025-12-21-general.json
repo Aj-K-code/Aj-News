@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Mass shooting at Bondi Beach Hanukkah event leaves at least 15 dead and sparks international condemnation",
+    "summary": "A deadly attack at a Hanukkah celebration on Sydney\u2019s Bondi Beach killed at least 15 people and wounded others, prompting Australian authorities to treat it as an antisemitic terror incident with global leaders condemning the violence and raising questions about extremist threats and community security worldwide",
+    "source": "CBS Evening News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.cbsnews.com/news/sydney-bondi-beach-shooting-hanukkah-celebration-australia/"
+  },
+  "stories": [
+    {
+      "headline": "Russia launches large overnight drone and missile strikes across Ukraine, causing civilian casualties",
+      "summary": "A major Russian strike campaign using hundreds of drones and dozens of missiles hit multiple regions of Ukraine overnight, killing and injuring civilians and further degrading infrastructure while prompting international concern about escalation",
+      "source": "Euronews",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.euronews.com/2025/12/14/russia-launches-mass-drone-and-missile-strikes-across-ukraine"
+    },
+    {
+      "headline": "Belarus releases 123 political prisoners after agreement with the United States",
+      "summary": "Following a deal with the United States that eased some trade sanctions, Belarusian President Alexander Lukashenko pardoned and released 123 political prisoners, including prominent opposition figures and a Nobel laureate, marking a surprising diplomatic development in the region",
+      "source": "DailyMotion (news bulletin referencing international reporting)",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.dailymotion.com/video/x9voobu"
+    }
+  ]
+}

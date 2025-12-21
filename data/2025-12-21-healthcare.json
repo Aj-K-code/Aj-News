@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House passes GOP healthcare bill aimed at reducing premiums but sparks partisan battle over ACA subsidies",
+    "summary": "The Republican-led House approved a healthcare package intended to lower premiums by about 11%, but the measure intensifies conflict over extension of ACA premium tax credits and leaves coverage uncertainty for millions, making it a major near-term policy and market risk for providers and insurers",
+    "source": "The National Desk / WLOS reporting aggregated by video coverage",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://thenationaldesk.com/news/americas-news-now/house-passes-gop-healthcare-bill-to-cut-costs-by-11-victory-for-mike-johnson#"
+  },
+  "stories": [
+    {
+      "headline": "Senate votes down competing plans to extend ACA premium tax credits as marketplaces face imminent premium spikes",
+      "summary": "Senators rejected rival proposals to continue enhanced ACA premium tax credits ahead of planned expiration, increasing the likelihood of substantial premium increases and enrollment disruption for patients and health systems",
+      "source": "Alston & Bird \u2013 Health Care Week in Review (Dec. 12, 2025)",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-12-2025"
+    },
+    {
+      "headline": "FDA drug chief resigns amid lawsuit alleging political interference in pharmaceutical oversight",
+      "summary": "The FDA's top drug official resigned following a lawsuit that accuses political actors of unduly influencing drug review and regulatory decisions, raising governance and trust questions that could affect drug approvals and industry relations",
+      "source": "Fullintel \u2013 Top Pharma News December 2025",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://fullintel.com/blog/top-pharma-news-in-december-2025/"
+    }
+  ]
+}
