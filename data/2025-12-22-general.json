@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Father and Son Kill 15 in Mass Shooting at Hanukkah Celebration on Bondi Beach",
+    "summary": "A father-son duo carried out a mass shooting at a Hanukkah event in Sydney, Australia, killing 15 including children and a Holocaust survivor, prompting national debates on gun control and hate speech laws amid possible Islamic State links.",
+    "source": "Havana Times / Democracy Now",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-monday-december-15-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
+      "summary": "Saudi Arabia has broadened legal alcohol access to non-Muslim Premium Residency holders at its sole store, signaling subtle social reforms in the conservative kingdom.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "At least 8 dead and dozens wounded in Russian strike on Ukraine's Odesa port",
+      "summary": "A Russian missile hit Odesa port infrastructure, killing eight and injuring 27, escalating the conflict and disrupting vital Black Sea trade routes.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
