@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Formally Stops Recommending Hepatitis B Vaccines For All Newborns",
+    "summary": "The CDC ended its longstanding policy recommending hepatitis B shots for every newborn, advising instead that mothers testing negative consult providers, a decision criticized by experts for ignoring evidence on preventing mother-to-child transmission and potentially impacting millions of infants.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-dec-17-2025/"
+  },
+  "stories": [
+    {
+      "headline": "GSK Says US FDA Approved Its Twice-Annual Asthma Drug",
+      "summary": "The FDA approved GSK's Exdensur as an add-on maintenance treatment for severe asthma in patients aged 12 and older, offering a twice-annual dosing option that could improve adherence and outcomes for a common chronic condition affecting millions.",
+      "source": "Bloomberg",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-17-2025/"
+    },
+    {
+      "headline": "FDA Approves Label Change For Depo-Provera, Adding Brain Tumor Warning",
+      "summary": "The FDA updated the label for Pfizer's Depo-Provera birth control shot to warn of meningioma risk, amid ongoing lawsuits alleging prior knowledge, directly affecting patient counseling and prescribing practices for this widely used contraceptive.",
+      "source": "NBC News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-december-17-2025/"
+    }
+  ]
+}
