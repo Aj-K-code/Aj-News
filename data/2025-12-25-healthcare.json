@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Lower Health Care Premiums for All Americans Act Without ACA Subsidy Extension",
+    "summary": "The House narrowly passed a Republican-led bill to expand association health plans, increase PBM transparency, and fund some Marketplace cost-sharing reductions, but omitted enhanced ACA premium tax credits set to expire end of December, potentially disrupting coverage for millions.",
+    "source": "American Hospital Association",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.aha.org/news/headline/2025-12-18-house-passes-narrow-health-care-package-sets-vote-eptcs-january"
+  },
+  "stories": [
+    {
+      "headline": "CMS Launches 'Make America Healthy Again: Enhancing Lifestyle and Evaluating Value-based Approaches Through Evidence Model' (MAHA ELEVATE)",
+      "summary": "CMS announced a new $100 million model funding up to 30 three-year proposals to promote health and prevention for Medicare beneficiaries amid rising chronic diseases, potentially reshaping value-based care incentives.",
+      "source": "Safety Net Alliance",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-december-18/"
+    },
+    {
+      "headline": "HHS Terminates Seven Grants to American Academy of Pediatrics Totaling Millions",
+      "summary": "HHS abruptly ended funding to the AAP for key pediatric initiatives like reducing sudden infant deaths and improving adolescent health, surprising the group critical of federal vaccine policy changes.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-dec-18-2025/"
+    }
+  ]
+}

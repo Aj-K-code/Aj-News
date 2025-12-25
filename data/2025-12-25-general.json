@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Belarus releases 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski and protest leader Maria Kalesnikava, after U.S. lifts sanctions",
+    "summary": "Belarus freed over 120 prominent political prisoners in a significant humanitarian gesture following the U.S. removal of sanctions, potentially signaling a thaw in bilateral relations and improved human rights conditions amid ongoing global tensions.",
+    "source": "BBC",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"
+  },
+  "stories": [
+    {
+      "headline": "Christmas spirit returns to Bethlehem amid fragile Gaza ceasefire",
+      "summary": "Bethlehem sees a resurgence of Christmas celebrations for the first time in years due to a tentative Gaza ceasefire, offering hope for de-escalation in the region but highlighting the ceasefire's fragility amid ongoing humanitarian challenges.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11583111/global-news-morning-headlines-thursday-december-18-2025"
+    },
+    {
+      "headline": "US imposes visa bans on Europeans amid deepening row over \u2018censorship\u2019",
+      "summary": "The United States enacted visa restrictions on certain Europeans in response to disputes over censorship policies, escalating transatlantic tensions and potentially disrupting travel, business, and diplomatic ties.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11583111/global-news-morning-headlines-thursday-december-18-2025"
+    }
+  ]
+}
