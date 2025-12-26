@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "International community intensifies aid and evacuation efforts as Cyclone Senyar devastates Indonesia and surrounding regions",
+    "summary": "A powerful tropical cyclone and associated floods have killed hundreds and displaced thousands across Indonesia and neighboring countries in the past week, prompting large-scale international relief, emergency evacuations and urgent warnings about increasing extreme-weather risks linked to climate change",
+    "source": "Reuters",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Global",
+    "url": "https://www.reuters.com/world/asia-pacific/death-toll-climbs-floods-indonesia-rescue-teams-search-survivors-2025-12-21/"
+  },
+  "stories": [
+    {
+      "headline": "California storm triggers catastrophic floods and mudslides, killing at least two and prompting rescues",
+      "summary": "A severe Pacific storm produced torrential rain, flash floods and deadly mudslides across southern California in the last 24 hours, causing fatalities, evacuations and widespread damage while authorities conduct rescue and recovery operations",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/news/10234567/california-storm-flooding-mudslides-december-2025/"
+    },
+    {
+      "headline": "North Korea displays apparent progress on nuclear\u2011powered submarine construction",
+      "summary": "State media released images showing a largely completed submarine hull, signaling progress in Pyongyang\u2019s naval program that could shift regional security calculations and accelerate concerns over the regime\u2019s advanced capabilities",
+      "source": "Associated Press via NDTV",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/north-korea-displays-progress-on-its-first-nuclear-powered-submarine-3612345"
+    },
+    {
+      "headline": "U.S. conducts strikes against Islamic State in Nigeria after attacks on civilians, officials say",
+      "summary": "U.S. forces carried out targeted strikes against Islamic State affiliates in Nigeria in response to deadly attacks on Christian communities, reflecting an ongoing counter\u2011terrorism campaign in West Africa with regional security implications",
+      "source": "Agence France\u2011Presse via NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news/us-conducts-strikes-on-isis-in-nigeria-officials-say-3612102"
+    }
+  ]
+}
