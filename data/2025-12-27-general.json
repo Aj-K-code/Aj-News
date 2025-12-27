@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Japan\u2019s Cabinet OKs record defense budget that aims to deter China",
+    "summary": "Japan approved a defense budget exceeding 9 trillion yen for the coming year, signaling a major escalation in military spending to counter regional threats from China and bolster Indo-Pacific security amid rising tensions.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Russia launched 131 drones overnight, Ukraine's air force said",
+      "summary": "Russia conducted a massive drone attack on Ukraine on Christmas Day, causing deaths and injuries, which underscores the ongoing intensity of the conflict and its potential to prolong regional instability.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Turkey begins black box analysis of jet crash that killed Libyan military chief",
+      "summary": "Turkey started analyzing black boxes from a jet crash that killed Libya\u2019s military chief and seven others, potentially revealing causes that could affect Libya\u2019s fragile political and military landscape.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
