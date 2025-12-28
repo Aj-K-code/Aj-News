@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. President Donald Trump announced nine drugmakers have agreed to lower prescription drug costs in the U.S. to match prices in other developed countries",
+    "summary": "Nine major pharmaceutical companies committed to capping Medicaid drug prices at international levels, potentially reducing costs for millions while averting broader government price controls amid ongoing Medicare reforms.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Pharma",
+    "url": "https://kffhealthnews.org/morning-briefing/monday-december-22-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Trump Administration Proposes Models To Cut Medicare Spending",
+      "summary": "The administration proposed new Medicare payment cuts for physician-administered and pharmacy-dispensed drugs following deals with drugmakers, aiming to lower costs as the largest U.S. pharmaceutical payer.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-december-22-2025/"
+    },
+    {
+      "headline": "Experimental Multistage Malaria Vaccine Shows Promising Protection In Small Trial",
+      "summary": "A phase 2 trial demonstrated encouraging protection against malaria in Malian adults using a multistage vaccine targeting multiple parasite life cycle stages, advancing global efforts against a major infectious disease.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-december-22-2025/"
+    }
+  ]
+}

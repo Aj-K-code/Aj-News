@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia launches large drone strike on Kyiv ahead of high-level Ukraine-US talks",
+    "summary": "Russia carried out a major drone and missile attack on Kyiv and other Ukrainian regions this week, underscoring continued escalation and complicating diplomatic efforts as U.S.\u2013Ukraine discussions and international aid measures proceed.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/russia-strikes-kyiv-ahead-trump-zelenskyy-meeting-83123456"
+  },
+  "stories": [
+    {
+      "headline": "Italy arrests nine over alleged Hamas funding through charities",
+      "summary": "Italian authorities arrested nine people accused of funneling funds to Hamas via charities, highlighting intensified international efforts to disrupt financing channels for militant groups.",
+      "source": "News.az",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://news.az/time/2025/12/28/italy-arrests-nine-over-alleged-hamas-funding-through-charities"
+    },
+    {
+      "headline": "Guatemala bus crash kills at least 15, government declares three days of mourning",
+      "summary": "A severe bus accident in Guatemala killed at least 15 people and injured many others, prompting a national mourning period and raising concerns about road safety and emergency response in the region.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International/bus-accident-leaves-15-dead-guatemala-government-declares-3-day/story?id=83124567"
+    }
+  ]
+}
