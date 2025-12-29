@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Thailand and Cambodia sign new ceasefire agreement to end border fighting",
+    "summary": "Thailand and Cambodia have agreed to a ceasefire halting weeks of armed clashes over disputed border territory, potentially stabilizing regional security but with residents expressing skepticism about its longevity.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Trump and Zelenskyy to meet in Florida",
+      "summary": "President Trump is set to meet Ukrainian President Zelenskyy amid concessions aimed at ending the Russia-Ukraine war, which could accelerate peace negotiations and reshape European security dynamics.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Russia sends 3 Iranian satellites into orbit, report says",
+      "summary": "Russia launched three Iranian communications satellites, deepening military-technical cooperation between the two nations and potentially enhancing Iran's surveillance capabilities amid global tensions.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}

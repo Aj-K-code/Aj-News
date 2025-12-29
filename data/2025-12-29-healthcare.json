@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Medicare Unveils Successor to ACO REACH",
+    "summary": "CMS is replacing the ACO REACH value-based care pilot with ACO LEAD, addressing key provider concerns and potentially reshaping Medicare payment models for better sustainability.",
+    "source": "Healthcare Dive",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.healthcaredive.com/news/medicare-aco-reach-successor-aco-lead/733248/"
+  },
+  "stories": [
+    {
+      "headline": "FDA approves drug to improve functional capacity and symptoms in adults with rare inherited heart condition",
+      "summary": "The FDA approved a new drug on December 23 that enhances functional capacity and reduces symptoms for adults with a rare inherited heart condition, offering a novel treatment option for underserved patients.",
+      "source": "Unbound Medicine",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Pharma",
+      "url": "https://www.unboundmedicine.com/5minute/view/Medical%20News%20Update/1330003/16/What's_New:_Drugs_RSS_Feed"
+    }
+  ]
+}
