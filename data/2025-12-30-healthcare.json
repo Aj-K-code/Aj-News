@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Funds 400 New Residency Slots to Address Physician Shortage",
+    "summary": "CMS allocated 400 Medicare-funded residency positions to 135 hospitals in 37 states, with nearly two-thirds supporting primary care and psychiatry, marking a key step toward mitigating the looming U.S. physician shortage expected to worsen over the next decade.",
+    "source": "MedPage Today via KFF Health News",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-dec-23-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Democrats Introduce Bill to Repeal Medicare Prior Authorization Pilot",
+      "summary": "House Democrats introduced legislation to repeal CMS's WISeR model launching in January across six states, which uses AI-based prior authorization administered by private companies that profit from denied care, potentially delaying necessary treatment for seniors.",
+      "source": "Healthcare Dive via OpenLoop Health",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://openloophealth.com/blog/recent-digital-health-trends-insight-and-news-december-2025"
+    },
+    {
+      "headline": "Senate Votes Against Extension of ACA Premium Tax Credits",
+      "summary": "The Senate rejected dueling plans to extend enhanced ACA premium tax credits set to expire, which could lead to significantly higher premiums in 2026 and impact millions of enrollees unless Congress acts soon.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2025/12/health-care-week-in-review-december-12-2025"
+    }
+  ]
+}

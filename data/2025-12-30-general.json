@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration Recalls Nearly 30 U.S. Ambassadors in Unprecedented Foreign Service Shakeup",
+    "summary": "The Trump administration recalled nearly 30 U.S. ambassadors and senior diplomats, primarily Biden appointees, to enforce an 'America First' agenda, signaling a major realignment in U.S. foreign policy with potential ripple effects on global diplomacy.",
+    "source": "Democracy Now",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-december-23-2025/"
+  },
+  "stories": [
+    {
+      "headline": "Deadly Gas Explosion Levels Part of Pennsylvania Nursing Home, Described as Mass Casualty Incident",
+      "summary": "A massive gas explosion destroyed part of a nursing home in Bucks County, PA, prompting a desperate search for survivors amid holiday chaos and highlighting vulnerabilities in aging infrastructure.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=Xp6qwlL5aFQ"
+    },
+    {
+      "headline": "Powerful Storms Slam U.S. Coasts, Disrupting Christmas Travel Rush and Threatening Flash Floods",
+      "summary": "Twin storms battered the East and West Coasts, causing widespread travel disruptions during peak holiday period and posing life-threatening flash flood risks in Southern California.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=Xp6qwlL5aFQ"
+    }
+  ]
+}
