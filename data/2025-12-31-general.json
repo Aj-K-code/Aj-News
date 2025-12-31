@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "CIA Reportedly Carries Out Drone Strike on Venezuelan Dock Facility Amid U.S. Pressure Campaign",
+    "summary": "The CIA's drone strike on a Venezuelan port used for drug transport marks a significant escalation in U.S. efforts against the Maduro regime, potentially destabilizing regional security and drug trafficking networks.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=0sUrq-Q_6PQ"
+  },
+  "stories": [
+    {
+      "headline": "Russia Says Ukraine Targets Moscow With Drones",
+      "summary": "Ukraine launched drone attacks targeting Moscow, western Russia, and Crimea, injuring one person and heightening escalation risks in the ongoing conflict.",
+      "source": "NDTV",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news"
+    },
+    {
+      "headline": "Saudi Arabia Bombs Yemen Port City Over UAE Weapons Shipment",
+      "summary": "Saudi forces bombed Yemen's Mukalla port after a UAE weapons shipment to separatists arrived, intensifying proxy conflicts and threatening further instability in the region.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news"
+    },
+    {
+      "headline": "China Echoes Trump's India-Pakistan Truce Claim",
+      "summary": "China claimed credit for mediating peace between India and Pakistan, echoing U.S. assertions and underscoring competing influences in South Asian diplomacy.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.ndtv.com/world-news"
+    }
+  ]
+}
