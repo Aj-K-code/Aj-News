@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Over 20M Americans Set to Lose Healthcare Coverage Jan. 1 After ACA Subsidies Expire",
+    "summary": "Enhanced Affordable Care Act subsidies expire on January 1, 2026, causing premiums to more than double or triple for around 20 million Americans and potentially leading to widespread loss of coverage, reversing 15 years of healthcare gains amid congressional inaction.",
+    "source": "Democracy Now",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.democracynow.org/2025/12/30/aca_healthcare_premiums_increase_2026"
+  },
+  "stories": [
+    {
+      "headline": "4 \u201cBig, Beautiful Bill\u201d changes that will reshape care in 2026",
+      "summary": "The One Big Beautiful Bill Act introduces major 2026 changes including ending Medicaid expansion incentives, raising ACA marketplace costs, and limiting medical student loan options, potentially leaving 10-14 million more uninsured and requiring physicians to adapt patient counseling.",
+      "source": "American Medical Association",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/federal-advocacy/4-big-beautiful-bill-changes-will-reshape-care-2026"
+    },
+    {
+      "headline": "Treasury, IRS provide guidance on new tax benefits for health savings account participants under the One Big Beautiful Bill",
+      "summary": "New IRS guidance under the One Big Beautiful Bill expands HSA eligibility starting January 1, 2026, to include telehealth services without meeting deductibles and direct primary care arrangements, offering tax advantages that could influence patient financing and care delivery options.",
+      "source": "Internal Revenue Service",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-on-new-tax-benefits-for-health-savings-account-participants-under-the-one-big-beautiful-bill"
+    }
+  ]
+}
