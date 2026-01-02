@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Bulgaria joins eurozone, adopts euro as official currency becoming 21st member",
+    "summary": "Bulgaria's adoption of the euro marks the culmination of its long EU integration journey since 2007, strengthening economic ties within the bloc and leaving only six EU states outside the eurozone.",
+    "source": "Leverage Edu",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-2-january-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Russia says Ukrainian drone strike kills 24 in occupied Ukraine as tensions grow amid peace talks",
+      "summary": "A Ukrainian drone strike on a hotel and cafe in occupied Ukraine reportedly killed 24 people, including a child, escalating tensions as Russia claims a record 4,300 drones downed in December while Kyiv vows to expand long-range strikes.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Iran protests spread over ailing economy, at least 6 reported dead",
+      "summary": "Protests in Iran over economic woes have resulted in at least six deaths, signaling deepening public discontent amid ongoing financial struggles.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/world/"
+    },
+    {
+      "headline": "Flash floods triggered by heavy rains in Afghanistan kill at least 17 people",
+      "summary": "Heavy rains ending a dry spell in Afghanistan caused flash floods that killed 17 and injured 11, highlighting vulnerability to climate extremes in the region.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}
