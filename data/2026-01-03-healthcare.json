@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Over 20M Americans Set to Lose Healthcare Coverage Jan. 1 as ACA Subsidies Expire",
+    "summary": "Enhanced Affordable Care Act subsidies expired on January 1, 2026, causing premiums to double or triple for about 20 million people and potentially leaving millions uninsured, which could strain healthcare systems and increase costs industry-wide.",
+    "source": "Democracy Now",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.democracynow.org/2025/12/30/aca_healthcare_premiums_increase_2026"
+  },
+  "stories": [
+    {
+      "headline": "HHS & DEA Extend Telemedicine Flexibilities for Prescribing Controlled Medications Through 2026",
+      "summary": "HHS and DEA extended telemedicine prescribing flexibilities for controlled substances through December 31, 2026, ensuring continuity of care without disruptions during the finalization of permanent rules.",
+      "source": "HHS.gov",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.hhs.gov/press-room/dea-telemedicine-extension-2026.html"
+    },
+    {
+      "headline": "Health care costs expected to rise for millions of Americans in 2026",
+      "summary": "ACA marketplace tax credits expired on January 1, leading to average premium increases of 114% for 24 million enrollees, many of whom may lose coverage and seek alternatives like Medicaid or short-term plans.",
+      "source": "Local10",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.local10.com/news/local/2026/01/01/health-care-costs-expected-to-rise-for-millions-of-americans-in-2026/"
+    }
+  ]
+}

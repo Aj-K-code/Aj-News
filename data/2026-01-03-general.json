@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Iran protests continue for 6th day as Trump threatens to intervene if peaceful protesters killed",
+    "summary": "Protests in Iran have persisted for six days amid escalating tensions, with former U.S. President Trump warning of intervention should authorities harm peaceful demonstrators, potentially heightening U.S.-Iran geopolitical risks.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/10941212/global-news-morning-headlines-friday-january-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "U.S. authorities say ISIS-inspired New Year\u2019s Eve attack foiled in North Carolina",
+      "summary": "FBI and U.S. authorities thwarted a well-planned ISIS-inspired terrorist attack targeting a grocery store on New Year's Eve in North Carolina, underscoring ongoing global terrorism threats and effective law enforcement vigilance.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/10941212/global-news-morning-headlines-friday-january-3-2025"
+    },
+    {
+      "headline": "Scientists at St. Michael\u2019s Hospital seek to revolutionize lung imaging",
+      "summary": "Researchers at St. Michael\u2019s Hospital are developing advanced lung imaging technology that could transform diagnostics for respiratory diseases, promising earlier detection and improved global health outcomes.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Science",
+      "url": "https://globalnews.ca/video/10941212/global-news-morning-headlines-friday-january-3-2025"
+    }
+  ]
+}
