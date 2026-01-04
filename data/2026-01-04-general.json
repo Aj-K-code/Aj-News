@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Launches Major Military Operation, Captures Venezuelan President Nicol\u00e1s Maduro",
+    "summary": "The United States conducted a large-scale military strike on Caracas involving 150 aircraft from 20 bases, capturing President Nicol\u00e1s Maduro and his wife, escalating international tensions with condemnations from Russia and Iran while prompting mediation offers from Spain.",
+    "source": "UN News / Global Issues",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news/2026/01"
+  },
+  "stories": [
+    {
+      "headline": "US actions in Venezuela \u2018constitute a dangerous precedent\u2019: Guterres",
+      "summary": "UN Secretary-General Ant\u00f3nio Guterres expressed deep alarm over the US special forces' capture of Venezuelan President Nicol\u00e1s Maduro, warning it sets a dangerous precedent for international relations amid global backlash.",
+      "source": "UN News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    },
+    {
+      "headline": "Russia Condemns US Attack on Venezuela, Claims Liberation of 9 Strategic Settlements",
+      "summary": "Russia denounced the US military operation in Venezuela as a violation of sovereignty while announcing the liberation of nine strategic settlements in an ongoing conflict, heightening East-West geopolitical friction.",
+      "source": "TTVH International News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=XtbLYZ1mWh0"
+    }
+  ]
+}

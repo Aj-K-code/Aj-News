@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Healthcare premiums to skyrocket Jan. 1 for Obamacare enrollees",
+    "summary": "Enhanced premium subsidies for Affordable Care Act enrollees are lapsing at the end of 2025, potentially causing premiums to surge dramatically for millions starting January 1, 2026, amid uncertain legislative prospects for extension.",
+    "source": "CNN",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.youtube.com/watch?v=KZ_YF6SbtSg"
+  },
+  "stories": [
+    {
+      "headline": "New in 2026: More plans now work with Health Savings Accounts",
+      "summary": "Starting in 2026, all Bronze and Catastrophic health plans on the Marketplace will be eligible for Health Savings Accounts, expanding access to pre-tax savings for medical expenses and potentially lowering overall healthcare costs for more enrollees.",
+      "source": "HealthCare.gov",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.healthcare.gov/hsa-options/"
+    }
+  ]
+}
