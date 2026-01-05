@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes",
+    "summary": "Enhanced Affordable Care Act subsidies expired on January 1, 2026, causing health insurance premiums to more than double or triple for around 20 million enrollees, potentially leading millions to lose coverage amid failed congressional efforts to extend them.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://abcnews.go.com/Business/wireStory/health-subsidies-expire-launching-millions-americans-2026-steep-128827993"
+  },
+  "stories": [
+    {
+      "headline": "Health subsidies expire, launching millions of Americans into 2026 ...",
+      "summary": "ACA enhanced tax credits expired overnight on January 2, 2026, raising premiums for millions of non-employer-insured Americans including self-employed workers and small business owners, with a potential House vote in January facing uncertain prospects.",
+      "source": "WKYC Channel 3",
+      "importance": 5,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.youtube.com/watch?v=1cfX3XvzDyA"
+    },
+    {
+      "headline": "Health care costs expected to rise for millions of Americans in 2026",
+      "summary": "Expiration of Obamacare tax credits on January 1, 2026, is projected to increase average annual premiums by 114% for 92% of 24 million ACA enrollees, forcing many like the newly unemployed to drop coverage due to unaffordability.",
+      "source": "Local10",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.local10.com/news/local/2026/01/01/health-care-costs-expected-to-rise-for-millions-of-americans-in-2026/"
+    }
+  ]
+}

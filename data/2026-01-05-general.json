@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US captures Venezuelan President Nicol\u00e1s Maduro in large-scale military operation",
+    "summary": "U.S. forces captured Venezuelan leader Nicol\u00e1s Maduro and transported him to a New York detention facility on January 3, 2026, marking a dramatic escalation in U.S.-Venezuela relations with global implications for international intervention precedents and regional stability.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International"
+  },
+  "stories": [
+    {
+      "headline": "Venezuela Supreme Court orders VP Rodriguez to be acting president after U.S. capture of Maduro",
+      "summary": "Following Maduro's capture, the Venezuelan Supreme Court appointed Vice President Delcy Rodriguez as interim president, establishing a new governmental structure amid the political crisis.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/8489730/global-news-morning-headlines-january-5"
+    },
+    {
+      "headline": "Bangladesh to avoid India venues for T20 World Cup matches amid tensions",
+      "summary": "The Bangladesh Cricket Board confirmed its team will not travel to India for the T20 World Cup due to the \"Mustafizur row\" and related security concerns, highlighting escalating diplomatic tensions between the nations.",
+      "source": "Moneycontrol",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Culture",
+      "url": "https://www.moneycontrol.com/education/school-assembly-news-headlines-5-january-2026-national-international-business-and-sports-updates-article-13755755.html"
+    },
+    {
+      "headline": "Iran's Revolutionary Guards open fire on demonstrators, killing 4",
+      "summary": "Escalating domestic tensions in Iran resulted in security forces killing four protesters and injuring dozens, reflecting ongoing unrest within the country.",
+      "source": "Moneycontrol",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.moneycontrol.com/education/school-assembly-news-headlines-5-january-2026-national-international-business-and-sports-updates-article-13755755.html"
+    }
+  ]
+}
