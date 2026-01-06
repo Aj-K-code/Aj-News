@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. captures and indicts Venezuelan President Nicolas Maduro, sparking international debate on legality and regional stability",
+    "summary": "The U.S. military operation leading to Maduro's arrest and court appearance in New York has destabilized Venezuela's leadership, potentially reshaping Latin American geopolitics and impacting global oil markets.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11599137/global-news-at-6-toronto-jan-4-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Deadly Iran protests stretch into 9th straight day",
+      "summary": "Ongoing deadly protests in Iran entering their ninth day signal deepening domestic unrest, with potential for broader Middle East instability amid U.S. threats.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11599137/global-news-at-6-toronto-jan-4-2026/"
+    },
+    {
+      "headline": "Novo Nordisk launches new weight loss pill in U.S.",
+      "summary": "Novo Nordisk's introduction of a new weight loss pill in the U.S. market advances obesity treatments, promising broader access to effective pharmaceuticals amid rising global health concerns.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Science",
+      "url": "https://globalnews.ca/video/11599137/global-news-at-6-toronto-jan-4-2026/"
+    }
+  ]
+}

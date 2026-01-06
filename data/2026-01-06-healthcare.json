@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes",
+    "summary": "Enhanced Affordable Care Act premium subsidies expired on January 1, 2026, causing average premium increases of 114% for over 20 million enrollees and potentially leading to coverage losses among healthier individuals, which could destabilize insurance markets and increase costs for healthcare professionals.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://abcnews.go.com/Business/wireStory/health-subsidies-expire-launching-millions-americans-2026-steep-128827993"
+  },
+  "stories": [
+    {
+      "headline": "RPM in 2026: A major coverage change by a huge health insurer",
+      "summary": "UnitedHealthcare delayed but plans to implement restrictive remote patient monitoring (RPM) coverage policies later in 2026, limiting it to heart failure and hypertensive disorders of pregnancy while deeming it unproven for conditions like hypertension and diabetes, potentially reducing reimbursement and adoption of RPM technologies in clinical practice.",
+      "source": "Medical Economics",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.medicaleconomics.com/view/rpm-in-2026-a-major-coverage-change-by-a-huge-health-insurer"
+    }
+  ]
+}
