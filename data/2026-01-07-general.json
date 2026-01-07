@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "At least 40 killed in Swiss ski resort bar fire during New Year's party",
+    "summary": "A tragic fire at Le Constellation bar in Crans-Montana ski resort claimed at least 40 lives and injured over 100 during New Year's celebrations, highlighting urgent safety concerns in high-occupancy festive venues amid Europe's winter tourism peak.",
+    "source": "CBS Evening News",
+    "importance": 4,
+    "impact_to_me": 2,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=_3j-lcWQqsY"
+  },
+  "stories": [
+    {
+      "headline": "Bombing and Ballots, Myanmar\u2019s Contentious Election",
+      "summary": "Myanmar's military proxy party is speeding to victory in the first tightly controlled elections since the 2021 coup amid ongoing civil war and thousands of political prisoners, potentially entrenching military influence and prolonging regional instability.",
+      "source": "Inter Press Service",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    },
+    {
+      "headline": "Lost Opportunities to Halt Rising Military Spending",
+      "summary": "Global military expenditures hit a record $2.7 trillion last year, diverting critical funds from development aid, climate action, health, and poverty alleviation, exacerbating worldwide humanitarian and environmental challenges.",
+      "source": "Inter Press Service",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    },
+    {
+      "headline": "Nicol\u00e1s Maduro and Cilia Flores Plead \u201cNot Guilty\u201d to Drug and Weapons Charges in U.S. Court",
+      "summary": "Venezuela's leaders Maduro and Flores face U.S. charges following reported abduction and court appearance, sparking UN Security Council condemnation and threats from Trump, which could reshape U.S.-Latin America relations and global sovereignty norms.",
+      "source": "Havana Times",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-january-6-2026/"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes",
+    "summary": "Enhanced Affordable Care Act subsidies expired on January 1, 2026, causing average premium increases of 114% for over 20 million enrollees and potentially leading to 4.8 million dropping coverage, which could destabilize the insurance market and increase costs for remaining participants.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://abcnews.go.com/Business/wireStory/health-subsidies-expire-launching-millions-americans-2026-steep-128827993"
+  },
+  "stories": [
+    {
+      "headline": "Healthcare-focused private equity firm Altaris acquires Tegria from Providence St. Joseph Health",
+      "summary": "Altaris, a healthcare private equity firm, acquired Tegria\u2014a healthcare data and tech services provider\u2014from Providence, signaling continued consolidation in healthcare IT and potential shifts in data management services for providers.",
+      "source": "HIStalk",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://histalk2.com/2026/01/06/news-1-7-26/"
+    },
+    {
+      "headline": "TeleTracking Launches First AI-Powered Patient Throughput Solution, Decision IQ\u00ae",
+      "summary": "TeleTracking launched Decision IQ, an AI-driven patient flow management tool now implemented at University of Louisville Health to address capacity constraints and improve hospital access, representing a key advancement in operational efficiency.",
+      "source": "Healthcare Now Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-january-2026/"
+    }
+  ]
+}
