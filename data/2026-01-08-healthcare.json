@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC warns of record\u2011high U.S. flu activity driven by emergent \u2018subclade K\u2019 strain",
+    "summary": "The CDC reports the highest level of flu\u2011related respiratory illness since at least 1997\u201398, driven by a new \u2018subclade K\u2019 strain that has prolonged and intensified flu seasons worldwide, signaling a need for heightened surveillance, vaccination, and surge\u2011capacity planning for clinicians.[2]",
+    "source": "KFF Health News (summarizing CDC data) / STAT News",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-jan-6-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Flu continues to bring misery across U.S. as \u2018subclade K\u2019 drives highest respiratory illness levels in decades",
+      "summary": "CDC data show nearly all U.S. states at high or very high flu activity and record levels of outpatient respiratory illness visits, underscoring severe system strain and reinforcing the urgency of vaccination, antivirals, and capacity management for frontline clinicians.[2]",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-jan-6-2026/"
+    },
+    {
+      "headline": "South Carolina measles outbreak grows to 188 cases, largely linked to undervaccinated elementary schools",
+      "summary": "South Carolina officials report 188 measles cases\u2014185 tied to an Upstate\u2011region school\u2011based outbreak with low vaccination rates\u2014prompting quarantines and highlighting the urgent need for clinicians to verify MMR coverage and rapidly recognize potential cases.[2]",
+      "source": "CIDRAP",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.cidrap.umn.edu/measles/south-carolina-measles-total-climbs-188"
+    },
+    {
+      "headline": "Systematic review defines core long\u2011COVID symptom clusters across neurologic, respiratory, and cardiopulmonary domains",
+      "summary": "A new systematic review in eClinicalMedicine concludes that long COVID is best characterized as overlapping neurologic, respiratory, olfactory/gustatory, cardiopulmonary, and fatigue symptom clusters, giving clinicians a clearer framework for diagnosis and multidisciplinary management.[2]",
+      "source": "CIDRAP (summarizing eClinicalMedicine study)",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://www.cidrap.umn.edu/covid-19/study-outlines-recurring-symptom-clusters-define-long-covid"
+    }
+  ]
+}
