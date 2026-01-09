@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump signs executive order to halt U.S. support for 66 international organizations, including 31 UN agencies",
+    "summary": "President Donald Trump\u2019s order to suspend U.S. funding for dozens of international and UN organizations has triggered global alarm over potential setbacks to humanitarian aid, sustainable development, and multilateral security cooperation.",
+    "source": "Inter Press Service via Global Issues",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news/2026/01/08/36552"
+  },
+  "stories": [
+    {
+      "headline": "NASA\u2019s Crew-11 mission to return to Earth early due to astronaut medical issue",
+      "summary": "NASA ordered its four-member Crew-11 mission to end early and return from the International Space Station after a serious but stabilized medical issue in one astronaut, marking the first U.S. space mission cut short for medical reasons and underscoring the risks of long-duration human spaceflight.",
+      "source": "Spaceflight Now",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Science",
+      "url": "https://spaceflightnow.com/2026/01/09/crew-11-to-cut-mission-short-and-return-to-earth-due-to-medical-issue/"
+    }
+  ]
+}
