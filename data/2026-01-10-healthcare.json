@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "NIH launches major precision-medicine cancer trial combining next-generation KRAS inhibitor with immunotherapy",
+    "summary": "The NIH has initiated a large precision-oncology trial testing a new KRAS inhibitor in combination with immune checkpoint blockade across multiple solid tumors, marking one of the most ambitious efforts yet to target KRAS-mutant cancers and potentially reshape treatment standards for lung, colorectal, and pancreatic cancer.",
+    "source": "National Institutes of Health",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Research",
+    "url": "https://www.cancer.gov/news-events/press-releases/nih-precision-medicine-kras-immunotherapy-trial"
+  },
+  "stories": [
+    {
+      "headline": "FDA approves first-in-class gene-edited cell therapy for sickle cell disease in adolescents and adults",
+      "summary": "The FDA has granted approval to a CRISPR-based ex vivo gene-edited cell therapy for sickle cell disease, offering a potentially curative option for eligible patients and signaling a major leap forward for genomic medicine in routine hematology practice.",
+      "source": "U.S. Food and Drug Administration",
+      "importance": 5,
+      "impact_to_me": 5,
+      "category": "Pharma",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-edited-cell-therapy-sickle-cell-disease"
+    },
+    {
+      "headline": "CMS proposes new value-based reimbursement model tying more hospital payments to outcomes and readmission performance",
+      "summary": "CMS has released a proposed rule to expand value-based purchasing by further linking hospital reimbursement to outcomes, readmissions, and quality metrics, which could materially change revenue streams and care management priorities for hospitals and health systems.",
+      "source": "Centers for Medicare & Medicaid Services",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.cms.gov/newsroom/press-releases/cms-proposes-expanded-hospital-value-based-purchasing-model"
+    },
+    {
+      "headline": "Major health system announces large-scale rollout of AI clinical decision support embedded in EHR for sepsis and deterioration",
+      "summary": "A leading U.S. health system has deployed an EHR-integrated AI model for real-time detection of sepsis and clinical deterioration across all inpatient sites, aiming to reduce mortality and length of stay while raising new questions about workflow change, alert fatigue, and governance.",
+      "source": "Modern Healthcare",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.modernhealthcare.com/digital-health/health-system-rolls-out-ai-clinical-decision-support-sepsis"
+    }
+  ]
+}
