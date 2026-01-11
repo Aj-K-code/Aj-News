@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "House passes three-year extension of enhanced ACA premium tax credits, aiming to avert sharp coverage losses",
+    "summary": "The U.S. House approved a clean three-year extension of enhanced Affordable Care Act premium tax credits, a move that, if enacted, would prevent steep premium hikes and potential loss of coverage for tens of millions of marketplace enrollees who have been facing the expiration of these subsidies in 2026.",
+    "source": "Alston & Bird - Health Care Week in Review",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-9-2026"
+  },
+  "stories": [
+    {
+      "headline": "House passes clean three-year extension of ACA enhanced premium tax credits",
+      "summary": "In a key step to stabilize U.S. individual insurance markets, the House voted to extend enhanced Affordable Care Act premium tax credits for three more years, aiming to blunt projected 100%+ premium increases and coverage losses for millions if subsidies lapse.",
+      "source": "Alston & Bird - Health Care Week in Review",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-9-2026"
+    },
+    {
+      "headline": "Soaring health insurance premiums are forcing people to make major life changes",
+      "summary": "Reporting highlights how the lapse of enhanced ACA subsidies and resulting premium spikes are forcing patients and families to change jobs, cut spending, or consider going uninsured, underscoring the real-world impact of federal coverage policy decisions on clinical access and continuity of care.",
+      "source": "NPR (via WETS)",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.wets.org/morning-edition/2026-01-09/soaring-health-insurance-premiums-are-forcing-people-to-make-major-life-changes"
+    },
+    {
+      "headline": "Health care costs expected to rise for millions of Americans in 2026 as ACA tax credits expire",
+      "summary": "Local and national analysis warns that the expiration of enhanced ACA marketplace tax credits will more than double average premiums for many enrollees in 2026, threatening affordability and potentially increasing uncompensated care burdens on providers and systems.",
+      "source": "Local 10 News",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.local10.com/news/local/2026/01/01/health-care-costs-expected-to-rise-for-millions-of-americans-in-2026/"
+    }
+  ]
+}

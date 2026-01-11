@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Withdraws from UN Bodies and International Organizations",
+    "summary": "The Trump Administration announced sweeping withdrawals from dozens of UN bodies and international organizations, undermining multilateral institutions and targeting programs focused on climate, trade, gender, and development.",
+    "source": "UN News / Inter Press Service",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news/2026/01"
+  },
+  "stories": [
+    {
+      "headline": "UN Urges Iran to End Protest Violence and Restore Internet Access",
+      "summary": "A UN-mandated human rights fact-finding mission has called on Iranian authorities to immediately restore internet access and halt violent crackdowns on ongoing nationwide protests.",
+      "source": "UN News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    },
+    {
+      "headline": "Sudan War Leaves Millions Hungry and Displaced as Health System Nears Collapse",
+      "summary": "The ongoing conflict in Sudan continues to devastate civilian populations with severe humanitarian consequences including mass displacement, food insecurity, and deteriorating health infrastructure.",
+      "source": "UN News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    }
+  ]
+}
