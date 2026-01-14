@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Venezuela's Military Announces 24 Security Officers Were Killed in U.S. Attack",
+    "summary": "A U.S. military raid resulted in the abduction of Venezuelan President Nicolas Maduro, killing dozens and sparking a fierce crackdown by interim leaders, raising fears of regional instability and escalation of U.S. interventionism in Latin America.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/7/headlines"
+  },
+  "stories": [
+    {
+      "headline": "U.S. Pledged Security Guarantees to Ukraine at Paris Summit with European Allies",
+      "summary": "Ukraine received binding security commitments from the U.S. and European allies, including potential troop deployments post-ceasefire, bolstering defenses against Russia but risking prolonged tensions in Europe.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/7/headlines"
+    },
+    {
+      "headline": "Over Two Dozen Protesters Killed in Iran Amid Economic Crisis and U.S. Sanctions",
+      "summary": "Iranian protests over economic collapse have led to at least 34 deaths and thousands arrested, with U.S. officials encouraging dissent, potentially destabilizing the regime and affecting global energy markets.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/7/headlines"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Updates Childhood Immunization Schedule, Scaling Back Recommendations for Six Routine Vaccines",
+    "summary": "The CDC has drastically reduced routine recommendations for six childhood vaccines including hepatitis A, B, and rotavirus, potentially impacting millions of preventable hospitalizations and deaths, amid broader Trump administration vaccine policy shifts.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-jan-7-2026/"
+  },
+  "stories": [
+    {
+      "headline": "USDA and HHS Release Dietary Guidelines for Americans 2025\u20132030, Marking Major Reset Toward Real Food",
+      "summary": "Secretary Robert F. Kennedy Jr. and USDA Secretary Brooke Rollins unveiled new federal nutrition guidelines emphasizing real food over processed options, poised to reshape public health nutrition policies and clinical dietary counseling.",
+      "source": "USDA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.usda.gov/about-usda/news/press-releases"
+    }
+  ]
+}
