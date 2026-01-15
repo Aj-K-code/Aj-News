@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Announces $50 Billion in Awards to Strengthen Rural Health in All 50 States",
+    "summary": "CMS awarded funding under the $50 billion Rural Health Transformation Program to all 50 states and established a new Office of Rural Health Transformation, significantly boosting infrastructure and access to care in underserved rural areas critical for healthcare equity.",
+    "source": "CMS",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://www.cms.gov/training-education/medicare-learning-network/newsletter/mln-connects-newsletter-january-8-2026"
+  },
+  "stories": [
+    {
+      "headline": "FDA Asks For Removal Of Suicide Warnings On GLP-1 Drugs",
+      "summary": "The FDA directed Eli Lilly and Novo Nordisk to remove warnings about suicidal thoughts from labels of their blockbuster GLP-1 weight-loss drugs, potentially expanding safe prescribing practices amid widespread use for obesity and diabetes management.",
+      "source": "Axios",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Pharma",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-jan-14-2026/"
+    },
+    {
+      "headline": "A New Milestone In The Cancer Fight: 7 In 10 Patients Now Survive Five-Plus Years",
+      "summary": "The American Cancer Society reports that 70% of U.S. cancer patients now survive five years post-diagnosis, a major leap from prior decades driven by treatment advances, reshaping oncology care and patient outcomes.",
+      "source": "NBC News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-jan-14-2026/"
+    }
+  ]
+}

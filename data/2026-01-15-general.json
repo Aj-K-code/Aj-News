@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "NASA Cuts ISS Mission Short, Returns Four Astronauts Early Due to Medical Issue",
+    "summary": "NASA made the unprecedented decision to bring four astronauts, including two Americans, home early from the International Space Station after a crew member experienced a medical issue, highlighting vulnerabilities in long-duration space missions and potential impacts on future exploration plans.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Science",
+    "url": "https://www.youtube.com/watch?v=0osognutD_8"
+  },
+  "stories": [
+    {
+      "headline": "Iran Cuts Phone and Internet Access as Protests Spread Across Country, Death Toll Rises",
+      "summary": "Iranian authorities severed phone and internet access amid escalating protests over the economy now in their 12th day, with at least 38 killed and thousands arrested, signaling deepening internal instability and potential for broader regional unrest.",
+      "source": "ABC World News Tonight",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=0osognutD_8"
+    },
+    {
+      "headline": "Denmark and Greenland Rebuke Trump\u2019s Takeover Rhetoric, Vow Increased Military Presence",
+      "summary": "Denmark announced plans to boost its military presence in Greenland following U.S. President Trump's renewed calls for American control over the territory, escalating tensions over Arctic strategic interests amid rising threats from Russia and China.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11604330/global-news-morning-headlines-thursday-january-8-2026"
+    }
+  ]
+}
