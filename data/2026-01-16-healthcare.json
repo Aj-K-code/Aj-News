@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Reduces US Childhood Immunization Schedule From 17 to 11 Diseases",
+    "summary": "The CDC has significantly reduced the recommended childhood immunization schedule from 17 to 11 diseases, raising concerns among experts about potential surges in preventable diseases like hepatitis A and B, which could reverse decades of public health progress.",
+    "source": "AJMC",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.ajmc.com/view/health-equity-access-weekly-roundup-january-9-2026"
+  },
+  "stories": [
+    {
+      "headline": "House of Representatives passes clean extension of ACA tax credits",
+      "summary": "The House passed a clean, three-year extension of enhanced premium tax credits for ACA Marketplace coverage, averting immediate coverage losses for millions but leaving long-term uncertainty amid ongoing policy debates.",
+      "source": "AMA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/jan-16-2026-national-advocacy-update"
+    },
+    {
+      "headline": "AHA urges MedPAC to recommend higher payment updates ahead of January meeting",
+      "summary": "The AHA urged MedPAC to recommend higher Medicare payment updates for inpatient, outpatient, and physician services during its January 15-16 meeting to address provider financial stability and access issues.",
+      "source": "AHA",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.aha.org/news/headline/2026-01-09-aha-urges-medpac-recommend-higher-payment-updates-ahead-january-meeting"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia Launches Massive Overnight Drone and Missile Attack on Ukraine, Including Nuclear-Capable Hypersonic Missile",
+    "summary": "Russia fired a hypersonic nuclear-capable ballistic missile for the second time, killing four in Kyiv and cutting off power and water to over a million in southeastern Ukraine, escalating the conflict and raising fears of broader nuclear risks.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/9/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Anti-government protests continue in a number of Iranian cities despite a new nationwide internet blackout",
+      "summary": "Protests in Iran over economic crisis have led to at least 45 deaths amid a government internet shutdown and U.S. threats of intervention, potentially destabilizing the regime and heightening regional tensions.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/9/headlines"
+    },
+    {
+      "headline": "Trump cancels second wave of attacks on Venezuela after interim government agrees to cooperate",
+      "summary": "Following a U.S. attack and abduction of Venezuelan President Nicolas Maduro, the interim government released prisoners and cooperated on issues like oil, averting further escalation but signaling aggressive U.S. intervention in Latin America.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/9/headlines"
+    }
+  ]
+}
