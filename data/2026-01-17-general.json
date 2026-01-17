@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US forces capture Venezuelan President Nicol\u00e1s Maduro in surprise raid",
+    "summary": "US military conducted a surprise operation leading to the ouster and capture of Nicol\u00e1s Maduro, escalating US intervention in Venezuela amid its oil reserves and regional instability, potentially reshaping Latin American geopolitics.",
+    "source": "CBS News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=MTli1a6Q7JM"
+  },
+  "stories": [
+    {
+      "headline": "Trump says he may punish countries with tariffs if they don't back the US controlling Greenland",
+      "summary": "US President Trump threatens tariffs on nations opposing American control over Greenland, intensifying diplomatic tensions with Denmark and highlighting strategic Arctic interests amid global power shifts.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "South Africa investigates Iran's participation in naval drills off its coast after US criticism",
+      "summary": "South Africa probes Iranian warships' involvement in joint naval exercises following US objections, underscoring rising tensions in international military cooperation and potential impacts on global alliances.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}

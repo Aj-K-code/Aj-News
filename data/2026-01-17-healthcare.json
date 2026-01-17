@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "White House releases health care plan",
+    "summary": "The White House unveiled a comprehensive health care plan on January 15 addressing drug prices, insurance premiums, and price transparency by codifying 'most favored nation' agreements and redirecting subsidies directly to Americans, potentially lowering costs and improving access for millions.",
+    "source": "AHA News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.aha.org/news/headline/2026-01-15-white-house-releases-health-care-plan"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Three-Year Extension of ACA Premium Tax Credits",
+      "summary": "The U.S. House passed a bill extending enhanced premium tax credits for ACA Marketplace coverage through 2028, but Senate passage remains uncertain ahead of the January 30 deadline, affecting millions of enrollees' affordability.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-9-2026"
+    },
+    {
+      "headline": "California Medi-Cal Halts GLP-1 Obesity Drug Coverage",
+      "summary": "California's Medi-Cal program discontinued coverage for popular GLP-1 weight loss drugs like Wegovy and Zepbound starting January 1, pushing low-income patients toward diet and exercise alternatives amid debates on cost-effectiveness.",
+      "source": "KFF Health News",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-jan-13-2026/"
+    }
+  ]
+}
