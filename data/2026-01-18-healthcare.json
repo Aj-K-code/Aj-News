@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Trump Calls on Congress to Implement 'The Great Healthcare Plan'",
+    "summary": "President Trump urged Congress to pass legislation enacting 'The Great Healthcare Plan' with reforms to lower drug prices and overhaul the healthcare system, potentially reshaping national policy amid ongoing affordability debates.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-16-2026"
+  },
+  "stories": [
+    {
+      "headline": "TenDollarTelehealth Launches, Delivers $10 Primary and Urgent Care as ACA Premiums Soar",
+      "summary": "New startup TenDollarTelehealth offers unlimited $10 primary and urgent care visits without insurance amid rising ACA premiums, providing an affordable alternative that could disrupt traditional care models for professionals.",
+      "source": "Healthcare Now Radio",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://www.healthcarenowradio.com/health-it-product-news-report-january-2026/"
+    },
+    {
+      "headline": "At Least 171 Measles Cases Confirmed In 9 States: CDC",
+      "summary": "The CDC reports 171 measles cases across nine states this year, signaling a growing outbreak that heightens risks for unvaccinated patients and demands heightened vigilance in clinical practice.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-jan-15-2026/"
+    }
+  ]
+}

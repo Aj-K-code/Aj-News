@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Escalating Protests in Iran Amid Government Crackdown and U.S. Threats of Military Intervention",
+    "summary": "Massive protests across Iran have resulted in over 100 deaths and thousands detained, with President Trump considering military strikes, heightening risks of broader Middle East conflict and global instability.",
+    "source": "ABC World News Tonight",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=iH0RKO7k6hI"
+  },
+  "stories": [
+    {
+      "headline": "Iran Warns of Action Against U.S. If Trump Orders Strikes as Security Forces Crush Protests",
+      "summary": "Iranian forces are intensifying efforts to suppress nationwide protests that have killed hundreds, while warning of retaliation to potential U.S. military action, potentially drawing in global powers.",
+      "source": "BBC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=RuBaLdB1m0I"
+    },
+    {
+      "headline": "Federal Prosecutors Resign Amid Turmoil Over Minnesota ICE Shooting Investigation",
+      "summary": "Several U.S. federal prosecutors have resigned over the handling of the investigation into the fatal shooting of Ren\u00e9e Good by ICE agents, sparking nationwide anti-ICE demonstrations and highlighting tensions in immigration enforcement.",
+      "source": "Associated Press",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://multipluralworld.com/world-news-headlines-and-analysis-for-january-2026/"
+    }
+  ]
+}
