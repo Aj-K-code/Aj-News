@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Iran Warns of Retaliation as Protests Kill Hundreds",
+    "summary": "Deadly protests in Iran have resulted in over 500 deaths and 10,000 arrests amid economic unrest and calls to end clerical rule, escalating tensions with U.S. threats of military or cyber action that could destabilize the Middle East.",
+    "source": "10 Things News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.10things.news/p/10-things-global-news-12th-january"
+  },
+  "stories": [
+    {
+      "headline": "UN Court Opens Landmark Rohingya Genocide Case",
+      "summary": "The International Court of Justice has initiated proceedings against Myanmar for genocide against the Rohingya, potentially setting a precedent for international accountability in ethnic cleansing cases.",
+      "source": "10 Things News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.10things.news/p/10-things-global-news-12th-january"
+    },
+    {
+      "headline": "EU Countries Approve Mercosur Trade Deal After 25 Years",
+      "summary": "The EU has finally approved a long-stalled trade deal with Mercosur, opening markets for agriculture and industry that could reshape global trade flows and boost economic ties between Europe and South America.",
+      "source": "10 Things News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.10things.news/p/10-things-global-news-12th-january"
+    }
+  ]
+}
