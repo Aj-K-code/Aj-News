@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Iran's Violent Crackdown on Protests Leaves Hundreds Dead as Trump Weighs Military Response and Imposes Tariffs",
+    "summary": "Iranian authorities have killed at least 648 protesters amid widespread unrest, prompting U.S. President Trump to announce 25% tariffs on countries doing business with Iran and consider military strikes or cyberattacks, escalating global tensions and risking broader conflict.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/13/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Russia Launches Massive Drone and Missile Attack on Ukraine, Targeting Power Infrastructure",
+      "summary": "Russia fired nearly 300 drones, 18 ballistic missiles, and 7 cruise missiles at Ukraine's energy grid overnight, killing at least four and leaving thousands without heat amid winter, intensifying the humanitarian crisis in the ongoing war.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/13/headlines"
+    },
+    {
+      "headline": "Intense Winter Storm Kills at Least Eight Palestinians in Gaza, Toppling Shelters",
+      "summary": "A severe storm has collapsed buildings and tents across Gaza, killing eight including a 15-year-old girl, exacerbating the humanitarian disaster and prompting renewed calls for Israel to allow more aid into the besieged area.",
+      "source": "Democracy Now!",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/13/headlines"
+    }
+  ]
+}

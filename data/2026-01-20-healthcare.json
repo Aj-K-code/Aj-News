@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "White House Unveils 'The Great Healthcare Plan' to Slash Prescription Drug Prices and Reduce Insurance Premiums",
+    "summary": "The Trump Administration released a comprehensive legislative framework aimed at lowering healthcare costs through drug price reductions, over-the-counter expansions, and ACA subsidy adjustments, potentially reshaping national healthcare affordability and policy debates.",
+    "source": "Committee for a Responsible Federal Budget",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.crfb.org/blogs/white-house-releases-great-healthcare-plan"
+  },
+  "stories": [
+    {
+      "headline": "ACA Open Enrollment For 2026 Lags Behind 2025 Sign-Ups",
+      "summary": "CMS reports declining health insurance exchange enrollment for 2026 compared to the prior year, signaling potential challenges in ACA marketplace participation amid subsidy expiration uncertainties.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-january-13-2026/"
+    },
+    {
+      "headline": "California Medi-Cal Halts GLP-1 Obesity Drug Coverage",
+      "summary": "California's Medi-Cal program discontinued coverage for popular GLP-1 weight loss drugs like Wegovy and Zepbound for low-income patients starting this year, pushing diet and exercise alternatives amid expert criticism of feasibility.",
+      "source": "San Francisco Chronicle",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-january-13-2026/"
+    }
+  ]
+}
