@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Over 2,500 People Killed in Anti-Government Protests in Iran as Trump Vows Intervention",
+    "summary": "Massive anti-government protests in Iran have resulted in over 2,500 deaths amid an internet blackout and reports of severe human rights abuses, with U.S. President Trump urging protesters to seize institutions and promising 'help is on the way,' escalating risks of international military involvement.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/14/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Russia Launches Large-Scale Attack on Ukraine's Energy Grid, Deploys Nuclear-Capable Missile",
+      "summary": "Russia conducted a major overnight assault on Ukraine's energy infrastructure, killing at least four and deploying a nuclear-capable Orishnik missile near the Polish border, heightening NATO tensions amid stalled peace talks.",
+      "source": "Dailymotion Latest News Bulletin",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.dailymotion.com/video/x9xpvb8"
+    },
+    {
+      "headline": "Denmark and Greenland Unite Against U.S. Push to Seize Arctic Island Ahead of White House Talks",
+      "summary": "Denmark and Greenland leaders jointly rejected U.S. President Trump's calls for military takeover of Greenland, as Vice President Vance and Secretary Rubio prepare for White House discussions, amid rising Arctic geopolitical strains.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/14/headlines"
+    }
+  ]
+}

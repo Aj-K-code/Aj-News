@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. Reaches Cancer Survival Milestone: 7 in 10 Patients Now Survive Five Years or More After Diagnosis",
+    "summary": "The American Cancer Society reports a historic high of 70% five-year survival rate for cancer patients, up from 50% in the 1970s, highlighting decades of progress in treatments and early detection that significantly improves patient outcomes.",
+    "source": "NBC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Research",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-jan-14-2026/"
+  },
+  "stories": [
+    {
+      "headline": "President Trump Calls on Congress to Implement 'The Great Healthcare Plan'",
+      "summary": "President Trump urged Congress to pass legislation enacting sweeping healthcare reforms including drug price reductions, potentially reshaping national policy and access to care.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-16-2026"
+    },
+    {
+      "headline": "Flu Hospitalizations Rising in California, Officials Warn",
+      "summary": "California health officials report increasing flu hospitalizations with projections of further rises, urging vaccinations as cases climb but remain below last year's peak.",
+      "source": "San Francisco Chronicle",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-january-14-2026/"
+    }
+  ]
+}
