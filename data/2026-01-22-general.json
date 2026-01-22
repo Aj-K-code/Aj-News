@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump threatens tariffs and military action to acquire Greenland from Denmark",
+    "summary": "President Trump has escalated demands for U.S. control of Greenland, threatening tariffs on Denmark and NATO allies while refusing to rule out force, raising fears of a new geopolitical flashpoint in the Arctic amid competition with Russia and China.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=-uFVxI2U79Y"
+  },
+  "stories": [
+    {
+      "headline": "Trump threatens to invoke Insurrection Act to deploy military to Minnesota amid ICE shooting protests",
+      "summary": "Following two fatal ICE-involved shootings in Minneapolis sparking clashes, President Trump is considering invoking the Insurrection Act to send U.S. troops, potentially escalating domestic tensions over immigration enforcement.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=tRAE3wPBQXA"
+    },
+    {
+      "headline": "Barcelona train crash kills 1, injures 37 passengers days after another deadly collision in Spain",
+      "summary": "A train derailment in Barcelona has left one dead and dozens injured, highlighting ongoing safety concerns in Europe's rail networks shortly after a similar fatal incident.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11614447/global-news-morning-headlines-thursday-january-15-2026"
+    }
+  ]
+}
