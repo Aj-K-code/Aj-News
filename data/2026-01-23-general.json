@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. Military Strike in Venezuela Leads to Capture of President Nicol\u00e1s Maduro and Wife",
+    "summary": "A U.S. military operation earlier this month toppled and abducted Venezuelan President Nicol\u00e1s Maduro and his wife from Caracas, enabling the seizure of multiple oil tankers and paving the way for U.S. influence over Venezuela's vital oil industry amid global energy shifts.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/16/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Pentagon Deploys USS Abraham Lincoln Carrier Strike Group Toward Middle East Amid Iran Tensions",
+      "summary": "The U.S. is repositioning a carrier strike group to the Middle East while imposing new sanctions on Iran over its crackdown on protesters, heightening risks of regional conflict and affecting global energy markets.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/16/headlines"
+    },
+    {
+      "headline": "Prime Minister Mark Carney Strikes Pivotal Trade Deal with China",
+      "summary": "Canada's Prime Minister Mark Carney secured unexpected trade deals in Beijing that reset Canada-China relations, potentially easing global supply chain tensions amid U.S.-China trade uncertainties.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://globalnews.ca/news/11616295/carney-landmark-china-deal-tariffs-quota/"
+    },
+    {
+      "headline": "Trump Administration Announces Second Phase of Gaza Ceasefire and Forms 'Board of Peace'",
+      "summary": "President Trump launched a 'Board of Peace' to govern postwar Gaza as part of ceasefire phase two, amid UN warnings of years-long rubble clearance, signaling shifting dynamics in Middle East reconstruction efforts.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2026/1/16/headlines"
+    }
+  ]
+}
