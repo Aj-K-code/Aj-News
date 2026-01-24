@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Congress Reaches Deal To Avoid Trump Cuts, Boost HHS Spending",
+    "summary": "Congress finalized a bipartisan FY2026 appropriations package boosting HHS funding to $116.6 billion while including key healthcare extenders like PBM reforms, Hospital at Home extensions, and telehealth flexibilities, stabilizing federal health programs amid budget pressures.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/wednesday-january-21-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Medicaid Tries New Approach With Sickle Cell: Companies Get Paid Only if Costly Gene Therapies Work",
+      "summary": "Medicaid is piloting outcomes-based payments for sickle cell gene therapies, a strategy from the Biden era continued under Trump that could save costs and expand access to expensive treatments as more emerge.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-january-21-2026/"
+    },
+    {
+      "headline": "Holland & Knight Health Dose: January 21, 2026",
+      "summary": "The White House released President Trump's 'Great Healthcare Plan' proposing ACA restructuring, expanded HSAs, drug pricing reforms like TrumpRx and PBM changes, alongside congressional PBM transparency and spread-pricing bans in new appropriations.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/01/holland-knight-health-dose-january-21-2026"
+    }
+  ]
+}

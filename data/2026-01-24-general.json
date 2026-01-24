@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "European Union and Mercosur formally sign free trade agreement after 25 years of negotiations",
+    "summary": "The EU-Mercosur deal opens markets for \u20ac160 billion in trade, boosting economic ties between Europe and South America while advancing sustainable development standards amid global trade tensions.",
+    "source": "Reuters",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_January_17"
+  },
+  "stories": [
+    {
+      "headline": "High Seas Treaty enters into force in 60 United Nations member states",
+      "summary": "The treaty's activation enables enhanced protection of international waters, covering nearly half of Earth's surface and addressing biodiversity loss in areas beyond national jurisdiction.",
+      "source": "Reuters",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Science",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_January_17"
+    },
+    {
+      "headline": "Thousands protest U.S. takeover proposal in Copenhagen and Nuuk amid Greenland crisis",
+      "summary": "Mass rallies highlight tensions over potential U.S. control of Greenland, raising questions about Arctic sovereignty, NATO dynamics, and resource competition in a warming climate.",
+      "source": "BBC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_January_17"
+    },
+    {
+      "headline": "Flash floods strike northern South Africa, killing at least 19 and affecting neighboring countries",
+      "summary": "Deadly floods in South Africa, spilling into Mozambique and Zimbabwe, underscore escalating climate risks in southern Africa, displacing communities and straining regional disaster response.",
+      "source": "BBC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=hHqtbU4gw0Q"
+    }
+  ]
+}
