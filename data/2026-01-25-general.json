@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump imposes escalating tariffs on eight NATO allies over Greenland refusal",
+    "summary": "US President Trump threatened 10% tariffs (rising to 25% in June) on Denmark, Finland, France, Germany, Netherlands, Norway, Sweden, and UK unless they sell Greenland, sparking joint protests, EU countermeasures, and fears of a transatlantic trade war that could destabilize NATO alliances and global commerce.",
+    "source": "Wisdom General",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.wisdomgeneral.com/top-10-global-news-headlines-january-18-2026"
+  },
+  "stories": [
+    {
+      "headline": "US withdrawal from WHO \u2018risks global safety\u2019, agency says in detailed rebuttal",
+      "summary": "The World Health Organization issued a strong rebuttal to the US decision to withdraw, warning it endangers global health security and pandemic preparedness amid ongoing international crises.",
+      "source": "Global Issues / UN News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    },
+    {
+      "headline": "The World\u2019s Ongoing Conflicts Underline Nuclear and Non-Nuclear States",
+      "summary": "Ongoing wars like Russia-Ukraine and Israel-Palestine highlight risks of nuclear-armed states clashing with non-nuclear ones, raising alarms over potential escalations involving China-Taiwan, North Korea-South Korea, or US-Iran.",
+      "source": "Global Issues / Inter Press Service",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/01"
+    }
+  ]
+}

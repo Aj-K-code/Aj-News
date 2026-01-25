@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Fiscal Year 2026 Spending Bills Including Key Healthcare Extenders",
+    "summary": "The U.S. House approved a bipartisan FY2026 spending package extending critical programs like Medicare telehealth flexibilities, Acute Hospital Care at Home through 2026, and other Medicare provisions, averting disruptions and stabilizing funding for healthcare providers amid ongoing fiscal debates.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-23-2026"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Health Funding Package, Including PBM Reform",
+      "summary": "Congress passed a long-delayed bipartisan health package with new rules for pharmacy benefit managers (PBMs), aiming to curb prescription drug costs after overcoming delays linked to industry complaints.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-january-23-2026/"
+    },
+    {
+      "headline": "Department of Veterans Affairs Unveils $1 Trillion Plan to Expand Community Care",
+      "summary": "The VA proposed spending $1 trillion over the next decade to restructure community care into a nationwide network managed by third-party administrators, sparking debate on costs and implementation during a House hearing.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-january-23-2026/"
+    }
+  ]
+}
