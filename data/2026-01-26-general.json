@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "US Announces Withdrawal from WHO, Prompting Warnings of Risks to Global Safety",
+    "summary": "The United States' decision to exit the World Health Organization is expected to undermine global health security and preparedness for future pandemics, leaving both the US and the world more vulnerable according to the agency's detailed rebuttal.",
+    "source": "UN News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news/2026/01"
+  },
+  "stories": [
+    {
+      "headline": "Trump Claims US Used Secret Weapon to Disable Venezuelan Gear in Maduro Raid",
+      "summary": "The United States reportedly employed a covert technological weapon during an operation targeting Venezuelan President Nicolas Maduro's regime, escalating tensions and highlighting advanced US intervention capabilities in Latin America.",
+      "source": "Inquirer.net",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnation.inquirer.net"
+    },
+    {
+      "headline": "Several US States Face Severe Snowstorm with 7 Dead",
+      "summary": "A powerful snowstorm has caused at least seven deaths and widespread disruptions across multiple US states, underscoring the intensifying impacts of extreme weather on infrastructure and daily life.",
+      "source": "Geo News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=rzFqjshWsCk"
+    }
+  ]
+}
