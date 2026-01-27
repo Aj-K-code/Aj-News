@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Unveils Interest in Acquiring Greenland, Sparking Global Debate on Sovereignty and Strategy",
+    "summary": "US President Trump has reignited calls to purchase Greenland, highlighting its strategic military value amid Arctic tensions, prompting strong pushback from Denmark and Greenland leaders on sovereignty.",
+    "source": "NDTV",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.ndtv.com/video/top-headlines-of-the-day-january-27-2026-1052207"
+  },
+  "stories": [
+    {
+      "headline": "Trump Hikes Tariffs On South Korean Goods To 25%",
+      "summary": "US President Trump imposed 25% tariffs on South Korean imports, escalating trade tensions and potentially disrupting global supply chains in electronics and autos.",
+      "source": "NDTV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.ndtv.com/video/top-headlines-of-the-day-january-27-2026-1052207"
+    },
+    {
+      "headline": "Severe Winter Storm Hits United States, Leaves Over One Million Without Power",
+      "summary": "A massive winter storm battered multiple US states, causing widespread power outages for over a million people and thousands of flight cancellations, straining infrastructure amid extreme weather.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-27-january-2026/"
+    },
+    {
+      "headline": "Israel Recovers Remains of Last Hostage in Gaza as Ceasefire Enters Tricky New Phase",
+      "summary": "Israel retrieved the remains of the final hostage from Gaza, marking a milestone in the ceasefire but raising concerns over its fragile stability and ongoing regional tensions.",
+      "source": "The Intelligencer",
+      "importance": 5,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.theintelligencer.net/news/top-headlines/2026/01/israel-recovers-remains-of-last-hostage-in-gaza-as-ceasefire-enters-tricky-new-phase/"
+    }
+  ]
+}
