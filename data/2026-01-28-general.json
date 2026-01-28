@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "EU-India Seal 'Mother Of All Deals'",
+    "summary": "The European Union and India have concluded a major trade and diplomatic agreement, marking a significant geopolitical realignment as nations seek alternatives to U.S.-led economic structures amid rising protectionist policies.",
+    "source": "Republic TV",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Business",
+    "url": "https://www.youtube.com/watch?v=KxhNMnmwiWQ"
+  },
+  "stories": [
+    {
+      "headline": "President Trump Warns Iraq Against Appointing Nouri al-Maliki as Prime Minister",
+      "summary": "Trump threatened to withhold U.S. support if Iraq appoints pro-Iran figure Nouri al-Maliki as prime minister, illustrating escalating tensions over regional geopolitical alignment and U.S. influence.",
+      "source": "Evrim A\u011fac\u0131",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://evrimagaci.org/gpt/global-leaders-push-back-as-trump-threatens-allies-525740"
+    },
+    {
+      "headline": "Canadian PM Carney Stands Firm on Davos Remarks Despite Trump's 100% Tariff Threat",
+      "summary": "Canadian Prime Minister Mark Carney reaffirmed his World Economic Forum call for nations to diversify away from U.S. dominance, standing his ground after Trump threatened punitive 100% tariffs over Canada's China trade deal.",
+      "source": "Times of India",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://timesofindia.indiatimes.com/videos/international/canada-will-respond-carney-reveals-details-of-tense-trump-call-over-davos-speech-china-push/videoshow/127663081.cms"
+    },
+    {
+      "headline": "ASEAN Foreign Ministers to Address Myanmar Peace Plan and Elections in Cebu Retreat",
+      "summary": "ASEAN foreign ministers convened under Philippine leadership to discuss Myanmar's recently concluded elections and ongoing peace efforts, addressing critical regional stability challenges.",
+      "source": "BERNAMA",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.bernama.com/en/world/news.php?id=2517599"
+    }
+  ]
+}
