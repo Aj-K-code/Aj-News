@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Congress Proposes Extensions For Virtual Care In Funding Bill",
+    "summary": "Congress included multi-year extensions for Medicare telehealth flexibilities and the Acute Hospital Care at Home program in its FY2026 funding package, providing long-term certainty for virtual care providers amid ongoing bipartisan funding challenges.",
+    "source": "Fierce Healthcare",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/thursday-january-22-2026/"
+  },
+  "stories": [
+    {
+      "headline": "House Passes Fiscal Year 2026 Spending Bills",
+      "summary": "The House advanced the final FY2026 spending bills including HHS funding with key healthcare extenders, heightening urgency to avert a potential government shutdown by January 30 amid Senate negotiations.",
+      "source": "Alston & Bird",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.alston.com/en/insights/publications/2026/01/health-care-week-in-review-january-23-2026"
+    },
+    {
+      "headline": "Healthcare Preview for the Week of January 26, 2026",
+      "summary": "With the January 30 government funding deadline approaching, the Senate faces pressure to pass remaining appropriations bills including Labor-HHS with healthcare extenders, risking a partial shutdown otherwise.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-january-26-2026/"
+    }
+  ]
+}
