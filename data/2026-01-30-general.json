@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russian, Ukrainian, and U.S. negotiators begin first trilateral talks in Abu Dhabi since Russia's invasion of Ukraine",
+    "summary": "The landmark trilateral negotiations in Abu Dhabi mark a potential breakthrough toward ending the nearly four-year war, with Zelensky expressing hope for peace amid high-stakes meetings involving Trump administration officials.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2026/1/23/headlines"
+  },
+  "stories": [
+    {
+      "headline": "Leaders of six Central African countries call for major economic reforms at summit in Republic of the Congo",
+      "summary": "Central African leaders convened to push for sweeping economic overhauls amid regional instability, aiming to address chronic underdevelopment and boost stability across the continent.",
+      "source": "Everything Briefing",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://everythingbriefing.substack.com/p/january-23-2026"
+    },
+    {
+      "headline": "UN warns 35 million Nigerians at risk of hunger, with 3 million children facing severe malnutrition due to aid cuts",
+      "summary": "Severe funding shortfalls in international aid threaten mass hunger in Nigeria, exacerbating a humanitarian crisis that could destabilize West Africa and strain global food security efforts.",
+      "source": "Everything Briefing",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://everythingbriefing.substack.com/p/january-23-2026"
+    }
+  ]
+}

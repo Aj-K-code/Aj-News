@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Health Funding Package, Including PBM Reform",
+    "summary": "The House passed a key appropriations package funding HHS through September 30 and advancing pharmacy benefit manager reforms to curb drug pricing practices, marking a significant step in addressing prescription costs amid political delays.",
+    "source": "Fierce Healthcare",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/first-edition-friday-jan-23-2026/"
+  },
+  "stories": [
+    {
+      "headline": "CMS Issues ANPRM to Strengthen American-Made PPE and Essential Medicines Supply Chains",
+      "summary": "CMS released an advance notice of proposed rulemaking on January 26 seeking public input on bolstering domestic supply chains for PPE and essential medicines, aiming to reduce reliance on foreign sources and enhance national health security.",
+      "source": "Holland & Knight",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/01/holland-knight-health-dose-january-27-2026"
+    },
+    {
+      "headline": "NIH Announces Reestablishment of Sickle Cell Advisory Committee",
+      "summary": "NIH Director Dr. Jayanta Bhattacharya announced the reestablishment of the Sickle Cell Disease Advisory Committee to guide research priorities and long-range planning at NHLBI, potentially accelerating advancements in sickle cell treatments.",
+      "source": "Holland & Knight",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Research",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/01/holland-knight-health-dose-january-27-2026"
+    }
+  ]
+}
