@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "US President Trump Declares National Emergency on Cuba to Impose Oil Tariffs",
+    "summary": "US President Donald Trump declared a national emergency regarding Cuba, enabling tariffs on countries supplying it with oil, escalating tensions in US-Cuba relations and potentially disrupting global energy trade dynamics.",
+    "source": "Wikipedia Current Events",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+  },
+  "stories": [
+    {
+      "headline": "Morning Briefing: Feb. 1, 2026",
+      "summary": "Iran's top security official signaled progress in de-escalating tensions with the US while US-Russian talks advanced mediation for Ukraine peace, alongside SDF ceasefire violations in Syria, indicating fragile regional stability efforts.",
+      "source": "Anadolu Agency",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-feb-1-2026/3816723"
+    },
+    {
+      "headline": "Power outages hit Ukraine and Moldova as Kyiv struggles against the winter cold",
+      "summary": "Emergency power cuts struck several Ukrainian cities and Moldova amid winter cold, exacerbating humanitarian challenges in the ongoing conflict and highlighting infrastructure vulnerabilities.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "At least five people are killed and two others are injured in a Russian drone strike on a passenger train in Kharkiv Oblast, Ukraine",
+      "summary": "A Russian drone strike targeted a passenger train in Kharkiv, killing at least five and injuring two, underscoring the persistent civilian toll and escalation risks in the Russo-Ukrainian war.",
+      "source": "Wikipedia Current Events",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+    }
+  ]
+}
