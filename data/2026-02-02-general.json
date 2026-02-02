@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump warns Iran 'time is running out' to negotiate a deal over its nuclear program as US armada heads toward region",
+    "summary": "US President Trump has escalated threats against Iran with a massive armada deployment demanding a nuclear deal, prompting Iranian warnings of retaliation and raising fears of broader Middle East conflict.",
+    "source": "SBS News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=ReWUXXWB5f8"
+  },
+  "stories": [
+    {
+      "headline": "Iran declares European armies 'terrorist groups' in retaliation for IRGC designation",
+      "summary": "Iran's declaration labeling European armies as terrorist groups escalates transatlantic tensions and risks further diplomatic fallout amid ongoing US-Iran standoffs.",
+      "source": "France 24",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.france24.com/en/"
+    },
+    {
+      "headline": "Preliminary partial results put Costa Rican president's handpicked successor ahead in presidential election",
+      "summary": "Eli Feinzaig Fern\u00e1ndez leads Costa Rica's first-round presidential vote amid concerns over rising crime, potentially continuing current policies in the stable Central American nation.",
+      "source": "WSLS",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.wsls.com/news/world/2026/02/02/preliminary-partial-results-put-costa-rican-presidents-handpicked-successor-ahead/"
+    }
+  ]
+}

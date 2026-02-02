@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. News & World Report Releases Top Health and Nutrition Trends for 2026, with GLP-1 Expansion Leading Expert Predictions",
+    "summary": "A panel of 58 experts identified the expanded use of GLP-1 medications beyond obesity and diabetes as the top health trend for 2026 due to their potential benefits for heart health, kidney disease, fertility, arthritis, and addiction, signaling a major shift in treatment paradigms as usage surges with declining costs.",
+    "source": "Advisory Board",
+    "importance": 4,
+    "impact_to_me": 4,
+    "category": "Pharma",
+    "url": "https://www.advisory.com/daily-briefing/2026/01/12/health-trends"
+  },
+  "stories": [
+    {
+      "headline": "FDA Implements Quality Management System Regulation (QMSR) Effective February 2, 2026, Aligning with ISO 13485 and Updating Inspection Processes",
+      "summary": "The FDA has enacted the QMSR today, replacing the Quality System Inspection Technique (QSIT) with a new inspection process based on ISO 13485:2016 standards for medical device manufacturers, which will standardize global compliance and affect quality management practices across the industry.",
+      "source": "FDA",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance/overview-device-regulation"
+    },
+    {
+      "headline": "House Advances FY2026 Spending Bills Including HHS Funding, 2-Year Telehealth Extensions, and PBM Reforms",
+      "summary": "The House passed key FY2026 appropriations bills funding HHS, extending Medicare telehealth flexibilities through 2027, boosting community health center funding to $4.6 billion, and introducing PBM reforms, which will directly shape healthcare access, costs, and service delivery for professionals.",
+      "source": "Healthcare IT News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.healthcareitnews.com/news/2026-house-spending-bill-proposes-2-year-telehealth-and-5-year-hospital-home-waiver-extensions"
+    }
+  ]
+}
