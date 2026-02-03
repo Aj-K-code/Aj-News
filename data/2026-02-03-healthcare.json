@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate Passes Modified Government Funding Minibus Including Full FY 2026 HHS Funding Amid Partial Shutdown",
+    "summary": "The Senate approved a modified version of H.R. 7148 providing full fiscal year 2026 funding for HHS and health extenders, now awaiting House approval to end the partial government shutdown affecting healthcare operations.",
+    "source": "McDermott+",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "http://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-february-2-2026/"
+  },
+  "stories": [
+    {
+      "headline": "House Rules Committee Meets Today on Senate-Modified Government Funding Bill as Partial Shutdown Continues",
+      "summary": "The House Rules Committee is convening to advance Senate changes to H.R. 7148 for full FY 2026 HHS funding, with a floor vote expected tomorrow to resolve the ongoing partial shutdown impacting HHS services.",
+      "source": "McDermott+",
+      "importance": 5,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "http://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-february-2-2026/"
+    },
+    {
+      "headline": "Healthcare, Life Sciences Leaders Expect More Mergers in 2026 Despite Uncertain Landscape",
+      "summary": "A KPMG survey reveals most healthcare and life sciences executives anticipate increased M&A activity in 2026, signaling optimism and potential consolidation amid economic uncertainties.",
+      "source": "Chief Healthcare Executive",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.chiefhealthcareexecutive.com/view/healthcare-life-sciences-leaders-expect-more-mergers-in-2026"
+    }
+  ]
+}

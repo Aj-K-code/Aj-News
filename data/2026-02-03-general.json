@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Rafah border crossing with Egypt partially reopens after nearly 2 years, allowing Gazans passage",
+    "summary": "The partial reopening of the Rafah crossing after nearly two years marks a significant step in the Gaza ceasefire, enabling limited civilian movement and humanitarian aid flow amid ongoing regional tensions.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/10995639/global-news-morning-headlines-monday-february-3-2025"
+  },
+  "stories": [
+    {
+      "headline": "Global stocks tumbling after Trump imposes 25% tariffs on Canada and Mexico, 10% on China",
+      "summary": "President Trump's new tariffs on major trading partners to address immigration and drug flows have triggered global stock declines and threats of further trade disruptions, potentially reshaping international commerce.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.democracynow.org/2025/2/3/headlines"
+    },
+    {
+      "headline": "Canada-US border agreement averts looming trade war at the 11th hour",
+      "summary": "Prime Minister Trudeau and President Trump reached a $1.3 billion border security deal, pausing threatened tariffs and stabilizing North American trade amid heightened economic uncertainty.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=hnuFazn1buI"
+    },
+    {
+      "headline": "Netanyahu lands in Washington to meet Trump despite ICC arrest warrant",
+      "summary": "Israeli PM Netanyahu's visit follows recent hostage exchanges in Gaza ceasefire efforts, highlighting shifting U.S.-Israel dynamics under new U.S. leadership amid international legal pressures.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.democracynow.org/2025/2/3/headlines"
+    }
+  ]
+}
