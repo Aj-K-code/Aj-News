@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Rwandan-backed M23 forces seize Goma in eastern DRC, killing at least 900, before declaring humanitarian ceasefire",
+    "summary": "M23 rebels captured the key city of Goma amid heavy fighting, causing massive casualties and displacement, before pausing operations for humanitarian reasons, intensifying calls for sanctions on Rwanda and highlighting ongoing regional instability in Central Africa.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.democracynow.org/2025/2/4/headlines"
+  },
+  "stories": [
+    {
+      "headline": "China strikes back against President Trump\u2019s tariffs with its own penalties against the U.S.",
+      "summary": "China imposed retaliatory tariffs on U.S. energy, agriculture, and autos, plus export controls on critical minerals and a probe into Google, escalating the trade war and threatening global supply chains for electronics and commodities.",
+      "source": "NBC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=W7lz4ie5RIE"
+    },
+    {
+      "headline": "The United States implements a 10% across-the-board tariff on Chinese products",
+      "summary": "The U.S. enacted broad tariffs on China while eliminating de minimis exemptions, prompting immediate Chinese countermeasures including tariffs and mineral export restrictions, signaling a renewed intensification of the bilateral trade conflict with worldwide economic ripple effects.",
+      "source": "Wikipedia Current Events",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Business",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2025_February_4"
+    }
+  ]
+}

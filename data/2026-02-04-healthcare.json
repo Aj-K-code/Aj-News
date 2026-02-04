@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate Passes Funding Bill Extending Telehealth, Regulating PBMs",
+    "summary": "The Senate passed critical legislation extending telehealth flexibilities and imposing regulations on pharmacy benefit managers (PBMs), averting long-term disruptions in access to virtual care and drug pricing amid a partial government shutdown.",
+    "source": "Modern Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/monday-february-2-2026/"
+  },
+  "stories": [
+    {
+      "headline": "After three weeks of declining cases, influenza levels rose this week and remain elevated across the United States",
+      "summary": "CDC reports a resurgence in influenza cases after a decline, with elevated flu, high RSV, and COVID-19 activity in parts of the U.S., signaling heightened respiratory virus risks for patients and healthcare systems.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-february-2-2026/"
+    },
+    {
+      "headline": "House Rules Committee meets today to consider Senate changes to funding bill amid partial shutdown",
+      "summary": "The House is poised to vote on Senate modifications to the government funding bill including HHS appropriations and health extenders, potentially resolving the partial shutdown affecting healthcare operations.",
+      "source": "McDermott+",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "http://www.mcdermottplus.com/blog/healthcare-preview/healthcare-preview-for-the-week-of-february-2-2026/"
+    }
+  ]
+}
