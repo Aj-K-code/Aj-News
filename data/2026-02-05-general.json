@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia launches massive drone and missile strikes on Ukraine energy targets ahead of trilateral peace talks",
+    "summary": "Russia fired hundreds of drones and missiles at Ukraine's energy infrastructure just before the resumption of US-Ukraine-Russia peace talks in the UAE, escalating the conflict and highlighting the fragility of ongoing diplomatic efforts to end the four-year war.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.go.com/International/trilateral-us-ukraine-russia-peace-talks-resume-uae-major-energy-attack-2026-02-04"
+  },
+  "stories": [
+    {
+      "headline": "Second round of trilateral Russia-Ukraine-US peace talks begins in Abu Dhabi",
+      "summary": "US-mediated peace talks between Russia and Ukraine resumed in Abu Dhabi with Russia demanding Kyiv accept its conditions to halt the invasion, potentially paving the way for de-escalation or prolonging the conflict if demands are rejected.",
+      "source": "News18",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://www.news18.com/education-career/school-assembly-news-headlines-for-february-5-top-national-international-other-news-ws-e-9879769.html"
+    },
+    {
+      "headline": "US and Iran set to resume nuclear negotiations in Oman amid rising regional tensions",
+      "summary": "The US and Iran are scheduled to hold nuclear talks in Oman on February 6, offering a potential breakthrough in longstanding tensions but risking escalation if negotiations falter in the volatile Middle East.",
+      "source": "Sunday Guardian Live",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://sundayguardianlive.com/news/school-assembly-news-headlines-today-february-05-top-national-business-news-sports-news-world-news-with-weather-updates-thought-of-the-day-168427/"
+    }
+  ]
+}

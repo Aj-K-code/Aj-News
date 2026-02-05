@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "House Passes Fiscal Year 2026 Spending Bills; Health Insurance ...",
+    "summary": "The U.S. House passed FY 2026 spending bills funding HHS, extending key public health programs, Medicare telehealth flexibilities through 2027, the Acute Hospital Care at Home waiver for five years, and including PBM reforms, which will significantly shape healthcare delivery, access, and costs for providers and patients.",
+    "source": "JD Supra",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.jdsupra.com/legalnews/house-passes-fiscal-year-2026-spending-2990031/"
+  },
+  "stories": [
+    {
+      "headline": "PBM reform: The intersection of legislation and regulations",
+      "summary": "New legislation signed into law on February 3, 2026, enacts key PBM reforms for Medicare Part D and commercial plans, including annual reporting on drug costs and dispensing starting in 2028, alongside forthcoming CMS and DOL regulations to enhance transparency and control pharmaceutical spending.",
+      "source": "McDermottPlus",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "http://www.mcdermottplus.com/blog/regs-eggs/pbm-reform-the-intersection-of-legislation-and-regulations/"
+    }
+  ]
+}
