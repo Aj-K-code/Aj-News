@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Signs $1.2T Spending Package That Funds HHS, Enacts PBM Reforms, Telehealth And Hospital-At-Home Measures",
+    "summary": "President Trump signed a $1.2 trillion funding package boosting HHS funding by $20 billion, extending Medicare telehealth flexibilities for two years and Acute Hospital Care at Home for five years while introducing pharmacy benefit manager reforms, securing critical healthcare programs and averting a prolonged shutdown.",
+    "source": "Fierce Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/wednesday-february-4-2026/"
+  },
+  "stories": [
+    {
+      "headline": "NIH Chief Details Plans for Modernization at Senate Hearing",
+      "summary": "NIH Director outlined reforms including centralized peer review, a new analytic office, stronger oversight, and unified funding to align investments with national health priorities, potentially transforming research efficiency and outcomes.",
+      "source": "MedPage Today",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-february-4-2026/"
+    },
+    {
+      "headline": "New Review Highlights Growing Evidence That Diabetes Drug Metformin Can Prevent Long COVID",
+      "summary": "A literature review in Clinical Infectious Diseases shows metformin reduces long COVID risk based on trials and EHR data, offering a low-cost, accessible option to mitigate post-infection complications for millions.",
+      "source": "CIDRAP",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-february-4-2026/"
+    },
+    {
+      "headline": "CMS Proposes Important Step to Combat Medicare Advantage Overpayment",
+      "summary": "CMS proposed tightening documentation rules to curb unlinked chart reviews in Medicare Advantage, aiming to reduce overpayments and ensure risk-adjusted payments reflect current clinical encounters amid flat benchmarks.",
+      "source": "Medicare Rights Center",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.medicarerights.org/medicare-watch/2026/02/05/cms-proposes-important-step-to-combat-medicare-advantage-overpayment"
+    }
+  ]
+}

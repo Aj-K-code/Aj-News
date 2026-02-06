@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "Iran Seizes Two Foreign Oil Tankers in Persian Gulf Over Fuel Smuggling Claims",
+    "summary": "Iran's seizure of two foreign oil tankers and 15 crew members in the Persian Gulf escalates regional tensions amid ongoing US-Iran frictions following last year's nuclear facility bombings, potentially disrupting global oil supply routes.",
+    "source": "Sunday Guardian Live",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://sundayguardianlive.com/news/school-assembly-news-headlines-today-february-06-top-national-business-news-sports-news-world-news-education-news-with-weather-updates-thought-of-the-day-168599/"
+  },
+  "stories": [
+    {
+      "headline": "Storm Leonardo brings heavy rain, flooding to Spain and Portugal",
+      "summary": "Storm Leonardo has caused heavy rain and widespread flooding across Spain and Portugal, highlighting Europe's vulnerability to extreme weather events amid climate change.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/3229601/global-news-morning-headlines-monday-february-6"
+    },
+    {
+      "headline": "Russia and Ukraine exchange 157 prisoners each in rare swap",
+      "summary": "Russia and Ukraine conducted a rare prisoner exchange of 157 individuals each, signaling a brief de-escalation in their protracted conflict and offering hope for humanitarian progress.",
+      "source": "Global News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/3229601/global-news-morning-headlines-monday-february-6"
+    },
+    {
+      "headline": "India and the United States are close to sealing a bilateral trade pact",
+      "summary": "India and the US are nearing a bilateral trade agreement within 4-5 days, building on $190 billion in annual trade, which could reshape global supply chains and economic ties.",
+      "source": "Sunday Guardian Live",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://sundayguardianlive.com/news/school-assembly-news-headlines-today-february-06-top-national-business-news-sports-news-world-news-education-news-with-weather-updates-thought-of-the-day-168599/"
+    }
+  ]
+}
