@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Pakistani forces end 40-hour counterterrorism operation against Baloch Liberation Army, killing 145 insurgents amid accusations of Indian backing",
+    "summary": "The operation in Balochistan resulted in significant casualties on all sides and heightened India-Pakistan tensions, potentially destabilizing regional security and complicating counterinsurgency efforts in South Asia.",
+    "source": "AP via Wikipedia",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_February_1"
+  },
+  "stories": [
+    {
+      "headline": "Russian lieutenant general shot by assailant in Moscow, investigators say",
+      "summary": "The assassination attempt on a high-ranking Russian military officer in the capital raises concerns over internal security threats and potential instability amid the ongoing Russo-Ukrainian war.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    },
+    {
+      "headline": "Iran and US to reopen nuclear talks in Oman after weeks of tension",
+      "summary": "The resumption of talks with the US demanding zero nuclear capability from Iran could ease escalating tensions but risks failure given historical mistrust, affecting global non-proliferation efforts.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.go.com/International"
+    }
+  ]
+}

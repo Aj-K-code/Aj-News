@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump signs $1.2T spending package that funds HHS, enacts PBM reforms, telehealth and hospital-at-home measures",
+    "summary": "President Trump signed a comprehensive $1.2 trillion spending package funding HHS while enacting key reforms on pharmacy benefit managers, telehealth expansions, and hospital-at-home programs, directly influencing healthcare funding, policy, and delivery models for professionals nationwide.",
+    "source": "Fierce Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.fiercehealthcare.com/providers/partial-government-shutdown-looms-threatening-stall-health-funding-package-telehealth"
+  },
+  "stories": [
+    {
+      "headline": "Kennedy, Rollins Unveil Historic Reset of U.S. Nutrition Policy, Put HHS released the Dietary Guidelines for Americans, 2025\u20132030",
+      "summary": "HHS unveiled the Dietary Guidelines for Americans 2025\u20132030, representing the most significant federal nutrition policy reset in decades, with implications for clinical nutrition practices, patient counseling, and public health initiatives.",
+      "source": "HHS.gov",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hhs.gov/press-room/historic-reset-federal-nutrition-policy.html"
+    },
+    {
+      "headline": "Spectral AI to Participate in National Burn Awareness Week 2026 February 1\u20137, 2026",
+      "summary": "Spectral AI announced participation in National Burn Awareness Week with its AI-powered DeepView System for burn wound assessment, advancing predictive diagnostics that could enhance treatment decisions and reduce costs in burn care.",
+      "source": "Business Insider Markets",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Tech",
+      "url": "https://markets.businessinsider.com/news/stocks/spectral-ai-to-participate-in-national-burn-awareness-week-2026-february-1-7-2026-1035773299"
+    }
+  ]
+}
