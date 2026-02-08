@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CDC Reverses Longstanding Childhood Vaccine Guidance, Limiting Routine Recommendations and Sparking Legal Challenges",
+    "summary": "The CDC revised its recommendations to limit routine vaccines for influenza, rotavirus, meningococcal disease, and hepatitis A, shifting to physician discretion and high-risk groups, which raises public health concerns over reduced vaccination rates and family clarity while facing lawsuits over advisory processes[1][2][3].",
+    "source": "Fullintel",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://fullintel.com/blog/top-pharma-news-february-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Senate Democrats Launch Comprehensive Healthcare Initiative with $2.255 Billion Investment to Address Provider Shortage",
+      "summary": "New Mexico Senate Democrats introduced 14 bills with over $2.255 billion in funding, including an interstate medical licensure compact and tax incentives, to combat physician shortages and expand access, particularly in rural areas via telemedicine[4].",
+      "source": "New Mexico Senate Democrats",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.nmsenate.com/senate-democrats-launch-comprehensive-healthcare-initiative-with-2-255-billion-investment-to-address-provider-shortage-and-expand-access-to-care/"
+    },
+    {
+      "headline": "CMS Announces BALANCE Model to Expand GLP-1 Access for Medicare and Medicaid Beneficiaries",
+      "summary": "CMS launched the voluntary BALANCE model on December 23, 2025, enabling direct negotiation for lower-priced GLP-1 drugs with lifestyle support, set to roll out in 2026-2027, potentially broadening obesity and diabetes treatment access[3].",
+      "source": "Brach Eichler",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.bracheichler.com/healthcare-law-update-february-2026/"
+    }
+  ]
+}
