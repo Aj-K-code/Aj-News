@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Japan election: Takaichi secures majority in snap election becoming first elected female PM",
+    "summary": "Sanae Takaichi's victory in Japan's snap election marks her as the country's first elected female prime minister, potentially reshaping Japan's foreign policy and gender leadership dynamics in Asia amid regional tensions.",
+    "source": "Global News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://globalnews.ca/video/11648348/global-news-morning-headlines-monday-february-2-2026"
+  },
+  "stories": [
+    {
+      "headline": "\u2018It\u2019s finally open\u2019; Riders hop on Eglinton Crosstown LRT after waiting more than 16 years for its completion",
+      "summary": "The long-delayed Eglinton Crosstown LRT in Toronto opens to riders after over 16 years, easing urban transit congestion and serving as a model for major infrastructure projects worldwide.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11648348/global-news-morning-headlines-monday-february-2-2026"
+    },
+    {
+      "headline": "The West Block: Feb. 8",
+      "summary": "Canadian political analysis on recent developments highlights ongoing national policy discussions, influencing North American stability without delving into partisan disputes.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11648348/global-news-morning-headlines-monday-february-2-2026"
+    }
+  ]
+}

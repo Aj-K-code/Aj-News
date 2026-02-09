@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Senate Passes Funding Bill Extending Telehealth, Regulating PBMs",
+    "summary": "The Senate passed critical legislation extending Medicare telehealth flexibilities and imposing pharmacy benefit manager (PBM) regulations, averting a prolonged government shutdown and enabling continued remote care access vital for healthcare delivery.",
+    "source": "Modern Healthcare",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/monday-february-2-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Monday Morning Update 2/9/26",
+      "summary": "Nova Scotia\u2019s IWK Health Centre halted outpatient blood work due to issues with its new Oracle Health system displaying all appointments as unavailable, highlighting ongoing electronic health record implementation risks that can disrupt patient care.",
+      "source": "HIStalk",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Tech",
+      "url": "https://histalk2.com/2026/02/08/monday-morning-update-2-9-26/"
+    },
+    {
+      "headline": "Consumer Healthcare Industry News Round-Up: 9th February 2026",
+      "summary": "The latest consumer healthcare and OTC industry headlines were compiled in a round-up released today, providing timely insights into market shifts affecting over-the-counter products and consumer access.",
+      "source": "Nicholas Hall Group of Companies",
+      "importance": 2,
+      "impact_to_me": 2,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=OxpaVLQEjkE"
+    }
+  ]
+}
