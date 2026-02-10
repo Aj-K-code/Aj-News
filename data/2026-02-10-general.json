@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia Launches Massive Drone and Missile Attacks on Ukraine's Cities Ahead of Crucial Peace Talks",
+    "summary": "Russia fired hundreds of drones and missiles at Kyiv, Kharkiv, and Sumy, wounding civilians and targeting energy infrastructure amid freezing temperatures, as trilateral talks involving U.S., Ukraine, and Russia in Abu Dhabi aim to end the nearing four-year war.",
+    "source": "Democracy Now!",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-february-3-2026/"
+  },
+  "stories": [
+    {
+      "headline": "U.S. and Iranian Officials Set for Talks in Istanbul on Nuclear Program Amid Heightened Tensions",
+      "summary": "President Trump's envoys Steve Witkoff and Jared Kushner will meet Iranian Foreign Minister Abbas Araghchi in Istanbul, joined by officials from Turkey, Qatar, and Egypt, following U.S. naval buildup and bombing threats to ease Middle East tensions.",
+      "source": "Democracy Now!",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-february-3-2026/"
+    },
+    {
+      "headline": "Russia Fires Hundreds of Drones and Missiles on Ukraine's Capital and Cities Overnight",
+      "summary": "Russian strikes hit apartment blocks near a kindergarten in Kyiv and energy infrastructure across Ukraine during sub-zero winter conditions, wounding at least four, just before U.S.-brokered peace negotiations in Abu Dhabi.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=cIy79C2-hAM"
+    }
+  ]
+}

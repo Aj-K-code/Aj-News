@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Signs 2026 Spending Package to End Brief Shutdown; Trump Administration Launches TrumpRX",
+    "summary": "The President signed a spending package ending a brief federal government shutdown that disrupted HHS funding and reinstated key Medicare flexibilities like Hospital-at-Home and telehealth, stabilizing healthcare operations and averting broader service interruptions.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2026/02/health-care-week-in-review-february-6-2026"
+  },
+  "stories": [
+    {
+      "headline": "NIH Grant Disruptions Slow Down Breast Cancer Research",
+      "summary": "Trump administration disruptions to NIH grants have significantly slowed groundbreaking breast cancer research at a key lab, threatening progress on life-saving treatments amid uncertain federal funding.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-3-2026/"
+    },
+    {
+      "headline": "CDC Data Show Decline In Hospital-Related Infections In 2024",
+      "summary": "CDC reports reveal significant declines in serious hospital-acquired infections like central line bloodstream infections (down 9%) and catheter-associated UTIs (down 10%) from 2023 to 2024, signaling improved patient safety post-COVID.",
+      "source": "CIDRAP",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://kffhealthnews.org/morning-breakout/first-edition-tuesday-feb-3-2026/"
+    }
+  ]
+}
