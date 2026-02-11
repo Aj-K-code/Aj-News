@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Western governments condemn China after Jimmy Lai sentenced to 20 years in Hong Kong jail",
+    "summary": "Jimmy Lai, a 78-year-old British citizen and pro-democracy activist, was sentenced to 20 years for conspiring to collude with foreign forces and publishing seditious materials, escalating tensions between China and Western nations over Hong Kong's autonomy.",
+    "source": "Sky News",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.youtube.com/watch?v=EEHnonN7IZU"
+  },
+  "stories": [
+    {
+      "headline": "Pentagon blows up another boat in Eastern Pacific, killing two in ongoing narco-trafficking strikes",
+      "summary": "The US military conducted an air strike on a civilian speedboat, killing two and leaving one survivor amid 38 strikes since September that have killed at least 130 labeled narco-terrorists, drawing condemnation from Amnesty International as extrajudicial murders.",
+      "source": "Democracy Now!",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=aXwBZqtziek"
+    },
+    {
+      "headline": "Thousands protest in Sydney against Israeli President Isaac Herzog's visit, calling for end to Palestinian occupation",
+      "summary": "Demonstrators rallied in Sydney to protest Herzog's visit and label him a war criminal, highlighting ongoing global tensions over Israel's policies in Palestinian territories.",
+      "source": "Democracy Now!",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.youtube.com/watch?v=aXwBZqtziek"
+    }
+  ]
+}
