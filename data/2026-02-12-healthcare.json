@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "President Signs 2026 Spending Package to End Brief Shutdown; Trump Administration Launches TrumpRX",
+    "summary": "The President signed a major appropriations package funding HHS for FY 2026, extending key Medicare programs like Hospital Care at Home through 2030 and telehealth flexibilities, while the Trump Administration launched TrumpRX to address drug pricing, stabilizing federal healthcare operations and influencing reimbursement and access nationwide.",
+    "source": "Alston & Bird",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://www.alston.com/en/insights/publications/2026/02/health-care-week-in-review-february-6-2026"
+  },
+  "stories": [
+    {
+      "headline": "Holland & Knight Health Dose: February 10, 2026",
+      "summary": "Senate Democrats released a drug pricing agenda in response to TrumpRx.gov, while FDA issued final guidances on computer software assurance and cybersecurity for medical devices, shaping future prescription costs and device safety standards critical for compliance.",
+      "source": "Holland & Knight",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/02/holland-knight-health-dose-february-10-2026"
+    },
+    {
+      "headline": "CMS will hold a webinar on Wednesday, February 11 to review with stakeholders the revised hospital price transparency requirements",
+      "summary": "CMS is hosting a February 11 webinar on updated hospital price transparency rules effective April 1 under the 2026 Medicare outpatient regulation, enforcing greater pricing accountability that directly affects hospital operations and patient access.",
+      "source": "Safety Net Alliance",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://safetynetalliance.org/federal-health-policy-update-for-february-5/"
+    }
+  ]
+}

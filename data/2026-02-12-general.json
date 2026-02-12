@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "U.S. and Iran Agree to Nuclear Talks in Oman as Tensions Escalate",
+    "summary": "The U.S. and Iran reached an agreement to hold nuclear talks in Oman on Friday, February 7, 2026, to discuss uranium enrichment limits, but the negotiations occur amid escalating tensions and reported U.S. military preparations for potential strikes on Iran.",
+    "source": "Wall Street Journal",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://www.fdd.org/overnight-brief/february-5-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Russia Warns Against Military Strike on Iran, Citing Regional Consequences",
+      "summary": "Russia's permanent representative to the United Nations stated that any military action against Iran is unacceptable and dangerous, warning it could trigger serious regional consequences as tensions escalate.",
+      "source": "Press TV",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://archive.org/details/PRESSTV_20260205_200000_World_News_in_Full"
+    },
+    {
+      "headline": "Last Remaining U.S.-Russia Nuclear Arms Control Treaty Officially Expires",
+      "summary": "The expiration of the final nuclear arms control treaty between the U.S. and Russia raises concerns about unconstrained nuclear competition and regional destabilization as disarmament advocates and NATO warn of the dangers.",
+      "source": "Press TV",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://archive.org/details/PRESSTV_20260205_200000_World_News_in_Full"
+    },
+    {
+      "headline": "Pakistan Military Ends Balochistan Security Operation, Reports 216 Militants Killed",
+      "summary": "Pakistan's military announced the conclusion of a security operation in Balochistan province that resulted in the deaths of at least 216 militants, marking the end of a major counterinsurgency effort in the volatile region.",
+      "source": "Reuters",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.fdd.org/overnight-brief/february-5-2026/"
+    }
+  ]
+}
