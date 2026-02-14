@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Russia launches new missile and drone attack on Ukraine",
+    "summary": "Russia fired 25 missiles and 219 drones at Ukraine overnight, with most intercepted, escalating the ongoing conflict and straining international aid efforts as allies pledge billions in military support.",
+    "source": "ABC News",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Global",
+    "url": "https://abcnews.com/International/?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_a_control-1938%2Cabcn_popular_reads_exp-497%2Avariant_b_7days_filter-2077%2Cabcn_ad_cadence-481%2Atest-b-1963%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074"
+  },
+  "stories": [
+    {
+      "headline": "UK court says government acted illegally in outlawing protest group Palestine Action",
+      "summary": "Britain\u2019s High Court ruled the government\u2019s ban on Palestine Action as a terrorist group unlawful, highlighting tensions between security measures and civil liberties amid pro-Palestine protests.",
+      "source": "ABC News",
+      "importance": 4,
+      "impact_to_me": 3,
+      "category": "Global",
+      "url": "https://abcnews.com/International/?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_a_control-1938%2Cabcn_popular_reads_exp-497%2Avariant_b_7days_filter-2077%2Cabcn_ad_cadence-481%2Atest-b-1963%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074"
+    },
+    {
+      "headline": "Logistics giant DP World replaces chairman named in Jeffrey Epstein documents",
+      "summary": "Dubai appointed a new chairman for DP World, replacing one linked to Jeffrey Epstein files, signaling efforts to distance a major global logistics firm from scandal amid heightened scrutiny.",
+      "source": "ABC News",
+      "importance": 3,
+      "impact_to_me": 2,
+      "category": "Business",
+      "url": "https://abcnews.com/International/?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_a_control-1938%2Cabcn_popular_reads_exp-497%2Avariant_b_7days_filter-2077%2Cabcn_ad_cadence-481%2Atest-b-1963%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "CMS Proposes 2.5% Medicare Doctor Pay Rate Increase In 2026",
+    "summary": "CMS proposed a 2.5% increase in the base Medicare physician payment rate for 2026 alongside a new competitive bidding program for medical equipment like glucose monitors and insulin pumps, directly affecting provider reimbursements and operational costs.",
+    "source": "KFF Health News",
+    "importance": 4,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-breakout/cms-proposes-2-5-medicare-doctor-pay-rate-increase-in-2026/"
+  },
+  "stories": [
+    {
+      "headline": "Two aides to Robert F. Kennedy Jr. to leave HHS: Report",
+      "summary": "Two top aides to HHS Secretary Robert F. Kennedy Jr., including his second-in-command critical of vaccines, are departing the agency amid shifts in CDC vaccine recommendations from 17 to 11 diseases, signaling potential changes in federal health policy direction.",
+      "source": "News3LV",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://news3lv.com/news/nation-world/two-aides-to-robert-f-kennedy-jr-to-leave-hhs-report-vaccines-healthcare-trump-administration-centers-for-disease-control-and-prevention"
+    },
+    {
+      "headline": "Holland & Knight Health Dose: February 10, 2026",
+      "summary": "Upcoming congressional hearings on February 11 address prescription drug supply chain costs, VA health care reorganization, and physician shortages driven by regulations, highlighting key policy debates impacting healthcare delivery and pricing.",
+      "source": "Holland & Knight",
+      "importance": 3,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/02/holland-knight-health-dose-february-10-2026"
+    }
+  ]
+}
