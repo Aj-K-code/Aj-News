@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Canada\u2019s Mikael Kingsbury wins first gold medal of 2026 Winter Olympics in moguls",
+    "summary": "Mikael Kingsbury, dubbed the 'King of Moguls,' secured Canada\u2019s first gold at the 2026 Winter Olympics, highlighting national sporting excellence and boosting morale amid global tensions.",
+    "source": "Global News",
+    "importance": 4,
+    "impact_to_me": 3,
+    "category": "Culture",
+    "url": "https://globalnews.ca/video/11658957/global-news-morning-forecast-february-9-5"
+  },
+  "stories": [
+    {
+      "headline": "China drops visa requirement for Canadian tourists, business visitors",
+      "summary": "China has eliminated visa requirements for Canadian tourists and business travelers, easing travel restrictions and potentially boosting bilateral economic and tourism ties.",
+      "source": "Global News",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://globalnews.ca/video/11658957/global-news-morning-forecast-february-9-5"
+    },
+    {
+      "headline": "Air Canada suspends flights to Cuba amid fuel shortage",
+      "summary": "Air Canada has halted all flights to Cuba due to a severe fuel shortage, stranding thousands of Canadian travelers and underscoring Cuba's deepening economic crisis with ripple effects on North American tourism.",
+      "source": "Global News",
+      "importance": 3,
+      "impact_to_me": 3,
+      "category": "Business",
+      "url": "https://www.youtube.com/watch?v=qDBTEUP3o20"
+    }
+  ]
+}

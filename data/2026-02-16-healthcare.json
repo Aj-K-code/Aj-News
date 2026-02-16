@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "Amid Surging Measles Cases, Dr. Oz Implores People To Get The Vaccine",
+    "summary": "As U.S. measles cases surge nationwide, threatening the country's elimination status, CMS administrator Dr. Oz strongly endorsed vaccination amid CDC reports of spikes including exposure at a major rally, underscoring an urgent public health crisis requiring immediate action.",
+    "source": "KFF Health News",
+    "importance": 5,
+    "impact_to_me": 5,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/monday-february-9-2026/"
+  },
+  "stories": [
+    {
+      "headline": "President Trump Signs Appropriations Act with Medicare and Medicaid Extenders into Law",
+      "summary": "President Trump signed the Consolidated Appropriations Act on February 3, 2026, extending key Medicare telehealth flexibilities, delaying Medicaid DSH cuts, and postponing clinical lab payment reductions, providing critical stability and funding extensions for healthcare providers through 2026-2027.",
+      "source": "King & Spalding",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Policy",
+      "url": "https://www.kslaw.com/news-and-insights/health-headlines-february-9-2026"
+    },
+    {
+      "headline": "FY 2026 HHS Funding and Health Extenders Signed into Law",
+      "summary": "The new law allocates $116.6 billion to HHS, eliminates Medicaid DSH cuts for 2026-2027, extends Medicare telehealth and hospital-at-home programs, and includes PBM reforms, directly impacting healthcare delivery and reimbursement for professionals.",
+      "source": "Michigan Health & Hospital Association",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Policy",
+      "url": "https://www.mhalink.org/mondayreport/feb-9-2026/"
+    }
+  ]
+}
