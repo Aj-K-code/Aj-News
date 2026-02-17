@@ -1,0 +1,22 @@
+{
+  "weekly_top_story": {
+    "headline": "Trump Administration To Cut $600 Million In Health Funding From Four States",
+    "summary": "The Trump administration is rescinding $600 million in public health grants from Democratic-led states California, Colorado, Illinois, and Minnesota due to misalignment with agency priorities, potentially disrupting state and local health programs and NGOs.",
+    "source": "The New York Times",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Policy",
+    "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-10-2026/"
+  },
+  "stories": [
+    {
+      "headline": "US Cancer Institute Studying Ivermectin\u2019s \u2018Ability To Kill Cancer Cells\u2019",
+      "summary": "The National Cancer Institute, under new Trump-appointed director Anthony Letai, is conducting preclinical studies on ivermectin's potential to kill cancer cells amid growing reports and interest, which could open new avenues for repurposed drug therapies in oncology.",
+      "source": "KFF Health News",
+      "importance": 4,
+      "impact_to_me": 5,
+      "category": "Research",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-10-2026/"
+    }
+  ]
+}
