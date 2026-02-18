@@ -1,0 +1,40 @@
+{
+  "weekly_top_story": {
+    "headline": "India AI Impact Summit launched with $200 billion investment potential",
+    "summary": "Prime Minister Modi inaugurated India's AI Impact Expo 2026, positioning India as a global AI leader while attracting over $200 billion in expected investments and reinforcing the country's digital economy transformation.",
+    "source": "India Today",
+    "importance": 5,
+    "impact_to_me": 4,
+    "category": "Technology",
+    "url": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-february-18-top-india-world-sports-business-news-2869945-2026-02-18"
+  },
+  "stories": [
+    {
+      "headline": "US and Iran make progress in second round of nuclear talks in Geneva",
+      "summary": "American and Iranian delegations completed their second round of nuclear negotiations in Geneva, agreeing on guiding principles for future discussions amid ongoing diplomatic efforts to resolve long-standing tensions.",
+      "source": "ABC News",
+      "importance": 5,
+      "impact_to_me": 4,
+      "category": "Global",
+      "url": "https://abcnews.com/International"
+    },
+    {
+      "headline": "Tarique Rahman sworn in as Bangladesh Prime Minister",
+      "summary": "Bangladesh's new Prime Minister Tarique Rahman took oath following his Bangladesh Nationalist Party's decisive electoral victory, marking a significant shift in the country's political landscape.",
+      "source": "India Today",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.indiatoday.in/education-today/news/story/school-assembly-news-headlines-february-18-top-india-world-sports-business-news-2869945-2026-02-18"
+    },
+    {
+      "headline": "India and France announce Special Global Strategic Partnership",
+      "summary": "Prime Minister Modi and President Macron launched a new bilateral partnership in Mumbai to strengthen global stability, boost academic collaboration, and expand innovation opportunities through joint initiatives.",
+      "source": "Leverage Edu",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://leverageedu.com/discover/school-education/school-assembly-news-headlines-18-february-2026/"
+    }
+  ]
+}
