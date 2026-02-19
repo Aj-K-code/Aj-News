@@ -1,0 +1,31 @@
+{
+  "weekly_top_story": {
+    "headline": "International humanitarian law is at breaking point \u2013 but not beyond repair",
+    "summary": "Rampant impunity for serious violations of international humanitarian law is enabling greater abuses against civilians and detainees, threatening global norms and requiring urgent accountability measures.",
+    "source": "Inter Press Service",
+    "importance": 5,
+    "impact_to_me": 3,
+    "category": "Global",
+    "url": "https://www.globalissues.org/news/2026/02/17/39364-international-humanitarian-law-breaking-point"
+  },
+  "stories": [
+    {
+      "headline": "From Pledges to Proof: UN Biodiversity Meeting Begins First Global Review of Nature Action",
+      "summary": "Governments launched the world\u2019s first global review of national actions to protect nature at a UN biodiversity meeting in Rome, assessing progress on pledges amid escalating environmental crises.",
+      "source": "Inter Press Service",
+      "importance": 4,
+      "impact_to_me": 4,
+      "category": "Science",
+      "url": "https://www.globalissues.org/news/2026/02/17/39365-un-biodiversity-meeting-review"
+    },
+    {
+      "headline": "Sudan crisis: UN agency launches $1.6 billion appeal to support refugees in seven countries",
+      "summary": "As Sudan's war nears its fourth year, UNHCR and partners appealed for $1.6 billion to aid millions of refugees across seven countries, highlighting the ongoing humanitarian catastrophe.",
+      "source": "UN News",
+      "importance": 4,
+      "impact_to_me": 2,
+      "category": "Global",
+      "url": "https://www.globalissues.org/news/2026/02/17/39366-sudan-refugee-appeal"
+    }
+  ]
+}
